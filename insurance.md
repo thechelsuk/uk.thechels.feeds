@@ -126,10 +126,10 @@ description: Insurance Updates
 - FWD Group Reports Strong New Business Growth and Strengthened Financial Position ([18 days ago](https://www.insurtechinsights.com/fwd-group-reports-strong-new-business-growth-and-strengthened-financial-position/))
 - Starr Announces Acquisition of IQUW Group ([23 days ago](https://www.insurtechinsights.com/starr-announces-acquisition-of-iquw-group/))
 - AA Ireland Partners with Abry ([23 days ago](https://www.insurtechinsights.com/aa-ireland-partners-with-abry/))
-- Pacific Life Announces Footprint Expansion to Charlotte, North Carolina ([23 days ago](https://www.insurtechinsights.com/pacific-life-announces-footprint-expansion-to-charlotte-north-carolina/))
-- Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([23 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
-- Zurich Launches AI Lab ([23 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
-- Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([23 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
+- Pacific Life Announces Footprint Expansion to Charlotte, North Carolina ([24 days ago](https://www.insurtechinsights.com/pacific-life-announces-footprint-expansion-to-charlotte-north-carolina/))
+- Amwins Launches Cyber+ to Address SME Cyber Insurance Gaps ([24 days ago](https://www.insurtechinsights.com/amwins-launches-cyber-to-address-sme-cyber-insurance-gaps/))
+- Zurich Launches AI Lab ([24 days ago](https://www.insurtechinsights.com/zurich-launches-ai-lab/))
+- Acrisure Appoints Benjamin Funk as Chief Technology and Chief AI Officer ([24 days ago](https://www.insurtechinsights.com/acrisure-appoints-benjamin-funk-as-chief-technology-and-chief-ai-officer/))
 - Pyq Launches ‘Mulligan’ Platform to Automate Commercial Insurance Operations ([24 days ago](https://thefintechtimes.com/pyq-launches-mulligan-platform-to-automate-commercial-insurance-operations/))
 
 <!-- news_marker ends -->
