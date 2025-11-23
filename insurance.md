@@ -8,7 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- From coverage to confidence: Building long-term client loyalty in a distracted world ([just now](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- Building resilience in an age of accelerating risk ([22 minutes ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
+- From coverage to confidence: Building long-term client loyalty in a distracted world ([29 minutes ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
 - Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([10 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([2 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
@@ -68,7 +69,7 @@ description: Insurance Updates
 - Ansvar reveals community impact report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/ansvar-reveals-community-impact-report-557387.aspx))
 - Swedish Club sets 5% general increase for 2026/27 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/swedish-club-sets-5-general-increase-for-202627-557386.aspx))
 - Lumara Insurance launches with human-led underwriting approach ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/lumara-insurance-launches-with-humanled-underwriting-approach-557385.aspx))
-- 5 ways insurers can strengthen cyber resilience ([2 days ago](https://www.dig-in.com/opinion/5-ways-insurers-can-strengthen-cyber-resilience))
+- 5 ways insurers can strengthen cyber resilience ([3 days ago](https://www.dig-in.com/opinion/5-ways-insurers-can-strengthen-cyber-resilience))
 - Insurance billing needs a Gen Z makeover ([3 days ago](https://www.dig-in.com/opinion/insurance-billing-needs-a-gen-z-makeover))
 - Insurtech in the UK: Key insurance tech firms brokers need to watch ([3 days ago](https://www.insurancebusinessmag.com/uk/guides/insurtech-in-the-uk-key-insurance-tech-firms-brokers-need-to-watch-557348.aspx))
 - Climate activists disrupt S&P insurance conference ([3 days ago](https://www.postonline.co.uk/news/7959422/climate-activists-disrupt-sp-insurance-conference))
@@ -109,7 +110,6 @@ description: Insurance Updates
 - Diversity & Inclusion in Insurance Award winners revealed ([4 days ago](https://www.postonline.co.uk/commercial/7959362/diversity-inclusion-in-insurance-award-winners-revealed))
 - WIL 2025: Kari Allen ([4 days ago](https://www.dig-in.com/news/wil-2025-kari-allen))
 - Forgery, fraud make up 40% of title insurance losses ([4 days ago](https://www.dig-in.com/news/forgery-fraud-make-up-40-of-title-insurance-losses))
-- The password dilemma: Creating strong passwords to protect your data ([4 days ago](https://www.dig-in.com/news/creating-strong-passwords-to-protect-your-data))
 - Aviva to launch groundbreaking AI Underwriting Tool ([5 days ago](https://ifamagazine.com/aviva-to-launch-groundbreaking-ai-underwriting-tool/))
 - Half of UK adults have less than £5,000 saved in the event of an income emergency ([5 days ago](https://ifamagazine.com/half-of-uk-adults-have-less-than-5000-saved-in-the-event-of-an-income-emergency/))
 - Businesses investing heavily in preventative healthcare to battle skyrocketing medical inflation ([5 days ago](https://ifamagazine.com/businesses-investing-heavily-in-preventative-healthcare-to-battle-skyrocketing-medical-inflation/))
