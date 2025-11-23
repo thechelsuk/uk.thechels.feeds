@@ -68,7 +68,7 @@ description: Insurance Updates
 - Swedish Club sets 5% general increase for 2026/27 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/swedish-club-sets-5-general-increase-for-202627-557386.aspx))
 - Lumara Insurance launches with human-led underwriting approach ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/lumara-insurance-launches-with-humanled-underwriting-approach-557385.aspx))
 - 5 ways insurers can strengthen cyber resilience ([2 days ago](https://www.dig-in.com/opinion/5-ways-insurers-can-strengthen-cyber-resilience))
-- Insurance billing needs a Gen Z makeover ([2 days ago](https://www.dig-in.com/opinion/insurance-billing-needs-a-gen-z-makeover))
+- Insurance billing needs a Gen Z makeover ([3 days ago](https://www.dig-in.com/opinion/insurance-billing-needs-a-gen-z-makeover))
 - Insurtech in the UK: Key insurance tech firms brokers need to watch ([3 days ago](https://www.insurancebusinessmag.com/uk/guides/insurtech-in-the-uk-key-insurance-tech-firms-brokers-need-to-watch-557348.aspx))
 - Climate activists disrupt S&P insurance conference ([3 days ago](https://www.postonline.co.uk/news/7959422/climate-activists-disrupt-sp-insurance-conference))
 - In Profile: Thomas Galbraith at Barker ([3 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
