@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2025 WIL Next: Waika Embry ([1 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
+- 2025 WIL Next: Waika Embry ([2 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
 - Building resilience in an age of accelerating risk ([2 hours ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
 - From coverage to confidence: Building long-term client loyalty in a distracted world ([2 hours ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([12 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([13 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([2 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([2 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([2 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
