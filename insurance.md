@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([2 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([3 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -29,8 +29,8 @@ description: Insurance Updates
 - Trump Inflames California Over Oil Drilling Plan for Pacific Coast ([1 days ago](https://www.insurancejournal.com/news/west/2025/11/21/848615.htm))
 - AM Best turns positive on AIG and its P&C subsidiaries ([1 days ago](https://www.reinsurancene.ws/am-best-turns-positive-on-aig-and-its-pc-subsidiaries/))
 - Simply Business Launches Big Dreams Project ([1 days ago](https://insurance-edge.net/2025/11/21/simply-business-launches-big-dreams-project/))
-- S&P expects continued expansion of PRT market ([1 days ago](https://www.reinsurancene.ws/sp-expects-continued-expansion-of-prt-market/))
-- Will Pay-Per-Mile Taxes Make Drivers Think Twice About EV Switch? ([1 days ago](https://insurance-edge.net/2025/11/21/will-pay-per-mile-taxes-make-drivers-think-twice-about-ev-switch/))
+- S&P expects continued expansion of PRT market ([2 days ago](https://www.reinsurancene.ws/sp-expects-continued-expansion-of-prt-market/))
+- Will Pay-Per-Mile Taxes Make Drivers Think Twice About EV Switch? ([2 days ago](https://insurance-edge.net/2025/11/21/will-pay-per-mile-taxes-make-drivers-think-twice-about-ev-switch/))
 - US SCS losses reach $42bn, establishing a “new normal”: Moody’s ([2 days ago](https://www.reinsurancene.ws/us-scs-losses-reach-42bn-establishing-a-new-normal-moodys/))
 - Vietnam Flood Deaths Climb as Heavy Rain Drenches Coffee Region ([2 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848609.htm))
 - European reinsurers seen moving toward greater earnings stability: J.P. Morgan ([2 days ago](https://www.reinsurancene.ws/european-reinsurers-seen-moving-toward-greater-earnings-stability-j-p-morgan/))
@@ -111,7 +111,7 @@ description: Insurance Updates
 - The password dilemma: Creating strong passwords to protect your data ([4 days ago](https://www.dig-in.com/news/creating-strong-passwords-to-protect-your-data))
 - Aviva to launch groundbreaking AI Underwriting Tool ([4 days ago](https://ifamagazine.com/aviva-to-launch-groundbreaking-ai-underwriting-tool/))
 - Half of UK adults have less than £5,000 saved in the event of an income emergency ([4 days ago](https://ifamagazine.com/half-of-uk-adults-have-less-than-5000-saved-in-the-event-of-an-income-emergency/))
-- Businesses investing heavily in preventative healthcare to battle skyrocketing medical inflation ([4 days ago](https://ifamagazine.com/businesses-investing-heavily-in-preventative-healthcare-to-battle-skyrocketing-medical-inflation/))
+- Businesses investing heavily in preventative healthcare to battle skyrocketing medical inflation ([5 days ago](https://ifamagazine.com/businesses-investing-heavily-in-preventative-healthcare-to-battle-skyrocketing-medical-inflation/))
 - UnderwriteMe’s protection platform enhances underwriting questions after rise in use of weight loss treatment ([5 days ago](https://ifamagazine.com/underwritemes-protection-platform-enhances-underwriting-questions-after-rise-in-use-of-weight-loss-treatment/))
 - Davies CEO warns agentic AI investment ‘imperative’ for survival ([5 days ago](https://www.postonline.co.uk/technology/7959401/davies-ceo-warns-agentic-ai-investment-imperative-for-survival))
 - Prevention services help boost business productivity ([5 days ago](https://ifamagazine.com/prevention-services-help-boost-business-productivity/))
