@@ -15,7 +15,7 @@ description: Insurance Updates
 - Copart UK Wins People Appreciation Award ([1 days ago](https://insurance-edge.net/2025/11/21/copart-uk-wins-people-appreciation-award/))
 - It's only rock and roll (but I like it) ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-only-rock-and-roll-but-i-like-it-557493.aspx))
 - People Moves: TMK Taps Beresford From CNA Hardy as Life Sciences U/W; Hampden Risk Partners Promotes D’Alessandro as Active U/W, Replacing Sharp ([1 days ago](https://www.insurancejournal.com/news/international/2025/11/21/848695.htm))
-- Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
+- Strengthen Oklahoma Homes Program to Expand Statewide by 2026 ([2 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848691.htm))
 - European and US P&C markets heading towards “progressively softer” environment: Autonomous ([2 days ago](https://www.reinsurancene.ws/european-and-us-pc-markets-heading-towards-progressively-softer-environment-autonomous/))
 - Tokio Marine Holdings to Acquire Illinois-Based Commodity & Ingredient Hedging ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/11/21/848681.htm))
 - Sea Level Rise Threatens Thousands of US Hazardous Sites, Study Finds ([2 days ago](https://www.insurancejournal.com/news/national/2025/11/21/848671.htm))
