@@ -63,7 +63,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: IQUW’s kitchen; Aon’s sliders ([1 days ago](https://www.postonline.co.uk/people/7959228/penny-blacks-social-diary-iquws-kitchen-aons-sliders))
 - People Moves: Skyward Specialty Promotes Burkhart to President, U.S. Property & Casualty ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/11/21/848506.htm))
 - People Moves: Encova Insurance Adds Palumbo to Board of Directors ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/11/21/848496.htm))
-- Insurance moves: Aviva, Kingfisher Insurance, Tokio Marine Kiln and the IFB ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-aviva-kingfisher-insurance-tokio-marine-kiln-and-the-ifb-557390.aspx))
+- Insurance moves: Aviva, Kingfisher Insurance, Tokio Marine Kiln and the IFB ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-aviva-kingfisher-insurance-tokio-marine-kiln-and-the-ifb-557390.aspx))
 - Ansvar reveals community impact report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/ansvar-reveals-community-impact-report-557387.aspx))
 - Swedish Club sets 5% general increase for 2026/27 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/swedish-club-sets-5-general-increase-for-202627-557386.aspx))
 - Lumara Insurance launches with human-led underwriting approach ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/lumara-insurance-launches-with-humanled-underwriting-approach-557385.aspx))
