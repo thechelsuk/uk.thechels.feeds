@@ -66,7 +66,7 @@ description: Insurance Updates
 - Insurance moves: Aviva, Kingfisher Insurance, Tokio Marine Kiln and the IFB ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-aviva-kingfisher-insurance-tokio-marine-kiln-and-the-ifb-557390.aspx))
 - Ansvar reveals community impact report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/ansvar-reveals-community-impact-report-557387.aspx))
 - Swedish Club sets 5% general increase for 2026/27 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/swedish-club-sets-5-general-increase-for-202627-557386.aspx))
-- Lumara Insurance launches with human-led underwriting approach ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/lumara-insurance-launches-with-humanled-underwriting-approach-557385.aspx))
+- Lumara Insurance launches with human-led underwriting approach ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/lumara-insurance-launches-with-humanled-underwriting-approach-557385.aspx))
 - 5 ways insurers can strengthen cyber resilience ([2 days ago](https://www.dig-in.com/opinion/5-ways-insurers-can-strengthen-cyber-resilience))
 - Insurance billing needs a Gen Z makeover ([2 days ago](https://www.dig-in.com/opinion/insurance-billing-needs-a-gen-z-makeover))
 - Insurtech in the UK: Key insurance tech firms brokers need to watch ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/insurtech-in-the-uk-key-insurance-tech-firms-brokers-need-to-watch-557348.aspx))
