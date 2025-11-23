@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([3 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([4 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([1 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([1 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([1 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -27,7 +27,7 @@ description: Insurance Updates
 - UPS Plane That Crashed Had ‘Fatigue Cracks’ in Engine Mount, Preliminary Report Finds ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/21/848628.htm))
 - People: Alliant Adds Simokonis to Florida Team, Sunstar Names Romero CAO ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/21/846711.htm))
 - Trump Inflames California Over Oil Drilling Plan for Pacific Coast ([1 days ago](https://www.insurancejournal.com/news/west/2025/11/21/848615.htm))
-- AM Best turns positive on AIG and its P&C subsidiaries ([1 days ago](https://www.reinsurancene.ws/am-best-turns-positive-on-aig-and-its-pc-subsidiaries/))
+- AM Best turns positive on AIG and its P&C subsidiaries ([2 days ago](https://www.reinsurancene.ws/am-best-turns-positive-on-aig-and-its-pc-subsidiaries/))
 - Simply Business Launches Big Dreams Project ([2 days ago](https://insurance-edge.net/2025/11/21/simply-business-launches-big-dreams-project/))
 - S&P expects continued expansion of PRT market ([2 days ago](https://www.reinsurancene.ws/sp-expects-continued-expansion-of-prt-market/))
 - Will Pay-Per-Mile Taxes Make Drivers Think Twice About EV Switch? ([2 days ago](https://insurance-edge.net/2025/11/21/will-pay-per-mile-taxes-make-drivers-think-twice-about-ev-switch/))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - Surge-proofing insurance: The new playbook for catastrophic readiness ([3 days ago](https://www.dig-in.com/opinion/surge-proofing-insurance-and-catastrophic-readiness))
 - Lloyd's launches investigation after AIG drops John Neal over alleged workplace relationship ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-launches-investigation-after-aig-drops-john-neal-over-alleged-workplace-relationship-557190.aspx))
 - 'Digital friction' impacting employee efficiency ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/digital-friction-impacting-employee-efficiency-557164.aspx))
-- Focusing on growth: Strategies for Chief Operating Officers ([3 days ago](https://www.dig-in.com/podcast/focusing-on-growth-strategies-for-coos))
+- Focusing on growth: Strategies for Chief Operating Officers ([4 days ago](https://www.dig-in.com/podcast/focusing-on-growth-strategies-for-coos))
 - Ripe enters holiday homes market with Schofields acquisition ([4 days ago](https://www.postonline.co.uk/news/7959411/ripe-enters-holiday-homes-market-with-schofields-acquisition))
 - Motor claims reform at a crossroads as fraud tactics escalate ([4 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motor-claims-reform-at-a-crossroads-as-fraud-tactics-escalate-557124.aspx))
 - 70% of workers think work has a positive impact on their health and wellbeing ([4 days ago](https://ifamagazine.com/70-of-workers-think-work-has-a-positive-impact-on-their-health-and-wellbeing/))
