@@ -28,7 +28,7 @@ description: Insurance Updates
 - People: Alliant Adds Simokonis to Florida Team, Sunstar Names Romero CAO ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/11/21/846711.htm))
 - Trump Inflames California Over Oil Drilling Plan for Pacific Coast ([1 days ago](https://www.insurancejournal.com/news/west/2025/11/21/848615.htm))
 - AM Best turns positive on AIG and its P&C subsidiaries ([1 days ago](https://www.reinsurancene.ws/am-best-turns-positive-on-aig-and-its-pc-subsidiaries/))
-- Simply Business Launches Big Dreams Project ([1 days ago](https://insurance-edge.net/2025/11/21/simply-business-launches-big-dreams-project/))
+- Simply Business Launches Big Dreams Project ([2 days ago](https://insurance-edge.net/2025/11/21/simply-business-launches-big-dreams-project/))
 - S&P expects continued expansion of PRT market ([2 days ago](https://www.reinsurancene.ws/sp-expects-continued-expansion-of-prt-market/))
 - Will Pay-Per-Mile Taxes Make Drivers Think Twice About EV Switch? ([2 days ago](https://insurance-edge.net/2025/11/21/will-pay-per-mile-taxes-make-drivers-think-twice-about-ev-switch/))
 - US SCS losses reach $42bn, establishing a “new normal”: Moody’s ([2 days ago](https://www.reinsurancene.ws/us-scs-losses-reach-42bn-establishing-a-new-normal-moodys/))
