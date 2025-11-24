@@ -8,10 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2025 WIL Next: Waika Embry ([3 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
-- Building resilience in an age of accelerating risk ([4 hours ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
-- From coverage to confidence: Building long-term client loyalty in a distracted world ([4 hours ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([14 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- Authorities launch crackdown on uninsured drivers in South Yorkshire ([just now](https://www.insurancebusinessmag.com/uk/news/breaking-news/authorities-launch-crackdown-on-uninsured-drivers-in-south-yorkshire-557534.aspx))
+- 2025 WIL Next: Waika Embry ([4 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
+- Building resilience in an age of accelerating risk ([5 hours ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
+- From coverage to confidence: Building long-term client loyalty in a distracted world ([5 hours ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([15 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([2 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([2 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([2 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -100,7 +101,6 @@ description: Insurance Updates
 - 'Digital friction' impacting employee efficiency ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/digital-friction-impacting-employee-efficiency-557164.aspx))
 - Focusing on growth: Strategies for Chief Operating Officers ([4 days ago](https://www.dig-in.com/podcast/focusing-on-growth-strategies-for-coos))
 - Ripe enters holiday homes market with Schofields acquisition ([4 days ago](https://www.postonline.co.uk/news/7959411/ripe-enters-holiday-homes-market-with-schofields-acquisition))
-- Motor claims reform at a crossroads as fraud tactics escalate ([4 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motor-claims-reform-at-a-crossroads-as-fraud-tactics-escalate-557124.aspx))
 - 70% of workers think work has a positive impact on their health and wellbeing ([4 days ago](https://ifamagazine.com/70-of-workers-think-work-has-a-positive-impact-on-their-health-and-wellbeing/))
 - Spotlight: From siloed fraud teams to shared intelligence ([4 days ago](https://www.postonline.co.uk/market-access/7959142/spotlight-from-siloed-fraud-teams-to-shared-intelligence))
 - Chris Lay to retire as Marsh UK names new CEO ([4 days ago](https://www.postonline.co.uk/broker/7959410/chris-lay-to-retire-as-marsh-uk-names-new-ceo))
