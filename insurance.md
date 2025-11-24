@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2025 WIL Next: Waika Embry ([2 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
-- Building resilience in an age of accelerating risk ([3 hours ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
-- From coverage to confidence: Building long-term client loyalty in a distracted world ([3 hours ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
-- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([13 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
+- 2025 WIL Next: Waika Embry ([3 hours ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
+- Building resilience in an age of accelerating risk ([4 hours ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
+- From coverage to confidence: Building long-term client loyalty in a distracted world ([4 hours ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- Protecting Drivers and Getting the Truth on Tape – What’s Brewing Podcast (Season 2 | Episode 17) ([14 hours ago](https://www.insurancejournal.com/blogs/iat/2025/11/23/847992.htm))
 - Comments On FCA Transaction Reporting Proposals ([2 days ago](https://insurance-edge.net/2025/11/21/comments-on-fca-transaction-reporting-proposals/))
 - CTSI Calls For More Trading Standards Funding ([2 days ago](https://insurance-edge.net/2025/11/21/ctsi-calls-for-more-trading-standards-funding/))
 - 5 Crucial Features to Look for in a Contract Management Platform ([2 days ago](https://insurance-edge.net/2025/11/21/5-crucial-features-to-look-for-in-a-contract-management-platform/))
@@ -108,7 +108,7 @@ description: Insurance Updates
 - Asia Pacific Insurance Technology Awards winners revealed ([4 days ago](https://www.postonline.co.uk/technology/7959381/asia-pacific-insurance-technology-awards-winners-revealed))
 - Top 50 Reinsurers of 2025 revealed ([4 days ago](https://www.postonline.co.uk/reinsurance/7959199/top-50-reinsurers-of-2025-revealed))
 - Why Ecclesiastical’s Carey is running to fight dementia ([4 days ago](https://www.postonline.co.uk/commercial/7959140/why-ecclesiasticals-carey-is-running-to-fight-dementia))
-- Diversity & Inclusion in Insurance Award winners revealed ([4 days ago](https://www.postonline.co.uk/commercial/7959362/diversity-inclusion-in-insurance-award-winners-revealed))
+- Diversity & Inclusion in Insurance Award winners revealed ([5 days ago](https://www.postonline.co.uk/commercial/7959362/diversity-inclusion-in-insurance-award-winners-revealed))
 - WIL 2025: Kari Allen ([5 days ago](https://www.dig-in.com/news/wil-2025-kari-allen))
 - Aviva to launch groundbreaking AI Underwriting Tool ([5 days ago](https://ifamagazine.com/aviva-to-launch-groundbreaking-ai-underwriting-tool/))
 - Half of UK adults have less than £5,000 saved in the event of an income emergency ([5 days ago](https://ifamagazine.com/half-of-uk-adults-have-less-than-5000-saved-in-the-event-of-an-income-emergency/))
