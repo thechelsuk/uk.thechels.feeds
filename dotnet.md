@@ -53,7 +53,7 @@ description: DotNet Updates
 - Rider 2025.3: Day-One Support for .NET 10 and C# 14, a New Default UI, and Faster Startup ([15 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/rider-2025-3-day-one-support-for-dotnet-10/))
 - Announcing .NET 10 ([15 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
 - .NET and .NET Framework November 2025 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/))
-- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([15 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
+- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([16 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([17 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([21 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
