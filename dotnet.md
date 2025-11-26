@@ -8,6 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([6 minutes ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
+- .NET Day on Agentic Modernization Coming Soon ([6 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([1 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([1 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([1 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
@@ -46,7 +48,6 @@ description: DotNet Updates
 - Clean Up Bloated CQRS Handlers ([15 days ago](https://dotnetkicks.com/r/734772?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog ([15 days ago](https://dotnetkicks.com/r/734754?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
-- Announcing .NET 10 - .NET Blog ([15 days ago](https://dotnetkicks.com/r/734719?url=https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
 - What’s Been Fixed in Rider 2025.3 ([15 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
 - ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility ([15 days ago](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/))
 - ReSharper 2025.3: Day-One C# 14 Support, Visual Studio 2026 Compatibility, and Major Performance Gains ([15 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/resharper-2025-3-day-one-csharp-14-support-visual-studio-2026-compatible/))
@@ -59,7 +60,6 @@ description: DotNet Updates
 - The Rider 2025.3 Release Candidate Is Now Available ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
 - dotInsights  -  November 2025 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
-- Get Ready for .NET Conf 2025! ([22 days ago](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/))
 - Taming the Billion Dollar Mistake: Maarten Balliauw’s Guide to C# Nullable Reference Types ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/04/maarten-balliauws-guide-to-csharp-nullable-reference-types/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([22 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([24 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
