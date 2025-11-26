@@ -9,11 +9,11 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
-- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([1 hours ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
-- .NET Day on Agentic Modernization Coming Soon ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
+- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([2 hours ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
+- .NET Day on Agentic Modernization Coming Soon ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([1 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([1 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
-- Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([1 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
+- Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([2 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
 - Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([2 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([3 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([3 days ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
