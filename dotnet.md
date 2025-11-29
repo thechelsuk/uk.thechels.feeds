@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([13 hours ago](https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions))
+- Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([14 hours ago](https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([18 hours ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
-- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
+- ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([2 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/))
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([2 days ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - The Worst Security Vulnerability in Akka.NET - And How to Fix It ([2 days ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - How Copilot Studio uses .NET and WebAssembly for performance and innovation ([23 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/))
 - The Rider 2025.3 Release Candidate Is Now Available ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/))
-- dotInsights  -  November 2025 ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
+- dotInsights  -  November 2025 ([24 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([25 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
 - Defensive Programming Rule #2: Always Validate Method Parameters ([27 days ago](https://dotnettips.wordpress.com/2025/11/02/defensive-programming-rule-2-always-validate-method-parameters/))
 
