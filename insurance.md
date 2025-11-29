@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How Healthcare Insurance Products (IF7) qualification can benefit your career ([22 hours ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
-- We found all the places insurance jobs are being posted in the UK! ([22 hours ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
+- How Healthcare Insurance Products (IF7) qualification can benefit your career ([23 hours ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
+- We found all the places insurance jobs are being posted in the UK! ([23 hours ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
 - Airbus in emergency recall affecting up to a record 6000 jets ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
 - Two oil tankers ablaze after ‘external impact' ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/two-oil-tankers-ablaze-after-external-impact-558291.aspx))
 - HDI Offers Useful Advice on Secondary Perils ([1 days ago](https://insurance-edge.net/2025/11/28/hdi-offers-useful-advice-on-secondary-perils/))

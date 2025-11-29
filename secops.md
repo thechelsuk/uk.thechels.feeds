@@ -90,7 +90,7 @@ description: SecOps News
 - Lifetime access to AI-for-evil WormGPT 4 costs just $220 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/))
 - Lifetime access to AI-for-evil WormGPT 4 costs just $220 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/))
 - Nvidia scoffs at threat from Google TPUs after rumored Meta tie-up ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/nvidia_google_tpu_meta/))
-- Corporate predators get more than they bargain for when their prey runs SonicWall firewalls ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/akira_ransomware_acquisitions/))
+- Corporate predators get more than they bargain for when their prey runs SonicWall firewalls ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/akira_ransomware_acquisitions/))
 - HashJack attack shows AI browsers can be fooled with a simple ‘#’ ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/hashjack_attack_ai_browser_hashtag/))
 - HashJack attack shows AI browsers can be fooled with a simple ‘#’ ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/hashjack_attack_ai_browser_hashtag/))
 - Get ready for 2026, the year of AI-aided ransomware ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/trend_micro_agentic_ai_assisted_ransomware/))
@@ -156,7 +156,7 @@ description: SecOps News
 - Google Sues to Disrupt Chinese SMS Phishing Triad ([16 days ago](https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/))
 - Operation Endgame 3.0 - 2,046,030 breached accounts ([16 days ago](https://haveibeenpwned.com/Breach/OperationEndgame3))
 - Smashing Security podcast #443: Tinder’s camera roll and the Buffett deepfake ([16 days ago](https://grahamcluley.com/smashing-security-podcast-443/))
-- Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
+- Disruption with some GitHub services ([17 days ago](https://www.githubstatus.com/incidents/br7kz68t38cl))
 - Delay in notification deliveries ([17 days ago](https://www.githubstatus.com/incidents/l0brgg302bf5))
 - Leading AI companies accidentally leak their passwords and digital keys on GitHub – what you need to know ([17 days ago](https://www.fortra.com/blog/ai-companies-accidentally-leak-passwords-digital-keys-github))
 - Weekly Update 477 ([17 days ago](https://www.troyhunt.com/weekly-update-477/))
@@ -204,6 +204,5 @@ description: SecOps News
 - How many courts have had sealed and sensitive files exposed by one vendor’s error? ([29 days ago](https://databreaches.net/2025/10/31/how-many-courts-have-had-sealed-and-sensitive-files-exposed-by-one-vendors-error/?pk_campaign=feed&pk_kwd=how-many-courts-have-had-sealed-and-sensitive-files-exposed-by-one-vendors-error))
 - Ukrainian Conti Ransomware Suspect Extradited to US from Ireland ([29 days ago](https://databreaches.net/2025/10/31/ukrainian-conti-ransomware-suspect-extradited-to-us-from-ireland/?pk_campaign=feed&pk_kwd=ukrainian-conti-ransomware-suspect-extradited-to-us-from-ireland))
 - Legal Aid Agency chief admits difficulties understanding impact of cyberattack ([29 days ago](https://databreaches.net/2025/10/31/legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack/?pk_campaign=feed&pk_kwd=legal-aid-agency-chief-admits-difficulties-understanding-impact-of-cyberattack))
-- Disruption with some GitHub services ([29 days ago](https://www.githubstatus.com/incidents/6hygvwpw2vr3))
 
 <!-- news_marker ends -->
