@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How Healthcare Insurance Products (IF7) qualification can benefit your career ([17 hours ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
-- We found all the places insurance jobs are being posted in the UK! ([17 hours ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
-- Airbus in emergency recall affecting up to a record 6000 jets ([19 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
+- How Healthcare Insurance Products (IF7) qualification can benefit your career ([18 hours ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
+- We found all the places insurance jobs are being posted in the UK! ([18 hours ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
+- Airbus in emergency recall affecting up to a record 6000 jets ([20 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
 - Two oil tankers ablaze after ‘external impact' ([20 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/two-oil-tankers-ablaze-after-external-impact-558291.aspx))
 - HDI Offers Useful Advice on Secondary Perils ([22 hours ago](https://insurance-edge.net/2025/11/28/hdi-offers-useful-advice-on-secondary-perils/))
 - M&A activity could reduce cyber market capacity: Marsh’s Konyar ([1 days ago](https://www.reinsurancene.ws/ma-activity-could-reduce-cyber-market-capacity-marshs-konyar/))
@@ -103,7 +103,7 @@ description: Insurance Updates
 - Navigating the complex landscape of AI regulation in insurance ([3 days ago](https://www.dig-in.com/opinion/navigating-ai-regulation-in-insurance))
 - AI's role in transforming the TPA landscape in life insurance and annuities ([3 days ago](https://www.dig-in.com/opinion/ais-role-in-transforming-life-insurance-for-tpas))
 - Life insurance predictions for 2026 ([3 days ago](https://www.dig-in.com/news/life-insurance-predictions-for-2026))
-- Chubb Marketplace platform head Sabine Cain values authenticity ([3 days ago](https://www.dig-in.com/news/chubb-platform-head-sabine-cain-values-authenticity))
+- Chubb Marketplace platform head Sabine Cain values authenticity ([4 days ago](https://www.dig-in.com/news/chubb-platform-head-sabine-cain-values-authenticity))
 - Aviva to close down DLG’s By Miles ([4 days ago](https://www.postonline.co.uk/news/7959443/aviva-to-close-down-dlgs-by-miles))
 - The Budget won’t ‘get Britain working’ unless it backs a preventative health growth strategy ([4 days ago](https://ifamagazine.com/the-budget-wont-get-britain-working-unless-it-backs-a-preventative-health-growth-strategy/))
 - CII and FCA warn AI could put vulnerable customers at risk ([4 days ago](https://www.postonline.co.uk/technology/7959442/cii-and-fca-warn-ai-could-put-vulnerable-customers-at-risk))
