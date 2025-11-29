@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Japanese beer giant Asahi says data breach hit 1.5 million people ([5 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
-- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([9 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
+- Japanese beer giant Asahi says data breach hit 1.5 million people ([6 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
+- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([10 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
 - Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison ([1 days ago](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/))
 - Microsoft: Windows updates make password login option invisible ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/))
 - Public GitLab repositories exposed more than 17,000 secrets ([1 days ago](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/))
@@ -130,7 +130,7 @@ description: SecOps News
 - Beckett Collectibles - 541,132 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/Beckett))
 - Eurofiber - 10,003 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/Eurofiber))
 - Vultr - 187,872 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/Vultr))
-- Report URI - outage update ([9 days ago](https://scotthelme.ghost.io/report-uri-outage-update/))
+- Report URI - outage update ([10 days ago](https://scotthelme.ghost.io/report-uri-outage-update/))
 - [REVIVE-SA-2025-004] Revive Adserver Vulnerabilities ([10 days ago](https://seclists.org/fulldisclosure/2025/Nov/21))
 - [REVIVE-SA-2025-003] Revive Adserver Vulnerabilities ([10 days ago](https://seclists.org/fulldisclosure/2025/Nov/20))
 - [SYSS-2025-059]: Dell computer UEFI boot protection bypass ([10 days ago](https://seclists.org/fulldisclosure/2025/Nov/19))
