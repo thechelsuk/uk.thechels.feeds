@@ -8,6 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([49 minutes ago](https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions))
+- Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([5 hours ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
 - ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([1 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/))
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([2 days ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
@@ -47,7 +49,6 @@ description: DotNet Updates
 - A first look at the all‑new UX in Visual Studio 2026 - Visual Studio Blog ([15 days ago](https://dotnetkicks.com/r/734933?url=https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%E2%80%91new-ux-in-visual-studio-2026/))
 - Introducing Copilot auto model selection (preview) - Visual Studio Blog ([16 days ago](https://dotnetkicks.com/r/734911?url=https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/))
 - Cake v6.0.0 released ([17 days ago](https://dotnetkicks.com/r/734797?url=https://cakebuild.net/blog/2025/11/cake-v6.0.0-released))
-- Clean Up Bloated CQRS Handlers ([17 days ago](https://dotnetkicks.com/r/734785?url=https://codeopinion.com/clean-up-bloated-cqrs-handlers/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([17 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - What’s Been Fixed in Rider 2025.3 ([17 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
 - ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility ([17 days ago](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/))
