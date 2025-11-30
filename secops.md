@@ -179,7 +179,7 @@ description: SecOps News
 - “Pay up or we share the tapes”: Hackers target massage parlour clients in blackmail scheme ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/pay-up-or-we-share-the-tapes-hackers-target-massage-parlour-clients-in-blackmail-scheme))
 - Optimizing IOC Retention Time ([23 days ago](https://www.netresec.com/?page=Blog&month=2025-11&post=Optimizing-IOC-Retention-Time))
 - Threat Intelligence – ISO 27001:2022 Control 5.7 Explained ([23 days ago](https://www.itgovernance.co.uk/blog/threat-intelligence-iso-270012022-control-5-7-explained))
-- Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData))
+- Synthient Credential Stuffing Threat Data - 1,957,476,021 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/SynthientCredentialStuffingThreatData))
 - Cloudflare Scrubs Aisuru Botnet from Top Domains List ([24 days ago](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/))
 - Smashing Security podcast #442: The hack that messed with time, and rogue ransom where negotiators ([24 days ago](https://grahamcluley.com/smashing-security-podcast-442/))
 - Incident with Copilot ([24 days ago](https://www.githubstatus.com/incidents/gnzclztblsh3))
