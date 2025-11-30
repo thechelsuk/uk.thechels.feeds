@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV ([10 hours ago](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html))
+- CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV ([11 hours ago](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html))
 - Japanese beer giant Asahi says data breach hit 1.5 million people ([1 days ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
 - Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
 - Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison ([2 days ago](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/))
@@ -173,7 +173,7 @@ description: SecOps News
 - How DORA fits with ISO 27001, NIS2 and the GDPR ([27 days ago](https://www.itgovernance.co.uk/blog/how-dora-fits-with-iso-27001-nis2-and-the-gdpr))
 - CISM Exam Tips from a Consultant: Five Insider Insights to Help You Pass ([27 days ago](https://www.itgovernance.co.uk/blog/cism-exam-tips-from-a-consultant-five-insider-insights-to-help-you-pass))
 - Weekly Update 476 ([27 days ago](https://www.troyhunt.com/weekly-update-476/))
-- Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody ([27 days ago](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/))
+- Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody ([28 days ago](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/))
 - Two years after an audit highlighted significant concerns, North Salem Central School District leaves sensitive student data at risk ([28 days ago](https://databreaches.net/2025/11/02/two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk/?pk_campaign=feed&pk_kwd=two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk))
 - University of Pennsylvania says it wasn’t hacked after a vulgar email was sent to campus community ([28 days ago](https://databreaches.net/2025/11/02/university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community/?pk_campaign=feed&pk_kwd=university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community))
 - Veradigm’s Breach Claims Under Scrutiny After Dark Web Leak ([29 days ago](https://databreaches.net/2025/11/01/veradigms-breach-claims-under-scrutiny-after-dark-web-leak/?pk_campaign=feed&pk_kwd=veradigms-breach-claims-under-scrutiny-after-dark-web-leak))

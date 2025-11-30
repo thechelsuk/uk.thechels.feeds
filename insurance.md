@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Florida regulator, advocates spar over insurance market performance ([20 minutes ago](https://www.dig-in.com/news/florida-regulator-advocates-spar-over-property-insurance))
 - How Healthcare Insurance Products (IF7) qualification can benefit your career ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/how-healthcare-insurance-products-if7-qualification-can-benefit-your-career-558304.aspx))
 - We found all the places insurance jobs are being posted in the UK! ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/we-found-all-the-places-insurance-jobs-are-being-posted-in-the-uk-558303.aspx))
 - Airbus in emergency recall affecting up to a record 6000 jets ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/airbus-in-emergency-recall-affecting-up-to-a-record-6000-jets-558297.aspx))
@@ -116,8 +117,7 @@ description: Insurance Updates
 - Misunderstanding is a major factor in low take-up of IP, finds Shepherds Friendly survey ([6 days ago](https://ifamagazine.com/misunderstandings-a-major-factor-in-low-take-up-of-ip-finds-shepherds-friendly-survey/))
 - Eleos Life rolls out AI voice agent for 24/7 client assistance ([6 days ago](https://ifamagazine.com/eleos-life-rolls-out-ai-voice-agent-for-24-7-client-assistance/))
 - 2025 WIL Next: Waika Embry ([6 days ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
-- Building resilience in an age of accelerating risk ([6 days ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
-- From coverage to confidence: Building long-term client loyalty in a distracted world ([7 days ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- Building resilience in an age of accelerating risk ([7 days ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
 - The Right Mortgage introduces new shortfall needs analysis calculator to aid protection conversations ([9 days ago](https://ifamagazine.com/the-right-mortgage-introduces-new-shortfall-needs-analysis-calculator-to-aid-protection-conversations/))
 - In Profile: Thomas Galbraith at Barker ([10 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
 - Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([24 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
