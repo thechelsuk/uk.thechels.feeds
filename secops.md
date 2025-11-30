@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Japanese beer giant Asahi says data breach hit 1.5 million people ([13 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
-- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([17 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
+- Japanese beer giant Asahi says data breach hit 1.5 million people ([14 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
+- Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([18 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
 - Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison ([1 days ago](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/))
 - Microsoft: Windows updates make password login option invisible ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/))
 - Public GitLab repositories exposed more than 17,000 secrets ([1 days ago](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/))

@@ -61,7 +61,7 @@ description: Insurance Updates
 - Q&A: Onno Janssen, PIB Group Europe ([2 days ago](https://www.postonline.co.uk/broker/7959069/qa-onno-janssen-pib-group-europe))
 - Throwback Thursday: Howden saves insurers millions ([2 days ago](https://www.postonline.co.uk/broker/7956778/throwback-thursday-howden-saves-insurers-millions))
 - My Mum, Alzheimer’s, and the importance of IUAD’s Day ([2 days ago](https://www.postonline.co.uk/people/7959447/my-mum-alzheimers-and-the-importance-of-iuads-day))
-- Major insurer's shares plummet as deadly Hong Kong fire rages ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/major-insurers-shares-plummet-as-deadly-hong-kong-fire-rages-558074.aspx))
+- Major insurer's shares plummet as deadly Hong Kong fire rages ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/major-insurers-shares-plummet-as-deadly-hong-kong-fire-rages-558074.aspx))
 - Budget missed opportunity to support growth and protection, UK insurers warn ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/budget-missed-opportunity-to-support-growth-and-protection-uk-insurers-warn-558056.aspx))
 - Staysure founder says UK must reset tax and regulation to support growth ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/staysure-founder-says-uk-must-reset-tax-and-regulation-to-support-growth-558049.aspx))
 - UK property insurance payouts reach record £4.6 billion in first nine months of 2025 - report ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/uk-property-insurance-payouts-reach-record-4-6-billion-in-first-nine-months-of-2025--report-558047.aspx))
