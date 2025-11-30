@@ -123,6 +123,6 @@ description: Insurance Updates
 - Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([23 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
 - Zurich Strengthens Its Fraud Defences with Quantexa Real-Time AI, Connecting Industry-Wide Claims Data ([23 days ago](https://www.insurtechinsights.com/zurich-strengthens-its-fraud-defences-with-quantexa-real-time-ai-connecting-industry-wide-claims-data-2/))
 - Allianz Joins The Spark as Member; Sirma Boshnakova Appointed to Global Advisory Board ([23 days ago](https://www.insurtechinsights.com/allianz-joins-the-spark-as-member-sirma-boshnakova-appointed-to-global-advisory-board/))
-- FWD Group Reports Strong New Business Growth and Strengthened Financial Position ([24 days ago](https://www.insurtechinsights.com/fwd-group-reports-strong-new-business-growth-and-strengthened-financial-position/))
+- FWD Group Reports Strong New Business Growth and Strengthened Financial Position ([25 days ago](https://www.insurtechinsights.com/fwd-group-reports-strong-new-business-growth-and-strengthened-financial-position/))
 
 <!-- news_marker ends -->
