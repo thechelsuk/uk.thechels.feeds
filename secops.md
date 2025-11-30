@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Japanese beer giant Asahi says data breach hit 1.5 million people ([12 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
+- Japanese beer giant Asahi says data breach hit 1.5 million people ([13 hours ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
 - Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([16 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
 - Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison ([1 days ago](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/))
 - Microsoft: Windows updates make password login option invisible ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/))
@@ -85,7 +85,7 @@ description: SecOps News
 - Top five cybersecurity Black Friday deals for businesses 2025 ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/26/cybersecurity-black-friday-2025/))
 - RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware ([3 days ago](https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html))
 - FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams ([3 days ago](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html))
-- HP to sack up to six thousand staff under AI adoption plan, fresh round of cost-cutting ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/26/hp_inc_q4_2025/))
+- HP to sack up to six thousand staff under AI adoption plan, fresh round of cost-cutting ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/26/hp_inc_q4_2025/))
 - Alibaba Cloud can’t deploy servers fast enough to satisfy demand for AI ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/26/alibaba_q2_2025/))
 - Lifetime access to AI-for-evil WormGPT 4 costs just $220 ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/))
 - Lifetime access to AI-for-evil WormGPT 4 costs just $220 ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/11/25/wormgpt_4_evil_ai_lifetime_cost_220_dollars/))
