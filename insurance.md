@@ -117,7 +117,7 @@ description: Insurance Updates
 - Eleos Life rolls out AI voice agent for 24/7 client assistance ([6 days ago](https://ifamagazine.com/eleos-life-rolls-out-ai-voice-agent-for-24-7-client-assistance/))
 - 2025 WIL Next: Waika Embry ([6 days ago](https://www.dig-in.com/news/2025-wil-next-waika-embry))
 - Building resilience in an age of accelerating risk ([6 days ago](https://www.dig-in.com/opinion/building-resilience-in-an-age-of-accelerating-risk))
-- From coverage to confidence: Building long-term client loyalty in a distracted world ([6 days ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
+- From coverage to confidence: Building long-term client loyalty in a distracted world ([7 days ago](https://www.dig-in.com/opinion/building-long-term-client-loyalty-in-a-distracted-world))
 - The Right Mortgage introduces new shortfall needs analysis calculator to aid protection conversations ([9 days ago](https://ifamagazine.com/the-right-mortgage-introduces-new-shortfall-needs-analysis-calculator-to-aid-protection-conversations/))
 - In Profile: Thomas Galbraith at Barker ([10 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
 - Post-VIP Roundtable Thoughts: Unpacking the (false) paradox of efficiency vs experience trade offs in insurance by Rory Yates ([24 days ago](https://www.insurtechinsights.com/post-vip-roundtable-thoughts-unpacking-the-false-paradox-of-efficiency-vs-experience-trade-offs-in-insurance-by-rory-yates/))
