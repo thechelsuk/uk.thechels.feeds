@@ -103,7 +103,7 @@ description: Insurance Updates
 - Navigating the complex landscape of AI regulation in insurance ([4 days ago](https://www.dig-in.com/opinion/navigating-ai-regulation-in-insurance))
 - AI's role in transforming the TPA landscape in life insurance and annuities ([4 days ago](https://www.dig-in.com/opinion/ais-role-in-transforming-life-insurance-for-tpas))
 - Life insurance predictions for 2026 ([4 days ago](https://www.dig-in.com/news/life-insurance-predictions-for-2026))
-- Chubb Marketplace platform head Sabine Cain values authenticity ([4 days ago](https://www.dig-in.com/news/chubb-platform-head-sabine-cain-values-authenticity))
+- Chubb Marketplace platform head Sabine Cain values authenticity ([5 days ago](https://www.dig-in.com/news/chubb-platform-head-sabine-cain-values-authenticity))
 - Aviva to close down DLG’s By Miles ([5 days ago](https://www.postonline.co.uk/news/7959443/aviva-to-close-down-dlgs-by-miles))
 - The Budget won’t ‘get Britain working’ unless it backs a preventative health growth strategy ([5 days ago](https://ifamagazine.com/the-budget-wont-get-britain-working-unless-it-backs-a-preventative-health-growth-strategy/))
 - CII and FCA warn AI could put vulnerable customers at risk ([5 days ago](https://www.postonline.co.uk/technology/7959442/cii-and-fca-warn-ai-could-put-vulnerable-customers-at-risk))
