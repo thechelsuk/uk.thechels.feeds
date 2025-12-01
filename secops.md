@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Web dev took down major online bookstore by buying too many books ([8 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/who_me/))
-- Weekly Update 480 ([1 hours ago](https://www.troyhunt.com/weekly-update-480/))
+- Web dev's crawler took down major online bookstore by buying too many books ([41 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/who_me/))
+- Weekly Update 480 ([2 hours ago](https://www.troyhunt.com/weekly-update-480/))
 - Aviation delays ease as airlines complete Airbus software rollback ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/a320_software_rollback/))
-- Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets ([2 hours ago](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html))
-- Google and Apple ordered to stop fake government TXTs ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/asia_tech_news_roundup/))
-- Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/))
+- Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets ([3 hours ago](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html))
+- Google and Apple ordered to stop fake government TXTs ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/asia_tech_news_roundup/))
+- Swiss government says give M365, and all SaaS, a miss as it lacks end-to-end encryption ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/01/infosec_news_in_brief/))
 - CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV ([22 hours ago](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html))
 - Japanese beer giant Asahi says data breach hit 1.5 million people ([1 days ago](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/))
 - Leak confirms OpenAI is preparing ads on ChatGPT for public roll out ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/))
