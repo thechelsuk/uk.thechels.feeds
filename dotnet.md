@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
+- Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([2 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
-- Welcoming Babu Annamalai to JasperFx Software ([5 hours ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
+- Welcoming Babu Annamalai to JasperFx Software ([6 hours ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
 - F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([20 hours ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([1 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([2 days ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
