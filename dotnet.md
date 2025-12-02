@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - dotInsights  -  December 2025 ([5 hours ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([8 hours ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([9 hours ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([10 hours ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Domain-Driven Design Misconceptions ([20 hours ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([2 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([3 days ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([3 days ago](https://dotnetkicks.com/r/735675?url=https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions))
-- Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([3 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
+- Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([4 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
 - ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([5 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules  -  Build5Nines ([5 days ago](https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/))
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([5 days ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
