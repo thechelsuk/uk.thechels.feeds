@@ -29,7 +29,7 @@ description: DotNet Updates
 - Exploring the .NET boot process via host tracing ([8 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([8 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([8 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
-- Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
+- Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([10 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([10 days ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
 - How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module  -  Build5Nines ([10 days ago](https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/))
