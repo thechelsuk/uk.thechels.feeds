@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
-- Introducing Data Ingestion Building Blocks (Preview) ([1 hours ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
+- Introducing Data Ingestion Building Blocks (Preview) ([2 hours ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([10 hours ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([1 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([1 days ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
@@ -61,7 +61,7 @@ description: DotNet Updates
 - ReSharper 2025.3: Day-One C# 14 Support, Visual Studio 2026 Compatibility, and Major Performance Gains ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/resharper-2025-3-day-one-csharp-14-support-visual-studio-2026-compatible/))
 - Rider 2025.3: Day-One Support for .NET 10 and C# 14, a New Default UI, and Faster Startup ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/rider-2025-3-day-one-support-for-dotnet-10/))
 - Announcing .NET 10 ([22 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/))
-- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([22 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
+- dotNetDave Rocks Austin .NET User Group November 2025 Meeting ([23 days ago](https://dotnettips.wordpress.com/2025/11/10/dotnetdave-rocks-austin-net-user-group-november-2025-meeting/))
 - Defensive Programming Rule #3: Validate Your Enums (Every Time) ([24 days ago](https://dotnettips.wordpress.com/2025/11/09/defensive-programming-rule-3-validate-your-enums-every-time/))
 - The Rider 2025.3 Release Candidate Is Now Available ([28 days ago](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/))
 - Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9 ([29 days ago](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/))
