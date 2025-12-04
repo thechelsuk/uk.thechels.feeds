@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
+- .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
-- Security Surfaces ([13 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
-- Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([19 hours ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
+- Security Surfaces ([14 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
+- Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([20 hours ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
 - AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([22 hours ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
 - Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - Introducing Data Ingestion Building Blocks (Preview) ([1 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
