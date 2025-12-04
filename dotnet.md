@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
-- .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([4 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
+- .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([5 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Security Surfaces ([16 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
 - Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([22 hours ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
 - AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([1 days ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - dotInsights  -  December 2025 ([2 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([2 days ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([2 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
-- Domain-Driven Design Misconceptions ([2 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
+- Domain-Driven Design Misconceptions ([3 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([3 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([3 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Welcoming Babu Annamalai to JasperFx Software ([3 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - .NET Day on Agentic Modernization Coming Soon ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([9 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([9 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
-- Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([9 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
+- Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([10 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
 - Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([11 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([11 days ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
