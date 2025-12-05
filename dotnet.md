@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
-- .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([7 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
-- Security Surfaces ([19 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
+- .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
+- .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([8 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
+- Security Surfaces ([20 hours ago](https://dotnetkicks.com/r/735992?url=https://textslashplain.com/2025/12/03/security-surfaces/))
 - Unlock GitHub Copilot's Full Potential: Why Every Repo Needs An AGENTS.md File  -  Build5Nines ([1 days ago](https://dotnetkicks.com/r/735949?url=https://build5nines.com/unlock-github-copilots-full-potential-why-every-repo-needs-an-agents-md-file/))
 - AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([1 days ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
 - Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([1 days ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
@@ -40,8 +40,8 @@ description: DotNet Updates
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([11 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - F# Weekly #47, 2025 - F# 10 &amp; last #FsAdvent slots ([11 days ago](https://dotnetkicks.com/r/735486?url=https://sergeytihon.com/2025/11/22/f-weekly-47-2025-f-10-last-fsadvent-slots/))
 - How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module  -  Build5Nines ([11 days ago](https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/))
-- Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([11 days ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
-- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([12 days ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
+- Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([12 days ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
+- How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([13 days ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
 - Reinventing how .NET Builds and Ships (Again) - .NET Blog ([14 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([14 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([14 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
