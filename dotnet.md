@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([7 hours ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
+- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([8 hours ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([1 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([1 days ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
@@ -36,7 +36,7 @@ description: DotNet Updates
 - The Worst Security Vulnerability in Akka.NET - And How to Fix It ([9 days ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
 - .NET Day on Agentic Modernization Coming Soon ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([10 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
-- Exploring the .NET boot process via host tracing ([10 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
+- Exploring the .NET boot process via host tracing ([11 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([11 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
 - Visual Studio - Built for the Speed of Modern Development - Visual Studio Blog ([11 days ago](https://dotnetkicks.com/r/735523?url=https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([13 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
@@ -50,7 +50,7 @@ description: DotNet Updates
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([16 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([17 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - Post-Quantum Cryptography in .NET ([17 days ago](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/))
-- Companies complaining .NET moves too fast should just pay for post-EOL support ([17 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
+- Companies complaining .NET moves too fast should just pay for post-EOL support ([18 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
 - Introducing F# 10 ([18 days ago](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/))
 - Introducing C# 14 ([18 days ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Database Features in Rider ([18 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
