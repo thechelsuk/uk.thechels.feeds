@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- It’s a Bold Move From Bold Penguin ([5 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
-- California Resources Reports Oil Fluid Spill in Monterey County ([21 hours ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
+- It’s a Bold Move From Bold Penguin ([6 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
+- California Resources Reports Oil Fluid Spill in Monterey County ([22 hours ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([1 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
 - South Dakota Legislators Plan Bills to Help Residents in Fight Over Limestone Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/05/850120.htm))
 - We can show unequivocally that Florida’s insurance market has stabilised: Mike Yaworsky ([1 days ago](https://www.reinsurancene.ws/we-can-show-unequivocally-that-floridas-insurance-market-has-stabilised-mike-yaworsky/))
@@ -68,7 +68,7 @@ description: Insurance Updates
 - MDS Group integrates Marlow Caución to expand specialist operations in Spain ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mds-group-integrates-marlow-caucion-to-expand-specialist-operations-in-spain-559083.aspx))
 - Fitch gives verdict on EMEA insurance in 2026 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fitch-gives-verdict-on-emea-insurance-in-2026-559080.aspx))
 - LMA sets technology and data priorities for the Lloyd's market in 2026 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-sets-technology-and-data-priorities-for-the-lloyds-market-in-2026-559079.aspx))
-- Core trends driving insurance transformation in 2026 ([1 days ago](https://www.dig-in.com/opinion/core-trends-driving-insurance-transformation-in-2026))
+- Core trends driving insurance transformation in 2026 ([2 days ago](https://www.dig-in.com/opinion/core-trends-driving-insurance-transformation-in-2026))
 - Losses top $20B in Asia floods as climate risks grow ([2 days ago](https://www.dig-in.com/articles/losses-top-20b-in-asia-floods-as-climate-risks-grow))
 - Davies bets big on one country – and even bigger on artificial intelligence ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/davies-bets-big-on-one-country--and-even-bigger-on-artificial-intelligence-558966.aspx))
 - Outperforming M&A dealmakers set stage for busier 2026 – WTW ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/outperforming-manda-dealmakers-set-stage-for-busier-2026--wtw-558948.aspx))
