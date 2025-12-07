@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- It’s a Bold Move From Bold Penguin ([23 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
+- It’s a Bold Move From Bold Penguin ([1 days ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
 - California Resources Reports Oil Fluid Spill in Monterey County ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([1 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
 - South Dakota Legislators Plan Bills to Help Residents in Fight Over Limestone Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/05/850120.htm))
@@ -31,8 +31,8 @@ description: Insurance Updates
 - AmTrust and Blackstone launch ANV Group and new MGA platform ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/amtrust-and-blackstone-launch-anv-group-and-new-mga-platform-559158.aspx))
 - AM Best Revises Outlook to Negative for Nazareth Mutual ([1 days ago](https://www.insurancejournal.com/news/east/2025/12/05/850072.htm))
 - Swiss Re Shares Drop After New Profit Target Falls Short of Expectations ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/05/850070.htm))
-- It’s about long-term stability & resilience, not squeezing the lemon: Swiss Re CEO ([1 days ago](https://www.reinsurancene.ws/its-about-long-term-stability-resilience-not-squeezing-the-lemon-swiss-re-ceo/))
-- Standard Chartered Settles £1.5 Billion Iranian Sanction Suit in London ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/05/850066.htm))
+- It’s about long-term stability & resilience, not squeezing the lemon: Swiss Re CEO ([2 days ago](https://www.reinsurancene.ws/its-about-long-term-stability-resilience-not-squeezing-the-lemon-swiss-re-ceo/))
+- Standard Chartered Settles £1.5 Billion Iranian Sanction Suit in London ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/05/850066.htm))
 - AmTrust, BXCI close strategic transaction and launch MGA ANV ([2 days ago](https://www.reinsurancene.ws/amtrust-bxci-close-strategic-transaction-and-launch-mga-anv/))
 - Will it Take a Catastrophe for Nations to Take Issue of Space Debris Seriously? ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/05/850049.htm))
 - EMEA insurance market to enter 2026 on steady footing: Fitch ([2 days ago](https://www.reinsurancene.ws/emea-insurance-market-to-enter-2026-on-steady-footing-fitch/))
@@ -118,7 +118,7 @@ description: Insurance Updates
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([9 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 - LifeSearch becomes first in UK to integrate digital trust solution into self-serve life insurance journey ([10 days ago](https://ifamagazine.com/lifesearch-becomes-first-in-uk-to-integrate-digital-trust-solution-into-self-serve-life-insurance-journey/))
 - MetLife UK: Budget misses chance to help long-term sick back to work ([10 days ago](https://ifamagazine.com/metlife-uk-budget-misses-chance-to-help-long-term-sick-back-to-work/))
-- Budget reaction: health insurance tax hikes could hit prevention and NHS, warns CEO ([10 days ago](https://ifamagazine.com/budget-reaction-health-insurance-tax-hikes-could-hit-prevention-and-nhs-warns-ceo/))
+- Budget reaction: health insurance tax hikes could hit prevention and NHS, warns CEO ([11 days ago](https://ifamagazine.com/budget-reaction-health-insurance-tax-hikes-could-hit-prevention-and-nhs-warns-ceo/))
 - The Budget won’t ‘get Britain working’ unless it backs a preventative health growth strategy ([11 days ago](https://ifamagazine.com/the-budget-wont-get-britain-working-unless-it-backs-a-preventative-health-growth-strategy/))
 - In Profile: Thomas Galbraith at Barker ([16 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
 
