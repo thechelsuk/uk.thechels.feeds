@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([11 hours ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
-- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([13 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([12 hours ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([14 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 - How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([1 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([2 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([3 days ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
@@ -35,8 +35,8 @@ description: DotNet Updates
 - ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([10 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
 - Terraform + Azure Multi-Region Naming Convention Across Azure Regions, Resources, And Terraform Modules  -  Build5Nines ([10 days ago](https://dotnetkicks.com/r/735658?url=https://build5nines.com/terraform-azure-multi-region-naming-convention-across-azure-regions-resources-and-terraform-modules/))
 - .NET Day on Agentic Modernization Coming Soon - .NET Blog ([10 days ago](https://dotnetkicks.com/r/735622?url=https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
-- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([10 days ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
-- .NET Day on Agentic Modernization Coming Soon ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
+- The Worst Security Vulnerability in Akka.NET - And How to Fix It ([11 days ago](https://dotnetkicks.com/r/735620?url=https://petabridge.com/blog/akka-net-tls-vulnerability/))
+- .NET Day on Agentic Modernization Coming Soon ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([12 days ago](https://dotnetkicks.com/r/735596?url=https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Exploring the .NET boot process via host tracing ([12 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Minimal APIs, CQRS, DDD... Or Just Use Controllers? ([12 days ago](https://dotnetkicks.com/r/735555?url=https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/))
