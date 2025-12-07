@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Exclusive research: How can insurers prepare for AI? ([37 minutes ago](https://www.dig-in.com/news/digital-insurance-reveals-the-state-of-insurance-tech-and-ai))
+- Exclusive research: How can insurers prepare for AI? ([1 hours ago](https://www.dig-in.com/news/digital-insurance-reveals-the-state-of-insurance-tech-and-ai))
 - Top insurtech funding rounds, November 2025 ([2 hours ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-november-2025))
 - Can your AI think like an underwriter? ([2 hours ago](https://www.dig-in.com/opinion/can-your-ai-think-like-an-underwriter))
 - It’s a Bold Move From Bold Penguin ([1 days ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
@@ -90,7 +90,7 @@ description: Insurance Updates
 - Throwback Thursday: Insurers retreat from war risk cover ([3 days ago](https://www.postonline.co.uk/commercial/7956779/throwback-thursday-insurers-retreat-from-war-risk-cover))
 - Chartered Insurance Institute partners up to strengthen leadership in insurance sector ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chartered-insurance-institute-partners-up-to-strengthen-leadership-in-insurance-sector-558882.aspx))
 - UK EV surge leaves insurers facing rising write-off costs ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-ev-surge-leaves-insurers-facing-rising-writeoff-costs-558873.aspx))
-- How life insurance settlements could bring liquidity, tax savings ([3 days ago](https://www.dig-in.com/news/how-to-consider-a-life-insurance-settlement))
+- How life insurance settlements could bring liquidity, tax savings ([4 days ago](https://www.dig-in.com/news/how-to-consider-a-life-insurance-settlement))
 - AI adoption and the emerging risks it creates for carriers ([4 days ago](https://www.dig-in.com/podcast/ai-adoption-and-the-emerging-risks-it-creates-for-carriers))
 - State Farm sued over policies backed by distressed insurer PHL ([4 days ago](https://www.dig-in.com/articles/state-farm-sued-over-policies-backed-by-distressed-insurer-phl))
 - WIL 2025, Amanda Smith: Strong leaders empower people ([4 days ago](https://www.dig-in.com/news/wil-2025-amanda-smith-strong-leaders-empower-people))
