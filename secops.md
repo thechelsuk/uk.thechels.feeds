@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Portugal updates cybercrime law to exempt security researchers ([4 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
+- Portugal updates cybercrime law to exempt security researchers ([5 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
 - React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([1 days ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([1 days ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
