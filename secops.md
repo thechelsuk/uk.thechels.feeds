@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([9 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
+- React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([10 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([13 hours ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([13 hours ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
-- Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([13 hours ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
+- Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([14 hours ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
 - Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation ([17 hours ago](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html))
 - Death to one-time text codes: Passkeys are the new hotness in MFA ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/))
 - KinoKong - 817,808 breached accounts ([20 hours ago](https://haveibeenpwned.com/Breach/KinoKong))
@@ -138,7 +138,7 @@ description: SecOps News
 - Choosing a managed service provider (MSP) ([12 days ago](https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp))
 - Operation Endgame disrupts Rhadamanthys information-stealing malware ([12 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/operation-endgame-disrupts-rhadamanthys-information-stealing-malware))
 - CodeStepByStep - 103,077 breached accounts ([13 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
-- Weekly Update 479 ([13 days ago](https://www.troyhunt.com/weekly-update-479/))
+- Weekly Update 479 ([14 days ago](https://www.troyhunt.com/weekly-update-479/))
 - ADDA - 1,829,314 breached accounts ([14 days ago](https://haveibeenpwned.com/Breach/ADDA))
 - Disruption with some GitHub services ([16 days ago](https://www.githubstatus.com/incidents/zzl9nl31lb35))
 - International Kiteboarding Organization - 340,349 breached accounts ([16 days ago](https://haveibeenpwned.com/Breach/IKO))
