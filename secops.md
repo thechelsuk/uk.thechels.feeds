@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - OpenAI denies rolling out ads on ChatGPT paid plans ([2 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
-- Portugal updates cybercrime law to exempt security researchers ([7 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
+- Portugal updates cybercrime law to exempt security researchers ([8 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
 - React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([1 days ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([1 days ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
@@ -17,7 +17,7 @@ description: SecOps News
 - Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation ([1 days ago](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html))
 - Death to one-time text codes: Passkeys are the new hotness in MFA ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/))
 - KinoKong - 817,808 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/KinoKong))
-- Crims using social media images, videos in 'virtual kidnapping' scams ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/virtual_kidnapping_scam/))
+- Crims using social media images, videos in 'virtual kidnapping' scams ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/virtual_kidnapping_scam/))
 - Team synchronization is experiencing delays for non enterprise managed users ([2 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
 - Salesforce has come up with the most credible threat yet to ServiceNow, and Benioff is crowing about it ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/salesforce_agentforce_vs_servicenow/))
 - Novel clickjacking attack relies on CSS and SVG ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/css_svg_clickjacking/))
