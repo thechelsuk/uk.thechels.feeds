@@ -8,13 +8,13 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([8 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
+- React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([9 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([12 hours ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([12 hours ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
-- Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([12 hours ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
-- Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation ([15 hours ago](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html))
-- Death to one-time text codes: Passkeys are the new hotness in MFA ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/))
-- KinoKong - 817,808 breached accounts ([19 hours ago](https://haveibeenpwned.com/Breach/KinoKong))
+- Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([13 hours ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
+- Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation ([16 hours ago](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html))
+- Death to one-time text codes: Passkeys are the new hotness in MFA ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/))
+- KinoKong - 817,808 breached accounts ([20 hours ago](https://haveibeenpwned.com/Breach/KinoKong))
 - Crims using social media images, videos in 'virtual kidnapping' scams ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/virtual_kidnapping_scam/))
 - Team synchronization is experiencing delays for non enterprise managed users ([1 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
 - Salesforce has come up with the most credible threat yet to ServiceNow, and Benioff is crowing about it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/05/salesforce_agentforce_vs_servicenow/))

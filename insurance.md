@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- It’s a Bold Move From Bold Penguin ([13 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
+- It’s a Bold Move From Bold Penguin ([14 hours ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
 - California Resources Reports Oil Fluid Spill in Monterey County ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/05/850131.htm))
 - How to Grow an Independent Insurance Agency ([1 days ago](https://www.insurancejournal.com/blogs/ezlynx/2025/12/05/850118.htm))
 - South Dakota Legislators Plan Bills to Help Residents in Fight Over Limestone Mine ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/05/850120.htm))
@@ -64,8 +64,8 @@ description: Insurance Updates
 - California AG Settles With National Sanitation Company Over No-Poach Agreements ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/05/849994.htm))
 - Penny Black’s Social Diary: Insurtech UK’s pizza; Clearspeed’s sunglasses ([1 days ago](https://www.postonline.co.uk/people/7959305/penny-blacks-social-diary-insurtech-uks-pizza-clearspeeds-sunglasses))
 - Headlines I hope to see in 2026 ([1 days ago](https://www.postonline.co.uk/news/7959490/headlines-i-hope-to-see-in-2026))
-- Insurance moves: Texel, Westfield Specialty, Lumera, Swedish Club and Tryg ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-texel-westfield-specialty-lumera-swedish-club-and-tryg-559084.aspx))
-- MDS Group integrates Marlow Caución to expand specialist operations in Spain ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mds-group-integrates-marlow-caucion-to-expand-specialist-operations-in-spain-559083.aspx))
+- Insurance moves: Texel, Westfield Specialty, Lumera, Swedish Club and Tryg ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-texel-westfield-specialty-lumera-swedish-club-and-tryg-559084.aspx))
+- MDS Group integrates Marlow Caución to expand specialist operations in Spain ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mds-group-integrates-marlow-caucion-to-expand-specialist-operations-in-spain-559083.aspx))
 - Fitch gives verdict on EMEA insurance in 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fitch-gives-verdict-on-emea-insurance-in-2026-559080.aspx))
 - LMA sets technology and data priorities for the Lloyd's market in 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-sets-technology-and-data-priorities-for-the-lloyds-market-in-2026-559079.aspx))
 - Core trends driving insurance transformation in 2026 ([2 days ago](https://www.dig-in.com/opinion/core-trends-driving-insurance-transformation-in-2026))
