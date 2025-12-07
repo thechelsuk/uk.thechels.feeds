@@ -9,8 +9,8 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([18 hours ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
-- Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([21 hours ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
-- New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([21 hours ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
+- Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([22 hours ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
+- New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([22 hours ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
 - Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([22 hours ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
 - Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation ([1 days ago](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html))
 - Death to one-time text codes: Passkeys are the new hotness in MFA ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/))
@@ -78,8 +78,8 @@ description: SecOps News
 - EU probes Meta after WhatsApp kicked rival AIs off platform ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/eu_probes_meta_whatsapp_ai/))
 - Microsoft quietly shuts down Windows shortcut flaw after years of espionage abuse ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/microsoft_lnk_bug_fix/))
 - ZTE CDO Cui Li speaks at Economist Impact's AI Innovation Asia 2025 ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/zte-speaks-at-economist-impact-ai-innovation-asia-2025/))
-- Latest Windows 11 updates may break the OS's most basic bits ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/windows_11_start_explorer/))
-- Logitech chief says ill-conceived gadgets put the AI in FAIL ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/logitech_chief_ai/))
+- Latest Windows 11 updates may break the OS's most basic bits ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/windows_11_start_explorer/))
+- Logitech chief says ill-conceived gadgets put the AI in FAIL ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/logitech_chief_ai/))
 - Aisuru botnet turns Q3 into a terabit-scale stress test for the entire internet ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/cloudflare_aisuru_botnet/))
 - ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories ([3 days ago](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html))
 - 5 Threats That Reshaped Web Security This Year [2025] ([3 days ago](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html))
