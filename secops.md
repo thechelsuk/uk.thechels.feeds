@@ -96,7 +96,7 @@ description: SecOps News
 - Lawyer's 6-year-old son uses AI to build copyright infringement generator ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/03/ai_has_made_ip_violations/))
 - 'Exploitation is imminent' as 39 percent of cloud environs have max-severity React hole ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/03/exploitation_is_imminent_react_vulnerability/))
 - MAGA cognoscenti warn feds away from shielding AI infringers ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/03/maga_bannon_anti_ai_fair_use/))
-- Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution ([3 days ago](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html))
+- Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution ([4 days ago](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html))
 - Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar ([4 days ago](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html))
 - Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation ([4 days ago](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html))
 - WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts ([4 days ago](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html))
@@ -185,7 +185,7 @@ description: SecOps News
 - Larger hosted runners experiencing delays ([25 days ago](https://www.githubstatus.com/incidents/htcm010tcwjq))
 - The AI Fix #76: AI self-awareness, and the death of comedy ([26 days ago](https://grahamcluley.com/the-ai-fix-76/))
 - Hack halts Dutch broadcaster, forcing radio hosts back to LPs ([27 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/hack-halts-dutch-broadcaster-forcing-radio-hosts-back-to-lps))
-- Drilling Down on Uncle Sam’s Proposed TP-Link Ban ([27 days ago](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/))
+- Drilling Down on Uncle Sam’s Proposed TP-Link Ban ([28 days ago](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/))
 - TISZA Világ - 198,520 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/Tisza))
 
 <!-- news_marker ends -->
