@@ -91,7 +91,7 @@ description: Insurance Updates
 - AI adoption and the emerging risks it creates for carriers ([3 days ago](https://www.dig-in.com/podcast/ai-adoption-and-the-emerging-risks-it-creates-for-carriers))
 - State Farm sued over policies backed by distressed insurer PHL ([3 days ago](https://www.dig-in.com/articles/state-farm-sued-over-policies-backed-by-distressed-insurer-phl))
 - WIL 2025, Amanda Smith: Strong leaders empower people ([3 days ago](https://www.dig-in.com/news/wil-2025-amanda-smith-strong-leaders-empower-people))
-- FCA mandates vulnerable customer complaint reporting ([3 days ago](https://www.postonline.co.uk/regulation/7959489/fca-mandates-vulnerable-customer-complaint-reporting))
+- FCA mandates vulnerable customer complaint reporting ([4 days ago](https://www.postonline.co.uk/regulation/7959489/fca-mandates-vulnerable-customer-complaint-reporting))
 - Why insurers must step up support for the UK’s 1.1 million working cancer carers ([4 days ago](https://ifamagazine.com/why-insurers-must-step-up-support-for-the-uks-1-1-million-working-cancer-carers/))
 - First Central to cut 160 Jobs ([4 days ago](https://www.postonline.co.uk/news/7959484/first-central-to-cut-160-jobs))
 - Broker calls narratives around cyber insurance availability ‘rubbish’ ([4 days ago](https://www.postonline.co.uk/broker/7959480/broker-calls-narratives-around-cyber-insurance-availability-rubbish))
