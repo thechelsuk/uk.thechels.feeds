@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Exclusive research: How can insurers prepare for AI? ([4 minutes ago](https://www.dig-in.com/news/digital-insurance-reveals-the-state-of-insurance-tech-and-ai))
 - Top insurtech funding rounds, November 2025 ([1 hours ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-november-2025))
 - Can your AI think like an underwriter? ([1 hours ago](https://www.dig-in.com/opinion/can-your-ai-think-like-an-underwriter))
 - It’s a Bold Move From Bold Penguin ([1 days ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
@@ -101,7 +102,6 @@ description: Insurance Updates
 - Six insurance risks of employee attendance monitoring ([4 days ago](https://www.postonline.co.uk/commercial/7959139/six-insurance-risks-of-employee-attendance-monitoring))
 - Why shipbuilding insurance is making waves in marine risk ([4 days ago](https://www.postonline.co.uk/commercial/7959313/why-shipbuilding-insurance-is-making-waves-in-marine-risk))
 - Cybersecurity predictions for 2026 ([4 days ago](https://www.dig-in.com/news/cybersecurity-predictions-for-2026))
-- WIL 2025: Lindsey DiGangi ([5 days ago](https://www.dig-in.com/news/wil-2025-lindsey-digangi))
 - Domestic & General snapped up by US firm ([5 days ago](https://www.postonline.co.uk/claims/7959481/domestic-general-snapped-up-by-us-firm))
 - Aviva confirms By Miles redundancies ([5 days ago](https://www.postonline.co.uk/news/7959472/aviva-confirms-by-miles-redundancies))
 - Bereavement is the fourth most common reason for referral to RedArc ([5 days ago](https://ifamagazine.com/bereavement-is-the-fourth-most-common-reason-for-referral-to-redarc/))

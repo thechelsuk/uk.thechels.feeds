@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- OpenAI denies rolling out ads on ChatGPT paid plans ([15 minutes ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
-- Portugal updates cybercrime law to exempt security researchers ([5 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
+- OpenAI denies rolling out ads on ChatGPT paid plans ([43 minutes ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
+- Portugal updates cybercrime law to exempt security researchers ([6 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
 - React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([1 days ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([1 days ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
@@ -67,7 +67,7 @@ description: SecOps News
 - SMS Phishers Pivot to Points, Taxes, Fake Retailers ([2 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
 - PRC spies Brickstormed their way into critical US networks and remained hidden for years ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/prc_spies_brickstorm_cisa/))
 - OpenAI turns the screws on chatbots to get them to confess mischief ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/openai_bots_tests_admit_wrongdoing/))
-- Hegseth needs to go to secure messaging school, report says ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/dod_hegseth_broke_pentagon_policy_signal/))
+- Hegseth needs to go to secure messaging school, report says ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/dod_hegseth_broke_pentagon_policy_signal/))
 - Twins who hacked State Dept hired to work for gov again, now charged with deleting databases ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/04/twin_brothers_charged_with_deleting_databases/))
 - India Rolls Back Order to Preinstall Cybersecurity App on Smartphones ([3 days ago](https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/))
 - Cybersecurity M&A Roundup: 30 Deals Announced in November 2025 ([3 days ago](https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/))
@@ -150,7 +150,7 @@ description: SecOps News
 - Beckett Collectibles - 1,041,238 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/Beckett))
 - Eurofiber - 10,003 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/Eurofiber))
 - Vultr - 187,872 breached accounts ([17 days ago](https://haveibeenpwned.com/Breach/Vultr))
-- Report URI - outage update ([17 days ago](https://scotthelme.ghost.io/report-uri-outage-update/))
+- Report URI - outage update ([18 days ago](https://scotthelme.ghost.io/report-uri-outage-update/))
 - [REVIVE-SA-2025-004] Revive Adserver Vulnerabilities ([18 days ago](https://seclists.org/fulldisclosure/2025/Nov/21))
 - [REVIVE-SA-2025-003] Revive Adserver Vulnerabilities ([18 days ago](https://seclists.org/fulldisclosure/2025/Nov/20))
 - [SYSS-2025-059]: Dell computer UEFI boot protection bypass ([18 days ago](https://seclists.org/fulldisclosure/2025/Nov/19))
