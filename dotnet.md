@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([1 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([20 minutes ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([2 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 - How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([1 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([2 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([2 days ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
@@ -21,7 +22,7 @@ description: DotNet Updates
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([3 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([4 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([4 days ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([4 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([5 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Domain-Driven Design Misconceptions ([5 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([5 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([5 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
@@ -45,7 +46,6 @@ description: DotNet Updates
 - How To Automate Azure Naming Conventions With The Build5Nines/naming/azure Terraform Module  -  Build5Nines ([14 days ago](https://dotnetkicks.com/r/735468?url=https://build5nines.com/how-to-automate-azure-naming-conventions-with-the-build5nines-naming-azure-terraform-module/))
 - Infinite scale: The architecture behind the Azure AI superfactory - The Official Microsoft Blog ([14 days ago](https://dotnetkicks.com/r/735456?url=https://blogs.microsoft.com/blog/2025/11/12/infinite-scale-the-architecture-behind-the-azure-ai-superfactory/))
 - How Do You Fix 70% Data Loss Across 1 Million Concurrent Connections? ([15 days ago](https://dotnetkicks.com/r/735453?url=https://petabridge.com/blog/why-buy-akka.net-support-2025/))
-- Reinventing how .NET Builds and Ships (Again) - .NET Blog ([16 days ago](https://dotnetkicks.com/r/735363?url=https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - Reinventing how .NET Builds and Ships (Again) ([16 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([16 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([17 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
