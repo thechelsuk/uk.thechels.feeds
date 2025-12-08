@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sustainability increasingly shapes claims and underwriting decisions, report finds ([51 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sustainability-increasingly-shapes-claims-and-underwriting-decisions-report-finds-559225.aspx))
-- Exclusive research: How can insurers prepare for AI? ([6 hours ago](https://www.dig-in.com/news/digital-insurance-reveals-the-state-of-insurance-tech-and-ai))
+- Sustainability increasingly shapes claims and underwriting decisions, report finds ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/sustainability-increasingly-shapes-claims-and-underwriting-decisions-report-finds-559225.aspx))
+- Exclusive research: How can insurers prepare for AI? ([7 hours ago](https://www.dig-in.com/news/digital-insurance-reveals-the-state-of-insurance-tech-and-ai))
 - Top insurtech funding rounds, November 2025 ([8 hours ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-november-2025))
 - Can your AI think like an underwriter? ([8 hours ago](https://www.dig-in.com/opinion/can-your-ai-think-like-an-underwriter))
-- War-risk premiums rise as insurers tighten cover for Black Sea shipping ([13 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/warrisk-premiums-rise-as-insurers-tighten-cover-for-black-sea-shipping-559204.aspx))
+- War-risk premiums rise as insurers tighten cover for Black Sea shipping ([14 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/warrisk-premiums-rise-as-insurers-tighten-cover-for-black-sea-shipping-559204.aspx))
 - Ecclesiastical taps David Hockey as director of schemes and partnerships ([14 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ecclesiastical-taps-david-hockey-as-director-of-schemes-and-partnerships-559203.aspx))
 - UK insurance distribution M&A activity slows as 2025 nears close ([15 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-insurance-distribution-manda-activity-slows-as-2025-nears-close-559202.aspx))
 - It’s a Bold Move From Bold Penguin ([1 days ago](https://insurance-edge.net/2025/12/06/its-a-bold-move-from-bold-penguin/))
@@ -71,7 +71,7 @@ description: Insurance Updates
 - California AG Settles With National Sanitation Company Over No-Poach Agreements ([2 days ago](https://www.insurancejournal.com/news/west/2025/12/05/849994.htm))
 - Penny Black’s Social Diary: Insurtech UK’s pizza; Clearspeed’s sunglasses ([2 days ago](https://www.postonline.co.uk/people/7959305/penny-blacks-social-diary-insurtech-uks-pizza-clearspeeds-sunglasses))
 - Headlines I hope to see in 2026 ([2 days ago](https://www.postonline.co.uk/news/7959490/headlines-i-hope-to-see-in-2026))
-- Insurance moves: Texel, Westfield Specialty, Lumera, Swedish Club and Tryg ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-texel-westfield-specialty-lumera-swedish-club-and-tryg-559084.aspx))
+- Insurance moves: Texel, Westfield Specialty, Lumera, Swedish Club and Tryg ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-texel-westfield-specialty-lumera-swedish-club-and-tryg-559084.aspx))
 - MDS Group integrates Marlow Caución to expand specialist operations in Spain ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mds-group-integrates-marlow-caucion-to-expand-specialist-operations-in-spain-559083.aspx))
 - Fitch gives verdict on EMEA insurance in 2026 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fitch-gives-verdict-on-emea-insurance-in-2026-559080.aspx))
 - LMA sets technology and data priorities for the Lloyd's market in 2026 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-sets-technology-and-data-priorities-for-the-lloyds-market-in-2026-559079.aspx))
