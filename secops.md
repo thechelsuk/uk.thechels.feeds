@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- China’s first reusable rocket explodes, but its onboard Ethernet network flew ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/08/asia_tech_news_roundup/))
-- Apache warns of 10.0-rated flaw in Tika metadata ingestion tool ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/08/infosec_news_in_brief/))
-- OpenAI denies rolling out ads on ChatGPT paid plans ([6 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
-- Portugal updates cybercrime law to exempt security researchers ([12 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
+- China’s first reusable rocket explodes, but its onboard Ethernet network flew ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/08/asia_tech_news_roundup/))
+- Apache warns of 10.0-rated flaw in Tika metadata ingestion tool ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/08/infosec_news_in_brief/))
+- OpenAI denies rolling out ads on ChatGPT paid plans ([7 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/))
+- Portugal updates cybercrime law to exempt security researchers ([13 hours ago](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/))
 - React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable ([1 days ago](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/))
 - Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html))
 - New wave of VPN login attempts targets Palo Alto GlobalProtect portals ([1 days ago](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/))
