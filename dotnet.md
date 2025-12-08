@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Microsoft Learn MCP Server Elevates Development - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
+- Microsoft Learn MCP Server Elevates Development - .NET Blog ([3 hours ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - Microsoft Learn MCP Server Elevates Development ([3 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
-- Aggregates in DDD: Model Rules, Not Relationships ([3 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
-- .NET 10 Networking Improvements - .NET Blog ([4 hours ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
+- Aggregates in DDD: Model Rules, Not Relationships ([4 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
+- .NET 10 Networking Improvements - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([5 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([1 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([1 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
