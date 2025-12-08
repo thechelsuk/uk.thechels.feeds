@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([15 hours ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
-- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([17 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
-- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([1 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([16 hours ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([18 hours ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
+- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([2 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - "Classic" .NET Domain Events with Wolverine and EF Core ([2 days ago](https://dotnetkicks.com/r/736077?url=https://jeremydmiller.com/2025/12/04/classic-net-domain-events-with-wolverine-and-ef-core/))
 - .NET Conf 2025 Recap - Celebrating .NET 10, Visual Studio 2026, AI, Community, & More - .NET Blog ([3 days ago](https://dotnetkicks.com/r/736049?url=https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
@@ -56,7 +56,7 @@ description: DotNet Updates
 - Introducing C# 14 ([20 days ago](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/))
 - Database Features in Rider ([20 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([21 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
-- JetBrains Is Heading to VSLive! Orlando ([22 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
+- JetBrains Is Heading to VSLive! Orlando ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
 - What’s Been Fixed in Rider 2025.3 ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
 - ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility ([26 days ago](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/))
