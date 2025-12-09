@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Trying out the Zed editor on Windows for .NET and Markdown ([4 hours ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
+- Trying out the Zed editor on Windows for .NET and Markdown ([5 hours ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([5 hours ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - Microsoft Learn MCP Server Elevates Development ([19 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
-- Aggregates in DDD: Model Rules, Not Relationships ([19 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
+- Aggregates in DDD: Model Rules, Not Relationships ([20 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
 - .NET 10 Networking Improvements - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([2 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
