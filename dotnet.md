@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Microsoft Learn MCP Server Elevates Development - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - Microsoft Learn MCP Server Elevates Development ([12 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
-- Aggregates in DDD: Model Rules, Not Relationships ([12 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
+- Aggregates in DDD: Model Rules, Not Relationships ([13 hours ago](https://dotnetkicks.com/r/736231?url=https://codeopinion.com/aggregates-in-ddd-model-rules-not-relationships/))
 - .NET 10 Networking Improvements - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([1 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
