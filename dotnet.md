@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
-- .NET and .NET Framework December 2025 servicing releases updates ([16 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
+- .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
+- .NET and .NET Framework December 2025 servicing releases updates ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
-- Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([17 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
+- Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([18 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([1 days ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([1 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development - .NET Blog ([1 days ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
