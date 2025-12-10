@@ -10,9 +10,9 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - .NET and .NET Framework December 2025 servicing releases updates ([9 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
-- Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
+- Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([10 hours ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
-- Trying out the Zed editor on Windows for .NET and Markdown ([17 hours ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
+- Trying out the Zed editor on Windows for .NET and Markdown ([18 hours ago](https://dotnetkicks.com/r/736257?url=https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([18 hours ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development - .NET Blog ([1 days ago](https://dotnetkicks.com/r/736233?url=https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - Microsoft Learn MCP Server Elevates Development ([1 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
