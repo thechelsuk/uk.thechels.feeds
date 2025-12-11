@@ -53,16 +53,11 @@ description: DotNet Updates
 - Exploring the .NET boot process via host tracing ([16 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([18 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - Reinventing how .NET Builds and Ships (Again) ([20 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
-- More Updates and Fixes for ReSharper and Rider 2025.3 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
+- More Updates and Fixes for ReSharper and Rider 2025.3 ([21 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([21 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([23 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
 - Database Features in Rider ([24 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([25 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
-- C# 14 Language Features in ReSharper and Rider 2025.3 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
-- What’s Been Fixed in Rider 2025.3 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/))
-- ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility ([29 days ago](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/))
-- ReSharper 2025.3: Day-One C# 14 Support, Visual Studio 2026 Compatibility, and Major Performance Gains ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/resharper-2025-3-day-one-csharp-14-support-visual-studio-2026-compatible/))
-- Rider 2025.3: Day-One Support for .NET 10 and C# 14, a New Default UI, and Faster Startup ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/rider-2025-3-day-one-support-for-dotnet-10/))
 
 <!-- news_marker ends -->
