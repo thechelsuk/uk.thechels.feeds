@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider and ReSharper 2025.3.0.4: Important Updates Released ([2 hours ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
-- Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
+- Rider and ReSharper 2025.3.0.4: Important Updates Released ([3 hours ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
+- Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([23 hours ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
 - .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - .NET and .NET Framework December 2025 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([1 days ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
@@ -39,7 +39,7 @@ description: DotNet Updates
 - Domain-Driven Design Misconceptions ([9 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([9 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Cross-Platform Age Verification in .NET MAUI Applications ([9 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
-- Welcoming Babu Annamalai to JasperFx Software ([9 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
+- Welcoming Babu Annamalai to JasperFx Software ([10 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
 - F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([10 days ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([11 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Exploring Squirrly Apache Flink Performance Issues through Continual AI-Driven Evaluation ([11 days ago](https://dotnetkicks.com/r/735694?url=https://rion.io/2025/11/29/exploring-squirrly-apache-flink-performance-issues-through-continual-ai-driven-evaluation/))
