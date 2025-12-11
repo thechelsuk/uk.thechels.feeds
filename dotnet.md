@@ -56,7 +56,7 @@ description: DotNet Updates
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([20 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([21 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([23 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
-- Database Features in Rider ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Database Features in Rider ([24 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 - Defensive Programming Rule #4: Safe and Efficient Type Casting ([25 days ago](https://dotnettips.wordpress.com/2025/11/16/defensive-programming-rule-4-safe-and-efficient-type-casting/))
 - JetBrains Is Heading to VSLive! Orlando ([26 days ago](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/))
 - C# 14 Language Features in ReSharper and Rider 2025.3 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/))
