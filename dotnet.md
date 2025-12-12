@@ -36,7 +36,7 @@ description: DotNet Updates
 - dotInsights  -  December 2025 ([10 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([10 days ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([10 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
-- Domain-Driven Design Misconceptions ([10 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
+- Domain-Driven Design Misconceptions ([11 days ago](https://dotnetkicks.com/r/735809?url=https://codeopinion.com/domain-driven-design-misconceptions/))
 - Cross-Platform Age Verification in .NET MAUI Applications - .NET Blog ([11 days ago](https://dotnetkicks.com/r/735789?url=https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/))
 - Welcoming Babu Annamalai to JasperFx Software ([11 days ago](https://dotnetkicks.com/r/735734?url=https://jeremydmiller.com/2025/12/01/welcoming-babu-annamalai-to-jasperfx-software/))
 - F# Weekly #48, 2025 - #FsAdvent starts Dec 1st. ([11 days ago](https://dotnetkicks.com/r/735711?url=https://sergeytihon.com/2025/11/30/f-weekly-48-2025-fsadvent-starts-dec-1st/))
