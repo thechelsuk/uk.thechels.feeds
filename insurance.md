@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Ford and Renault Form Partnership on Light Commercials ([7 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
+- Ford and Renault Form Partnership on Light Commercials ([8 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
 - Equiom Wins Three International Awards ([23 hours ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
-- Man Sentenced for Flashing Three Insurance Agencies in Georgia ([23 hours ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
+- Man Sentenced for Flashing Three Insurance Agencies in Georgia ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
 - US P&C industry reports $35bn nine-month underwriting gain: AM Best ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-reports-35bn-nine-month-underwriting-gain-am-best/))
 - QBE Teams Up With Repair Ventures in the USA ([1 days ago](https://insurance-edge.net/2025/12/12/qbe-teams-up-with-repair-ventures-in-the-usa/))
 - Black Lung Benefits Denied; Discrimination Claim Against UPS Shot Down by Court ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850951.htm))
@@ -89,7 +89,7 @@ description: Insurance Updates
 - AI from buzzword to business impact ([2 days ago](https://www.dig-in.com/opinion/ais-business-impact-for-insurers))
 - Megaquake warning issued as Japan hit by new tremors ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/megaquake-warning-issued-as-japan-hit-by-new-tremors-559717.aspx))
 - WIL 2025: Leaders have vision, Arch's Linda Fallon ([2 days ago](https://www.dig-in.com/news/wil-2025-leaders-have-vision-archs-linda-fallon))
-- State insurance officials lobby for FEMA, NFIP funding ([2 days ago](https://www.dig-in.com/news/state-insurance-officials-lobby-for-fema-nfip-funding))
+- State insurance officials lobby for FEMA, NFIP funding ([3 days ago](https://www.dig-in.com/news/state-insurance-officials-lobby-for-fema-nfip-funding))
 - Motor insurance taskforce sets out claims-led reforms – insurers told to prepare for change ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motor-insurance-taskforce-sets-out-claimsled-reforms--insurers-told-to-prepare-for-change-559656.aspx))
 - Holiday disconnect: How employers can help staff truly switch off ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/holiday-disconnect-how-employers-can-help-staff-truly-switch-off-559647.aspx))
 - Government admits motor taskforce suggestions ‘unlikely to reduce premiums’ ([3 days ago](https://www.postonline.co.uk/news/7959532/government-admits-motor-taskforce-suggestions-unlikely-to-reduce-premiums))
