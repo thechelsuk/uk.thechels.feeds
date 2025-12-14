@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([13 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
-- British Airways fears a future where AI agents pick flights and brands get ghosted ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
-- Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([20 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
+- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([14 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
+- British Airways fears a future where AI agents pick flights and brands get ghosted ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
+- Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([21 hours ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
 - Apple fixes two zero-day flaws exploited in 'sophisticated' attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/))
 - Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_windows_rasman_dos_0day/))
 - Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([1 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
@@ -49,8 +49,8 @@ description: SecOps News
 - $320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits ([1 days ago](https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/))
 - MKVCinemas streaming piracy service with 142M visits shuts down ([1 days ago](https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/))
 - CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog ([1 days ago](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html))
-- Trump Signs Executive Order to Block State AI Regulations ([1 days ago](https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/))
-- Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/))
+- Trump Signs Executive Order to Block State AI Regulations ([2 days ago](https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/))
+- Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/))
 - Brave browser starts testing agentic AI mode for automated tasks ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/))
 - AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/))
 - VMware kills vSphere Foundation in parts of EMEA ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/vmware_kills_vsphere_foundation_parts_emea/))
@@ -186,7 +186,7 @@ description: SecOps News
 - Wind farm worker sentenced after turning turbines into a secret crypto mine ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/wind-farm-worker-sentenced-after-turning-turbines-into-a-secret-crypto-mine))
 - Smashing Security podcast #444: We’re sorry. Wait, did a company actually say that? ([23 days ago](https://grahamcluley.com/smashing-security-podcast-444/))
 - Beckett Collectibles - 1,041,238 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/Beckett))
-- Eurofiber - 10,003 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/Eurofiber))
+- Eurofiber - 10,003 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/Eurofiber))
 - Vultr - 187,872 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/Vultr))
 - Report URI - outage update ([24 days ago](https://scotthelme.ghost.io/report-uri-outage-update/))
 - [REVIVE-SA-2025-004] Revive Adserver Vulnerabilities ([24 days ago](https://seclists.org/fulldisclosure/2025/Nov/21))
@@ -200,8 +200,5 @@ description: SecOps News
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/3bmqzkljz8s3))
 - Microsoft Patch Tuesday, November 2025 Edition ([27 days ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
 - Weekly Update 478 ([27 days ago](https://www.troyhunt.com/weekly-update-478/))
-- Re: [FD]	: "Glass Cage" – Zero-Click iMessage → Persistent iOS Compromise + Bricking (CVE-2025-24085 / 24201, CNVD-2025-07885) ([29 days ago](https://seclists.org/fulldisclosure/2025/Nov/18))
-- APPLE-SA-11-13-2025-1 Compressor 4.11.1 ([29 days ago](https://seclists.org/fulldisclosure/2025/Nov/17))
-- Re: 83 vulnerabilities in Vasion Print / PrinterLogic ([29 days ago](https://seclists.org/fulldisclosure/2025/Nov/16))
 
 <!-- news_marker ends -->
