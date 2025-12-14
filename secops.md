@@ -86,7 +86,7 @@ description: SecOps News
 - 700+ self-hosted Gits battered in 0-day attacks with no fix imminent ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/gogs_0day_under_active_exploitation/))
 - US teens not only love AI, but also let it rot their brains ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/teenagers_ai_chatbot_use/))
 - Really Simple Licensing spec lets web publishers demand their due from AI scrapers ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/really_simple_licensing_spec_takes/))
-- React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors ([3 days ago](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html))
+- React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors ([4 days ago](https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html))
 - .NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL ([4 days ago](https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html))
 - US extradites Ukrainian woman accused of hacking meat processing plant for Russia ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/pro_russia_hacktivist_charged/))
 - Microsoft won't fix .NET RCE bug affecting slew of enterprise apps, researchers say ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/10/microsoft_wont_fix_net_rce/))
