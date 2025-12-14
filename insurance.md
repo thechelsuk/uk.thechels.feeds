@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- NAIC prepares new call for home insurance data ([18 minutes ago](https://www.dig-in.com/news/naic-prepares-new-call-for-home-insurance-data))
-- WIL 2025: Sarah Griffin ([20 minutes ago](https://www.dig-in.com/news/wil-2025-sarah-griffin))
+- NAIC prepares new call for home insurance data ([47 minutes ago](https://www.dig-in.com/news/naic-prepares-new-call-for-home-insurance-data))
+- WIL 2025: Sarah Griffin ([49 minutes ago](https://www.dig-in.com/news/wil-2025-sarah-griffin))
 - Ford and Renault Form Partnership on Light Commercials ([1 days ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
 - Equiom Wins Three International Awards ([2 days ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
 - Man Sentenced for Flashing Three Insurance Agencies in Georgia ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
@@ -88,7 +88,7 @@ description: Insurance Updates
 - Insurance sector enjoys record-breaking dementia event ([3 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/insurance-sector-enjoys-recordbreaking-dementia-event-559736.aspx))
 - AXA UK research signals opportunities for SME insurance products ([3 days ago](https://www.insurancebusinessmag.com/uk/news/sme/axa-uk-research-signals-opportunities-for-sme-insurance-products-559744.aspx))
 - WIL 2025: MetLife's Donna Carr leads by example ([3 days ago](https://www.dig-in.com/news/metlifes-donna-carr-leads-by-example))
-- AI from buzzword to business impact ([3 days ago](https://www.dig-in.com/opinion/ais-business-impact-for-insurers))
+- AI from buzzword to business impact ([4 days ago](https://www.dig-in.com/opinion/ais-business-impact-for-insurers))
 - Megaquake warning issued as Japan hit by new tremors ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/megaquake-warning-issued-as-japan-hit-by-new-tremors-559717.aspx))
 - WIL 2025: Leaders have vision, Arch's Linda Fallon ([4 days ago](https://www.dig-in.com/news/wil-2025-leaders-have-vision-archs-linda-fallon))
 - State insurance officials lobby for FEMA, NFIP funding ([4 days ago](https://www.dig-in.com/news/state-insurance-officials-lobby-for-fema-nfip-funding))
