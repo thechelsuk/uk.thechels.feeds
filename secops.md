@@ -65,7 +65,7 @@ description: SecOps News
 - Google fixes super-secret 8th Chrome 0-day ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/google_fixes_supersecret_8th_chrome/))
 - LastPass hammered with £1.2M fine for 2022 breach fiasco ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/lastpass_ico_fine/))
 - Virtual Event Today: Cyber AI & Automation Summit Day 2 ([2 days ago](https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/))
-- Legacy Update expands archive of vanished Microsoft downloads ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/legacy_update_update/))
+- Legacy Update expands archive of vanished Microsoft downloads ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/legacy_update_update/))
 - ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories ([3 days ago](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html))
 - NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems ([3 days ago](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html))
 - Trump's AI 'Genesis Mission' emerges from Land of Confusion ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/doe_genesis_mission_funding/))

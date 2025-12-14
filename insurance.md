@@ -90,7 +90,7 @@ description: Insurance Updates
 - Megaquake warning issued as Japan hit by new tremors ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/megaquake-warning-issued-as-japan-hit-by-new-tremors-559717.aspx))
 - WIL 2025: Leaders have vision, Arch's Linda Fallon ([3 days ago](https://www.dig-in.com/news/wil-2025-leaders-have-vision-archs-linda-fallon))
 - State insurance officials lobby for FEMA, NFIP funding ([3 days ago](https://www.dig-in.com/news/state-insurance-officials-lobby-for-fema-nfip-funding))
-- Motor insurance taskforce sets out claims-led reforms – insurers told to prepare for change ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motor-insurance-taskforce-sets-out-claimsled-reforms--insurers-told-to-prepare-for-change-559656.aspx))
+- Motor insurance taskforce sets out claims-led reforms – insurers told to prepare for change ([4 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/motor-insurance-taskforce-sets-out-claimsled-reforms--insurers-told-to-prepare-for-change-559656.aspx))
 - Holiday disconnect: How employers can help staff truly switch off ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/holiday-disconnect-how-employers-can-help-staff-truly-switch-off-559647.aspx))
 - Government admits motor taskforce suggestions ‘unlikely to reduce premiums’ ([4 days ago](https://www.postonline.co.uk/news/7959532/government-admits-motor-taskforce-suggestions-unlikely-to-reduce-premiums))
 - Entries open for the 2026 British Insurance Awards ([4 days ago](https://www.postonline.co.uk/commercial/7959530/entries-open-for-the-2026-british-insurance-awards))
