@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Beware: PayPal subscriptions abused to send fake purchase emails ([6 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
+- Beware: PayPal subscriptions abused to send fake purchase emails ([7 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
 - CyberVolk’s ransomware debut stumbles on cryptography weakness ([1 days ago](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/))
 - CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
 - British Airways fears a future where AI agents pick flights and brands get ghosted ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
@@ -52,8 +52,8 @@ description: SecOps News
 - CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog ([2 days ago](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html))
 - Trump Signs Executive Order to Block State AI Regulations ([2 days ago](https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/))
 - Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/))
-- Brave browser starts testing agentic AI mode for automated tasks ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/))
-- AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/))
+- Brave browser starts testing agentic AI mode for automated tasks ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/))
+- AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/))
 - VMware kills vSphere Foundation in parts of EMEA ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/vmware_kills_vsphere_foundation_parts_emea/))
 - Disney turns to dark side, licenses IP to OpenAI for videos, images ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/disney_openai_video_image_generation_deal/))
 - Russian hackers debut simple ransomware service, but store keys in plain text ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/cybervolk_ransomware_is_back/))
@@ -131,7 +131,7 @@ description: SecOps News
 - Team synchronization is experiencing delays for non enterprise managed users ([9 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
 - Multiple Security Misconfigurations and Customer Enumeration Exposure in Convercent Whistleblowing Platform (EQS Group) ([9 days ago](https://seclists.org/fulldisclosure/2025/Dec/4))
 - Weekly Update 481 ([9 days ago](https://www.troyhunt.com/weekly-update-481/))
-- SMS Phishers Pivot to Points, Taxes, Fake Retailers ([9 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
+- SMS Phishers Pivot to Points, Taxes, Fake Retailers ([10 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
 - Why Does Have I Been Pwned Contain "Fake" Email Addresses? ([10 days ago](https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/))
 - Webhooks delivery degradation ([11 days ago](https://www.githubstatus.com/incidents/k95d6yq4tmly))
 - 8 vulnerabilities in AudioCodes Fax/IVR Appliance ([12 days ago](https://seclists.org/fulldisclosure/2025/Dec/3))
