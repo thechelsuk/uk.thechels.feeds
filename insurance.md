@@ -20,9 +20,9 @@ description: Insurance Updates
 - Rise of AI Impacts Grand Rapids Region, Companies Face Talent and Market Challenges ([1 days ago](https://www.insurancejournal.com/news/midwest/2025/12/12/850938.htm))
 - Washington Faces Historic Floods That Have Washed Away Homes And Stranded Families ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/12/850935.htm))
 - State Farm Files for Auto Rate Decrease, Homeowners Rate Increase in Louisiana ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/12/12/850924.htm))
-- South Carolina’s Abandoned Nuclear Plants Could be Revived as Firm Offers $2.7B ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850931.htm))
-- Amynta Group completes acquisition of broker International Sureties ([1 days ago](https://www.reinsurancene.ws/amynta-group-completes-acquisition-of-broker-international-sureties/))
-- Climate Change Is Straining Alaska’s Arctic, But A Mining Road May Push It Past The Brink ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/12/850927.htm))
+- South Carolina’s Abandoned Nuclear Plants Could be Revived as Firm Offers $2.7B ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850931.htm))
+- Amynta Group completes acquisition of broker International Sureties ([2 days ago](https://www.reinsurancene.ws/amynta-group-completes-acquisition-of-broker-international-sureties/))
+- Climate Change Is Straining Alaska’s Arctic, But A Mining Road May Push It Past The Brink ([2 days ago](https://www.insurancejournal.com/news/west/2025/12/12/850927.htm))
 - Amwins reports stabilising reinsurance rates amid abundant capacity and flexible high-layer coverage ([2 days ago](https://www.reinsurancene.ws/amwins-reports-stabilising-reinsurance-rates-amid-abundant-capacity-and-flexible-high-layer-coverage/))
 - Connecticut Builder Charged With Being Workers’ Compensation Scofflaw ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/12/850914.htm))
 - Trump Signs Order Seeking to Limit State-Level AI Regulation ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850913.htm))
@@ -120,6 +120,6 @@ description: Insurance Updates
 - Bereavement is the fourth most common reason for referral to RedArc ([12 days ago](https://ifamagazine.com/bereavement-is-the-fourth-most-common-reason-for-referral-to-redarc/))
 - Employers will need help in supporting the wide range of health & wellbeing needs their staff have ([12 days ago](https://ifamagazine.com/employers-will-need-help-in-supporting-the-wide-range-of-health-wellbeing-needs-their-staff-have/))
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([16 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
-- In Profile: Thomas Galbraith at Barker ([23 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
+- In Profile: Thomas Galbraith at Barker ([24 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
 
 <!-- news_marker ends -->
