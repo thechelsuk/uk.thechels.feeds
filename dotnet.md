@@ -33,7 +33,7 @@ description: DotNet Updates
 - AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support ([10 days ago](https://dotnetkicks.com/r/735934?url=https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/))
 - Introducing Data Ingestion Building Blocks (Preview) - .NET Blog ([10 days ago](https://dotnetkicks.com/r/735929?url=https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - Introducing Data Ingestion Building Blocks (Preview) ([10 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
-- 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([10 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
+- 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([11 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([11 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([11 days ago](https://dotnetkicks.com/r/735821?url=https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([12 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
