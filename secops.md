@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Beware: PayPal subscriptions abused to send fake purchase emails ([5 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
+- Beware: PayPal subscriptions abused to send fake purchase emails ([6 hours ago](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/))
 - CyberVolk’s ransomware debut stumbles on cryptography weakness ([1 days ago](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/))
 - CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([1 days ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
 - British Airways fears a future where AI agents pick flights and brands get ghosted ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
@@ -54,7 +54,7 @@ description: SecOps News
 - Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/))
 - Brave browser starts testing agentic AI mode for automated tasks ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/))
 - AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/ai_superintelligence_fantasy/))
-- VMware kills vSphere Foundation in parts of EMEA ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/vmware_kills_vsphere_foundation_parts_emea/))
+- VMware kills vSphere Foundation in parts of EMEA ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/vmware_kills_vsphere_foundation_parts_emea/))
 - Disney turns to dark side, licenses IP to OpenAI for videos, images ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/disney_openai_video_image_generation_deal/))
 - Russian hackers debut simple ransomware service, but store keys in plain text ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/11/cybervolk_ransomware_is_back/))
 - Disruptions in Login and Signup Flows ([3 days ago](https://www.githubstatus.com/incidents/40730vhmg6y8))
@@ -101,8 +101,8 @@ description: SecOps News
 - Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws ([4 days ago](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html))
 - Microsoft reports 7.8-rated zero day, plus 56 more in December Patch Tuesday ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/december_2025_patch_tuesday/))
 - Microsoft Patch Tuesday, December 2025 Edition ([4 days ago](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/))
-- How to answer the door when the AI agents come knocking ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/okta_agent_control/))
-- How to answer the door when the AI agents come knocking ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/okta_agent_control/))
+- How to answer the door when the AI agents come knocking ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/okta_agent_control/))
+- How to answer the door when the AI agents come knocking ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/okta_agent_control/))
 - Linux Foundation aims to become the Switzerland of AI agents ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/linux_foundation_agentic_ai_foundation/))
 - North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware ([5 days ago](https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html))
 - Porsche panic in Russia as pricey status symbols forget how to car ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/09/porsche_bricked_russia/))
@@ -174,10 +174,10 @@ description: SecOps News
 - Incident with Actions ([25 days ago](https://www.githubstatus.com/incidents/zs5ccnvqv64m))
 - Integrity Policy - Monitoring and Enforcing the use of SRI ([25 days ago](https://scotthelme.ghost.io/integrity-policy-monitoring-and-enforcing-the-use-of-sri/))
 - The Cloudflare Outage May Be a Security Roadmap ([25 days ago](https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/))
-- Git operation failures ([25 days ago](https://www.githubstatus.com/incidents/5q7nmlxz30sk))
+- Git operation failures ([26 days ago](https://www.githubstatus.com/incidents/5q7nmlxz30sk))
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/ql19qqqmdf99))
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/3bmqzkljz8s3))
-- Microsoft Patch Tuesday, November 2025 Edition ([27 days ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
+- Microsoft Patch Tuesday, November 2025 Edition ([28 days ago](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/))
 - Weekly Update 478 ([28 days ago](https://www.troyhunt.com/weekly-update-478/))
 
 <!-- news_marker ends -->
