@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([17 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
+- CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks ([18 hours ago](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html))
 - British Airways fears a future where AI agents pick flights and brands get ghosted ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/13/british_airways_fears_a_future/))
 - Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild ([1 days ago](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html))
 - Apple fixes two zero-day flaws exploited in 'sophisticated' attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/))

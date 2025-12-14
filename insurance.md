@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Ford and Renault Form Partnership on Light Commercials ([20 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
+- Ford and Renault Form Partnership on Light Commercials ([21 hours ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
 - Equiom Wins Three International Awards ([1 days ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
 - Man Sentenced for Flashing Three Insurance Agencies in Georgia ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
 - US P&C industry reports $35bn nine-month underwriting gain: AM Best ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-reports-35bn-nine-month-underwriting-gain-am-best/))
@@ -57,8 +57,8 @@ description: Insurance Updates
 - Bupa secures deal with ParalympicsGB ([1 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/bupa-secures-deal-with-paralympicsgb-559907.aspx))
 - Howden employee completes New York Marathon ([1 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/howden-employee-completes-new-york-marathon-559906.aspx))
 - Climate Change Supercharged Deadly Asia Floods, Study Finds ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/12/850822.htm))
-- Applied Underwriters Golf Invitational Nets Record-Breaking $15.2 Million for Charities ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850839.htm))
-- Big ‘I’ CEO Symington Named Among Top Lobbyists for 2025 ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850833.htm))
+- Applied Underwriters Golf Invitational Nets Record-Breaking $15.2 Million for Charities ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850839.htm))
+- Big ‘I’ CEO Symington Named Among Top Lobbyists for 2025 ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850833.htm))
 - Suit Against OpenAI and Microsoft Blames ChatGPT for Murder-Suicide ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/12/850760.htm))
 - Probe Finds Officers Violated Policies in Pursuit That Killed Recruit ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/12/850692.htm))
 - People Moves: Penn National Insurance Announces Leadership Changes for 2026 ([2 days ago](https://www.insurancejournal.com/news/east/2025/12/12/850810.htm))
