@@ -14,7 +14,7 @@ description: Insurance Updates
 - US P&C industry reports $35bn nine-month underwriting gain: AM Best ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-reports-35bn-nine-month-underwriting-gain-am-best/))
 - QBE Teams Up With Repair Ventures in the USA ([1 days ago](https://insurance-edge.net/2025/12/12/qbe-teams-up-with-repair-ventures-in-the-usa/))
 - Black Lung Benefits Denied; Discrimination Claim Against UPS Shot Down by Court ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850951.htm))
-- NAIC Elects New Officers for 2026; Virginia’s White President ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850944.htm))
+- NAIC Elects New Officers for 2026; Virginia’s White President ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/12/850944.htm))
 - Missouri Attorney General Charges Carpenter for Fraud ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/12/12/850946.htm))
 - Howden appoints Nick Stace as Chief Global Impact Officer ([2 days ago](https://www.reinsurancene.ws/howden-appoints-nick-stace-as-chief-global-impact-officer/))
 - Rise of AI Impacts Grand Rapids Region, Companies Face Talent and Market Challenges ([2 days ago](https://www.insurancejournal.com/news/midwest/2025/12/12/850938.htm))
