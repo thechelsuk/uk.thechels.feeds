@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How to Build iOS Widgets with .NET MAUI - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
+- How to Build iOS Widgets with .NET MAUI - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - How to Build iOS Widgets with .NET MAUI ([2 hours ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - F# Weekly #50, 2025 - Making of A Programming Language ([1 days ago](https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([1 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
