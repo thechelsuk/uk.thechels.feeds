@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- NAIC prepares new call for home insurance data ([3 hours ago](https://www.dig-in.com/news/naic-prepares-new-call-for-home-insurance-data))
-- WIL 2025: Sarah Griffin ([3 hours ago](https://www.dig-in.com/news/wil-2025-sarah-griffin))
+- NAIC prepares new call for home insurance data ([4 hours ago](https://www.dig-in.com/news/naic-prepares-new-call-for-home-insurance-data))
+- WIL 2025: Sarah Griffin ([4 hours ago](https://www.dig-in.com/news/wil-2025-sarah-griffin))
 - Ford and Renault Form Partnership on Light Commercials ([1 days ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
 - Equiom Wins Three International Awards ([2 days ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
 - Man Sentenced for Flashing Three Insurance Agencies in Georgia ([2 days ago](https://www.insurancejournal.com/news/southeast/2025/12/12/850965.htm))
