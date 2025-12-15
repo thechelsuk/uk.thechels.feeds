@@ -53,7 +53,7 @@ description: DotNet Updates
 - Exploring the .NET boot process via host tracing ([20 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([22 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 - Reinventing how .NET Builds and Ships (Again) ([24 days ago](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/))
-- More Updates and Fixes for ReSharper and Rider 2025.3 ([24 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
+- More Updates and Fixes for ReSharper and Rider 2025.3 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([25 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode ([26 days ago](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([27 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
