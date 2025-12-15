@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- FCA issues final guidance on non-financial misconduct rules ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-issues-final-guidance-on-nonfinancial-misconduct-rules-560049.aspx))
-- NAIC prepares new call for home insurance data ([8 hours ago](https://www.dig-in.com/news/naic-prepares-new-call-for-home-insurance-data))
-- WIL 2025: Sarah Griffin ([8 hours ago](https://www.dig-in.com/news/wil-2025-sarah-griffin))
-- AFC Bournemouth expands vitality partnership with new shirt sponsorship deal ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/afc-bournemouth-expands-vitality-partnership-with-new-shirt-sponsorship-deal-560045.aspx))
-- Insurance moves at Howard and Bspoke Group ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-howard-and-bspoke-group-560044.aspx))
+- FCA issues final guidance on non-financial misconduct rules ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-issues-final-guidance-on-nonfinancial-misconduct-rules-560049.aspx))
+- NAIC prepares new call for home insurance data ([9 hours ago](https://www.dig-in.com/news/naic-prepares-new-call-for-home-insurance-data))
+- WIL 2025: Sarah Griffin ([9 hours ago](https://www.dig-in.com/news/wil-2025-sarah-griffin))
+- AFC Bournemouth expands Vitality partnership with new shirt sponsorship deal ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/afc-bournemouth-expands-vitality-partnership-with-new-shirt-sponsorship-deal-560045.aspx))
+- Insurance moves at Howden and Bspoke Group ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-at-howden-and-bspoke-group-560044.aspx))
 - Former RSA Insurance Ireland CEO disqualified for 13 years ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/former-rsa-insurance-ireland-ceo-disqualified-for-13-years-560043.aspx))
 - Ford and Renault Form Partnership on Light Commercials ([1 days ago](https://insurance-edge.net/2025/12/13/ford-and-renault-form-partnership-on-light-commercials/))
 - Equiom Wins Three International Awards ([2 days ago](https://insurance-edge.net/2025/12/12/equiom-wins-three-international-awards/))
