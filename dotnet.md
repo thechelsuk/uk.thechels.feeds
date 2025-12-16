@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([3 hours ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([3 hours ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([4 hours ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([12 hours ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
 - How to Build iOS Widgets with .NET MAUI - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
-- How to Build iOS Widgets with .NET MAUI ([19 hours ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
+- How to Build iOS Widgets with .NET MAUI ([20 hours ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - F# Weekly #50, 2025 - Making of A Programming Language ([1 days ago](https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([2 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
 - Rider and ReSharper 2025.3.0.4: Important Updates Released ([5 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
@@ -58,6 +58,6 @@ description: DotNet Updates
 - More Updates and Fixes for ReSharper and Rider 2025.3 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/))
 - Supercharge Your Test Coverage with GitHub Copilot Testing for .NET ([26 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/))
 - Companies complaining .NET moves too fast should just pay for post-EOL support ([28 days ago](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/))
-- Database Features in Rider ([28 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
+- Database Features in Rider ([29 days ago](https://blog.jetbrains.com/dotnet/2025/11/17/database-features-in-rider/))
 
 <!-- news_marker ends -->
