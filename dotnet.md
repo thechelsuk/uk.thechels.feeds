@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Why "Microservices" Debates Miss the Point ([12 hours ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
-- Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
+- Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([17 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([1 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - How to Build iOS Widgets with .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - F# Weekly #50, 2025 - Making of A Programming Language ([2 days ago](https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([3 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
-- Rider and ReSharper 2025.3.0.4: Important Updates Released ([5 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
+- Rider and ReSharper 2025.3.0.4: Important Updates Released ([6 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
 - Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
 - .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([7 days ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - .NET and .NET Framework December 2025 servicing releases updates ([7 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
