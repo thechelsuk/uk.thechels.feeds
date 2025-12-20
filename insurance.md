@@ -103,7 +103,7 @@ description: Insurance Updates
 - Insurance perils of driving home for Christmas ([3 days ago](https://www.postonline.co.uk/personal/7959344/insurance-perils-of-driving-home-for-christmas))
 - Potholes put councils on legal front line over road repairs ([3 days ago](https://www.postonline.co.uk/claims/7959155/potholes-put-councils-on-legal-front-line-over-road-repairs))
 - Broker Review of the Year 2025 ([3 days ago](https://www.postonline.co.uk/broker/7959392/broker-review-of-the-year-2025))
-- WIL 2025: Stacy Warren: Shaping the future of insurance ([3 days ago](https://www.dig-in.com/news/stacy-warren-shaping-the-future-of-insurance))
+- WIL 2025: Stacy Warren: Shaping the future of insurance ([4 days ago](https://www.dig-in.com/news/stacy-warren-shaping-the-future-of-insurance))
 - Auto insurance predictions for 2026 ([4 days ago](https://www.dig-in.com/news/auto-insurance-predictions-for-2026))
 - Chubb's Kelsie Bicking applies product focus to insurtech ([4 days ago](https://www.dig-in.com/news/chubbs-kelsie-bicking-applies-product-focus-to-insurtech))
 - AIG appoints Everest’s Clifford as international commercial CEO ([4 days ago](https://www.postonline.co.uk/commercial/7959554/aig-appoints-everests-clifford-as-international-commercial-ceo))

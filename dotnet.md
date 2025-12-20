@@ -54,7 +54,7 @@ description: DotNet Updates
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([20 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([22 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
 - ReSharper and Rider 2025.3.0.3: A Fresh Set of Updates Released ([23 days ago](https://blog.jetbrains.com/dotnet/2025/11/27/resharper-and-rider-2025-3-0-3/))
-- .NET Day on Agentic Modernization Coming Soon ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
+- .NET Day on Agentic Modernization Coming Soon ([24 days ago](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/))
 - Exploring the .NET boot process via host tracing ([25 days ago](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/))
 - Defensive Programming Rule #5: Let the Compiler Work for You — Harness the Power of Type Checking ([27 days ago](https://dotnettips.wordpress.com/2025/11/23/defensive-programming-rule-5-let-the-compiler-work-for-you-harness-the-power-of-type-checking/))
 
