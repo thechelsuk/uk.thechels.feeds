@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([10 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([11 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -89,8 +89,8 @@ description: Insurance Updates
 - UK motor insurance market stabilises, LexisNexis finds ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-motor-insurance-market-stabilises-lexisnexis-finds-560549.aspx))
 - 16.4 million could be affected in giant French hack ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/16-4-million-could-be-affected-in-giant-french-hack-560537.aspx))
 - First Street, advocates respond to Zillow removal of climate risk scores ([2 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
-- People dropped federal flood Insurance when rates rose ([2 days ago](https://www.dig-in.com/articles/people-dropped-federal-flood-insurance-when-rates-rose))
-- Guiding policyholders to communication pathways ([2 days ago](https://www.dig-in.com/opinion/guiding-policyholders-to-communication-pathways))
+- People dropped federal flood Insurance when rates rose ([3 days ago](https://www.dig-in.com/articles/people-dropped-federal-flood-insurance-when-rates-rose))
+- Guiding policyholders to communication pathways ([3 days ago](https://www.dig-in.com/opinion/guiding-policyholders-to-communication-pathways))
 - Why are fewer employees getting annual bonuses? ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-are-fewer-employees-getting-annual-bonuses-560509.aspx))
 - Why cyber insurance must evolve beyond data breaches ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/why-cyber-insurance-must-evolve-beyond-data-breaches-560497.aspx))
 - False Lego claim dismantled brick-by-brick ([3 days ago](https://www.postonline.co.uk/claims/7959561/false-lego-claim-dismantled-brick-by-brick))
