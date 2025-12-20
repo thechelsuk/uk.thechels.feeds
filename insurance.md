@@ -8,17 +8,17 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([4 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([5 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([22 hours ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
-- Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([22 hours ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
-- London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([22 hours ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
+- Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([23 hours ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
+- London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([23 hours ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
 - Son of Ponzi-Accused Georgia Building & Loan Founder Now an Insurance Agent ([23 hours ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851815.htm))
 - Gallagher Re appoints Harrison Pepper Executive Director for Marine and Energy ([23 hours ago](https://www.reinsurancene.ws/gallagher-re-appoints-harrison-pepper-executive-director-for-marine-and-energy/))
 - People Moves: Marsh McLennan Appoints Mathews Digital Infrastructure Leader; Loop Hired to Lead AXA XL Media Liability ([23 hours ago](https://www.insurancejournal.com/news/national/2025/12/19/851794.htm))
 - MAPFRE AM Gets a Restructure For 2026 ([23 hours ago](https://insurance-edge.net/2025/12/19/mapfre-am-gets-a-restructure-for-2026/))
 - US News: Neutrinos Wins AI & Automation Award ([23 hours ago](https://insurance-edge.net/2025/12/19/us-news-neutrinos-wins-ai-automation-award/))
-- Marco completes acquisition of Dublin-based Benteler Re ([23 hours ago](https://www.reinsurancene.ws/marco-completes-acquisition-of-dublin-based-benteler-re/))
-- Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([23 hours ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
+- Marco completes acquisition of Dublin-based Benteler Re ([1 days ago](https://www.reinsurancene.ws/marco-completes-acquisition-of-dublin-based-benteler-re/))
+- Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([1 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Coversure Supports PSA Tests For Men ([1 days ago](https://insurance-edge.net/2025/12/19/coversure-supports-psa-tests-for-men/))
 - High Winds Battered Water-Logged Northwest, Cutting Power to Half-A-Million ([1 days ago](https://www.insurancejournal.com/news/west/2025/12/19/851806.htm))
 - Marsh McLennan appoints Mathews as Global Digital Infrastructure Leader ([1 days ago](https://www.reinsurancene.ws/marsh-mclennan-appoints-mathews-as-global-digital-infrastructure-leader/))
@@ -121,6 +121,5 @@ description: Insurance Updates
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([9 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
 - Octopus Legacy and Shepherds Friendly partner to offer simplified life insurance ([10 days ago](https://ifamagazine.com/octopus-legacy-and-shepherds-friendly-partner-to-offer-simplified-life-insurance/))
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([22 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
-- In Profile: Thomas Galbraith at Barker ([29 days ago](https://thefintechtimes.com/in-profile-thomas-galbraith-at-barker/))
 
 <!-- news_marker ends -->
