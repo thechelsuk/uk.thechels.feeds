@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([9 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([10 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -104,8 +104,8 @@ description: Insurance Updates
 - Potholes put councils on legal front line over road repairs ([3 days ago](https://www.postonline.co.uk/claims/7959155/potholes-put-councils-on-legal-front-line-over-road-repairs))
 - Broker Review of the Year 2025 ([3 days ago](https://www.postonline.co.uk/broker/7959392/broker-review-of-the-year-2025))
 - WIL 2025: Stacy Warren: Shaping the future of insurance ([3 days ago](https://www.dig-in.com/news/stacy-warren-shaping-the-future-of-insurance))
-- Auto insurance predictions for 2026 ([3 days ago](https://www.dig-in.com/news/auto-insurance-predictions-for-2026))
-- Chubb's Kelsie Bicking applies product focus to insurtech ([3 days ago](https://www.dig-in.com/news/chubbs-kelsie-bicking-applies-product-focus-to-insurtech))
+- Auto insurance predictions for 2026 ([4 days ago](https://www.dig-in.com/news/auto-insurance-predictions-for-2026))
+- Chubb's Kelsie Bicking applies product focus to insurtech ([4 days ago](https://www.dig-in.com/news/chubbs-kelsie-bicking-applies-product-focus-to-insurtech))
 - AIG appoints Everest’s Clifford as international commercial CEO ([4 days ago](https://www.postonline.co.uk/commercial/7959554/aig-appoints-everests-clifford-as-international-commercial-ceo))
 - IUA members fret over emerging skills gap ([4 days ago](https://www.postonline.co.uk/people/7959523/iua-members-fret-over-emerging-skills-gap))
 - Nearly four in ten UK adults live with ongoing medical conditions, finds The Exeter ([4 days ago](https://ifamagazine.com/nearly-four-in-ten-uk-adults-live-with-ongoing-medical-conditions-finds-the-exeter/))
@@ -114,7 +114,7 @@ description: Insurance Updates
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([4 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Big Interview: Rhys Thomas, Thomas Carroll Group ([4 days ago](https://www.postonline.co.uk/broker/7959487/big-interview-rhys-thomas-thomas-carroll-group))
 - MOJ review must confront delays in the OIC Portal ([4 days ago](https://www.postonline.co.uk/claims/7959547/moj-review-must-confront-delays-in-the-oic-portal))
-- How a health insurer is using AI ([4 days ago](https://www.dig-in.com/news/how-a-health-insurer-is-using-ai))
+- How a health insurer is using AI ([5 days ago](https://www.dig-in.com/news/how-a-health-insurer-is-using-ai))
 - Protection market 2026: Embracing transformation and opportunity ([5 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([5 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([9 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
