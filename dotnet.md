@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Joe Dluzen on Azure Functions & Durable Functions ([10 minutes ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
+- Joe Dluzen on Azure Functions & Durable Functions ([41 minutes ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([2 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - 2025 in review: How we elevated the Microsoft Store experience ([2 days ago](https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/))
 - Azure updates for partners: December 2025 ([3 days ago](https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025))
 - Critter Stack Roadmap for 2026 ([3 days ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
-- Why "Microservices" Debates Miss the Point ([3 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
+- Why "Microservices" Debates Miss the Point ([4 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps - .NET Blog ([4 days ago](https://dotnetkicks.com/r/736726?url=https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([4 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
