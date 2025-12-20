@@ -69,7 +69,7 @@ description: Insurance Updates
 - Bravo Networks launches segment to support new brokers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
 - A guide to the London Market Underwriting Principles (LM3) course ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
 - AIG Partners With Amwins, Blackstone to Launch Lloyd’s Syndicate Using Palantir ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/18/851716.htm))
-- ACORD announces winner of AI student challenge ([1 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
+- ACORD announces winner of AI student challenge ([2 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Preparing insurance data for the AI era ([2 days ago](https://www.dig-in.com/opinion/preparing-insurance-data-for-the-ai-era))
 - FCA announces widening crack down on home and travel insurers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-announces-widening-crack-down-on-home-and-travel-insurers-560629.aspx))
 - Gallagher UK CEO Michael Rea appointed BIBA deputy chair ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-uk-ceo-michael-rea-appointed-biba-deputy-chair-560597.aspx))

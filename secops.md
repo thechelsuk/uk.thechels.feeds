@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([5 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
+- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([6 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
 - Weekly Update 483 ([13 hours ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([23 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
-- Microsoft confirms Teams is down and messages are delayed ([23 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
+- Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
 - Thailand Conference Launches International Initiative to Fight Online Scams ([1 days ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
 - Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform ([1 days ago](https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/))
 - DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/doe_genesis_agreements/))
@@ -147,7 +147,7 @@ description: SecOps News
 - Man jailed for teaching criminals how to use malware ([5 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/man-jailed-for-teaching-criminals-how-to-use-malware))
 - Processing 630 Million More Pwned Passwords, Courtesy of the FBI ([7 days ago](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/))
 - Gartner tells businesses to block AI browsers now ([8 days ago](https://www.fortra.com/blog/gartner-tells-businesses-block-ai-browsers-now))
-- Disruptions in Login and Signup Flows ([8 days ago](https://www.githubstatus.com/incidents/40730vhmg6y8))
+- Disruptions in Login and Signup Flows ([9 days ago](https://www.githubstatus.com/incidents/40730vhmg6y8))
 - We are investigating a rise in request failures on several services ([9 days ago](https://www.githubstatus.com/incidents/xntfc1fz5rfb))
 - Smashing Security podcast #447: Grok the stalker, the Louvre heist, and Microsoft 365 mayhem ([9 days ago](https://grahamcluley.com/smashing-security-podcast-447/))
 - Ransomware may have extorted over $2.1 billion between 2022-2024, but it’s not all bad news, claims FinCEN report ([10 days ago](https://www.fortra.com/blog/ransomware-may-have-extorted-over-21-billion-between-2022-2024-its-not-all-bad-news-claims))
