@@ -70,7 +70,7 @@ description: Insurance Updates
 - A guide to the London Market Underwriting Principles (LM3) course ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
 - AIG Partners With Amwins, Blackstone to Launch Lloyd’s Syndicate Using Palantir ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/18/851716.htm))
 - ACORD announces winner of AI student challenge ([2 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
-- Preparing insurance data for the AI era ([2 days ago](https://www.dig-in.com/opinion/preparing-insurance-data-for-the-ai-era))
+- Preparing insurance data for the AI era ([3 days ago](https://www.dig-in.com/opinion/preparing-insurance-data-for-the-ai-era))
 - FCA announces widening crack down on home and travel insurers ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-announces-widening-crack-down-on-home-and-travel-insurers-560629.aspx))
 - Gallagher UK CEO Michael Rea appointed BIBA deputy chair ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-uk-ceo-michael-rea-appointed-biba-deputy-chair-560597.aspx))
 - Regulator urged to act to avert Covid BI lawsuit wave ([3 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
