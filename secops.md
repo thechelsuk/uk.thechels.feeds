@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- RansomHouse upgrades encryption with multi-layered data processing ([12 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
+- RansomHouse upgrades encryption with multi-layered data processing ([13 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
 - U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([14 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
-- Weekly Update 483 ([21 hours ago](https://www.troyhunt.com/weekly-update-483/))
+- Weekly Update 483 ([22 hours ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
 - Thailand Conference Launches International Initiative to Fight Online Scams ([1 days ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
@@ -203,7 +203,7 @@ description: SecOps News
 - Disruption with some GitHub services ([26 days ago](https://www.githubstatus.com/incidents/v6sx0dv6rv2x))
 - Choosing a managed service provider (MSP) ([26 days ago](https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp))
 - CodeStepByStep - 103,077 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
-- Weekly Update 479 ([27 days ago](https://www.troyhunt.com/weekly-update-479/))
+- Weekly Update 479 ([28 days ago](https://www.troyhunt.com/weekly-update-479/))
 - ADDA - 1,829,314 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/ADDA))
 
 <!-- news_marker ends -->

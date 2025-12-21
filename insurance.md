@@ -64,7 +64,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Markerstudy’s feast; ISC’s balloons ([1 days ago](https://www.postonline.co.uk/people/7959396/penny-blacks-social-diary-markerstudys-feast-iscs-balloons))
 - AIG launches Lloyd’s syndicate with Amwins and Blackstone backing ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aig-launches-lloyds-syndicate-with-amwins-and-blackstone-backing-560769.aspx))
 - Tokio Marine Kiln strengthens cyber team with new hire ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-kiln-strengthens-cyber-team-with-new-hire-560715.aspx))
-- Premium Credit and PIB Group extend long-term partnership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premium-credit-and-pib-group-extend-longterm-partnership-560711.aspx))
+- Premium Credit and PIB Group extend long-term partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premium-credit-and-pib-group-extend-longterm-partnership-560711.aspx))
 - Clear Group co-founder to retire at year-end ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-cofounder-to-retire-at-yearend-560709.aspx))
 - Bravo Networks launches segment to support new brokers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
 - A guide to the London Market Underwriting Principles (LM3) course ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
