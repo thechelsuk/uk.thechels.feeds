@@ -8,9 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
+- NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift ([29 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/))
 - Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([3 hours ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
 - RansomHouse upgrades encryption with multi-layered data processing ([16 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
-- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([17 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
+- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([18 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
 - Weekly Update 483 ([1 days ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
@@ -75,7 +76,7 @@ description: SecOps News
 - BBC tapped to stop Britain being baffled by AI ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/bbc_ai_explain/))
 - DVSA's clapped-out booking system gets bot slapped as new boss rides in ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/dvsa_bot_booking/))
 - UK surveillance law still full of holes, watchdog warns ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/snoopers_charter_loopholes/))
-- Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App ([2 days ago](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html))
+- Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App ([3 days ago](https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html))
 - CyberDanube Security Research 20251215-0  -  Multiple Vulnerabilities in Phoenix Contact FL Switch Series ([3 days ago](https://seclists.org/fulldisclosure/2025/Dec/26))
 - [KIS-2025-09] Control Web Panel <= 0.9.8.1208 (admin/index.php) OS Command Injection Vulnerability ([3 days ago](https://seclists.org/fulldisclosure/2025/Dec/25))
 - Raydium CP Swap: Unchecked Account Allows Creator Fee Hijacking ([3 days ago](https://seclists.org/fulldisclosure/2025/Dec/24))
@@ -111,7 +112,6 @@ description: SecOps News
 - Former UK chancellor George Osborne finds something to do at OpenAI ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/openai_george_osborne/))
 - Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time ([3 days ago](https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html))
 - China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware ([3 days ago](https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html))
-- England keeping pen and paper exams despite limited digital expansion ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/england_pen_paper_exams/))
 - England keeping pen and paper exams despite limited digital expansion ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/england_pen_paper_exams/))
 - Surveillance at sea: Cruise firm bans smart glasses to curb covert recording ([3 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/surveillance-at-sea-cruise-firm-bans-smart-glasses-to-curb-covert-recording))
 - GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads ([3 days ago](https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html))

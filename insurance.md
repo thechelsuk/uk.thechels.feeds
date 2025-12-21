@@ -43,7 +43,7 @@ description: Insurance Updates
 - British Regulator Cracks Down on Home, Travel Insurers ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851742.htm))
 - India’s Big-Bang Financial Reforms Target Foreign Money ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851727.htm))
 - Catastrophe Bonds Linked to Wildfires Lose ‘Untouchable’ Status ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851680.htm))
-- UK on track for record insurance premium tax year after strong November ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-on-track-for-record-insurance-premium-tax-year-after-strong-november-560738.aspx))
+- UK on track for record insurance premium tax year after strong November ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-on-track-for-record-insurance-premium-tax-year-after-strong-november-560738.aspx))
 - HDI Global taps Michael Reynolds to lead UK, Ireland motor fleet strategy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/hdi-global-taps-michael-reynolds-to-lead-uk-ireland-motor-fleet-strategy-560737.aspx))
 - Open letter calls on FCA to extend time for unresolved Covid-19 BI claims ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/open-letter-calls-on-fca-to-extend-time-for-unresolved-covid19-bi-claims-560734.aspx))
 - New global risk order: Health and tech are reshaping insurers’ and brokers’ agendas ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-global-risk-order-health-and-tech-are-reshaping-insurers-and-brokers-agendas-560367.aspx))
