@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Digital Authentication and Identity validation ([2 hours ago](https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/))
+- Digital Authentication and Identity validation ([3 hours ago](https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/))
 - Joe Dluzen on Azure Functions & Durable Functions ([7 hours ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([2 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - 2025 in review: How we elevated the Microsoft Store experience ([2 days ago](https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/))
