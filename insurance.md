@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Swiss Re: Insured nat cat losses surpass $100B for 6th year ([37 minutes ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
+- Swiss Re: Insured nat cat losses surpass $100B for 6th year ([1 hours ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
 - NAIC starts work on AI evaluation method for regulators ([1 hours ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
 - Are We Heading Towards Two-Tier Contactless Limits in The UK? ([1 days ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([2 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
