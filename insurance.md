@@ -111,7 +111,7 @@ description: Insurance Updates
 - Nearly four in ten UK adults live with ongoing medical conditions, finds The Exeter ([4 days ago](https://ifamagazine.com/nearly-four-in-ten-uk-adults-live-with-ongoing-medical-conditions-finds-the-exeter/))
 - LA wildfires push global nat cat losses past $100bn again ([4 days ago](https://www.postonline.co.uk/claims/7959553/la-wildfires-push-global-nat-cat-losses-past-100bn-again))
 - Ageas and Saga launch first product under partnership ([4 days ago](https://www.postonline.co.uk/news/7959552/ageas-and-saga-launch-first-product-under-partnership))
-- AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([4 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
+- AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([5 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Big Interview: Rhys Thomas, Thomas Carroll Group ([5 days ago](https://www.postonline.co.uk/broker/7959487/big-interview-rhys-thomas-thomas-carroll-group))
 - MOJ review must confront delays in the OIC Portal ([5 days ago](https://www.postonline.co.uk/claims/7959547/moj-review-must-confront-delays-in-the-oic-portal))
 - How a health insurer is using AI ([5 days ago](https://www.dig-in.com/news/how-a-health-insurer-is-using-ai))
