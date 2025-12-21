@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([14 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([15 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -67,8 +67,8 @@ description: Insurance Updates
 - Premium Credit and PIB Group extend long-term partnership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premium-credit-and-pib-group-extend-longterm-partnership-560711.aspx))
 - Clear Group co-founder to retire at year-end ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-cofounder-to-retire-at-yearend-560709.aspx))
 - Bravo Networks launches segment to support new brokers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
-- A guide to the London Market Underwriting Principles (LM3) course ([1 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
-- AIG Partners With Amwins, Blackstone to Launch Lloyd’s Syndicate Using Palantir ([1 days ago](https://www.insurancejournal.com/news/national/2025/12/18/851716.htm))
+- A guide to the London Market Underwriting Principles (LM3) course ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
+- AIG Partners With Amwins, Blackstone to Launch Lloyd’s Syndicate Using Palantir ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/18/851716.htm))
 - ACORD announces winner of AI student challenge ([2 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Preparing insurance data for the AI era ([2 days ago](https://www.dig-in.com/opinion/preparing-insurance-data-for-the-ai-era))
 - FCA announces widening crack down on home and travel insurers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-announces-widening-crack-down-on-home-and-travel-insurers-560629.aspx))

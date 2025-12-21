@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- RansomHouse upgrades encryption with multi-layered data processing ([9 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
-- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([10 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
-- Weekly Update 483 ([18 hours ago](https://www.troyhunt.com/weekly-update-483/))
+- RansomHouse upgrades encryption with multi-layered data processing ([10 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
+- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([11 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
+- Weekly Update 483 ([19 hours ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
 - Thailand Conference Launches International Initiative to Fight Online Scams ([1 days ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
@@ -49,7 +49,7 @@ description: SecOps News
 - The 5X AI reality check: why enterprises are leaving transformative value on the table ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/5x_ai_reality_check/))
 - New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards ([1 days ago](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html))
 - China turns on a vast experimental network it says is an heir to ARPANET ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/china_environment_for_network_innovation/))
-- Windows 10 OOB update released to fix Message Queuing (MSMQ) issues ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/))
+- Windows 10 OOB update released to fix Message Queuing (MSMQ) issues ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/))
 - Amazon blocked 1,800 suspected North Korean scammers seeking jobs ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/))
 - Waterfox browser goes AI-free, targets the Firefox faithful ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/))
 - Snowflake update caused a blizzard of failures worldwide ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/snowflake_update_caused_a_blizzard/))
@@ -83,7 +83,7 @@ description: SecOps News
 - CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation ([2 days ago](https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html))
 - Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances ([2 days ago](https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html))
 - Micron says memory shortages are here for the foreseeable future ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/micron_q1_2026/))
-- The Botting Network - 96,320 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/TheBottingNetwork))
+- The Botting Network - 96,320 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/TheBottingNetwork))
 - Smashing Security podcast #448: The Kindle that got pwned ([3 days ago](https://grahamcluley.com/smashing-security-podcast-448/))
 - ServiceNow unworried by Salesforce firing shots across its bow ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/servicenow_salesforce_itsm_retort/))
 - Purdue makes 'AI working competency' a graduation requirement ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/17/purdue_require_ai_working_competency/))
@@ -204,6 +204,6 @@ description: SecOps News
 - Choosing a managed service provider (MSP) ([26 days ago](https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp))
 - CodeStepByStep - 103,077 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
 - Weekly Update 479 ([27 days ago](https://www.troyhunt.com/weekly-update-479/))
-- ADDA - 1,829,314 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/ADDA))
+- ADDA - 1,829,314 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/ADDA))
 
 <!-- news_marker ends -->
