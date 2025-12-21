@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([20 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([21 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -44,8 +44,8 @@ description: Insurance Updates
 - India’s Big-Bang Financial Reforms Target Foreign Money ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851727.htm))
 - Catastrophe Bonds Linked to Wildfires Lose ‘Untouchable’ Status ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851680.htm))
 - UK on track for record insurance premium tax year after strong November ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-on-track-for-record-insurance-premium-tax-year-after-strong-november-560738.aspx))
-- HDI Global taps Michael Reynolds to lead UK, Ireland motor fleet strategy ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/hdi-global-taps-michael-reynolds-to-lead-uk-ireland-motor-fleet-strategy-560737.aspx))
-- Open letter calls on FCA to extend time for unresolved Covid-19 BI claims ([1 days ago](https://www.insurancebusinessmag.com/uk/news/claims/open-letter-calls-on-fca-to-extend-time-for-unresolved-covid19-bi-claims-560734.aspx))
+- HDI Global taps Michael Reynolds to lead UK, Ireland motor fleet strategy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/hdi-global-taps-michael-reynolds-to-lead-uk-ireland-motor-fleet-strategy-560737.aspx))
+- Open letter calls on FCA to extend time for unresolved Covid-19 BI claims ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/open-letter-calls-on-fca-to-extend-time-for-unresolved-covid19-bi-claims-560734.aspx))
 - New global risk order: Health and tech are reshaping insurers’ and brokers’ agendas ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-global-risk-order-health-and-tech-are-reshaping-insurers-and-brokers-agendas-560367.aspx))
 - Tesla Door Safety Issues Have Owners Buying Car Escape Tools ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851692.htm))
 - Odometer Fraud Sees 14% Jump in the Past Year ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/19/851689.htm))

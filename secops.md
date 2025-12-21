@@ -8,8 +8,8 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([2 hours ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
-- RansomHouse upgrades encryption with multi-layered data processing ([15 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
+- Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([3 hours ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
+- RansomHouse upgrades encryption with multi-layered data processing ([16 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
 - U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([17 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
 - Weekly Update 483 ([1 days ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
@@ -173,7 +173,7 @@ description: SecOps News
 - Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([14 days ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
 - KinoKong - 817,808 breached accounts ([14 days ago](https://haveibeenpwned.com/Breach/KinoKong))
 - Team synchronization is experiencing delays for non enterprise managed users ([15 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
-- Weekly Update 481 ([15 days ago](https://www.troyhunt.com/weekly-update-481/))
+- Weekly Update 481 ([16 days ago](https://www.troyhunt.com/weekly-update-481/))
 - SMS Phishers Pivot to Points, Taxes, Fake Retailers ([16 days ago](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/))
 - Why the record-breaking 30 Tbps DDoS attack should concern every business ([16 days ago](https://www.fortra.com/blog/why-record-breaking-30-tbps-ddos-attack-concern-business))
 - Smashing Security podcast #446: A hacker doxxes himself, and social engineering-as-a-service ([17 days ago](https://grahamcluley.com/smashing-security-podcast-446/))
@@ -183,7 +183,7 @@ description: SecOps News
 - The AI Fix #79: Gemini 3, poetry jailbreaks, and do we even need safe robots? ([18 days ago](https://grahamcluley.com/the-ai-fix-79/))
 - Asahi cyber attack spirals into massive data breach impacting almost 2 million people ([18 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/asahi-cyber-attack-spirals-into-massive-data-breach-impacting-almost-2-million-people))
 - NetworkMiner 3.1 Released ([19 days ago](https://www.netresec.com/?page=Blog&month=2025-12&post=NetworkMiner-3-1-Released))
-- Zilvia.net - 287,863 breached accounts ([19 days ago](https://haveibeenpwned.com/Breach/Zilvia))
+- Zilvia.net - 287,863 breached accounts ([20 days ago](https://haveibeenpwned.com/Breach/Zilvia))
 - Weekly Update 480 ([20 days ago](https://www.troyhunt.com/weekly-update-480/))
 - What is Cyber Security? Definition and Best Practices ([22 days ago](https://grcsolutions.io/what-is-cybersecurity/))
 - UK Government Minimum Cyber Security Standard ([22 days ago](https://grcsolutions.io/uk-government-minimum-cyber-security-standard/))
