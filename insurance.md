@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([23 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([1 days ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -42,7 +42,7 @@ description: Insurance Updates
 - AIG buys Salford City FC; Prestige x Urban Jungle; Biba’s deputy chair ([1 days ago](https://www.postonline.co.uk/news/7959567/aig-buys-salford-city-fc-prestige-x-urban-jungle-bibas-deputy-chair))
 - British Regulator Cracks Down on Home, Travel Insurers ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851742.htm))
 - India’s Big-Bang Financial Reforms Target Foreign Money ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851727.htm))
-- Catastrophe Bonds Linked to Wildfires Lose ‘Untouchable’ Status ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851680.htm))
+- Catastrophe Bonds Linked to Wildfires Lose ‘Untouchable’ Status ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/19/851680.htm))
 - UK on track for record insurance premium tax year after strong November ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-on-track-for-record-insurance-premium-tax-year-after-strong-november-560738.aspx))
 - HDI Global taps Michael Reynolds to lead UK, Ireland motor fleet strategy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/hdi-global-taps-michael-reynolds-to-lead-uk-ireland-motor-fleet-strategy-560737.aspx))
 - Open letter calls on FCA to extend time for unresolved Covid-19 BI claims ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/open-letter-calls-on-fca-to-extend-time-for-unresolved-covid19-bi-claims-560734.aspx))
@@ -76,7 +76,7 @@ description: Insurance Updates
 - Regulator urged to act to avert Covid BI lawsuit wave ([2 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
 - FCA partly rebuffs Which? but widens insurance crackdown ([2 days ago](https://www.postonline.co.uk/news/7959566/fca-partly-rebuffs-which-but-widens-insurance-crackdown))
 - Markel taps James Howell to senior underwriting role in terrorism and political violence ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markel-taps-james-howell-to-senior-underwriting-role-in-terrorism-and-political-violence-560592.aspx))
-- Clear Group’s Howard Lickens to retire ([2 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
+- Clear Group’s Howard Lickens to retire ([3 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
 - Volt Underwriting renews Lloyd’s binder, lifts line size to $50m for 2026 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/volt-underwriting-renews-lloyds-binder-lifts-line-size-to-50m-for-2026-560588.aspx))
 - UK charities face cyberattacks as holiday donations move online: Hiscox ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/uk-charities-face-cyberattacks-as-holiday-donations-move-online-hiscox-560586.aspx))
 - Throwback Thursday: ‘Goldfinger’ of Lloyd’s attempts comeback ([3 days ago](https://www.postonline.co.uk/lloydslondon/7956782/throwback-thursday-goldfinger-of-lloyds-attempts-comeback))
@@ -110,7 +110,7 @@ description: Insurance Updates
 - IUA members fret over emerging skills gap ([4 days ago](https://www.postonline.co.uk/people/7959523/iua-members-fret-over-emerging-skills-gap))
 - Nearly four in ten UK adults live with ongoing medical conditions, finds The Exeter ([4 days ago](https://ifamagazine.com/nearly-four-in-ten-uk-adults-live-with-ongoing-medical-conditions-finds-the-exeter/))
 - LA wildfires push global nat cat losses past $100bn again ([4 days ago](https://www.postonline.co.uk/claims/7959553/la-wildfires-push-global-nat-cat-losses-past-100bn-again))
-- Ageas and Saga launch first product under partnership ([4 days ago](https://www.postonline.co.uk/news/7959552/ageas-and-saga-launch-first-product-under-partnership))
+- Ageas and Saga launch first product under partnership ([5 days ago](https://www.postonline.co.uk/news/7959552/ageas-and-saga-launch-first-product-under-partnership))
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([5 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Big Interview: Rhys Thomas, Thomas Carroll Group ([5 days ago](https://www.postonline.co.uk/broker/7959487/big-interview-rhys-thomas-thomas-carroll-group))
 - MOJ review must confront delays in the OIC Portal ([5 days ago](https://www.postonline.co.uk/claims/7959547/moj-review-must-confront-delays-in-the-oic-portal))
@@ -120,6 +120,6 @@ description: Insurance Updates
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([9 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([10 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
 - Octopus Legacy and Shepherds Friendly partner to offer simplified life insurance ([11 days ago](https://ifamagazine.com/octopus-legacy-and-shepherds-friendly-partner-to-offer-simplified-life-insurance/))
-- Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([22 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
+- Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([23 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
 <!-- news_marker ends -->
