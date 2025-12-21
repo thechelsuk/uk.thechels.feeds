@@ -91,7 +91,7 @@ description: Insurance Updates
 - First Street, advocates respond to Zillow removal of climate risk scores ([3 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
 - People dropped federal flood Insurance when rates rose ([3 days ago](https://www.dig-in.com/articles/people-dropped-federal-flood-insurance-when-rates-rose))
 - Guiding policyholders to communication pathways ([3 days ago](https://www.dig-in.com/opinion/guiding-policyholders-to-communication-pathways))
-- Why are fewer employees getting annual bonuses? ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-are-fewer-employees-getting-annual-bonuses-560509.aspx))
+- Why are fewer employees getting annual bonuses? ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/why-are-fewer-employees-getting-annual-bonuses-560509.aspx))
 - Why cyber insurance must evolve beyond data breaches ([4 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/why-cyber-insurance-must-evolve-beyond-data-breaches-560497.aspx))
 - False Lego claim dismantled brick-by-brick ([4 days ago](https://www.postonline.co.uk/claims/7959561/false-lego-claim-dismantled-brick-by-brick))
 - Speaker refuses moderates' pleas to vote on health tax credits ([4 days ago](https://www.dig-in.com/articles/speaker-refuses-moderates-pleas-to-vote-on-health-tax-credits))
