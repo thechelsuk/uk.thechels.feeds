@@ -77,7 +77,7 @@ description: Insurance Updates
 - FCA partly rebuffs Which? but widens insurance crackdown ([2 days ago](https://www.postonline.co.uk/news/7959566/fca-partly-rebuffs-which-but-widens-insurance-crackdown))
 - Markel taps James Howell to senior underwriting role in terrorism and political violence ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markel-taps-james-howell-to-senior-underwriting-role-in-terrorism-and-political-violence-560592.aspx))
 - Clear Group’s Howard Lickens to retire ([2 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
-- Volt Underwriting renews Lloyd’s binder, lifts line size to $50m for 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/volt-underwriting-renews-lloyds-binder-lifts-line-size-to-50m-for-2026-560588.aspx))
+- Volt Underwriting renews Lloyd’s binder, lifts line size to $50m for 2026 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/volt-underwriting-renews-lloyds-binder-lifts-line-size-to-50m-for-2026-560588.aspx))
 - UK charities face cyberattacks as holiday donations move online: Hiscox ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/uk-charities-face-cyberattacks-as-holiday-donations-move-online-hiscox-560586.aspx))
 - Throwback Thursday: ‘Goldfinger’ of Lloyd’s attempts comeback ([3 days ago](https://www.postonline.co.uk/lloydslondon/7956782/throwback-thursday-goldfinger-of-lloyds-attempts-comeback))
 - Q&A: Nikki Lidster, Zurich ([3 days ago](https://www.postonline.co.uk/broker/7959500/qa-nikki-lidster-zurich))
@@ -119,7 +119,7 @@ description: Insurance Updates
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([6 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([9 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([10 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
-- Octopus Legacy and Shepherds Friendly partner to offer simplified life insurance ([10 days ago](https://ifamagazine.com/octopus-legacy-and-shepherds-friendly-partner-to-offer-simplified-life-insurance/))
+- Octopus Legacy and Shepherds Friendly partner to offer simplified life insurance ([11 days ago](https://ifamagazine.com/octopus-legacy-and-shepherds-friendly-partner-to-offer-simplified-life-insurance/))
 - Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([22 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
 <!-- news_marker ends -->
