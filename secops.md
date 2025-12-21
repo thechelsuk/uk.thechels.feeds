@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- RansomHouse upgrades encryption with multi-layered data processing ([11 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
-- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([12 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
-- Weekly Update 483 ([20 hours ago](https://www.troyhunt.com/weekly-update-483/))
+- RansomHouse upgrades encryption with multi-layered data processing ([12 hours ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
+- U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([13 hours ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
+- Weekly Update 483 ([21 hours ago](https://www.troyhunt.com/weekly-update-483/))
 - ATM jackpotting gang accused of unleashing Ploutus malware across US ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/))
 - Microsoft confirms Teams is down and messages are delayed ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/))
 - Thailand Conference Launches International Initiative to Fight Online Scams ([1 days ago](https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/))
@@ -48,7 +48,7 @@ description: SecOps News
 - AI and cybersecurity: Two sides of the same coin ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/ai_cybersecurity_two_sides/))
 - The 5X AI reality check: why enterprises are leaving transformative value on the table ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/5x_ai_reality_check/))
 - New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards ([1 days ago](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html))
-- China turns on a vast experimental network it says is an heir to ARPANET ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/china_environment_for_network_innovation/))
+- China turns on a vast experimental network it says is an heir to ARPANET ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/19/china_environment_for_network_innovation/))
 - Windows 10 OOB update released to fix Message Queuing (MSMQ) issues ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/))
 - Amazon blocked 1,800 suspected North Korean scammers seeking jobs ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/))
 - Waterfox browser goes AI-free, targets the Firefox faithful ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/))

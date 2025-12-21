@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([16 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
+- Are We Heading Towards Two-Tier Contactless Limits in The UK? ([17 hours ago](https://insurance-edge.net/2025/12/20/are-we-heading-towards-two-tier-contactless-limits-in-the-uk/))
 - Everest names Carter as Head of NA Re Claims as Parker takes over as Head of Intl. Re Claims ([1 days ago](https://www.reinsurancene.ws/everest-names-carter-as-head-of-na-re-claims-as-parker-takes-over-as-head-of-intl-re-claims/))
 - Cessna Jet Tied to Nascar Driver Greg Biffle Crashes in North Carolina ([1 days ago](https://www.insurancejournal.com/news/southeast/2025/12/19/851823.htm))
 - London Market faces pivotal moment for industry’s future: Guidewire’s McDonnell ([1 days ago](https://www.reinsurancene.ws/london-market-faces-pivotal-moment-for-industrys-future-guidewires-mcdonnell/))
@@ -66,7 +66,7 @@ description: Insurance Updates
 - Tokio Marine Kiln strengthens cyber team with new hire ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-kiln-strengthens-cyber-team-with-new-hire-560715.aspx))
 - Premium Credit and PIB Group extend long-term partnership ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premium-credit-and-pib-group-extend-longterm-partnership-560711.aspx))
 - Clear Group co-founder to retire at year-end ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/clear-group-cofounder-to-retire-at-yearend-560709.aspx))
-- Bravo Networks launches segment to support new brokers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
+- Bravo Networks launches segment to support new brokers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bravo-networks-launches-segment-to-support-new-brokers-560708.aspx))
 - A guide to the London Market Underwriting Principles (LM3) course ([2 days ago](https://www.insurancebusinessmag.com/uk/guides/a-guide-to-the-london-market-underwriting-principles-lm3-course-560706.aspx))
 - AIG Partners With Amwins, Blackstone to Launch Lloyd’s Syndicate Using Palantir ([2 days ago](https://www.insurancejournal.com/news/national/2025/12/18/851716.htm))
 - ACORD announces winner of AI student challenge ([2 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
@@ -85,8 +85,8 @@ description: Insurance Updates
 - Insurers Review of the Year 2025 ([2 days ago](https://www.postonline.co.uk/personal/7959397/insurers-review-of-the-year-2025))
 - Brokers urged to guide clients on home insurance as winter storms threaten freezers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/brokers-urged-to-guide-clients-on-home-insurance-as-winter-storms-threaten-freezers-560567.aspx))
 - UK Autumn budget signals tighter fiscal path, Allianz Trade says ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-autumn-budget-signals-tighter-fiscal-path-allianz-trade-says-560555.aspx))
-- FLA urges targeted approach for FCA Section 404 motor finance redress scheme ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/fla-urges-targeted-approach-for-fca-section-404-motor-finance-redress-scheme-560551.aspx))
-- UK motor insurance market stabilises, LexisNexis finds ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-motor-insurance-market-stabilises-lexisnexis-finds-560549.aspx))
+- FLA urges targeted approach for FCA Section 404 motor finance redress scheme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/fla-urges-targeted-approach-for-fca-section-404-motor-finance-redress-scheme-560551.aspx))
+- UK motor insurance market stabilises, LexisNexis finds ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-motor-insurance-market-stabilises-lexisnexis-finds-560549.aspx))
 - 16.4 million could be affected in giant French hack ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/16-4-million-could-be-affected-in-giant-french-hack-560537.aspx))
 - First Street, advocates respond to Zillow removal of climate risk scores ([3 days ago](https://www.dig-in.com/news/first-street-responds-to-zillow-dropping-climate-risk-scores))
 - People dropped federal flood Insurance when rates rose ([3 days ago](https://www.dig-in.com/articles/people-dropped-federal-flood-insurance-when-rates-rose))
