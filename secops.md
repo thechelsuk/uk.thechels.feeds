@@ -8,7 +8,7 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- There’s so much stolen data in the world, South Korea will require face scans to buy a SIM ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/))
+- There’s so much stolen data in the world, South Korea will require face scans to buy a SIM ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/))
 - Through gritted teeth, Apple and Google allow alternative app stores in Japan ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/))
 - Through gritted teeth, Apple and Google allow alternative app stores in Japan ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/))
 - Google sends Dark Web Report to its dead services graveyard ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/infosec_news_in_brief/))
@@ -184,7 +184,7 @@ description: SecOps News
 - Asahi cyber attack spirals into massive data breach impacting almost 2 million people ([19 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/asahi-cyber-attack-spirals-into-massive-data-breach-impacting-almost-2-million-people))
 - NetworkMiner 3.1 Released ([20 days ago](https://www.netresec.com/?page=Blog&month=2025-12&post=NetworkMiner-3-1-Released))
 - Zilvia.net - 287,863 breached accounts ([20 days ago](https://haveibeenpwned.com/Breach/Zilvia))
-- Weekly Update 480 ([20 days ago](https://www.troyhunt.com/weekly-update-480/))
+- Weekly Update 480 ([21 days ago](https://www.troyhunt.com/weekly-update-480/))
 - What is Cyber Security? Definition and Best Practices ([23 days ago](https://grcsolutions.io/what-is-cybersecurity/))
 - UK Government Minimum Cyber Security Standard ([23 days ago](https://grcsolutions.io/uk-government-minimum-cyber-security-standard/))
 - Transitioning to ISO 27001:2022  -  GRC Solutions ([23 days ago](https://grcsolutions.io/transitioning-to-iso27001-2022/))
@@ -194,7 +194,7 @@ description: SecOps News
 - Securities and Exchange Commission Rules on Cybersecurity Risk Management, Strategy, Governance, and Incident Disclosure ([23 days ago](https://grcsolutions.io/sec-rules-on-cybersecurity-risk-management-strategy-governance-and-incident-disclosure/))
 - Incident with Copilot ([23 days ago](https://www.githubstatus.com/incidents/d4775b3j5mwm))
 - State-backed spyware attacks are targeting Signal and WhatsApp users, CISA warns ([24 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/state-backed-spyware-attacks-are-targeting-signal-and-whatsapp-users-cisa-warns))
-- China Software Developer Network - 6,414,990 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/CSDN))
+- China Software Developer Network - 6,414,990 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/CSDN))
 - Smashing Security podcast #445: The hack that brought back the zombie apocalypse ([25 days ago](https://grahamcluley.com/smashing-security-podcast-445/))
 - Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’ ([25 days ago](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/))
 - Shadow AI security breaches will hit 40% of all companies by 2030, warns Gartner ([25 days ago](https://www.fortra.com/blog/shadow-ai-security-breaches-will-hit-40-companies-2030-warns-gartner))
@@ -202,7 +202,7 @@ description: SecOps News
 - Is Your Android TV Streaming Box Part of a Botnet? ([27 days ago](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/))
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/v6sx0dv6rv2x))
 - Choosing a managed service provider (MSP) ([27 days ago](https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp))
-- CodeStepByStep - 103,077 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
+- CodeStepByStep - 103,077 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
 - Weekly Update 479 ([29 days ago](https://www.troyhunt.com/weekly-update-479/))
 - ADDA - 1,829,314 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/ADDA))
 
