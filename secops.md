@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- There’s so much stolen data in the world, South Korea will require face scans to buy a SIM ([11 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/))
+- There’s so much stolen data in the world, South Korea will require face scans to buy a SIM ([35 minutes ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/))
 - Through gritted teeth, Apple and Google allow alternative app stores in Japan ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/))
 - Through gritted teeth, Apple and Google allow alternative app stores in Japan ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/))
-- Google sends Dark Web Report to its dead services graveyard ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/infosec_news_in_brief/))
+- Google sends Dark Web Report to its dead services graveyard ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/infosec_news_in_brief/))
 - Workers should control the means of agentic production, suggests WorkBeaver boss ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/workbeaver_ceo_interview_ai_agents/))
-- NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/))
+- NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/))
 - Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence ([1 days ago](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html))
 - RansomHouse upgrades encryption with multi-layered data processing ([1 days ago](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/))
 - U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware ([1 days ago](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html))
@@ -203,7 +203,7 @@ description: SecOps News
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/v6sx0dv6rv2x))
 - Choosing a managed service provider (MSP) ([27 days ago](https://www.ncsc.gov.uk/guidance/choosing-a-managed-service-provider-msp))
 - CodeStepByStep - 103,077 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/CodeStepByStep))
-- Weekly Update 479 ([28 days ago](https://www.troyhunt.com/weekly-update-479/))
+- Weekly Update 479 ([29 days ago](https://www.troyhunt.com/weekly-update-479/))
 - ADDA - 1,829,314 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/ADDA))
 
 <!-- news_marker ends -->
