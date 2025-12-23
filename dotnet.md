@@ -29,7 +29,7 @@ description: DotNet Updates
 - F# Weekly #50, 2025 - Making of A Programming Language ([8 days ago](https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([9 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
 - Rider and ReSharper 2025.3.0.4: Important Updates Released ([12 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
-- Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([12 days ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
+- Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([13 days ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
 - .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([13 days ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - .NET and .NET Framework December 2025 servicing releases updates ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications - .NET Blog ([13 days ago](https://dotnetkicks.com/r/736298?url=https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
