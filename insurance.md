@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sometimes All You Want For Christmas is Cheaper Car Insurance ([12 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
-- Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
+- Sometimes All You Want For Christmas is Cheaper Car Insurance ([13 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([1 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
+- Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
 - EU Faces Renewed US Ire After ESG Cutbacks Fail to Calm Tensions ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852292.htm))
 - Reinsurers face pressure on growing top-line and maintaining margin in 2026: Autonomous ([1 days ago](https://www.reinsurancene.ws/reinsurers-face-pressure-on-growing-top-line-and-maintaining-margin-in-2026-autonomous/))
@@ -53,7 +53,7 @@ description: Insurance Updates
 - Claims and Legal Forecast of 2026 ([1 days ago](https://www.postonline.co.uk/claims/7959391/claims-and-legal-forecast-of-2026))
 - JLR breach sparks debate on insurance gaps and state support ([1 days ago](https://www.postonline.co.uk/commercial/7959451/jlr-breach-sparks-debate-on-insurance-gaps-and-state-support))
 - Why Which?’s super-complaint is a turning point for insurance ([1 days ago](https://www.postonline.co.uk/regulation/7959579/why-whichs-super-complaint-is-a-turning-point-for-insurance))
-- Verisk rolls out insurance regulatory data tool ([1 days ago](https://www.dig-in.com/news/verisk-rolls-out-insurance-regulatory-data-tool))
+- Verisk rolls out insurance regulatory data tool ([2 days ago](https://www.dig-in.com/news/verisk-rolls-out-insurance-regulatory-data-tool))
 - WIL 2025: Sarah Murrow on resilience and her commitment to quality leadership ([2 days ago](https://www.dig-in.com/news/sarah-murrow-on-her-commitment-to-quality-leadership))
 - AI and insurtech predictions for 2026 ([2 days ago](https://www.dig-in.com/news/ai-and-insurtech-predictions-for-2026))
 - UK, Bermuda and EU markets: For US business, ditch direct procurement, go surplus lines ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-bermuda-and-eu-markets-for-us-business-ditch-direct-procurement-go-surplus-lines-560894.aspx))
