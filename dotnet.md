@@ -23,7 +23,7 @@ description: DotNet Updates
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([8 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([8 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([8 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
-- Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([8 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
+- Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([9 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
 - How to Build iOS Widgets with .NET MAUI - .NET Blog ([9 days ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - How to Build iOS Widgets with .NET MAUI ([9 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - F# Weekly #50, 2025 - Making of A Programming Language ([10 days ago](https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/))
