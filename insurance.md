@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sometimes All You Want For Christmas is Cheaper Car Insurance ([11 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
+- Sometimes All You Want For Christmas is Cheaper Car Insurance ([12 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([1 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - 60 Seconds With... Sarah Vaughan, Angelica Solutions ([2 days ago](https://www.postonline.co.uk/people/7958980/60-seconds-with-sarah-vaughan-angelica-solutions))
 - Underwriting takes its toll so mental health support is vital ([2 days ago](https://www.postonline.co.uk/people/7959564/underwriting-takes-its-toll-so-mental-health-support-is-vital))
 - Insurtech forecast for 2026 ([2 days ago](https://www.postonline.co.uk/technology/7959389/insurtech-forecast-for-2026))
-- How insurance brokers can retain clients post M&A ([2 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
+- How insurance brokers can retain clients post M&A ([3 days ago](https://www.dig-in.com/opinion/how-brokers-can-retain-clients-post-m-a))
 - Customer satisfaction high with all digital claims: J.D. Power ([3 days ago](https://www.dig-in.com/news/customer-satisfaction-high-with-digital-claims-j-d-power))
 - LV looking to relaunch into general insurance in early 2028 ([3 days ago](https://www.postonline.co.uk/personal/7959573/lv-looking-to-relaunch-into-general-insurance-in-early-2028))
 - Axa Partners hit with FCA limitations ([3 days ago](https://www.postonline.co.uk/personal/7959576/axa-partners-hit-with-FCA-limitations))
@@ -79,7 +79,7 @@ description: Insurance Updates
 - How Covid-19 litigation has shifted BI policy wording ([3 days ago](https://www.postonline.co.uk/commercial/7959461/how-covid-19-litigation-has-shifted-bi-policy-wording))
 - Diary of an Insurer: QBE’s Hannah Wilkinson ([3 days ago](https://www.postonline.co.uk/commercial/7959330/diary-of-an-insurer-qbes-hannah-wilkinson))
 - Swiss Re: Insured nat cat losses surpass $100B for 6th year ([3 days ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
-- NAIC starts work on AI evaluation method for regulators ([3 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
+- NAIC starts work on AI evaluation method for regulators ([4 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
 - Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([6 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([6 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - From AI resistance to cyber resilience: The forces defining 2026 ([6 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/from-ai-resistance-to-cyber-resilience-the-forces-defining-2026-560478.aspx))
