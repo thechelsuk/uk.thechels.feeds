@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Sometimes All You Want For Christmas is Cheaper Car Insurance ([21 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
+- Sometimes All You Want For Christmas is Cheaper Car Insurance ([22 hours ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Why case management systems are crucial for fraud detection ([1 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([1 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([1 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
