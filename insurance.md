@@ -103,7 +103,7 @@ description: Insurance Updates
 - ACORD announces winner of AI student challenge ([7 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Regulator urged to act to avert Covid BI lawsuit wave ([7 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
 - FCA partly rebuffs Which? but widens insurance crackdown ([7 days ago](https://www.postonline.co.uk/news/7959566/fca-partly-rebuffs-which-but-widens-insurance-crackdown))
-- Clear Group’s Howard Lickens to retire ([7 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
+- Clear Group’s Howard Lickens to retire ([8 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
 - Throwback Thursday: ‘Goldfinger’ of Lloyd’s attempts comeback ([8 days ago](https://www.postonline.co.uk/lloydslondon/7956782/throwback-thursday-goldfinger-of-lloyds-attempts-comeback))
 - NFU Mutual chief urges action on rising rural road fatalities ([8 days ago](https://www.postonline.co.uk/personal/7959521/nfu-mutual-chief-urges-action-on-rising-rural-road-fatalities))
 - Insurers Review of the Year 2025 ([8 days ago](https://www.postonline.co.uk/personal/7959397/insurers-review-of-the-year-2025))
@@ -116,6 +116,6 @@ description: Insurance Updates
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([11 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([14 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([15 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
-- Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([27 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
+- Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([28 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
 <!-- news_marker ends -->
