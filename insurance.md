@@ -80,6 +80,7 @@ description: Insurance Updates
 - Diary of an Insurer: QBE’s Hannah Wilkinson ([4 days ago](https://www.postonline.co.uk/commercial/7959330/diary-of-an-insurer-qbes-hannah-wilkinson))
 - Swiss Re: Insured nat cat losses surpass $100B for 6th year ([4 days ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
 - NAIC starts work on AI evaluation method for regulators ([4 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
+- Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([6 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([6 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - From AI resistance to cyber resilience: The forces defining 2026 ([7 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/from-ai-resistance-to-cyber-resilience-the-forces-defining-2026-560478.aspx))
 - Happy Holidays from Insurance Business ([7 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/happy-holidays-from-insurance-business-560759.aspx))
