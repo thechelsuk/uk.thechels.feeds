@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([19 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
-- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([21 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
+- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([20 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
+- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([22 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
-- Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - Why case management systems are crucial for fraud detection ([2 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
+- Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
 - EU Faces Renewed US Ire After ESG Cutbacks Fail to Calm Tensions ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852292.htm))
 - Reinsurers face pressure on growing top-line and maintaining margin in 2026: Autonomous ([2 days ago](https://www.reinsurancene.ws/reinsurers-face-pressure-on-growing-top-line-and-maintaining-margin-in-2026-autonomous/))
@@ -80,7 +80,6 @@ description: Insurance Updates
 - Diary of an Insurer: QBE’s Hannah Wilkinson ([5 days ago](https://www.postonline.co.uk/commercial/7959330/diary-of-an-insurer-qbes-hannah-wilkinson))
 - Swiss Re: Insured nat cat losses surpass $100B for 6th year ([5 days ago](https://www.dig-in.com/news/insured-natural-disaster-losses-surpass-100b-for-6th-year))
 - NAIC starts work on AI evaluation method for regulators ([5 days ago](https://www.dig-in.com/news/naic-starts-work-on-ai-evaluation-method-for-regulators))
-- Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([7 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([7 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - AIG buys Salford City FC; Prestige x Urban Jungle; Biba’s deputy chair ([7 days ago](https://www.postonline.co.uk/news/7959567/aig-buys-salford-city-fc-prestige-x-urban-jungle-bibas-deputy-chair))
 - MGAs Review of the Year 2025 ([8 days ago](https://www.postonline.co.uk/commercial/7959384/mgas-review-of-the-year-2025))
@@ -90,7 +89,7 @@ description: Insurance Updates
 - ACORD announces winner of AI student challenge ([8 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Regulator urged to act to avert Covid BI lawsuit wave ([8 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
 - FCA partly rebuffs Which? but widens insurance crackdown ([8 days ago](https://www.postonline.co.uk/news/7959566/fca-partly-rebuffs-which-but-widens-insurance-crackdown))
-- Clear Group’s Howard Lickens to retire ([8 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
+- Clear Group’s Howard Lickens to retire ([9 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
 - Throwback Thursday: ‘Goldfinger’ of Lloyd’s attempts comeback ([9 days ago](https://www.postonline.co.uk/lloydslondon/7956782/throwback-thursday-goldfinger-of-lloyds-attempts-comeback))
 - NFU Mutual chief urges action on rising rural road fatalities ([9 days ago](https://www.postonline.co.uk/personal/7959521/nfu-mutual-chief-urges-action-on-rising-rural-road-fatalities))
 - Insurers Review of the Year 2025 ([9 days ago](https://www.postonline.co.uk/personal/7959397/insurers-review-of-the-year-2025))
@@ -103,6 +102,6 @@ description: Insurance Updates
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([12 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([15 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 - Reassured announces 16% growth in Term Assurance sales which outperforms UK market growth for 2025 YTD ([16 days ago](https://ifamagazine.com/reassured-announces-16-growth-in-term-assurance-sales-which-outperforms-uk-market-growth-for-2025-ytd/))
-- Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([28 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
+- Tide Enters Insurance Market in Partnership with Admiral Business to Close SME Protection Gap ([29 days ago](https://thefintechtimes.com/tide-enters-insurance-market-in-partnership-with-admiral-business-to-close-sme-protection-gap/))
 
 <!-- news_marker ends -->
