@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([10 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
-- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([12 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
+- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([11 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
+- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([13 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([1 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
 - Why case management systems are crucial for fraud detection ([2 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
