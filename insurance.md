@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([20 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
-- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([22 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
+- Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([21 hours ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
+- Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([23 hours ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
 - Why case management systems are crucial for fraud detection ([2 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([2 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
@@ -97,7 +97,7 @@ description: Insurance Updates
 - Q&A: Nikki Lidster, Zurich ([9 days ago](https://www.postonline.co.uk/broker/7959500/qa-nikki-lidster-zurich))
 - From estate planning to AI: why 2026 must be the year the protection market truly opens up ([9 days ago](https://ifamagazine.com/from-estate-planning-to-ai-why-2026-must-be-the-year-the-protection-market-truly-opens-up/))
 - Leadership, innovation, and the future of insurtech: a 2026 outlook for the UK protection market ([10 days ago](https://ifamagazine.com/leadership-innovation-and-the-future-of-insurtech-a-2026-outlook-for-the-uk-protection-market/))
-- Nearly four in ten UK adults live with ongoing medical conditions, finds The Exeter ([10 days ago](https://ifamagazine.com/nearly-four-in-ten-uk-adults-live-with-ongoing-medical-conditions-finds-the-exeter/))
+- Nearly four in ten UK adults live with ongoing medical conditions, finds The Exeter ([11 days ago](https://ifamagazine.com/nearly-four-in-ten-uk-adults-live-with-ongoing-medical-conditions-finds-the-exeter/))
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([11 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Protection market 2026: Embracing transformation and opportunity ([11 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
 - SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([12 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
