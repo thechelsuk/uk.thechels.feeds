@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([4 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
+- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([5 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([1 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([1 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([2 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
@@ -87,7 +87,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Markerstudy’s feast; ISC’s balloons ([8 days ago](https://www.postonline.co.uk/people/7959396/penny-blacks-social-diary-markerstudys-feast-iscs-balloons))
 - Insurance Post’s star-studded Christmas Special for 2025 ([8 days ago](https://www.postonline.co.uk/news/7959516/insurance-posts-star-studded-christmas-special-for-2025))
 - Five insurance M&A storylines to follow in 2026 ([8 days ago](https://www.postonline.co.uk/personal/7959549/five-insurance-ma-storylines-to-follow-in-2026))
-- ACORD announces winner of AI student challenge ([8 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
+- ACORD announces winner of AI student challenge ([9 days ago](https://www.dig-in.com/news/acord-announces-winner-of-ai-student-challenge))
 - Regulator urged to act to avert Covid BI lawsuit wave ([9 days ago](https://www.postonline.co.uk/commercial/7959568/regulator-urged-to-act-to-avert-covid-bi-lawsuit-wave))
 - FCA partly rebuffs Which? but widens insurance crackdown ([9 days ago](https://www.postonline.co.uk/news/7959566/fca-partly-rebuffs-which-but-widens-insurance-crackdown))
 - Clear Group’s Howard Lickens to retire ([9 days ago](https://www.postonline.co.uk/broker/7959565/clear-groups-howard-lickens-to-retire))
