@@ -42,7 +42,7 @@ description: Insurance Updates
 - Extra Capacity For Mosaic in Canada ([2 days ago](https://insurance-edge.net/2025/12/24/extra-capacity-for-mosaic-in-canada/))
 - Zurich North America enhances underwriting efficiency with Convr AI ([2 days ago](https://www.reinsurancene.ws/zurich-north-america-enhances-underwriting-efficiency-with-convr-ai/))
 - Allianz and Aviva drop Elbit cover ([2 days ago](https://www.postonline.co.uk/news/7959629/allianz-and-aviva-drop-elbit-cover))
-- Amiga Specialty welcomes David Filtness as MD, Professional Indemnity ([2 days ago](https://www.reinsurancene.ws/amiga-specialty-welcomes-david-filtness-as-md-professional-indemnity/))
+- Amiga Specialty welcomes David Filtness as MD, Professional Indemnity ([3 days ago](https://www.reinsurancene.ws/amiga-specialty-welcomes-david-filtness-as-md-professional-indemnity/))
 - Mosaic increases Canada cyber risk capacity to $25m ([3 days ago](https://www.reinsurancene.ws/mosaic-increases-canada-cyber-risk-capacity-to-25m/))
 - IMAC introduces 2026 Executive Committee and launches talent development initiative ([3 days ago](https://www.reinsurancene.ws/imac-introduces-2026-executive-committee-and-launches-talent-development-initiative/))
 - Underwriter, Actuary Fears of AI Drop; Work Needed on Collaboration ([3 days ago](https://www.insurancejournal.com/news/national/2025/12/24/852124.htm))
