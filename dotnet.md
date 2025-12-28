@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Supercharging Application Performance with Intelligent Client-Side Caching ([1 hours ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
+- F# Weekly #52, 2025 - Happy New Year ([16 minutes ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
+- Supercharging Application Performance with Intelligent Client-Side Caching ([2 hours ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
 - Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([2 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
 - Azure Functions & Durable Functions Part 1 ([2 days ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
 - F# Weekly #51, 2025 - WebSharper 10 &amp; Fidelity Framework ([6 days ago](https://dotnetkicks.com/r/736980?url=https://sergeytihon.com/2025/12/20/f-weekly-51-2025-websharper-10-fidelity-framework/))
@@ -45,14 +46,13 @@ description: DotNet Updates
 - .NET 10 Networking Improvements - .NET Blog ([19 days ago](https://dotnetkicks.com/r/736202?url=https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - .NET 10 Networking Improvements ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - Meet the Islands Theme – The New Default Look for JetBrains IDEs ([19 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
-- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([20 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
+- F# Weekly #49, 2025 - Oxpecker 2, fsi-mcp, LSP &amp; AOC in F# ([21 days ago](https://dotnetkicks.com/r/736168?url=https://sergeytihon.com/2025/12/06/f-weekly-49-2025-oxpecker-2-fsi-mcp-lsp-aoc-in-f/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([21 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
-- How the Microsoft SQL team is investing in SQL tools and experiences - Microsoft SQL Server Blog ([22 days ago](https://dotnetkicks.com/r/736132?url=https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Introducing Data Ingestion Building Blocks (Preview) ([24 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([24 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 - dotInsights  -  December 2025 ([25 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
-- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([25 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
+- Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes ([26 days ago](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/))
 - Defensive Programming Rule #6: Verify Resource Availability (Before You Access It) ([28 days ago](https://dotnettips.wordpress.com/2025/11/30/defensive-programming-rule-6-verify-resource-availability-before-you-access-it/))
 - Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions ([29 days ago](http://feeds.hanselman.com/~/930373259/0/scotthanselman~Automatically-Signing-a-Windows-EXE-with-Azure-Trusted-Signing-dotnet-sign-and-GitHub-Actions))
 
