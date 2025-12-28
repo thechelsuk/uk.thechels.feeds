@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([18 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
+- 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([19 hours ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([1 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([1 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([3 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
@@ -42,7 +42,7 @@ description: Insurance Updates
 - Enjoy Christmas Day, For Many Traders It’s Just Another Tough Shift ([3 days ago](https://insurance-edge.net/2025/12/24/enjoy-christmas-day-for-many-traders-its-just-another-tough-shift/))
 - Zurich North America enhances underwriting efficiency with Convr AI ([3 days ago](https://www.reinsurancene.ws/zurich-north-america-enhances-underwriting-efficiency-with-convr-ai/))
 - Allianz and Aviva drop Elbit cover ([3 days ago](https://www.postonline.co.uk/news/7959629/allianz-and-aviva-drop-elbit-cover))
-- Amiga Specialty welcomes David Filtness as MD, Professional Indemnity ([3 days ago](https://www.reinsurancene.ws/amiga-specialty-welcomes-david-filtness-as-md-professional-indemnity/))
+- Amiga Specialty welcomes David Filtness as MD, Professional Indemnity ([4 days ago](https://www.reinsurancene.ws/amiga-specialty-welcomes-david-filtness-as-md-professional-indemnity/))
 - Mosaic increases Canada cyber risk capacity to $25m ([4 days ago](https://www.reinsurancene.ws/mosaic-increases-canada-cyber-risk-capacity-to-25m/))
 - IMAC introduces 2026 Executive Committee and launches talent development initiative ([4 days ago](https://www.reinsurancene.ws/imac-introduces-2026-executive-committee-and-launches-talent-development-initiative/))
 - Underwriter, Actuary Fears of AI Drop; Work Needed on Collaboration ([4 days ago](https://www.insurancejournal.com/news/national/2025/12/24/852124.htm))
