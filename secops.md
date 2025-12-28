@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- WIRED - 2,364,431 breached accounts ([4 hours ago](https://haveibeenpwned.com/Breach/WIRED))
+- WIRED - 2,364,431 breached accounts ([5 hours ago](https://haveibeenpwned.com/Breach/WIRED))
 - OrthopedicsNY fined $500K by NYS for patient data breach ([5 hours ago](https://databreaches.net/2025/12/27/orthopedicsny-fined-500k-by-nys-for-patient-data-breach/?pk_campaign=feed&pk_kwd=orthopedicsny-fined-500k-by-nys-for-patient-data-breach))
 - SSL Santa greets London Victoria visitors with a borked update ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2025/12/27/victoria_bork/))
-- OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers ([18 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/))
+- OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers ([19 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/))
 - New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory ([20 hours ago](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html))
 - Fake Grubhub emails promise tenfold return on sent cryptocurrency ([1 days ago](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/))
 - Stop the slop by disabling AI features in Chrome ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/disable_ai_features_chrome/))
@@ -23,7 +23,7 @@ description: SecOps News
 - 'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/ai_is_like_adventure_games/))
 - Trust Wallet confirms extension hack led to $7 million crypto theft ([1 days ago](https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/))
 - Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection ([1 days ago](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html))
-- Utair - 401,400 breached accounts ([1 days ago](https://haveibeenpwned.com/Breach/Utair))
+- Utair - 401,400 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/Utair))
 - ChatGPT’s new formatting blocks make its UI look more like a task tool ([2 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/))
 - Hackers Unredact Epstein Files — What You Need To Know ([2 days ago](https://databreaches.net/2025/12/25/hackers-unredact-epstein-files-what-you-need-to-know/?pk_campaign=feed&pk_kwd=hackers-unredact-epstein-files-what-you-need-to-know))
 - Pen testers accused of ‘blackmail’ after reporting Eurostar chatbot flaws ([2 days ago](https://databreaches.net/2025/12/25/pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws/?pk_campaign=feed&pk_kwd=pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws))
