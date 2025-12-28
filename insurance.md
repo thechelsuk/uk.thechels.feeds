@@ -8,15 +8,15 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 2025 WIL: Tresa Stephens ([1 hours ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
+- 2025 WIL: Tresa Stephens ([2 hours ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
 - New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([2 hours ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
 - The human side of digital transformation ([2 hours ago](https://www.dig-in.com/opinion/the-human-side-of-digital-transformation))
 - 2026 Resolutions? Hey Under 25s, Don’t Overpay on Car Insurance Next Year ([1 days ago](https://insurance-edge.net/2025/12/27/2026-resolutions-hey-under-25s-dont-overpay-on-car-insurance-next-year/))
 - Best Insurance Looks Ahead to 2026: AI, Portals, White Labels & More ([2 days ago](https://insurance-edge.net/2025/12/26/best-insurance-looks-ahead-to-2026-ai-portals-white-labels-more/))
 - Russell Scanlan Raises £11,300 For Trent Bridge Community Trust ([2 days ago](https://insurance-edge.net/2025/12/26/russell-scanlan-raises-11300-for-trent-bridge-community-trust/))
 - Sometimes All You Want For Christmas is Cheaper Car Insurance ([3 days ago](https://insurance-edge.net/2025/12/25/sometimes-all-you-want-for-christmas-is-cheaper-car-insurance/))
-- Why case management systems are crucial for fraud detection ([4 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - Growth to control: How 2025 redefined insurance and what 2026 demands next ([4 days ago](https://www.dig-in.com/opinion/how-2025-redefined-insurance-and-what-2026-demands))
+- Why case management systems are crucial for fraud detection ([4 days ago](https://www.dig-in.com/opinion/why-case-management-systems-are-crucial-for-fraud-detection))
 - People Moves: Gallagher Taps EY’s Hughes as Tax Specialist in Private Equity/M&A Team ([4 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852298.htm))
 - EU Faces Renewed US Ire After ESG Cutbacks Fail to Calm Tensions ([4 days ago](https://www.insurancejournal.com/news/international/2025/12/24/852292.htm))
 - Reinsurers face pressure on growing top-line and maintaining margin in 2026: Autonomous ([4 days ago](https://www.reinsurancene.ws/reinsurers-face-pressure-on-growing-top-line-and-maintaining-margin-in-2026-autonomous/))
