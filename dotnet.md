@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- 2025 Year in Review ([5 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
-- Striking a Balance: Working Fully Remote for Nearly a Decade ([5 hours ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
-- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([6 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
-- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([6 hours ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
-- Top .NET Blog Posts of 2025 - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
+- 2025 Year in Review ([6 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
+- Striking a Balance: Working Fully Remote for Nearly a Decade ([6 hours ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
+- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([7 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
+- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([7 hours ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
+- Top .NET Blog Posts of 2025 - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - Top .NET Blog Posts of 2025 ([12 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - F# Weekly #52, 2025 - Happy New Year ([2 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
 - Supercharging Application Performance with Intelligent Client-Side Caching ([2 days ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
