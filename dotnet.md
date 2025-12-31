@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Top .NET Videos & Live Streams of 2025 - .NET Blog ([30 minutes ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
-- Top .NET Videos & Live Streams of 2025 ([39 minutes ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
+- Top .NET Videos & Live Streams of 2025 - .NET Blog ([52 minutes ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
+- Top .NET Videos & Live Streams of 2025 ([1 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - 2025 Year in Review ([18 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([18 hours ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([19 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
@@ -42,8 +42,8 @@ description: DotNet Updates
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([17 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
 - Rider and ReSharper 2025.3.0.4: Important Updates Released ([20 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
 - Streamlining your Git workflow with Visual Studio 2026 - Visual Studio Blog ([21 days ago](https://dotnetkicks.com/r/736367?url=https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/))
-- .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([21 days ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
-- .NET and .NET Framework December 2025 servicing releases updates ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
+- .NET and .NET Framework December 2025 servicing releases updates - .NET Blog ([22 days ago](https://dotnetkicks.com/r/736324?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
+- .NET and .NET Framework December 2025 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([22 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([22 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development ([22 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
