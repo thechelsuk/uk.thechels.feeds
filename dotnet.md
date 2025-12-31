@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- 2025 Year in Review ([10 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
+- 2025 Year in Review ([11 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([11 hours ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
-- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([11 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
+- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([12 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([12 hours ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
-- Top .NET Blog Posts of 2025 - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
-- Top .NET Blog Posts of 2025 ([17 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
+- Top .NET Blog Posts of 2025 - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
+- Top .NET Blog Posts of 2025 ([18 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - F# Weekly #52, 2025 - Happy New Year ([3 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
 - Supercharging Application Performance with Intelligent Client-Side Caching ([3 days ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
 - Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([5 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
