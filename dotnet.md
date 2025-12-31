@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
-- Top .NET Videos & Live Streams of 2025 ([1 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
-- 2025 Year in Review ([18 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
+- Top .NET Videos & Live Streams of 2025 ([2 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
+- 2025 Year in Review ([19 hours ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([19 hours ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
-- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([19 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
+- Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([20 hours ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([20 hours ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
 - Top .NET Blog Posts of 2025 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - Top .NET Blog Posts of 2025 ([1 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - .NET and .NET Framework December 2025 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([22 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([22 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
-- Microsoft Learn MCP Server Elevates Development ([22 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
+- Microsoft Learn MCP Server Elevates Development ([23 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - .NET 10 Networking Improvements ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - Meet the Islands Theme – The New Default Look for JetBrains IDEs ([23 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([24 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
