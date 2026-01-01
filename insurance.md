@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Skywell Teams Up With Adrian Flux on EV Cover ([9 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
+- Skywell Teams Up With Adrian Flux on EV Cover ([10 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
 - Predictions 2026: Insurance Sector Trends, Comment and Analysis ([11 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
 - The agentic AI pricing revolution and investment strategy ([23 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
 - Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([1 days ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
