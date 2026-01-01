@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Top .NET Videos & Live Streams of 2025 - .NET Blog ([7 hours ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
-- Top .NET Videos & Live Streams of 2025 ([7 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
+- Top .NET Videos & Live Streams of 2025 - .NET Blog ([8 hours ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
+- Top .NET Videos & Live Streams of 2025 ([8 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - 2025 Year in Review ([1 days ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([1 days ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([1 days ago](https://dotnetkicks.com/r/737312?url=https://petabridge.com/blog/crud-to-cqrs-akka-persistence/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - Debugging, but Without the Drama (A Visual Studio 2026 Story) - Visual Studio Blog ([15 days ago](https://dotnetkicks.com/r/736724?url=https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([15 days ago](https://dotnetkicks.com/r/736711?url=https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([15 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
-- Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([15 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
+- Prompt Noise Is Killing Your AI Accuracy: How To Optimize Context For Grounded Output  -  Build5Nines ([16 days ago](https://dotnetkicks.com/r/736689?url=https://build5nines.com/prompt-noise-is-killing-your-ai-accuracy-how-to-optimize-context-for-grounded-output/))
 - How to Build iOS Widgets with .NET MAUI - .NET Blog ([16 days ago](https://dotnetkicks.com/r/736640?url=https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - How to Build iOS Widgets with .NET MAUI ([16 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - F# Weekly #50, 2025 - Making of A Programming Language ([17 days ago](https://dotnetkicks.com/r/736573?url=https://sergeytihon.com/2025/12/14/f-weekly-50-2025-making-of-a-programming-language/))
