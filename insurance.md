@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Skywell Teams Up With Adrian Flux on EV Cover ([10 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
-- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([11 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
-- The agentic AI pricing revolution and investment strategy ([23 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
+- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([12 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
+- The agentic AI pricing revolution and investment strategy ([1 days ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
 - Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([1 days ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
 - China’s PICC P&C enters into reinsurance agreements with PICC Re & PICC HK ([1 days ago](https://www.reinsurancene.ws/chinas-picc-pc-enters-into-reinsurance-agreements-with-picc-re-picc-hk/))
 - Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/12/31/852831.htm))
@@ -55,7 +55,7 @@ description: Insurance Updates
 - Diary of an Insurer: Gallagher’s Cheryl Phillips ([1 days ago](https://www.postonline.co.uk/broker/7959631/diary-of-an-insurer-gallaghers-cheryl-phillips))
 - Forces set to reshape home insurance pricing into 2026 ([1 days ago](https://www.postonline.co.uk/personal/7959156/forces-set-to-reshape-home-insurance-pricing-into-2026))
 - Governing the promise and perils of Agentic AI ([1 days ago](https://www.dig-in.com/opinion/governing-the-promise-and-perils-of-agentic-ai))
-- A 2026 playbook for outsmarting the fraud surge ([1 days ago](https://www.dig-in.com/opinion/a-2026-playbook-for-outsmarting-the-fraud-surge))
+- A 2026 playbook for outsmarting the fraud surge ([2 days ago](https://www.dig-in.com/opinion/a-2026-playbook-for-outsmarting-the-fraud-surge))
 - US lawmakers launch probe into insurance rating firm in Florida ([2 days ago](https://www.dig-in.com/articles/us-lawmakers-launch-probe-into-insurance-rating-firm-in-florida))
 - QBE Insurance Sponsors US$400M Catastrophe Bond via Bridge Street Program ([2 days ago](https://www.insurancejournal.com/news/international/2025/12/30/852699.htm))
 - Go.Compare Launches Ad Campaign With Ian Wright ([2 days ago](https://insurance-edge.net/2025/12/30/go-compare-launches-ad-campaign-with-ian-wright/))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Broker Forecast for 2026 ([3 days ago](https://www.postonline.co.uk/broker/7959393/broker-forecast-for-2026))
 - Navigating the Arbitration Act 2025 ([3 days ago](https://www.postonline.co.uk/claims/7959506/navigating-the-arbitration-act-2025))
 - 2025 WIL: Tresa Stephens ([3 days ago](https://www.dig-in.com/news/2025-wil-tresa-stephens))
-- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([3 days ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
+- New leader of Nationwide Securities, Beazley's head of digital follow underwriting: Insurance news ([4 days ago](https://www.dig-in.com/news/leader-nationwide-securities-beazley-digital-underwriting))
 - Allianz and Aviva drop Elbit cover ([8 days ago](https://www.postonline.co.uk/news/7959629/allianz-and-aviva-drop-elbit-cover))
 - Claims and Legal Forecast of 2026 ([8 days ago](https://www.postonline.co.uk/claims/7959391/claims-and-legal-forecast-of-2026))
 - Why Which?’s super-complaint is a turning point for insurance ([8 days ago](https://www.postonline.co.uk/regulation/7959579/why-whichs-super-complaint-is-a-turning-point-for-insurance))
