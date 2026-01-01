@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([5 hours ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
+- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([6 hours ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([6 hours ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Videos & Live Streams of 2025 ([19 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
@@ -55,6 +55,5 @@ description: DotNet Updates
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Introducing Data Ingestion Building Blocks (Preview) ([28 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
 - 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([29 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
-- dotInsights  -  December 2025 ([29 days ago](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/))
 
 <!-- news_marker ends -->
