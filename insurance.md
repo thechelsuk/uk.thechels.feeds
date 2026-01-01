@@ -9,8 +9,8 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Skywell Teams Up With Adrian Flux on EV Cover ([8 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
-- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([9 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
-- The agentic AI pricing revolution and investment strategy ([21 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
+- Predictions 2026: Insurance Sector Trends, Comment and Analysis ([10 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
+- The agentic AI pricing revolution and investment strategy ([22 hours ago](https://www.dig-in.com/opinion/the-agentic-ai-pricing-revolution-and-investment-strategy))
 - Willis Re expects further easing of conditions, greater competition & continued new supply in 2026 ([1 days ago](https://www.reinsurancene.ws/willis-re-expects-further-easing-of-conditions-greater-competition-continued-new-supply-in-2026/))
 - China’s PICC P&C enters into reinsurance agreements with PICC Re & PICC HK ([1 days ago](https://www.reinsurancene.ws/chinas-picc-pc-enters-into-reinsurance-agreements-with-picc-re-picc-hk/))
 - Goldman Helps Lead Financing for 5-Gigawatt Texas AI Power Sites ([1 days ago](https://www.insurancejournal.com/news/southcentral/2025/12/31/852831.htm))
