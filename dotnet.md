@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Top .NET Videos & Live Streams of 2025 - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
+- Top .NET Videos & Live Streams of 2025 - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Videos & Live Streams of 2025 ([12 hours ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - 2025 Year in Review ([1 days ago](https://dotnetkicks.com/r/737343?url=https://markheath.net/post/2025/12/31/2025-year-in-review))
 - Striking a Balance: Working Fully Remote for Nearly a Decade ([1 days ago](https://dotnetkicks.com/r/737327?url=https://rion.io/2025/12/30/striking-a-balance-working-fully-remote-for-nearly-a-decade/))
