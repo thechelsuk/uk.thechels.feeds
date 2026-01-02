@@ -54,6 +54,5 @@ description: DotNet Updates
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([26 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
 - .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/))
 - Introducing Data Ingestion Building Blocks (Preview) ([29 days ago](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/))
-- 5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun ([29 days ago](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/))
 
 <!-- news_marker ends -->
