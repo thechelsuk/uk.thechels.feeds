@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How AI agents are redefining the insurance experience ([7 hours ago](https://www.dig-in.com/opinion/how-ai-agents-are-redefining-the-insurance-experience))
+- How AI agents are redefining the insurance experience ([8 hours ago](https://www.dig-in.com/opinion/how-ai-agents-are-redefining-the-insurance-experience))
 - How to avoid costly mistakes in small commercial insurance ([8 hours ago](https://www.dig-in.com/opinion/avoiding-costly-mistakes-in-small-commercial-insurance))
 - Skywell Teams Up With Adrian Flux on EV Cover ([19 hours ago](https://insurance-edge.net/2026/01/01/skywell-teams-up-with-adrian-flux-on-ev-cover/))
 - Predictions 2026: Insurance Sector Trends, Comment and Analysis ([20 hours ago](https://insurance-edge.net/2026/01/01/predictions-2026-insurance-sector-trends-comment-and-analysis/))
@@ -65,8 +65,8 @@ description: Insurance Updates
 - Insurers Forecast of 2026 ([2 days ago](https://www.postonline.co.uk/personal/7959399/insurers-forecast-of-2026))
 - Could AI widen the insurance gap? ([2 days ago](https://www.postonline.co.uk/technology/7959581/could-ai-widen-the-insurance-gap))
 - Why insurers can’t afford to sleepwalk into the next regulatory wave ([2 days ago](https://www.postonline.co.uk/regulation/7959505/why-insurers-cant-afford-to-sleepwalk-into-the-next-regulatory-wave))
-- Insurers need more than tech to combat risk ([3 days ago](https://www.dig-in.com/opinion/insurers-need-more-than-tech-to-combat-risk))
 - AI's double-edged cyber protection role in 2026 ([3 days ago](https://www.dig-in.com/opinion/ais-double-edged-cyber-protection-role-in-2026))
+- Insurers need more than tech to combat risk ([3 days ago](https://www.dig-in.com/opinion/insurers-need-more-than-tech-to-combat-risk))
 - Allstate increases Illinois property insurance rates ([3 days ago](https://www.dig-in.com/news/allstate-increases-illinois-property-insurance-rates))
 - Diary of an Insurer: Charles Taylor Adjusting’s Matthew Calveley ([3 days ago](https://www.postonline.co.uk/claims/7959306/diary-of-an-insurer-charles-taylor-adjustings-matthew-calveley))
 - Broker Forecast for 2026 ([3 days ago](https://www.postonline.co.uk/broker/7959393/broker-forecast-for-2026))
