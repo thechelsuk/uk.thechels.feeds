@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([11 hours ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
+- Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([12 hours ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
 - Munich Re’s ERGO acquires non-life insurer ADB Gjensidige in the Baltics ([1 days ago](https://www.reinsurancene.ws/munich-res-ergo-acquires-non-life-insurer-adb-gjensidige-in-the-baltics/))
 - US Rice, Cotton Farmers Get Biggest Relief in Trump Bailout ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/01/02/852960.htm))
 - Litigation Funding, Other New Laws in SE States Could Impact Liability Insurance ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/02/852955.htm))
@@ -86,6 +86,7 @@ description: Insurance Updates
 - 60 Seconds With... Sarah Vaughan, Angelica Solutions ([11 days ago](https://www.postonline.co.uk/people/7958980/60-seconds-with-sarah-vaughan-angelica-solutions))
 - Underwriting takes its toll so mental health support is vital ([11 days ago](https://www.postonline.co.uk/people/7959564/underwriting-takes-its-toll-so-mental-health-support-is-vital))
 - LV looking to relaunch into general insurance in early 2028 ([12 days ago](https://www.postonline.co.uk/personal/7959573/lv-looking-to-relaunch-into-general-insurance-in-early-2028))
+- Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([15 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([15 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - From estate planning to AI: why 2026 must be the year the protection market truly opens up ([17 days ago](https://ifamagazine.com/from-estate-planning-to-ai-why-2026-must-be-the-year-the-protection-market-truly-opens-up/))
 - Leadership, innovation, and the future of insurtech: a 2026 outlook for the UK protection market ([17 days ago](https://ifamagazine.com/leadership-innovation-and-the-future-of-insurtech-a-2026-outlook-for-the-uk-protection-market/))
