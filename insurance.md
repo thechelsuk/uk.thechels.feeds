@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([12 hours ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
+- Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([13 hours ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
 - Munich Re’s ERGO acquires non-life insurer ADB Gjensidige in the Baltics ([1 days ago](https://www.reinsurancene.ws/munich-res-ergo-acquires-non-life-insurer-adb-gjensidige-in-the-baltics/))
 - US Rice, Cotton Farmers Get Biggest Relief in Trump Bailout ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/01/02/852960.htm))
 - Litigation Funding, Other New Laws in SE States Could Impact Liability Insurance ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/02/852955.htm))
