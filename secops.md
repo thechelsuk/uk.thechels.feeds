@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Hackers claim to hack Resecurity, firm says it was a honeypot ([7 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
+- Hackers claim to hack Resecurity, firm says it was a honeypot ([8 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
 - ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([9 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
-- Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
-- President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([17 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
+- Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
+- President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([18 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
 - Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/elon_musk_grok_scandal_underwear_strippers_gross/))
 - Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/))
 - Bitfinex crypto thief who was serving five years thanks Trump for early release ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/))
@@ -113,7 +113,7 @@ description: SecOps News
 - China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware ([8 days ago](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html))
 - 'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work ([8 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/26/ai_is_like_adventure_games/))
 - Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection ([8 days ago](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html))
-- Utair - 401,400 breached accounts ([8 days ago](https://haveibeenpwned.com/Breach/Utair))
+- Utair - 401,400 breached accounts ([9 days ago](https://haveibeenpwned.com/Breach/Utair))
 - ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories ([9 days ago](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html))
 - Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow ([9 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/25/humanoid_robots_investment_surge/))
 - LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds ([9 days ago](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html))
