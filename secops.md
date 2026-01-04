@@ -9,9 +9,9 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Hackers claim to hack Resecurity, firm says it was a honeypot ([9 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
-- ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([10 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
+- ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([11 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
 - Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
-- President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([18 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
+- President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([19 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
 - Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/elon_musk_grok_scandal_underwear_strippers_gross/))
 - Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/))
 - Bitfinex crypto thief who was serving five years thanks Trump for early release ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/))
@@ -47,7 +47,7 @@ description: SecOps News
 - Welcome to Wendy's! Before your order can be taken, you must first reset this kiosk ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/bork_wendys_kiosk/))
 - How Microsoft gave customers what they wanted: An audience with Bill Gates ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/01/microsofts_approach_to_customer_service/))
 - RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers ([2 days ago](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html))
-- How To Browse Faster and Get More Done Using Adapt Browser ([2 days ago](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html))
+- How To Browse Faster and Get More Done Using Adapt Browser ([3 days ago](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html))
 - NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices ([3 days ago](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/))
 - US Army seeks human AI officers to manage its battle bots ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/us_army_seeking_officers_willing/))
 - European Space Agency hit again as cybercrims claim 200 GB data up for sale ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/))
