@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([56 minutes ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
-- Leveraging Span-Based String Concatenation for Improved Performance ([1 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
+- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([1 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
+- Leveraging Span-Based String Concatenation for Improved Performance ([2 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([3 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Migrating from CRUD to CQRS and Event-Sourcing with Akka.Persistence ([4 days ago](https://dotnetkicks.com/r/737305?url=https://petabridge.com/blog/akka-persistence-cqrs-upgrades/))
 - Top .NET Blog Posts of 2025 - .NET Blog ([4 days ago](https://dotnetkicks.com/r/737287?url=https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
 - Top .NET Blog Posts of 2025 ([4 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
-- F# Weekly #52, 2025 - Happy New Year ([6 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
+- F# Weekly #52, 2025 - Happy New Year ([7 days ago](https://dotnetkicks.com/r/737174?url=https://sergeytihon.com/2025/12/28/f-weekly-52-2025-happy-new-year/))
 - Supercharging Application Performance with Intelligent Client-Side Caching ([7 days ago](https://dotnettips.wordpress.com/2025/12/28/supercharging-application-performance-with-intelligent-client-side-caching/))
 - Implementing Azure Naming Conventions At Scale With Terraform And Build5Nines/naming/azure (AzureRM + Region Pairs)  -  Build5Nines ([9 days ago](https://dotnetkicks.com/r/737130?url=https://build5nines.com/implementing-azure-naming-conventions-at-scale-with-terraform-and-build5nines-naming-azure-azurerm-region-pairs/))
 - Azure Functions & Durable Functions Part 1 ([9 days ago](https://dotnetkicks.com/r/737117?url=https://jesseliberty.com/2025/12/25/creating-the-project-with-copilot/))
