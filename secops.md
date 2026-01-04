@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Hackers claim to hack Resecurity, firm says it was a honeypot ([10 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
+- Hackers claim to hack Resecurity, firm says it was a honeypot ([11 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
 - ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([12 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
-- Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
+- Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
 - President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([20 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
 - Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/elon_musk_grok_scandal_underwear_strippers_gross/))
 - Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/))
@@ -198,6 +198,5 @@ description: SecOps News
 - Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill ([28 days ago](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/))
 - KinoKong - 817,808 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/KinoKong))
 - Team synchronization is experiencing delays for non enterprise managed users ([29 days ago](https://www.githubstatus.com/incidents/3hdjjpkvz895))
-- Weekly Update 481 ([29 days ago](https://www.troyhunt.com/weekly-update-481/))
 
 <!-- news_marker ends -->
