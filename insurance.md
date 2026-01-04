@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([20 hours ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
+- Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([21 hours ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
 - Munich Re’s ERGO acquires non-life insurer ADB Gjensidige in the Baltics ([1 days ago](https://www.reinsurancene.ws/munich-res-ergo-acquires-non-life-insurer-adb-gjensidige-in-the-baltics/))
 - US Rice, Cotton Farmers Get Biggest Relief in Trump Bailout ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/01/02/852960.htm))
 - Litigation Funding, Other New Laws in SE States Could Impact Liability Insurance ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/02/852955.htm))
@@ -70,8 +70,8 @@ description: Insurance Updates
 - Insurers Forecast of 2026 ([4 days ago](https://www.postonline.co.uk/personal/7959399/insurers-forecast-of-2026))
 - Why insurers can’t afford to sleepwalk into the next regulatory wave ([4 days ago](https://www.postonline.co.uk/regulation/7959505/why-insurers-cant-afford-to-sleepwalk-into-the-next-regulatory-wave))
 - Could AI widen the insurance gap? ([4 days ago](https://www.postonline.co.uk/technology/7959581/could-ai-widen-the-insurance-gap))
-- Insurers need more than tech to combat risk ([5 days ago](https://www.dig-in.com/opinion/insurers-need-more-than-tech-to-combat-risk))
 - AI's double-edged cyber protection role in 2026 ([5 days ago](https://www.dig-in.com/opinion/ais-double-edged-cyber-protection-role-in-2026))
+- Insurers need more than tech to combat risk ([5 days ago](https://www.dig-in.com/opinion/insurers-need-more-than-tech-to-combat-risk))
 - Allstate increases Illinois property insurance rates ([5 days ago](https://www.dig-in.com/news/allstate-increases-illinois-property-insurance-rates))
 - Navigating the Arbitration Act 2025 ([5 days ago](https://www.postonline.co.uk/claims/7959506/navigating-the-arbitration-act-2025))
 - Diary of an Insurer: Charles Taylor Adjusting’s Matthew Calveley ([5 days ago](https://www.postonline.co.uk/claims/7959306/diary-of-an-insurer-charles-taylor-adjustings-matthew-calveley))

@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Hackers claim to hack Resecurity, firm says it was a honeypot ([6 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
-- ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([7 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
-- Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
+- Hackers claim to hack Resecurity, firm says it was a honeypot ([7 hours ago](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/))
+- ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot ([8 hours ago](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot))
+- Claude is his copilot: Rust veteran designs new Rue programming language with help from AI bot ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/claude_copilot_rue_steve_klabnik/))
 - President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests ([16 hours ago](https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/))
 - Users prompt Elon Musk's Grok AI chatbot to remove clothes in photos then 'apologize' for it ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/03/elon_musk_grok_scandal_underwear_strippers_gross/))
 - Microsoft CEO Satya Nadella becomes AI influencer, asks us all to move beyond slop ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/))
@@ -80,7 +80,7 @@ description: SecOps News
 - How to Integrate AI into Modern SOC Workflows ([4 days ago](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html))
 - Korean Air Data Compromised in Oracle EBS Hack ([4 days ago](https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/))
 - Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor ([4 days ago](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html))
-- Korean telco failed at femtocell security, exposed customers to snooping and fraud ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/))
+- Korean telco failed at femtocell security, exposed customers to snooping and fraud ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/))
 - Zuck buys Chinese AI company Manus that claims it deals in actions, not words ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/30/meta_acquires_manus/))
 - Indian cops cuff ex-Coinbase rep over selling customer info to crims ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/))
 - Happy 16th Birthday, KrebsOnSecurity.com! ([5 days ago](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/))
