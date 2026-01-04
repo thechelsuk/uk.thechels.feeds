@@ -42,7 +42,7 @@ description: Insurance Updates
 - US Sanctions Chinese Companies, Tankers With Venezuela Links ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/02/852870.htm))
 - Avishek Rath joins Aon’s Facultative Reinsurance Solutions team in India ([1 days ago](https://www.reinsurancene.ws/avishek-rath-joins-aons-facultative-reinsurance-solutions-team-in-india/))
 - Europe’s Space Agency Says Cyber Incident May Have Hit Servers ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/02/852867.htm))
-- Axa UK’s Dougie Barnett hangs up his boots ([1 days ago](https://www.postonline.co.uk/commercial/7959548/axa-uks-dougie-barnett-retires))
+- Axa UK’s Dougie Barnett hangs up his boots ([2 days ago](https://www.postonline.co.uk/commercial/7959548/axa-uks-dougie-barnett-retires))
 - 2026 renewal sees sharpest decline in risk-adjusted global property rates since 2014: Howden ([2 days ago](https://www.reinsurancene.ws/2026-renewal-sees-sharpest-decline-in-risk-adjusted-global-property-rates-since-2014-howden/))
 - Porsche to Recall Over 173,000 Vehicles for Rearview Camera Issue ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/02/852858.htm))
 - Whose Dog Is That? Delaware Courts Wade Into Pet Custody Fights ([2 days ago](https://www.insurancejournal.com/news/east/2026/01/02/852802.htm))
@@ -89,11 +89,11 @@ description: Insurance Updates
 - Skyward Specialty and Sixfold Partner to Advance AI Powered Underwriting ([15 days ago](https://www.insurtechinsights.com/skyward-specialty-and-sixfold-partner-to-advance-ai-powered-underwriting/))
 - Cyber insurance uptake is reportedly below 10% – why broker education is key to market growth ([15 days ago](https://ifamagazine.com/cyber-insurance-uptake-is-reportedly-below-10-why-broker-education-is-key-to-market-growth/))
 - From estate planning to AI: why 2026 must be the year the protection market truly opens up ([17 days ago](https://ifamagazine.com/from-estate-planning-to-ai-why-2026-must-be-the-year-the-protection-market-truly-opens-up/))
-- Leadership, innovation, and the future of insurtech: a 2026 outlook for the UK protection market ([17 days ago](https://ifamagazine.com/leadership-innovation-and-the-future-of-insurtech-a-2026-outlook-for-the-uk-protection-market/))
+- Leadership, innovation, and the future of insurtech: a 2026 outlook for the UK protection market ([18 days ago](https://ifamagazine.com/leadership-innovation-and-the-future-of-insurtech-a-2026-outlook-for-the-uk-protection-market/))
 - Nearly four in ten UK adults live with ongoing medical conditions, finds The Exeter ([18 days ago](https://ifamagazine.com/nearly-four-in-ten-uk-adults-live-with-ongoing-medical-conditions-finds-the-exeter/))
 - AFC Bournemouth proud to announce Vitality as front-of-shirt sponsor ([19 days ago](https://ifamagazine.com/afc-bournemouth-proud-to-announce-vitality-as-front-of-shirt-sponsor/))
 - Protection market 2026: Embracing transformation and opportunity ([19 days ago](https://ifamagazine.com/protection-market-2026-embracing-transformation-and-opportunity/))
-- SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([19 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
+- SM Advice launches free social media service for firms in response to AMI Viewpoint findings that 51% do not use social media ([20 days ago](https://ifamagazine.com/sm-advice-launches-free-social-media-service-for-firms-in-response-to-ami-viewpoint-findings-that-51-do-not-use-social-media/))
 - Rising mental health referrals highlight growing pressure and increased reliance on employer health support ([23 days ago](https://ifamagazine.com/rising-mental-health-referrals-highlight-growing-pressure-and-increased-reliance-on-employer-health-support/))
 
 <!-- news_marker ends -->
