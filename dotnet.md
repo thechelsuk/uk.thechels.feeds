@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Learning AI ([49 minutes ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
-- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([11 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
-- Leveraging Span-Based String Concatenation for Improved Performance ([12 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
+- Learning AI ([1 hours ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
+- F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([12 hours ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
+- Leveraging Span-Based String Concatenation for Improved Performance ([13 hours ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([3 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([4 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
@@ -49,7 +49,7 @@ description: DotNet Updates
 - .NET and .NET Framework December 2025 servicing releases updates ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([26 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
 - Trying out the Zed editor on Windows for .NET and Markdown ([26 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
-- Microsoft Learn MCP Server Elevates Development ([26 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
+- Microsoft Learn MCP Server Elevates Development ([27 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - .NET 10 Networking Improvements ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
 - Meet the Islands Theme – The New Default Look for JetBrains IDEs ([27 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
 - Immutable Collection Add() Trap: Don’t Get Burned — Use a Builder Instead ([28 days ago](https://dotnettips.wordpress.com/2025/12/07/immutable-collection-add-trap-dont-get-burned-use-a-builder-instead/))
