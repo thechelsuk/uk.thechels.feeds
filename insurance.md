@@ -8,10 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Report: Majority of UK properties remain underinsured in 2025 ([14 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-majority-of-uk-properties-remain-underinsured-in-2025-560941.aspx))
+- Report: Majority of UK properties remain underinsured in 2025 ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-majority-of-uk-properties-remain-underinsured-in-2025-560941.aspx))
 - Managing off-channel communication risks in digital insurance ([6 hours ago](https://www.dig-in.com/opinion/managing-off-channel-communication-risks-in-insurance))
 - New and emerging risk predictions for 2026 ([6 hours ago](https://www.dig-in.com/news/new-and-emerging-risk-predictions-for-2026))
-- Needham Group acquires 100% stake in Surrey-based broker ([6 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/needham-group-acquires-100-stake-in-surreybased-broker-560924.aspx))
+- FCA probes broker over concerns on advertising and sales practices ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-probes-broker-over-concerns-on-advertising-and-sales-practices-560925.aspx))
+- Needham Group acquires 100% stake in Surrey-based broker ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/needham-group-acquires-100-stake-in-surreybased-broker-560924.aspx))
 - AXA UK veteran Dougie Barnett retires ([7 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-uk-veteran-dougie-barnett-retires-560923.aspx))
 - Washington Workplace Changes for 2026 Include Higher Pay, New Tower Crane Rules ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/03/852966.htm))
 - Munich Re’s ERGO acquires non-life insurer ADB Gjensidige in the Baltics ([2 days ago](https://www.reinsurancene.ws/munich-res-ergo-acquires-non-life-insurer-adb-gjensidige-in-the-baltics/))
