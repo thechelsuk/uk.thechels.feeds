@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([15 hours ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
+- Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([16 hours ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
 - Set the amr claim when using passkeys authentication in ASP.NET Core ([19 hours ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
-- Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([23 hours ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
+- Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([1 days ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
 - Context Is the Bottleneck in Software Development ([1 days ago](https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/))
 - Logo? ([1 days ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
 - Generative AI with Large Language Models in C# in 2026 - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
@@ -44,7 +44,7 @@ description: DotNet Updates
 - 2025 in review: How we elevated the Microsoft Store experience ([19 days ago](https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/))
 - Azure updates for partners: December 2025 ([20 days ago](https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025))
 - Critter Stack Roadmap for 2026 ([20 days ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
-- Why "Microservices" Debates Miss the Point ([20 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
+- Why "Microservices" Debates Miss the Point ([21 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([21 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([21 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - How to Build iOS Widgets with .NET MAUI ([22 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
