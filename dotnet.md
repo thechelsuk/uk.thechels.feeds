@@ -9,13 +9,13 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([5 hours ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
-- Set the amr claim when using passkeys authentication in ASP.NET Core ([8 hours ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
+- Set the amr claim when using passkeys authentication in ASP.NET Core ([9 hours ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([13 hours ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
 - Context Is the Bottleneck in Software Development ([14 hours ago](https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/))
 - Logo? ([15 hours ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
-- Generative AI with Large Language Models in C# in 2026 - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
+- Generative AI with Large Language Models in C# in 2026 - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 - Generative AI with Large Language Models in C# in 2026 ([18 hours ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
-- dotInsights  -  January 2026 ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
+- dotInsights  -  January 2026 ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
 - Critter Stack and JasperFx Retrospective for 2025 ([1 days ago](https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/))
 - Learning AI ([1 days ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
 - F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([2 days ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
