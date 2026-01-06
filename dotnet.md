@@ -9,11 +9,11 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Set the amr claim when using passkeys authentication in ASP.NET Core ([1 hours ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
-- Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([5 hours ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
-- Context Is the Bottleneck in Software Development ([6 hours ago](https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/))
-- Logo? ([7 hours ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
+- Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([6 hours ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
+- Context Is the Bottleneck in Software Development ([7 hours ago](https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/))
+- Logo? ([8 hours ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
 - Generative AI with Large Language Models in C# in 2026 - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
-- Generative AI with Large Language Models in C# in 2026 ([10 hours ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
+- Generative AI with Large Language Models in C# in 2026 ([11 hours ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 - dotInsights  -  January 2026 ([13 hours ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
 - Critter Stack and JasperFx Retrospective for 2025 ([1 days ago](https://dotnetkicks.com/r/737559?url=https://jeremydmiller.com/2026/01/04/critter-stack-and-jasperfx-retrospective-for-2025/))
 - Learning AI ([1 days ago](https://dotnetkicks.com/r/737522?url=https://jesseliberty.com/2026/01/04/learning-ai/))
