@@ -46,15 +46,14 @@ description: DotNet Updates
 - Critter Stack Roadmap for 2026 ([20 days ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
 - Why "Microservices" Debates Miss the Point ([21 days ago](https://dotnetkicks.com/r/736738?url=https://codeopinion.com/why-microservices-debates-miss-the-point/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([21 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([21 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([22 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - How to Build iOS Widgets with .NET MAUI ([22 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([24 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
 - Rider and ReSharper 2025.3.0.4: Important Updates Released ([26 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
 - .NET and .NET Framework December 2025 servicing releases updates ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([28 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
-- Trying out the Zed editor on Windows for .NET and Markdown ([28 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
+- Trying out the Zed editor on Windows for .NET and Markdown ([29 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 - Microsoft Learn MCP Server Elevates Development ([29 days ago](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/))
 - .NET 10 Networking Improvements ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/))
-- Meet the Islands Theme – The New Default Look for JetBrains IDEs ([29 days ago](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/))
 
 <!-- news_marker ends -->
