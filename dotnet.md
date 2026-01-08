@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- EF Core Lazy Loading Performance Gotcha ([7 minutes ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([1 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([2 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
@@ -45,7 +46,6 @@ description: DotNet Updates
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([21 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - 2025 in review: How we elevated the Microsoft Store experience ([21 days ago](https://dotnetkicks.com/r/736902?url=https://blogs.windows.com/windowsdeveloper/2025/12/18/2025-in-review-how-we-elevated-the-microsoft-store-experience/))
 - Azure updates for partners: December 2025 ([22 days ago](https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025))
-- Critter Stack Roadmap for 2026 ([22 days ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([23 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([23 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - How to Build iOS Widgets with .NET MAUI ([24 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
