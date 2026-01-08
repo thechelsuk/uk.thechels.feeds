@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
-- Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([15 hours ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
+- Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
+- Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([16 hours ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([2 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
 - Set the amr claim when using passkeys authentication in ASP.NET Core ([2 days ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([2 days ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
@@ -47,12 +47,11 @@ description: DotNet Updates
 - Azure updates for partners: December 2025 ([21 days ago](https://dotnetkicks.com/r/736815?url=https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025))
 - Critter Stack Roadmap for 2026 ([21 days ago](https://dotnetkicks.com/r/736802?url=https://jeremydmiller.com/2025/12/17/critter-stack-roadmap-for-2026/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([22 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([22 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([23 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - How to Build iOS Widgets with .NET MAUI ([23 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 - UX Chronicles: When OpenAI’s Magic Meets a Messy User Experience ([25 days ago](https://dotnettips.wordpress.com/2025/12/14/ux-chronicles-when-openais-magic-meets-a-messy-user-experience/))
 - Rider and ReSharper 2025.3.0.4: Important Updates Released ([27 days ago](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/))
 - .NET and .NET Framework December 2025 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/))
 - Implementing Cross-Platform In-App Billing in .NET MAUI Applications ([29 days ago](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/))
-- Trying out the Zed editor on Windows for .NET and Markdown ([29 days ago](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/))
 
 <!-- news_marker ends -->
