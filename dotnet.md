@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- EF Core Lazy Loading Performance Gotcha ([11 hours ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
+- EF Core Lazy Loading Performance Gotcha ([12 hours ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([1 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([3 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
@@ -24,7 +24,7 @@ description: DotNet Updates
 - F# Weekly #1, 2026 - Kipo &amp; future of MonoGame ([4 days ago](https://dotnetkicks.com/r/737508?url=https://sergeytihon.com/2026/01/03/f-weekly-1-2026-kipo-future-of-monogame/))
 - Leveraging Span-Based String Concatenation for Improved Performance ([5 days ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([6 days ago](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
-- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([7 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
+- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([8 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([8 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 - .NET Blog ([8 days ago](https://dotnetkicks.com/r/737376?url=https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Videos & Live Streams of 2025 ([8 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
