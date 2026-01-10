@@ -9,12 +9,12 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([9 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
-- New GigaCard From Gigasure ([11 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
+- New GigaCard From Gigasure ([12 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([19 hours ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([20 hours ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
-- Bfinance Publishes New Paper on Insurance Linked Securities ([20 hours ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
-- How Gaming Data Models Influence Claims Prediction and Risk Tracking? ([20 hours ago](https://insurance-edge.net/2026/01/09/how-gaming-data-models-influence-claims-prediction-and-risk-tracking/))
-- Switzerland Mourns Fire Victims as Country Seeks Answers; Insurers Assess Damages ([22 hours ago](https://www.insurancejournal.com/news/international/2026/01/09/853797.htm))
+- Bfinance Publishes New Paper on Insurance Linked Securities ([21 hours ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
+- How Gaming Data Models Influence Claims Prediction and Risk Tracking? ([21 hours ago](https://insurance-edge.net/2026/01/09/how-gaming-data-models-influence-claims-prediction-and-risk-tracking/))
+- Switzerland Mourns Fire Victims as Country Seeks Answers; Insurers Assess Damages ([23 hours ago](https://www.insurancejournal.com/news/international/2026/01/09/853797.htm))
 - Lloyd’s market proxy RISX delivers 22.3% total return for 2025: ICMR ([1 days ago](https://www.reinsurancene.ws/lloyds-market-proxy-risx-delivers-22-3-total-return-for-2025-icmr/))
 - Specialist Risk Group appoints Richard Gurney as Head of Specialty ([1 days ago](https://www.reinsurancene.ws/specialist-risk-group-appoints-richard-gurney-as-head-of-specialty/))
 - Supreme Court Set to Issue Rulings as Trump Awaits Fate of Tariffs ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853771.htm))
@@ -66,7 +66,7 @@ description: Insurance Updates
 - Crawford & Co to sell legal services arm to law firm ([1 days ago](https://www.postonline.co.uk/claims/7959663/crawford-co-to-sell-legal-services-arm-to-law-firm))
 - One year later, California wildfire recovery still has a long way to go ([1 days ago](https://www.dig-in.com/news/a-year-later-l-a-wildfire-recovery-still-has-far-to-go))
 - California insurance consumer laws take effect, with more proposed ([1 days ago](https://www.dig-in.com/news/california-insurance-laws-take-effect-with-more-proposed))
-- Howden to Acquire Atlantic Group in Major Expansion of US Transactional Risk Business ([1 days ago](https://www.insurtechinsights.com/howden-to-acquire-atlantic-group-in-major-expansion-of-us-transactional-risk-business/))
+- Howden to Acquire Atlantic Group in Major Expansion of US Transactional Risk Business ([2 days ago](https://www.insurtechinsights.com/howden-to-acquire-atlantic-group-in-major-expansion-of-us-transactional-risk-business/))
 - Lloyd’s survey shows culture continuing to improve ([2 days ago](https://www.postonline.co.uk/lloydslondon/7959661/lloyds-survey-shows-culture-continuing-to-improve))
 - Jensten Group Announces Trio of Acquisitions to Expand Regional Presence ([2 days ago](https://www.insurtechinsights.com/jensten-group-announces-trio-of-acquisitions-to-expand-regional-presence/))
 - CFC Launches New Cyber Cover Extension to Protect SMEs from Supply Chain Disruption ([2 days ago](https://www.insurtechinsights.com/cfc-launches-new-cyber-cover-extension-to-protect-smes-from-supply-chain-disruption/))
@@ -114,8 +114,8 @@ description: Insurance Updates
 - IPTF confirms membership and ambitious plans for 2026 ([3 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 - Embedding carbon accountability in claims ([3 days ago](https://www.postonline.co.uk/claims/7959456/embedding-carbon-accountability-in-claims))
 - Storm brewing in legal PI market over genAI ([3 days ago](https://www.postonline.co.uk/commercial/7959423/storm-brewing-in-legal-pi-market-over-genai))
-- WIL 2025 honoree profiles ([3 days ago](https://www.dig-in.com/list/wil-2025-honoree-profiles))
 - AI's expanding impact on insurance decision-making ([3 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
+- WIL 2025 honoree profiles ([3 days ago](https://www.dig-in.com/list/wil-2025-honoree-profiles))
 - Axa XL's McGovern named LMA chair ([4 days ago](https://www.postonline.co.uk/lloydslondon/7959646/axa-xls-mcgovern-named-as-lma-chair))
 - AIG boss Zaffino to be succeeded by Aon’s Andersen ([4 days ago](https://www.postonline.co.uk/news/7959645/aig-boss-zaffino-to-be-succeeded-by-aons-andersen))
 - Roundtable: Transforming risk management in commercial insurance ([4 days ago](https://www.postonline.co.uk/commercial/7959557/roundtable-transforming-risk-management-in-commercial-insurance))
@@ -128,6 +128,6 @@ description: Insurance Updates
 - 60 Seconds With... Charles Taylor’s James Cranmer ([4 days ago](https://www.postonline.co.uk/people/7959458/60-seconds-with-charles-taylors-james-cranmer))
 - Big Interview: Robert Kennedy, Howden ([4 days ago](https://www.postonline.co.uk/broker/7959559/big-interview-robert-kennedy-howden))
 - Howden buys Atlantic Group in U.S. expansion ([4 days ago](https://www.dig-in.com/articles/howden-buys-atlantic-group-in-u-s-expansion))
-- AI could be the antidote to brain drain ([4 days ago](https://www.dig-in.com/opinion/ai-could-be-the-antidote-to-brain-drain))
+- Embedded vs. bolt-on: How insurers will pursue measurable results from AI in 2026 ([4 days ago](https://www.dig-in.com/opinion/how-insurers-will-pursue-measurable-results-from-ai-in-2026))
 
 <!-- news_marker ends -->
