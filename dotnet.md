@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - AI Won't Kill Open Source - It Will Amplify It ([19 hours ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
-- EF Core Lazy Loading Performance Gotcha ([1 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
+- EF Core Lazy Loading Performance Gotcha ([2 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([3 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([3 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([4 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
