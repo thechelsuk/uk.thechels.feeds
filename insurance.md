@@ -10,9 +10,9 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([12 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([15 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
-- FCA Issues Confiscation Order Against Andrew Currie ([22 hours ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
-- US Market: Insure.com Releases Best Ranked Car Insurance Brands ([23 hours ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
-- Bfinance Publishes New Paper on Insurance Linked Securities ([23 hours ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
+- FCA Issues Confiscation Order Against Andrew Currie ([23 hours ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
+- US Market: Insure.com Releases Best Ranked Car Insurance Brands ([1 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
+- Bfinance Publishes New Paper on Insurance Linked Securities ([1 days ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
 - How Gaming Data Models Influence Claims Prediction and Risk Tracking? ([1 days ago](https://insurance-edge.net/2026/01/09/how-gaming-data-models-influence-claims-prediction-and-risk-tracking/))
 - Switzerland Mourns Fire Victims as Country Seeks Answers; Insurers Assess Damages ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/09/853797.htm))
 - Lloyd’s market proxy RISX delivers 22.3% total return for 2025: ICMR ([1 days ago](https://www.reinsurancene.ws/lloyds-market-proxy-risx-delivers-22-3-total-return-for-2025-icmr/))
