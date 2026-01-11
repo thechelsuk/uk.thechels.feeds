@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([21 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
-- New GigaCard From Gigasure ([23 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
+- New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([1 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
 - Bfinance Publishes New Paper on Insurance Linked Securities ([1 days ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
@@ -51,8 +51,8 @@ description: Insurance Updates
 - Texas Congresswoman Wants Legal Status for Migrant Construction Workers ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/09/853500.htm))
 - People Moves: IICF Names Marohn Chair, McDonough Vice Chair of Board of Governors; AXA XL Promotes Stitham to CUO, Casualty, Americas ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853613.htm))
 - Insurance Journal Opens Nominations for Annual Agents of the Year Awards ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/852977.htm))
-- Goldman Sachs Warns US Grids Face Power Crunch by 2030 ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853672.htm))
-- Penny Black’s Social Diary: Aviva’s time capsule; Zurich’s beef ([1 days ago](https://www.postonline.co.uk/people/7959468/penny-blacks-social-diary-avivas-time-capsule-zurichs-beef))
+- Goldman Sachs Warns US Grids Face Power Crunch by 2030 ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853672.htm))
+- Penny Black’s Social Diary: Aviva’s time capsule; Zurich’s beef ([2 days ago](https://www.postonline.co.uk/people/7959468/penny-blacks-social-diary-avivas-time-capsule-zurichs-beef))
 - Fire Safety Inspections Lapsed for Years at Swiss Bar Where 40 Died in New Year’s Blaze ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/09/853571.htm))
 - People Moves: Patriot Growth Appoints Rogers: Alliant Adds Lowe ([2 days ago](https://www.insurancejournal.com/news/east/2026/01/09/853623.htm))
 - Less Than a Dozen Homes Have Been Rebuilt a Year After LA Wildfires ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/09/853663.htm))
@@ -88,7 +88,7 @@ description: Insurance Updates
 - HDI Global elevates CFO Simon Hunt to interim UK and Ireland chief ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hdi-global-elevates-cfo-simon-hunt-to-interim-uk-and-ireland-chief-561349.aspx))
 - Chubb appoints head of growth for global cyber business ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/chubb-appoints-head-of-growth-for-global-cyber-business-561345.aspx))
 - Advertising regulator scolds firms for fake insurance links ([2 days ago](https://www.postonline.co.uk/news/7959654/advertising-regulator-scalds-firms-for-fake-insurance-links))
-- Q&A: Richard King, Ticker ([2 days ago](https://www.postonline.co.uk/personal/7959486/qa-richard-king-ticker))
+- Q&A: Richard King, Ticker ([3 days ago](https://www.postonline.co.uk/personal/7959486/qa-richard-king-ticker))
 - Why collaboration is vital to save young drivers from ghost brokers ([3 days ago](https://www.postonline.co.uk/personal/7959582/why-collaboration-is-vital-to-save-young-drivers-from-ghost-brokers))
 - Throwback Thursday: Thatcher’s honours; General Accident boycott ([3 days ago](https://www.postonline.co.uk/broker/7959249/throwback-thursday-thatchers-honours-general-accident-boycott))
 - UK government road safety strategy could reduce claims and premiums - experts ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-government-road-safety-strategy-could-reduce-claims-and-premiums--experts-561323.aspx))
