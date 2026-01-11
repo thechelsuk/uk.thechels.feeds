@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([19 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
+- AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([20 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([22 hours ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([1 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
@@ -59,7 +59,7 @@ description: Insurance Updates
 - Andover Companies Completes Reorganization ([1 days ago](https://www.insurancejournal.com/news/east/2026/01/09/853659.htm))
 - Union Warned of Mass Resignations With Return-to-Office. They Haven’t Happened. ([1 days ago](https://www.insurancejournal.com/news/east/2026/01/09/853477.htm))
 - Which provider will challenge the Aviva-DLG giant in 2026? ([1 days ago](https://www.postonline.co.uk/personal/7959655/which-provider-will-challenge-the-aviva-dlg-giant-in-2026))
-- Insurance moves: LMA, QBE, AM Specialty and Bridge Specialty ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-lma-qbe-am-specialty-and-bridge-specialty-561473.aspx))
+- Insurance moves: LMA, QBE, AM Specialty and Bridge Specialty ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-lma-qbe-am-specialty-and-bridge-specialty-561473.aspx))
 - PoloWorks launches three Lloyd's syndicates ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/poloworks-launches-three-lloyds-syndicates-561467.aspx))
 - Starpeak reports 24% increase in GWP in 2025 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/sme/starpeak-reports-24-increase-in-gwp-in-2025-561462.aspx))
 - UK insurers warned privacy concerns are stalling telematics pricing adoption ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-insurers-warned-privacy-concerns-are-stalling-telematics-pricing-adoption-561458.aspx))
@@ -91,7 +91,7 @@ description: Insurance Updates
 - Q&A: Richard King, Ticker ([2 days ago](https://www.postonline.co.uk/personal/7959486/qa-richard-king-ticker))
 - Why collaboration is vital to save young drivers from ghost brokers ([2 days ago](https://www.postonline.co.uk/personal/7959582/why-collaboration-is-vital-to-save-young-drivers-from-ghost-brokers))
 - Throwback Thursday: Thatcher’s honours; General Accident boycott ([2 days ago](https://www.postonline.co.uk/broker/7959249/throwback-thursday-thatchers-honours-general-accident-boycott))
-- UK government road safety strategy could reduce claims and premiums - experts ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-government-road-safety-strategy-could-reduce-claims-and-premiums--experts-561323.aspx))
+- UK government road safety strategy could reduce claims and premiums - experts ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-government-road-safety-strategy-could-reduce-claims-and-premiums--experts-561323.aspx))
 - Insurers poised to lead on personalised employee benefits in 2026, says Everywhen CEO ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-poised-to-lead-on-personalised-employee-benefits-in-2026-says-everywhen-ceo-561321.aspx))
 - The cost of death in the UK: rising funeral costs expose gaps in life cover ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/the-cost-of-death-in-the-uk-rising-funeral-costs-expose-gaps-in-life-cover-561311.aspx))
 - Statera gains Lloyd's managing agent approval ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/statera-gains-lloyds-managing-agent-approval-561309.aspx))
