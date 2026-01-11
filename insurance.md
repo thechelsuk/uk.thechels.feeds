@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([21 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
+- AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([22 hours ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([1 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
@@ -49,7 +49,7 @@ description: Insurance Updates
 - Japanese Insurer Sompo to Ramp Up Overseas Credit Investments ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/09/853695.htm))
 - Detroit Suburb to Pay Settlement in the Case of Woman Improperly Declared Dead ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/01/09/853507.htm))
 - Texas Congresswoman Wants Legal Status for Migrant Construction Workers ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/09/853500.htm))
-- People Moves: IICF Names Marohn Chair, McDonough Vice Chair of Board of Governors; AXA XL Promotes Stitham to CUO, Casualty, Americas ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853613.htm))
+- People Moves: IICF Names Marohn Chair, McDonough Vice Chair of Board of Governors; AXA XL Promotes Stitham to CUO, Casualty, Americas ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853613.htm))
 - Insurance Journal Opens Nominations for Annual Agents of the Year Awards ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/09/852977.htm))
 - Goldman Sachs Warns US Grids Face Power Crunch by 2030 ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/09/853672.htm))
 - Penny Black’s Social Diary: Aviva’s time capsule; Zurich’s beef ([2 days ago](https://www.postonline.co.uk/people/7959468/penny-blacks-social-diary-avivas-time-capsule-zurichs-beef))
