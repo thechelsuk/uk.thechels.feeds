@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Govt Minister Will Deliver Keynote at ABI Conference in February ([24 minutes ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
+- Govt Minister Will Deliver Keynote at ABI Conference in February ([52 minutes ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([1 days ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
@@ -114,8 +114,8 @@ description: Insurance Updates
 - IPTF confirms membership and ambitious plans for 2026 ([4 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 - Embedding carbon accountability in claims ([4 days ago](https://www.postonline.co.uk/claims/7959456/embedding-carbon-accountability-in-claims))
 - Storm brewing in legal PI market over genAI ([4 days ago](https://www.postonline.co.uk/commercial/7959423/storm-brewing-in-legal-pi-market-over-genai))
-- AI's expanding impact on insurance decision-making ([4 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
 - WIL 2025 honoree profiles ([4 days ago](https://www.dig-in.com/list/wil-2025-honoree-profiles))
+- AI's expanding impact on insurance decision-making ([4 days ago](https://www.dig-in.com/opinion/ais-impact-on-insurance-decision-making))
 - Axa XL's McGovern named LMA chair ([5 days ago](https://www.postonline.co.uk/lloydslondon/7959646/axa-xls-mcgovern-named-as-lma-chair))
 - AIG boss Zaffino to be succeeded by Aon’s Andersen ([5 days ago](https://www.postonline.co.uk/news/7959645/aig-boss-zaffino-to-be-succeeded-by-aons-andersen))
 - Roundtable: Transforming risk management in commercial insurance ([5 days ago](https://www.postonline.co.uk/commercial/7959557/roundtable-transforming-risk-management-in-commercial-insurance))
@@ -128,6 +128,6 @@ description: Insurance Updates
 - 60 Seconds With... Charles Taylor’s James Cranmer ([5 days ago](https://www.postonline.co.uk/people/7959458/60-seconds-with-charles-taylors-james-cranmer))
 - Big Interview: Robert Kennedy, Howden ([5 days ago](https://www.postonline.co.uk/broker/7959559/big-interview-robert-kennedy-howden))
 - Howden buys Atlantic Group in U.S. expansion ([5 days ago](https://www.dig-in.com/articles/howden-buys-atlantic-group-in-u-s-expansion))
-- Embedded vs. bolt-on: How insurers will pursue measurable results from AI in 2026 ([5 days ago](https://www.dig-in.com/opinion/how-insurers-will-pursue-measurable-results-from-ai-in-2026))
+- AI could be the antidote to brain drain ([5 days ago](https://www.dig-in.com/opinion/ai-could-be-the-antidote-to-brain-drain))
 
 <!-- news_marker ends -->
