@@ -10,10 +10,10 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Workers' compensation insurance predictions for 2026 ([2 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
 - Progressive continues to be first in online user experience: Keynova ([2 hours ago](https://www.dig-in.com/news/progressive-continues-first-online-user-experience-keynova))
-- Govt Minister Will Deliver Keynote at ABI Conference in February ([3 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
+- Govt Minister Will Deliver Keynote at ABI Conference in February ([4 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([1 days ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
-- FCA Issues Confiscation Order Against Andrew Currie ([1 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
+- FCA Issues Confiscation Order Against Andrew Currie ([2 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
 - US Market: Insure.com Releases Best Ranked Car Insurance Brands ([2 days ago](https://insurance-edge.net/2026/01/09/us-market-insure-com-releases-best-ranked-car-insurance-brands/))
 - Bfinance Publishes New Paper on Insurance Linked Securities ([2 days ago](https://insurance-edge.net/2026/01/09/bfinance-publishes-new-paper-on-insurance-linked-securities/))
 - Switzerland Mourns Fire Victims as Country Seeks Answers; Insurers Assess Damages ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/09/853797.htm))
