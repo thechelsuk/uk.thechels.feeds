@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([15 hours ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
-- F# Weekly #2, 2026 - Mibo and WREN Stack ([21 hours ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
+- F# Weekly #2, 2026 - Mibo and WREN Stack ([22 hours ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([1 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
 - EF Core Lazy Loading Performance Gotcha ([3 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([4 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
@@ -45,7 +45,7 @@ description: DotNet Updates
 - New Book: Build And Deploy Apps Using Azure Developer CLI By Chris Pietschmann  -  Build5Nines ([21 days ago](https://dotnetkicks.com/r/736976?url=https://build5nines.com/new-book-build-and-deploy-apps-using-azure-developer-cli-written-by-chris-pietschmann/))
 - Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([21 days ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
 - Digital Authentication and Identity validation ([21 days ago](https://dotnetkicks.com/r/736960?url=https://damienbod.com/2025/12/20/digital-authentication-and-identity-validation/))
-- Joe Dluzen on Azure Functions & Durable Functions ([21 days ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
+- Joe Dluzen on Azure Functions & Durable Functions ([22 days ago](https://dotnetkicks.com/r/736946?url=https://jesseliberty.com/2025/12/20/joe-dluzen-on-azure-functions-durable-functions/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([24 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([26 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
 - Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([26 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))

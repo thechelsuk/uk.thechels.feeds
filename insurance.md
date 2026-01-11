@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Workers' compensation insurance predictions for 2026 ([1 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
-- Progressive continues to be first in online user experience: Keynova ([1 hours ago](https://www.dig-in.com/news/progressive-continues-first-online-user-experience-keynova))
+- Workers' compensation insurance predictions for 2026 ([2 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
+- Progressive continues to be first in online user experience: Keynova ([2 hours ago](https://www.dig-in.com/news/progressive-continues-first-online-user-experience-keynova))
 - Govt Minister Will Deliver Keynote at ABI Conference in February ([3 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([1 days ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
