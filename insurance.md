@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Workers' compensation insurance predictions for 2026 ([7 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
+- Workers' compensation insurance predictions for 2026 ([8 hours ago](https://www.dig-in.com/news/workers-compensation-insurance-predictions-for-2026))
 - Progressive continues to be first in online user experience: Keynova ([8 hours ago](https://www.dig-in.com/news/progressive-continues-first-online-user-experience-keynova))
-- Govt Minister Will Deliver Keynote at ABI Conference in February ([9 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
+- Govt Minister Will Deliver Keynote at ABI Conference in February ([10 hours ago](https://insurance-edge.net/2026/01/11/govt-minister-will-deliver-keynote-at-abi-conference-in-february/))
 - AI, Capacity, Regulation: The Pressure Points set to Reshape Travel Insurance in 2026 ([1 days ago](https://insurance-edge.net/2026/01/10/ai-capacity-regulation-the-pressure-points-set-to-reshape-travel-insurance-in-2026/))
 - New GigaCard From Gigasure ([1 days ago](https://insurance-edge.net/2026/01/10/new-gigacard-from-gigasure/))
 - FCA Issues Confiscation Order Against Andrew Currie ([2 days ago](https://insurance-edge.net/2026/01/09/fca-issues-confiscation-order-against-andrew-currie/))
@@ -94,7 +94,7 @@ description: Insurance Updates
 - Why collaboration is vital to save young drivers from ghost brokers ([3 days ago](https://www.postonline.co.uk/personal/7959582/why-collaboration-is-vital-to-save-young-drivers-from-ghost-brokers))
 - Throwback Thursday: Thatcher’s honours; General Accident boycott ([3 days ago](https://www.postonline.co.uk/broker/7959249/throwback-thursday-thatchers-honours-general-accident-boycott))
 - UK government road safety strategy could reduce claims and premiums - experts ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/uk-government-road-safety-strategy-could-reduce-claims-and-premiums--experts-561323.aspx))
-- Insurers poised to lead on personalised employee benefits in 2026, says Everywhen CEO ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-poised-to-lead-on-personalised-employee-benefits-in-2026-says-everywhen-ceo-561321.aspx))
+- Insurers poised to lead on personalised employee benefits in 2026, says Everywhen CEO ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurers-poised-to-lead-on-personalised-employee-benefits-in-2026-says-everywhen-ceo-561321.aspx))
 - The cost of death in the UK: rising funeral costs expose gaps in life cover ([4 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/the-cost-of-death-in-the-uk-rising-funeral-costs-expose-gaps-in-life-cover-561311.aspx))
 - Statera gains Lloyd's managing agent approval ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/statera-gains-lloyds-managing-agent-approval-561309.aspx))
 - The 8 steps to take to get your Group Risk (GR1) qualification in the UK! ([4 days ago](https://www.insurancebusinessmag.com/uk/guides/the-8-steps-to-take-to-get-your-group-risk-gr1-qualification-in-the-uk-561303.aspx))
