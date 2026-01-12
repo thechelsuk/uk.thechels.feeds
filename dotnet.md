@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs ([6 hours ago](https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/))
-- Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende ([6 hours ago](https://dotnetkicks.com/r/737876?url=https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/))
+- Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs ([7 hours ago](https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/))
+- Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende ([7 hours ago](https://dotnetkicks.com/r/737876?url=https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([1 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - F# Weekly #2, 2026 - Mibo and WREN Stack ([1 days ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([2 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
