@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - The Windows File Explorer replacement, File Pilot, is awesome ([9 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([10 hours ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([11 hours ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET's Virtual Monorepo - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
