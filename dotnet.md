@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([58 minutes ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
+- .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - .NET and .NET Framework January 2026 servicing releases updates ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([12 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([13 hours ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([14 hours ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET's Virtual Monorepo - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([6 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([7 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
 - Set the amr claim when using passkeys authentication in ASP.NET Core ([7 days ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
-- Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([7 days ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
+- Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([8 days ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
 - Context Is the Bottleneck in Software Development ([8 days ago](https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/))
 - Logo? ([8 days ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
 - Generative AI with Large Language Models in C# in 2026 - .NET Blog ([8 days ago](https://dotnetkicks.com/r/737611?url=https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
