@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The Windows File Explorer replacement, File Pilot, is awesome ([8 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([9 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([10 hours ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([2 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - F# Weekly #2, 2026 - Mibo and WREN Stack ([2 days ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([3 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
-- EF Core Lazy Loading Performance Gotcha ([4 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
+- EF Core Lazy Loading Performance Gotcha ([5 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([6 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([6 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([7 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
