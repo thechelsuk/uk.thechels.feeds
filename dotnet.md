@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- How JasperFx Supports our Customers ([9 hours ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
-- .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- .NET and .NET Framework January 2026 servicing releases updates ([11 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([22 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
+- How JasperFx Supports our Customers ([10 hours ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
+- .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
+- .NET and .NET Framework January 2026 servicing releases updates ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
+- The Windows File Explorer replacement, File Pilot, is awesome ([23 hours ago](https://dotnetkicks.com/r/737993?url=https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([1 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([1 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
@@ -52,7 +52,7 @@ description: DotNet Updates
 - Code It Anyway You Want: Initializing Reference Type Static Fields Inline for Enhanced Code Readability ([24 days ago](https://dotnettips.wordpress.com/2025/12/21/code-it-anyway-you-want-initializing-reference-type-static-fields-inline-for-enhanced-code-readability/))
 - ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates ([26 days ago](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/))
 - Microsoft.Testing.Platform Now Fully Supported in Azure DevOps ([28 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/))
-- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([28 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
+- Creating a .NET CLR profiler using C# and NativeAOT with Silhouette ([29 days ago](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/))
 - How to Build iOS Widgets with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/))
 
 <!-- news_marker ends -->
