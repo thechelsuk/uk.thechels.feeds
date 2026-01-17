@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([9 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
-- California Attorney General Issues Cease and Desist Letter to xAI ([23 hours ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
+- California Attorney General Issues Cease and Desist Letter to xAI ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
 - Allstate Can Proceed with Recovery in Texas RICO Case: Fifth Circuit ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/16/854724.htm))
@@ -106,7 +106,7 @@ description: Insurance Updates
 - FOS travel referrals hit post-pandemic highs ([3 days ago](https://www.postonline.co.uk/personal/7959684/fos-travel-referrals-hit-post-pandemic-highs))
 - How Belfast’s insurance sector is overcoming Brexit blues ([3 days ago](https://www.postonline.co.uk/news/7959439/how-belfasts-insurance-sector-is-overcoming-brexit-blues))
 - Collaboration is the only way to close the travel claims gap ([3 days ago](https://www.postonline.co.uk/personal/7959146/collaboration-is-the-only-way-to-close-the-travel-claims-gap))
-- Florida announces home insurance rate cuts ([3 days ago](https://www.dig-in.com/news/florida-announces-home-insurance-rate-cuts))
+- Florida announces home insurance rate cuts ([4 days ago](https://www.dig-in.com/news/florida-announces-home-insurance-rate-cuts))
 - Insured losses from wildfires, storms and floods hit record high ([4 days ago](https://www.dig-in.com/articles/insured-losses-wildfires-storms-and-floods-hit-record-high))
 - Axa hires Dunn from Zurich as Commercial CUO ([4 days ago](https://www.postonline.co.uk/commercial/7959679/axa-hires-dunn-from-zurich-as-commercial-cuo))
 - EE introduces unlimited gadget insurance policy ([4 days ago](https://www.postonline.co.uk/personal/7959677/ee-introduces-unlimited-gadget-insurance-policy))
