@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([8 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
+- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([9 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([23 hours ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Benefact Group’s heroes; Polaris’s sliders ([1 days ago](https://www.postonline.co.uk/people/7959510/penny-blacks-social-diary-benefact-groups-heroes-polariss-sliders))
 - Why insurers should be forced to signpost customers properly ([1 days ago](https://www.postonline.co.uk/regulation/7959681/why-insurers-should-be-forced-to-signpost-customers-properly))
 - Swiss Re integrates Fathom data into internal catastrophe model ([1 days ago](https://www.dig-in.com/news/swiss-re-integrates-data-into-internal-catastrophe-model))
-- The Hartford expands tech team ([1 days ago](https://www.dig-in.com/news/the-hartford-expands-tech-team))
+- The Hartford expands tech team ([2 days ago](https://www.dig-in.com/news/the-hartford-expands-tech-team))
 - Sedgwick Launches Global Specialty Platform to Support Complex Claims Worldwide ([2 days ago](https://www.insurtechinsights.com/sedgwick-launches-global-specialty-platform-to-support-complex-claims-worldwide/))
 - SIAA Partners with Progressive to Expand Personal and Commercial Lines Access for Independent Agents ([2 days ago](https://www.insurtechinsights.com/siaa-partners-with-progressive-to-expand-personal-and-commercial-lines-access-for-independent-agents/))
 - BIBA Manifesto 2026 Sets Out Fast-Track Agenda for Brokers, Regulation and Cyber Resilience ([2 days ago](https://www.insurtechinsights.com/biba-manifesto-2026-sets-out-fast-track-agenda-for-brokers-regulation-and-cyber-resilience/))
@@ -115,7 +115,7 @@ description: Insurance Updates
 - Big Interview: Colin Johnson, Hadron International ([4 days ago](https://www.postonline.co.uk/commercial/7959542/big-interview-colin-johnson-hadron-insurance))
 - Why women are disappearing from senior underwriting roles ([4 days ago](https://www.postonline.co.uk/lloydslondon/7959587/why-women-are-disappearing-from-senior-underwriting-roles))
 - Swiss Re: liability excess inflation a major challenge for US insurers ([4 days ago](https://www.dig-in.com/news/liability-excess-inflation-a-major-challenge-for-us-insurers))
-- Behind the Hall of Mirrors: Using AI without getting used by AI ([4 days ago](https://www.dig-in.com/opinion/using-ai-without-getting-used-by-ai))
+- Behind the Hall of Mirrors: Using AI without getting used by AI ([5 days ago](https://www.dig-in.com/opinion/using-ai-without-getting-used-by-ai))
 - Yorkshire Building Society helps members save £2 Million on insurance in just one year ([5 days ago](https://ifamagazine.com/yorkshire-building-society-helps-members-save-2-million-on-insurance-in-just-one-year/))
 - Why Hadron CEO Johnson won’t repeat previous fronter playbooks ([5 days ago](https://www.postonline.co.uk/commercial/7959551/why-hadron-ceo-johnson-wont-repeat-his-accredited-playbook))
 - Admiral CFO to retire ([5 days ago](https://www.postonline.co.uk/news/7959670/admiral-cfo-to-retire))
