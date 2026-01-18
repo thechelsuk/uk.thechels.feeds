@@ -51,8 +51,8 @@ description: Insurance Updates
 - Crawford urges businesses to check coverage as water outages disrupt south-east England ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/crawford-urges-businesses-to-check-coverage-as-water-outages-disrupt-southeast-england-562199.aspx))
 - Venezuelan Oil Industry Is Running on WhatsApp After Cyberattack ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854637.htm))
 - Fitch Warns of Eastern European Downgrades if Greenland Strife Cracks NATO ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854630.htm))
-- Ex-PIMCO Executive Scores Milestone on Launch of Catastrophe Bond ETF ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854624.htm))
-- Skills shortages, inflation driving up airline insurance claims costs – Willis ([1 days ago](https://www.insurancebusinessmag.com/uk/news/claims/skills-shortages-inflation-driving-up-airline-insurance-claims-costs--willis-562190.aspx))
+- Ex-PIMCO Executive Scores Milestone on Launch of Catastrophe Bond ETF ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854624.htm))
+- Skills shortages, inflation driving up airline insurance claims costs – Willis ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/skills-shortages-inflation-driving-up-airline-insurance-claims-costs--willis-562190.aspx))
 - England, Wales post record low death rate ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/england-wales-post-record-low-death-rate-562188.aspx))
 - Underinsurance in the spotlight ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/underinsurance-in-the-spotlight-562187.aspx))
 - Insurance moves: Markel Insurance, Cowbell, Pikl, Pen ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-insurance-cowbell-pikl-pen-562186.aspx))
@@ -124,10 +124,10 @@ description: Insurance Updates
 - The Exeter appoints James Shepherd as Non-Executive Director ([9 days ago](https://ifamagazine.com/the-exeter-appoints-james-shepherd-as-non-executive-director/))
 - 85% of workers think being unable to work through ill health would impact on their confidence ([9 days ago](https://ifamagazine.com/85-of-workers-think-being-unable-to-work-through-ill-health-would-impact-on-their-confidence/))
 - Mortgage Advice Bureau strengthens protection proposition with latest appointment ([9 days ago](https://ifamagazine.com/mortgage-advice-bureau-strengthens-protection-proposition-with-latest-appointment/))
-- Vitality appoints Dr Katie Tryon as Deputy CEO of VitalityHealth ([9 days ago](https://ifamagazine.com/vitality-appoints-dr-katie-tryon-as-deputy-ceo-of-vitalityhealth/))
+- Vitality appoints Dr Katie Tryon as Deputy CEO of VitalityHealth ([10 days ago](https://ifamagazine.com/vitality-appoints-dr-katie-tryon-as-deputy-ceo-of-vitalityhealth/))
 - Why protection needs to be a priority for advisers this year ([10 days ago](https://ifamagazine.com/why-protection-needs-to-be-a-priority-for-advisers-this-year/))
 - The Exeter enhances NHS cash benefit with higher payments and new day-patient cover ([10 days ago](https://ifamagazine.com/the-exeter-enhances-nhs-cash-benefit-with-higher-payments-and-new-day-patient-cover/))
-- RedArc predicts clinical case management to become more prevalent in 2026 ([10 days ago](https://ifamagazine.com/redarc-predicts-clinical-case-management-to-become-more-prevalent-in-2026/))
+- RedArc predicts clinical case management to become more prevalent in 2026 ([11 days ago](https://ifamagazine.com/redarc-predicts-clinical-case-management-to-become-more-prevalent-in-2026/))
 - IPTF confirms membership and ambitious plans for 2026 ([11 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 
 <!-- news_marker ends -->
