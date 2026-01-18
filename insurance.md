@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([16 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
+- Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([17 hours ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
@@ -84,9 +84,9 @@ description: Insurance Updates
 - Q&A: Will Ross, Federato ([2 days ago](https://www.postonline.co.uk/technology/7959535/qa-will-ross-federato))
 - Throwback Thursday: Record fire loss; Sedgwick buys broker ([2 days ago](https://www.postonline.co.uk/claims/7959252/throwback-thursday-record-fire-loss-sedgwick-buys-broker))
 - How are insurers enabling greener choices in construction? ([2 days ago](https://www.postonline.co.uk/commercial/7959584/how-are-insurers-enabling-greener-choices-in-construction))
-- Insurance moves: CFC, IUA, Texel, Altea, YuLife and UIB ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-cfc-iua-texel-altea-yulife-and-uib-562033.aspx))
-- Repeat insurance fraudster jailed for false travel claim under crime prevention order ([2 days ago](https://www.insurancebusinessmag.com/uk/news/travel/repeat-insurance-fraudster-jailed-for-false-travel-claim-under-crime-prevention-order-562031.aspx))
-- Superian acquires O3 Specialty renewal rights ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/superian-acquires-o3-specialty-renewal-rights-562030.aspx))
+- Insurance moves: CFC, IUA, Texel, Altea, YuLife and UIB ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-cfc-iua-texel-altea-yulife-and-uib-562033.aspx))
+- Repeat insurance fraudster jailed for false travel claim under crime prevention order ([3 days ago](https://www.insurancebusinessmag.com/uk/news/travel/repeat-insurance-fraudster-jailed-for-false-travel-claim-under-crime-prevention-order-562031.aspx))
+- Superian acquires O3 Specialty renewal rights ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/superian-acquires-o3-specialty-renewal-rights-562030.aspx))
 - Unitary joins BIBA to expand automation support for UK insurance brokers ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/unitary-joins-biba-to-expand-automation-support-for-uk-insurance-brokers-562023.aspx))
 - UK actuaries sound alarm on loss models downplaying climate risk ([3 days ago](https://www.dig-in.com/articles/actuaries-alarm-on-loss-models-downplaying-climate-risk))
 - How data can unlock value across the insurance chain ([3 days ago](https://www.dig-in.com/opinion/how-data-can-unlock-value-across-the-insurance-chain))
