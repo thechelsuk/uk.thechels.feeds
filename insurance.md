@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([8 minutes ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))
+- NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([39 minutes ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))
 - Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([1 days ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([1 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
 - LA Fire survivors got a rude surprise that could hit more Americans ([1 days ago](https://www.dig-in.com/articles/la-fire-survivors-rude-surprise-could-hit-more-americans))
-- Allstate Can Proceed with Recovery in Texas RICO Case: Fifth Circuit ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/16/854724.htm))
+- Allstate Can Proceed with Recovery in Texas RICO Case: Fifth Circuit ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/16/854724.htm))
 - Trump Officials Vow to Keep All US Coal Plants Running ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854720.htm))
 - US Property cat price declines greater than expected at Jan renewals: Gallagher Re ([2 days ago](https://www.reinsurancene.ws/us-property-cat-price-declines-greater-than-expected-at-jan-renewals-gallagher-re/))
 - Dealmakers See More Retail Mergers, IPOs After Tariffs Sidelined M&A Last Year ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854707.htm))
