@@ -57,7 +57,7 @@ description: Insurance Updates
 - Underinsurance in the spotlight ([1 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/underinsurance-in-the-spotlight-562187.aspx))
 - Insurance moves: Markel Insurance, Cowbell, Pikl, Pen ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-insurance-cowbell-pikl-pen-562186.aspx))
 - Aon maps resilience signals for investors ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/aon-maps-resilience-signals-for-investors-562180.aspx))
-- NAIC Names Committee Leaders for 2026 ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854593.htm))
+- NAIC Names Committee Leaders for 2026 ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854593.htm))
 - US Senators Introduce Long-Awaited Bill to Define Crypto Market Rules ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854586.htm))
 - Publishers Seek to Join Lawsuit Against Google Over AI Training ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/16/854590.htm))
 - South Africa Closes Kruger Park as Deadly Floods Kill Dozens ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/16/854560.htm))
@@ -128,6 +128,6 @@ description: Insurance Updates
 - Why protection needs to be a priority for advisers this year ([10 days ago](https://ifamagazine.com/why-protection-needs-to-be-a-priority-for-advisers-this-year/))
 - The Exeter enhances NHS cash benefit with higher payments and new day-patient cover ([10 days ago](https://ifamagazine.com/the-exeter-enhances-nhs-cash-benefit-with-higher-payments-and-new-day-patient-cover/))
 - RedArc predicts clinical case management to become more prevalent in 2026 ([10 days ago](https://ifamagazine.com/redarc-predicts-clinical-case-management-to-become-more-prevalent-in-2026/))
-- IPTF confirms membership and ambitious plans for 2026 ([10 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
+- IPTF confirms membership and ambitious plans for 2026 ([11 days ago](https://ifamagazine.com/iptf-confirms-membership-and-ambitious-plans-for-2026/))
 
 <!-- news_marker ends -->
