@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: High-Performance Collection Randomization in .NET ([8 hours ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
-- Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([18 hours ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
+- Collection Performance: High-Performance Collection Randomization in .NET ([9 hours ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
+- Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([19 hours ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
 - Copilot Memories - Visual Studio Blog ([3 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
 - How AI Will Transform Open Source Business Models ([3 days ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - How JasperFx Supports our Customers ([4 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
