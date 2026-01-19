@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Insurance underwriting in the age of AI ([3 hours ago](https://www.dig-in.com/opinion/insurance-underwriting-in-the-age-of-ai))
-- NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([7 hours ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))
+- Insurance underwriting in the age of AI ([4 hours ago](https://www.dig-in.com/opinion/insurance-underwriting-in-the-age-of-ai))
+- NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([8 hours ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))
 - Blue Monday Looming? Simplyhealth Has Tips To Help You De-Stress ([1 days ago](https://insurance-edge.net/2026/01/17/blue-monday-looming-simplyhealth-has-tips-to-help-you-de-stress/))
 - California Attorney General Issues Cease and Desist Letter to xAI ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/16/854752.htm))
 - CII Podcast Episode Looks at Value of Training & Education ([2 days ago](https://insurance-edge.net/2026/01/16/cii-podcast-episode-looks-at-value-of-training-education/))
