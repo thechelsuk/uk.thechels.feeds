@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Insurance underwriting in the age of AI ([7 hours ago](https://www.dig-in.com/opinion/insurance-underwriting-in-the-age-of-ai))
-- MAPFRE raises €1B in dual-tranche senior bond issuance ([8 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mapfre-raises-1b-in-dualtranche-senior-bond-issuance-562285.aspx))
+- MAPFRE raises €1B in dual-tranche senior bond issuance ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mapfre-raises-1b-in-dualtranche-senior-bond-issuance-562285.aspx))
 - Daria Avdeeva takes on new role as IG Compulsory Insurance Committee chair ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/daria-avdeeva-takes-on-new-role-as-ig-compulsory-insurance-committee-chair-562284.aspx))
 - Premier Insurance leaves 16,000 UK motor policyholders seeking replacement cover ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/premier-insurance-leaves-16000-uk-motor-policyholders-seeking-replacement-cover-562283.aspx))
 - NEXT Insurance rebrands as ERGO NEXT following Munich Re-backed integration ([11 hours ago](https://www.insurtechinsights.com/next-insurance-rebrands-as-ergo-next-following-munich-re-backed-integration/))

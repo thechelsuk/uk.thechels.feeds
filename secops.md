@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - Microsoft hiring energy strategists to power its Asian datacenters ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/19/asia_tech_news_roundup/))
-- New OpenAI leak hints at upcoming ChatGPT features ([3 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/))
+- New OpenAI leak hints at upcoming ChatGPT features ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/))
 - Mandiant releases quick credential cracker, to hasten the death of a bad protocol ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/))
 - Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs ([10 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/))
 - Pass'Sport - 6,366,133 breached accounts ([12 hours ago](https://haveibeenpwned.com/Breach/PassSport))
@@ -19,8 +19,8 @@ description: SecOps News
 - How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East ([14 hours ago](https://databreaches.net/2026/01/18/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/?pk_campaign=feed&pk_kwd=how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east))
 - Japanese nuclear regulator employee loses phone containing sensitive info in China ([14 hours ago](https://databreaches.net/2026/01/18/japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china/?pk_campaign=feed&pk_kwd=japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china))
 - Nvidia leans on emulation to squeeze more HPC oomph from AI chips in race against AMD ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/18/nvidia_fp64_emulation/))
-- Not hot on bots, project names and shames AI-created open source software ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/18/openslopware_is_back/))
-- Weekly Update 487 ([19 hours ago](https://www.troyhunt.com/weekly-update-487/))
+- Not hot on bots, project names and shames AI-created open source software ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/18/openslopware_is_back/))
+- Weekly Update 487 ([20 hours ago](https://www.troyhunt.com/weekly-update-487/))
 - Google Chrome tests Gemini-powered AI "Skills" ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/))
 - Google Chrome now lets you turn off on-device AI model powering scam detection ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/))
 - US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026 ([1 days ago](https://databreaches.net/2026/01/17/us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026/?pk_campaign=feed&pk_kwd=us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026))
