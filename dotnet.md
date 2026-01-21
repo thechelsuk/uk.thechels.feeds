@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- You Can't Future-Proof Software Architecture ([5 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
-- An AI Project ([6 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
-- Easier Query Models with Marten ([13 hours ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
+- You Can't Future-Proof Software Architecture ([6 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
+- An AI Project ([7 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
+- Easier Query Models with Marten ([14 hours ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([19 hours ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([1 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([1 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
