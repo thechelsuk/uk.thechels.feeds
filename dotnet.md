@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- You Can't Future-Proof Software Architecture ([3 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
-- An AI Project ([4 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
-- Easier Query Models with Marten ([11 hours ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
-- Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([16 hours ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
+- You Can't Future-Proof Software Architecture ([4 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
+- An AI Project ([5 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
+- Easier Query Models with Marten ([12 hours ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
+- Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([17 hours ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([1 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([1 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
 - F# Weekly #3, 2026 - Most token-efficient static language? ([2 days ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([13 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([13 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([14 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
-- Set the amr claim when using passkeys authentication in ASP.NET Core ([14 days ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
+- Set the amr claim when using passkeys authentication in ASP.NET Core ([15 days ago](https://dotnetkicks.com/r/737651?url=https://damienbod.com/2026/01/05/set-the-amr-claim-when-using-passkeys-authentication-in-asp-net-core/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([15 days ago](https://dotnetkicks.com/r/737638?url=https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
 - Context Is the Bottleneck in Software Development ([15 days ago](https://dotnetkicks.com/r/737632?url=https://codeopinion.com/context-is-the-bottleneck-in-software-development/))
 - Logo? ([15 days ago](https://dotnetkicks.com/r/737626?url=https://jesseliberty.com/2026/01/05/logo/))
