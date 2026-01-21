@@ -9,9 +9,9 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Catching Up with Recent Wolverine Releases ([4 hours ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
-- CoPilot Gets Us Started ([6 hours ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
-- You Can't Future-Proof Software Architecture ([19 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
-- An AI Project ([20 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
+- CoPilot Gets Us Started ([7 hours ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
+- You Can't Future-Proof Software Architecture ([20 hours ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
+- An AI Project ([21 hours ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
 - Easier Query Models with Marten ([1 days ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([1 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([2 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([10 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - F# Weekly #2, 2026 - Mibo and WREN Stack ([10 days ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - AI Won't Kill Open Source - It Will Amplify It ([11 days ago](https://dotnetkicks.com/r/737834?url=https://petabridge.com/blog/ai-wont-kill-open-source/))
-- EF Core Lazy Loading Performance Gotcha ([12 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
+- EF Core Lazy Loading Performance Gotcha ([13 days ago](https://dotnetkicks.com/r/737816?url=https://markheath.net/post/2026/1/8/efcore-lazy-loader-gotcha))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider - .NET Blog ([14 days ago](https://dotnetkicks.com/r/737771?url=https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([14 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([15 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
