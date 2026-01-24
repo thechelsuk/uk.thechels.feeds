@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- GenAI: Fisent Technologies Looks Back on 2025 Progress ([5 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
+- GenAI: Fisent Technologies Looks Back on 2025 Progress ([6 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([1 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
 - US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
@@ -96,8 +96,8 @@ description: Insurance Updates
 - Q&A: Tom Hughes, IUA ([2 days ago](https://www.postonline.co.uk/commercial/7959580/qa-tom-hughes-iua))
 - EY: Insurance M&A activity slowed in 2025 ([2 days ago](https://www.dig-in.com/news/ey-insurance-m-a-activity-slowed-in-2025))
 - California proposes ban on aerial imagery for insurance non-renewals ([2 days ago](https://www.dig-in.com/news/california-proposes-limiting-insurers-use-of-aerial-imagery))
-- Insurance platform Ethos, backers seeking $211M in IPO ([2 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-seeking-211m-in-ipo))
-- Insurer Lemonade pitches Tesla drivers cheaper rates ([2 days ago](https://www.dig-in.com/articles/insurer-lemonade-pitches-tesla-drivers-cheaper-rates))
+- Insurance platform Ethos, backers seeking $211M in IPO ([3 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-seeking-211m-in-ipo))
+- Insurer Lemonade pitches Tesla drivers cheaper rates ([3 days ago](https://www.dig-in.com/articles/insurer-lemonade-pitches-tesla-drivers-cheaper-rates))
 - Zurich makes $10.3B bid for Beazley ([3 days ago](https://www.dig-in.com/articles/zurich-makes-10-3b-bid-for-beazley))
 - CEO confidence hits five-year low: report ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/ceo-confidence-hits-fiveyear-low-report-562663.aspx))
 - The future of life insurance ([3 days ago](https://www.dig-in.com/podcast/the-future-of-life-insurance))
