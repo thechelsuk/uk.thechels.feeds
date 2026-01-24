@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- GenAI: Fisent Technologies Looks Back on 2025 Progress ([4 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
+- GenAI: Fisent Technologies Looks Back on 2025 Progress ([5 hours ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([23 hours ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
 - US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - Penny Black’s Social Diary: Big Issue tabards; Biba gets fruity ([1 days ago](https://www.postonline.co.uk/people/7959664/penny-blacks-social-diary-big-issue-tabards-biba-gets-fruity))
 - Beazley rejects Zurich Insurance's $10.3B takeover bid ([1 days ago](https://www.dig-in.com/articles/beazley-rejects-zurich-insurances-10-3b-takeover-bid))
 - AIG executive changes; InnSure's climate platform: Insurtech news ([1 days ago](https://www.dig-in.com/news/aig-executive-changes-innsure-climate-platform-insurtech))
-- Beazley rejects £7.67bn Zurich takeover tilt, says offer ‘materially undervalues’ cyber specialist ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beazley-rejects-7-67bn-zurich-takeover-tilt-says-offer-materially-undervalues-cyber-specialist-562837.aspx))
+- Beazley rejects £7.67bn Zurich takeover tilt, says offer ‘materially undervalues’ cyber specialist ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beazley-rejects-7-67bn-zurich-takeover-tilt-says-offer-materially-undervalues-cyber-specialist-562837.aspx))
 - Munich Re Ventures Backs Zanskar in $115 Million Series C for AI-Driven Geothermal Expansion ([2 days ago](https://www.insurtechinsights.com/munich-re-ventures-backs-zanskar-in-115-million-series-c-for-ai-driven-geothermal-expansion/))
 - Admiral Pioneer partners with Octopus EV to personalise insurance for electric vehicle drivers ([2 days ago](https://www.insurtechinsights.com/admiral-pioneer-partners-with-octopus-ev-to-personalise-insurance-for-electric-vehicle-drivers/))
 - Willis strengthens FINEX leadership in the Pacific with senior appointments ([2 days ago](https://www.insurtechinsights.com/willis-strengthens-finex-leadership-in-the-pacific-with-senior-appointments/))
