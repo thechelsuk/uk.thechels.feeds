@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Announcing winapp, the Windows App Development CLI ([1 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
-- ReSharper 2026.1 Early Access Program Has Begun ([1 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
+- ReSharper 2026.1 Early Access Program Has Begun ([2 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Essential Programmer Utilities ([2 days ago](https://dotnetkicks.com/r/738621?url=https://jesseliberty.com/2026/01/22/essential-programmer-utilities/))
 - Marten's Aggregation Projection Subsystem ([2 days ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
