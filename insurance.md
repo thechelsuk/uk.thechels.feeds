@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How to Swerve Consular Support Abroad: Buy Travel Insurance ([2 hours ago](https://insurance-edge.net/2026/01/25/how-to-swerve-consular-support-abroad-buy-travel-insurance/))
+- How to Swerve Consular Support Abroad: Buy Travel Insurance ([3 hours ago](https://insurance-edge.net/2026/01/25/how-to-swerve-consular-support-abroad-buy-travel-insurance/))
 - GenAI: Fisent Technologies Looks Back on 2025 Progress ([1 days ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([1 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
 - Skyway Underwriters Partners with ResiQuant to Accelerate AI-Driven Coastal Wind Underwriting ([1 days ago](https://www.insurtechinsights.com/skyway-underwriters-partners-with-resiquant-to-accelerate-ai-driven-coastal-wind-underwriting/))
-- US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([1 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
+- US P&C industry set for lowest net combined ratio in over a decade: Triple-I/Milliman ([2 days ago](https://www.reinsurancene.ws/us-pc-industry-set-for-lowest-net-combined-ratio-in-over-a-decade-triple-i-milliman/))
 - New Exoskeleton System Said to Reduce Back and Strain Injuries by Almost Two-Thirds ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/01/23/855433.htm))
 - RLI trims cat reinsurance by $150m at Jan renewal in ‘buyer’s market’ ([2 days ago](https://www.reinsurancene.ws/rli-trims-cat-reinsurance-by-150m-at-jan-renewal-in-buyers-market/))
 - Sweeping US Winter Storm Threatens Blackouts and Snarled Travel ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/23/855426.htm))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - AIG executive changes; InnSure's climate platform: Insurtech news ([2 days ago](https://www.dig-in.com/news/aig-executive-changes-innsure-climate-platform-insurtech))
 - Beazley rejects £7.67bn Zurich takeover tilt, says offer ‘materially undervalues’ cyber specialist ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/beazley-rejects-7-67bn-zurich-takeover-tilt-says-offer-materially-undervalues-cyber-specialist-562837.aspx))
 - Munich Re Ventures Backs Zanskar in $115 Million Series C for AI-Driven Geothermal Expansion ([2 days ago](https://www.insurtechinsights.com/munich-re-ventures-backs-zanskar-in-115-million-series-c-for-ai-driven-geothermal-expansion/))
-- Admiral Pioneer partners with Octopus EV to personalise insurance for electric vehicle drivers ([2 days ago](https://www.insurtechinsights.com/admiral-pioneer-partners-with-octopus-ev-to-personalise-insurance-for-electric-vehicle-drivers/))
+- Admiral Pioneer partners with Octopus EV to personalise insurance for electric vehicle drivers ([3 days ago](https://www.insurtechinsights.com/admiral-pioneer-partners-with-octopus-ev-to-personalise-insurance-for-electric-vehicle-drivers/))
 - Willis strengthens FINEX leadership in the Pacific with senior appointments ([3 days ago](https://www.insurtechinsights.com/willis-strengthens-finex-leadership-in-the-pacific-with-senior-appointments/))
 - Rewiring the broker–insurer tech relationship: Narrowing the global readiness gap ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/rewiring-the-brokerinsurer-tech-relationship-narrowing-the-global-readiness-gap-562728.aspx))
 - Homebuyers prioritise décor over protection, leaving them exposed, Vitality research reveals ([3 days ago](https://ifamagazine.com/homebuyers-prioritise-decor-over-protection-leaving-them-exposed-vitality-research-reveals/))
