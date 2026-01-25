@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - HyperVideo Features ([9 hours ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
-- F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([12 hours ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
+- F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([13 hours ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
 - Announcing winapp, the Windows App Development CLI ([2 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([2 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))

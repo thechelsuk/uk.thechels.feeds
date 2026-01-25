@@ -18,7 +18,7 @@ description: SecOps News
 - France’s Waltio faces ransom threat from notorious hacker collective ([16 hours ago](https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective))
 - Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware ([17 hours ago](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html))
 - UK border tech budget swells by £100M as Home Office targets small boat crossings ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/24/home_office_small_boats/))
-- Nike Probing Potential Security Incident as Hackers Threaten to Leak Data ([19 hours ago](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/))
+- Nike Probing Potential Security Incident as Hackers Threaten to Leak Data ([20 hours ago](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/))
 - New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector ([20 hours ago](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html))
 - Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents ([20 hours ago](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html))
 - CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog ([20 hours ago](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html))
