@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- 1Password adds pop-up warnings for suspected phishing sites ([6 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
+- 1Password adds pop-up warnings for suspected phishing sites ([7 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
 - Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
-- Microsoft investigates Windows 11 boot failures after January updates ([8 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
-- Disruption with repo creation ([18 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
+- Microsoft investigates Windows 11 boot failures after January updates ([9 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
+- Disruption with repo creation ([19 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Microsoft releases emergency OOB update to fix Outlook freezes ([20 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
 - Sandworm hackers linked to failed wiper attack on Poland’s energy systems ([1 days ago](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/))
 - Konni hackers target blockchain engineers with AI-built malware ([1 days ago](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/))
@@ -192,7 +192,7 @@ description: SecOps News
 - MongoDB v8.3.0 Integer Underflow in LMDB mdb_load ([19 days ago](https://seclists.org/fulldisclosure/2026/Jan/8))
 - WhiteDate - 6,076 breached accounts ([19 days ago](https://haveibeenpwned.com/Breach/WhiteDate))
 - The Kimwolf Botnet is Stalking Your Local Network ([23 days ago](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/))
-- Disruption with some GitHub services ([23 days ago](https://www.githubstatus.com/incidents/d5t56pdnjxhd))
+- Disruption with some GitHub services ([24 days ago](https://www.githubstatus.com/incidents/d5t56pdnjxhd))
 - Happy 16th Birthday, KrebsOnSecurity.com! ([27 days ago](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/))
 - Weekly Update 484 ([28 days ago](https://www.troyhunt.com/weekly-update-484/))
 - WIRED - 2,364,431 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/WIRED))
