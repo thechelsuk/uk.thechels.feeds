@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- U.S. homeowners expect extreme weather to damage their homes: Kin ([30 minutes ago](https://www.dig-in.com/news/u-s-homeowners-expect-extreme-weather-to-damage-their-homes-kin))
 - How to Swerve Consular Support Abroad: Buy Travel Insurance ([6 hours ago](https://insurance-edge.net/2026/01/25/how-to-swerve-consular-support-abroad-buy-travel-insurance/))
 - GenAI: Fisent Technologies Looks Back on 2025 Progress ([1 days ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([2 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))
@@ -95,7 +96,7 @@ description: Insurance Updates
 - Throwback Thursday: Broker goes bust; Lloyd’s loss ([3 days ago](https://www.postonline.co.uk/lloydslondon/7959254/throwback-thursday-broker-goes-bust-lloyds-loss))
 - Q&A: Tom Hughes, IUA ([3 days ago](https://www.postonline.co.uk/commercial/7959580/qa-tom-hughes-iua))
 - EY: Insurance M&A activity slowed in 2025 ([3 days ago](https://www.dig-in.com/news/ey-insurance-m-a-activity-slowed-in-2025))
-- California proposes ban on aerial imagery for insurance non-renewals ([3 days ago](https://www.dig-in.com/news/california-proposes-limiting-insurers-use-of-aerial-imagery))
+- California proposes ban on aerial imagery for insurance non-renewals ([4 days ago](https://www.dig-in.com/news/california-proposes-limiting-insurers-use-of-aerial-imagery))
 - Insurance platform Ethos, backers seeking $211M in IPO ([4 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-seeking-211m-in-ipo))
 - Insurer Lemonade pitches Tesla drivers cheaper rates ([4 days ago](https://www.dig-in.com/articles/insurer-lemonade-pitches-tesla-drivers-cheaper-rates))
 - Zurich makes $10.3B bid for Beazley ([4 days ago](https://www.dig-in.com/articles/zurich-makes-10-3b-bid-for-beazley))
@@ -109,7 +110,6 @@ description: Insurance Updates
 - Clear battery standards could unlock UK’s used EV market ([4 days ago](https://www.postonline.co.uk/personal/7959459/clear-battery-standards-could-unlock-uks-used-ev-market))
 - Are you ready to be stress tested by the PRA? ([4 days ago](https://www.postonline.co.uk/regulation/7959508/are-you-ready-to-be-stress-tested-by-the-pra))
 - California insurance regulation will need more enforcement, experts say ([4 days ago](https://www.dig-in.com/news/california-insurance-rules-need-enforcement-experts-say))
-- Insurance predictions for 2026 ([4 days ago](https://www.dig-in.com/list/insurance-predictions-for-2026))
 - Royal London comments on DWP’s ‘Survey of Employees and Self-Employed Workers’ ([5 days ago](https://ifamagazine.com/royal-london-comments-on-dwps-survey-of-employees-and-self-employed-workers/))
 - Nat cat insured losses hit $127bn despite 10-year economic loss low ([5 days ago](https://www.postonline.co.uk/claims/7959709/nat-cat-insured-losses-hit-127bn-despite-10-year-economic-loss-low))
 - Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([5 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
