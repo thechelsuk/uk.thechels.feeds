@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- String Performance: The Fastest Way to Get a String’s Length ([5 hours ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
+- String Performance: The Fastest Way to Get a String’s Length ([6 hours ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([17 hours ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
 - F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([21 hours ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
 - Announcing winapp, the Windows App Development CLI ([2 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
@@ -23,11 +23,11 @@ description: DotNet Updates
 - Easier Query Models with Marten ([4 days ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([5 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([5 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
-- Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([5 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
+- Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([6 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
 - F# Weekly #3, 2026 - Most token-efficient static language? ([6 days ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([7 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
 - Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([7 days ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
-- Copilot Memories - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
+- Copilot Memories - Visual Studio Blog ([10 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
 - How AI Will Transform Open Source Business Models ([10 days ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - How JasperFx Supports our Customers ([11 days ago](https://dotnetkicks.com/r/738093?url=https://jeremydmiller.com/2026/01/13/how-jasperfx-supports-our-customers/))
 - .NET and .NET Framework January 2026 servicing releases updates - .NET Blog ([11 days ago](https://dotnetkicks.com/r/738074?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
