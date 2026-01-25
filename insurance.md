@@ -51,7 +51,7 @@ description: Insurance Updates
 - Bristol insurance broker marks decade of independent growth ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bristol-insurance-broker-marks-decade-of-independent-growth-562927.aspx))
 - Insurers push ahead with AI despite skills gap ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/insurers-push-ahead-with-ai-despite-skills-gap-562921.aspx))
 - Aviva DigiCare+ offers unlimited GP access to individual protection customers and their families ([1 days ago](https://ifamagazine.com/aviva-digicare-offers-unlimited-gp-access-to-individual-protection-customers-and-their-families/))
-- Aviva Capital Partners enters Southampton JV for former Toys ‘R’ Us site ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-capital-partners-enters-southampton-jv-for-former-toys-r-us-site-562904.aspx))
+- Aviva Capital Partners enters Southampton JV for former Toys ‘R’ Us site ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-capital-partners-enters-southampton-jv-for-former-toys-r-us-site-562904.aspx))
 - Acrisure launches digital platform for London market access ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-launches-digital-platform-for-london-market-access-562903.aspx))
 - Insurance moves: AXA XL, Argenta, Targa Telematics ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-axa-xl-argenta-targa-telematics-562901.aspx))
 - Underwriters weigh AI loss scenarios in new study ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/underwriters-weigh-ai-loss-scenarios-in-new-study-562900.aspx))
