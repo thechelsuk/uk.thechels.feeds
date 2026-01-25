@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - AI 'here to stay' for insurance research and more, Altamont partner says ([2 hours ago](https://www.dig-in.com/news/ai-useful-for-insurance-research-altamont-partner-says))
-- U.S. homeowners expect extreme weather to damage their homes: Kin ([2 hours ago](https://www.dig-in.com/news/u-s-homeowners-expect-extreme-weather-to-damage-their-homes-kin))
+- U.S. homeowners expect extreme weather to damage their homes: Kin ([3 hours ago](https://www.dig-in.com/news/u-s-homeowners-expect-extreme-weather-to-damage-their-homes-kin))
 - How to Swerve Consular Support Abroad: Buy Travel Insurance ([9 hours ago](https://insurance-edge.net/2026/01/25/how-to-swerve-consular-support-abroad-buy-travel-insurance/))
 - GenAI: Fisent Technologies Looks Back on 2025 Progress ([1 days ago](https://insurance-edge.net/2026/01/24/genai-fisent-technologies-looks-back-on-2025-progress/))
 - US Market: Ivans Q4 2025 Renewal Index is Published ([2 days ago](https://insurance-edge.net/2026/01/23/us-market-ivans-q4-2025-renewal-index-is-published/))

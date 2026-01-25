@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- 1Password adds pop-up warnings for suspected phishing sites ([7 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
+- 1Password adds pop-up warnings for suspected phishing sites ([8 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
 - Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
-- Microsoft investigates Windows 11 boot failures after January updates ([9 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
-- Disruption with repo creation ([19 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
+- Microsoft investigates Windows 11 boot failures after January updates ([10 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
+- Disruption with repo creation ([20 hours ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Microsoft releases emergency OOB update to fix Outlook freezes ([21 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
 - Sandworm hackers linked to failed wiper attack on Poland’s energy systems ([1 days ago](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/))
 - Konni hackers target blockchain engineers with AI-built malware ([1 days ago](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/))
@@ -26,7 +26,7 @@ description: SecOps News
 - Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents ([1 days ago](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html))
 - CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog ([1 days ago](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html))
 - CISA won't attend infosec industry's biggest conference this year ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/24/cisa_skipping_rsa_exclusive/))
-- ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft ([1 days ago](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/))
+- ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft ([2 days ago](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/))
 - Patch or die: VMware vCenter Server bug fixed in 2024 under attack today ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/23/critical_vmware_vcenter_server_bug/))
 - Surrender as a service: Microsoft unlocks BitLocker for feds ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/))
 - Surrender as a service: Microsoft unlocks BitLocker for feds ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/))
@@ -68,7 +68,7 @@ description: SecOps News
 - 2 Venezuelans Convicted in US for Using Malware to Hack ATMs ([2 days ago](https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/))
 - Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms ([2 days ago](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html))
 - Tech support detective solved PC crime by looking in the carpark ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/23/on_call/))
-- Crims hit the easy button for Scattered-Spider style helpdesk scams ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/))
+- Crims hit the easy button for Scattered-Spider style helpdesk scams ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/))
 - AI conference's papers contaminated by AI hallucinations ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/neurips_papers_contaiminated_ai_hallucinations/))
 - Okta SSO accounts targeted in vishing-based data theft attacks ([3 days ago](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/))
 - Crims compromised energy firms' Microsoft accounts, sent 600 phishing emails ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_compromised_energy_firms_microsoft/))
@@ -176,7 +176,7 @@ description: SecOps News
 - Disruption with some GitHub services ([15 days ago](https://www.githubstatus.com/incidents/8bcsk6c4prjl))
 - From Retail Breaches to Cloud Blackouts: The Top Cyber Lessons of 2025 ([16 days ago](https://grcsolutions.io/from-retail-breaches-to-cloud-blackouts-the-top-cyber-lessons-of-2025/))
 - pcTattletale founder pleads guilty in rare stalkerware prosecution ([16 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/pctattletale-founder-pleads-guilty-in-rare-stalkerware-prosecution))
-- Who Benefited from the Aisuru and Kimwolf Botnets? ([16 days ago](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/))
+- Who Benefited from the Aisuru and Kimwolf Botnets? ([17 days ago](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/))
 - KL-001-2026-01: yintibao Fun Print Mobile Unauthorized Access via Context Hijacking ([17 days ago](https://seclists.org/fulldisclosure/2026/Jan/12))
 - Incident with Copilot ([17 days ago](https://www.githubstatus.com/incidents/91ryv3glwnvz))
 - Smashing Security podcast #449: How to scam someone in seven days ([17 days ago](https://grahamcluley.com/smashing-security-podcast-449/))
@@ -195,6 +195,6 @@ description: SecOps News
 - Disruption with some GitHub services ([24 days ago](https://www.githubstatus.com/incidents/d5t56pdnjxhd))
 - Happy 16th Birthday, KrebsOnSecurity.com! ([27 days ago](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/))
 - Weekly Update 484 ([28 days ago](https://www.troyhunt.com/weekly-update-484/))
-- WIRED - 2,364,431 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/WIRED))
+- WIRED - 2,364,431 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/WIRED))
 
 <!-- news_marker ends -->
