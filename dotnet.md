@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([1 minutes ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
-- Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([7 minutes ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
+- Wolverine Idioms for MediatR Users ([26 minutes ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
+- Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([36 minutes ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
+- Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([42 minutes ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([5 hours ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([1 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([1 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
@@ -44,7 +45,6 @@ description: DotNet Updates
 - Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers - Microsoft Industry Blogs ([14 days ago](https://dotnetkicks.com/r/737894?url=https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/))
 - Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende ([14 days ago](https://dotnetkicks.com/r/737876?url=https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([15 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
-- F# Weekly #2, 2026 - Mibo and WREN Stack ([15 days ago](https://dotnetkicks.com/r/737839?url=https://sergeytihon.com/2026/01/10/f-weekly-2-2026-mibo-and-wren-stack/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([19 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([20 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
 - Generative AI with Large Language Models in C# in 2026 ([21 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
