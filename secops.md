@@ -9,10 +9,10 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - 2024 VMware Flaw Now in Attackers’ Crosshairs ([2 hours ago](https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/))
-- ChatGPT Temporary chat feature is getting a much-needed upgrade ([6 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/))
+- ChatGPT Temporary chat feature is getting a much-needed upgrade ([7 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/))
 - Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/pwn2own_automotive_2026_identifies_76_0days/))
 - 1Password adds pop-up warnings for suspected phishing sites ([16 hours ago](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/))
-- Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
+- Emmabuntüs DE 6: A newbie-friendly Linux to help those in need ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/01/25/emmabuntus_6_charitable_linux/))
 - Microsoft investigates Windows 11 boot failures after January updates ([18 hours ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/))
 - Disruption with repo creation ([1 days ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Microsoft releases emergency OOB update to fix Outlook freezes ([1 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/))
@@ -27,7 +27,7 @@ description: SecOps News
 - Nike Probing Potential Security Incident as Hackers Threaten to Leak Data ([1 days ago](https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/))
 - New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector ([1 days ago](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html))
 - Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents ([1 days ago](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html))
-- CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog ([1 days ago](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html))
+- CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog ([2 days ago](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html))
 - CISA won't attend infosec industry's biggest conference this year ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/24/cisa_skipping_rsa_exclusive/))
 - ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft ([2 days ago](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/))
 - Patch or die: VMware vCenter Server bug fixed in 2024 under attack today ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/23/critical_vmware_vcenter_server_bug/))
