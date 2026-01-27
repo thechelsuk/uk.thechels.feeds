@@ -8,10 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([7 hours ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
+- Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([6 minutes ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
+- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([8 hours ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([8 hours ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
-- Force step up authentication in web applications ([21 hours ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
-- Wolverine Idioms for MediatR Users ([23 hours ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
+- Force step up authentication in web applications ([22 hours ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
+- Wolverine Idioms for MediatR Users ([1 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
 - Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([1 days ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([1 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([1 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
@@ -43,7 +44,6 @@ description: DotNet Updates
 - The Windows File Explorer replacement, File Pilot, is awesome ([14 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI - .NET Blog ([15 days ago](https://dotnetkicks.com/r/737955?url=https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How to Build Android Widgets with .NET MAUI ([15 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET's Virtual Monorepo - .NET Blog ([15 days ago](https://dotnetkicks.com/r/737933?url=https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - How We Synchronize .NET’s Virtual Monorepo ([15 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([16 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([20 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
