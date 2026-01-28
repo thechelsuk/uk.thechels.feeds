@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([3 hours ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
+- Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([4 hours ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Security Software False Positives ([4 hours ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
-- Prepare for Launch: Enrichment Strategies for Apache Flink ([13 hours ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
+- Prepare for Launch: Enrichment Strategies for Apache Flink ([14 hours ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([16 hours ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([1 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([1 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
