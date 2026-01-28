@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([12 minutes ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
+- Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([40 minutes ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Security Software False Positives ([1 hours ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
 - Prepare for Launch: Enrichment Strategies for Apache Flink ([10 hours ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([12 hours ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
-- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([20 hours ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
+- Creating and consuming metrics with System.Diagnostics.Metrics APIs ([21 hours ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([21 hours ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Force step up authentication in web applications ([1 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
 - Wolverine Idioms for MediatR Users ([1 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
@@ -53,7 +53,7 @@ description: DotNet Updates
 - dotInsights  -  January 2026 ([22 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
 - Leveraging Span-Based String Concatenation for Improved Performance ([24 days ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 - Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support ([25 days ago](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/))
-- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([26 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
+- Visual Studio 2026: Regressions, Reliability Issues, and Missed Opportunities ([27 days ago](https://dotnettips.wordpress.com/2026/01/01/visual-studio-2026-regressions-reliability-issues-and-missed-opportunities/))
 - Rock Your Code: Code & App Performance for Microsoft .NET (5th Edition) ([27 days ago](https://dotnettips.wordpress.com/2026/01/01/rock-your-code-code-app-performance-for-microsoft-net-5th-edition/))
 - Top .NET Videos & Live Streams of 2025 ([27 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/))
 - Top .NET Blog Posts of 2025 ([28 days ago](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/))
