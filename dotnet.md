@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([11 hours ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
-- .NET AI Essentials – The Core Building Blocks Explained ([11 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
+- .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
+- .NET AI Essentials – The Core Building Blocks Explained ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([22 hours ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Security Software False Positives ([23 hours ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
 - Prepare for Launch: Enrichment Strategies for Apache Flink ([1 days ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
