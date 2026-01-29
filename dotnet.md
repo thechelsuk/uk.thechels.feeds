@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([1 hours ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
-- Game Dev in 2025: Excerpts From the State of Game Development Report ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
+- Game Dev in 2025: Excerpts From the State of Game Development Report ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
 - .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - .NET AI Essentials – The Core Building Blocks Explained ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([1 days ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
@@ -48,7 +48,7 @@ description: DotNet Updates
 - .NET and .NET Framework January 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([16 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([16 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET’s Virtual Monorepo ([16 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
+- How We Synchronize .NET’s Virtual Monorepo ([17 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([18 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([21 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([23 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
