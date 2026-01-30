@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper and Rider 2025.3.2 Updates Out Now! ([16 hours ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
+- ReSharper and Rider 2025.3.2 Updates Out Now! ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([22 hours ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
 - .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([1 days ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - .NET AI Essentials – The Core Building Blocks Explained ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
