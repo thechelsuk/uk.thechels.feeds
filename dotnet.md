@@ -18,7 +18,7 @@ description: DotNet Updates
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([4 days ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([4 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([4 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
-- Force step up authentication in web applications ([4 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
+- Force step up authentication in web applications ([5 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
 - Wolverine Idioms for MediatR Users ([5 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
 - Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([5 days ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([5 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
