@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Events: Insurtech Brasil May 2026 ([19 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
+- Events: Insurtech Brasil May 2026 ([20 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - Oregon Disabling Workers’ Comp Claims Fell in 2024 ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856039.htm))
 - Penny Black’s Social Diary: Allianz’s toys; Biba’s flatbread ([1 days ago](https://www.postonline.co.uk/people/7959689/penny-blacks-social-diary-allianzs-toys-bibas-flatbread))
 - Are insurers' fair value data demands unfair to brokers? ([1 days ago](https://www.postonline.co.uk/regulation/7959742/are-insurers-fair-value-data-demands-unfair-to-brokers))
-- WTW flags higher natural catastrophe 'risk floor' amid lower insured losses in 2025 ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/wtw-flags-higher-natural-catastrophe-risk-floor-amid-lower-insured-losses-in-2025-563706.aspx))
+- WTW flags higher natural catastrophe 'risk floor' amid lower insured losses in 2025 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/wtw-flags-higher-natural-catastrophe-risk-floor-amid-lower-insured-losses-in-2025-563706.aspx))
 - ABI overhauls governance structure ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/abi-overhauls-governance-structure-563675.aspx))
 - Aviva revamps its mid-market motor trade and property owners products ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-revamps-its-midmarket-motor-trade-and-property-owners-products-563676.aspx))
 - Insurance moves: Acrisure Nottingham, First Underwriting and Dale Underwriting ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-acrisure-nottingham-first-underwriting-and-dale-underwriting-563681.aspx))
