@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Events: Insurtech Brasil May 2026 ([21 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
+- Events: Insurtech Brasil May 2026 ([22 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
@@ -59,8 +59,8 @@ description: Insurance Updates
 - Southern Africa Floods That Killed 300 Fueled by Global Warming ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856276.htm))
 - China Plans $29 Billion Capital Injection Into Biggest Insurers ([1 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856272.htm))
 - Markets/Coverages: AXA XL Adds Coverages to Pollution and Remediation Liability ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856247.htm))
-- Flood Risk Misconceptions Drive Underinsurance: Chubb ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856239.htm))
-- Viewpoint: Seamless Lead Sharing a Quiet Advantage In a World of Complex Distribution ([1 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856235.htm))
+- Flood Risk Misconceptions Drive Underinsurance: Chubb ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856239.htm))
+- Viewpoint: Seamless Lead Sharing a Quiet Advantage In a World of Complex Distribution ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856235.htm))
 - Danone Recalls Batches of Aptamil Baby Formula in Germany, Letter Shows ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856207.htm))
 - USAA Prevails in MSP Recovery’s Latest Class-Action Attempt ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856252.htm))
 - People Moves: Trucordia Names Nelson VP of Public Relations; Hub Hires Ackerman as SVP, Private Client Risk Services ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856185.htm))
@@ -92,7 +92,7 @@ description: Insurance Updates
 - FCA seeks views on how to help close the protection gap ([2 days ago](https://ifamagazine.com/fca-seeks-views-on-how-to-help-close-the-protection-gap/))
 - Intergenerational gifting hits peak amongst equity release customers ([2 days ago](https://ifamagazine.com/intergenerational-gifting-hits-peak-amongst-equity-release-customers/))
 - Financial services industry unites behind ‘Billions 4 Millions’ campaign to help reunite customers with £1bn in lost and unclaimed assets ([2 days ago](https://ifamagazine.com/financial-services-industry-unites-behind-billions-4-millions-campaign-to-help-reunite-customers-with-1bn-in-lost-and-unclaimed-assets/))
-- Why facilities are here to stay in the London market ([2 days ago](https://www.postonline.co.uk/lloydslondon/7959727/why-facilities-are-here-to-stay-in-the-london-market))
+- Why facilities are here to stay in the London market ([3 days ago](https://www.postonline.co.uk/lloydslondon/7959727/why-facilities-are-here-to-stay-in-the-london-market))
 - Throwback Thursday: War opens Lloyd’s; Royal spending ([3 days ago](https://www.postonline.co.uk/lloydslondon/7959256/throwback-thursday-war-opens-lloyds-royal-spending))
 - Q&A: Sharon Bishop, PremFina ([3 days ago](https://www.postonline.co.uk/personal/7959665/qa-sharon-bishop-premfina))
 - Willis launches new eight-point framework to target systemic risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/willis-launches-new-eightpoint-framework-to-target-systemic-risk-563544.aspx))
