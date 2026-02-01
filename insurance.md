@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 in 5 Brits now use AI for self-diagnosis in health ([4 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
+- 3 in 5 Brits now use AI for self-diagnosis in health ([5 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
@@ -102,7 +102,7 @@ description: Insurance Updates
 - Managing General Agents' Association unveils 2026 priorities ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/managing-general-agents-association-unveils-2026-priorities-563511.aspx))
 - California regulator disputes presidential order on wildfire recovery ([3 days ago](https://www.dig-in.com/news/california-regulator-disputes-trump-wildfire-recovery-order))
 - Travel insurance emerges as new voluntary benefit add-on ([3 days ago](https://www.dig-in.com/news/travel-insurance-can-be-a-competitive-employee-benefit))
-- Trump orders federal takeover of LA wildfire rebuilding efforts ([3 days ago](https://www.dig-in.com/articles/trump-orders-federal-takeover-of-la-wildfire-rebuilding-efforts))
+- Trump orders federal takeover of LA wildfire rebuilding efforts ([4 days ago](https://www.dig-in.com/articles/trump-orders-federal-takeover-of-la-wildfire-rebuilding-efforts))
 - WTW completes $1.3bn acquisition of Newfront to boost US middle market capabilities ([4 days ago](https://www.insurtechinsights.com/wtw-completes-1-3bn-acquisition-of-newfront-to-boost-us-middle-market-capabilities/))
 - Brits expect insurers to raise financial abuse awareness ([4 days ago](https://www.postonline.co.uk/personal/7959739/brits-expect-insurers-to-raise-financial-abuse-awareness))
 - Insurance jobs needing AI skills surge 70% in a year ([4 days ago](https://www.postonline.co.uk/technology/7959717/insurance-jobs-needing-ai-skills-surge-70-in-a-year))
