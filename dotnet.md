@@ -26,7 +26,7 @@ description: DotNet Updates
 - How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([6 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([7 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([7 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
-- F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([7 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
+- F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([8 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
 - Announcing winapp, the Windows App Development CLI ([9 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([10 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([10 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
@@ -36,7 +36,7 @@ description: DotNet Updates
 - CoPilot Gets Us Started ([11 days ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
 - You Can't Future-Proof Software Architecture ([11 days ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
 - An AI Project ([11 days ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
-- Easier Query Models with Marten ([11 days ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
+- Easier Query Models with Marten ([12 days ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([12 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Fundamentals of AI ([12 days ago](https://dotnetkicks.com/r/738416?url=https://jesseliberty.com/2026/01/19/fundamentals-of-ai/))
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([13 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
@@ -54,7 +54,7 @@ description: DotNet Updates
 - Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([24 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([26 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
 - Generative AI with Large Language Models in C# in 2026 ([26 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
-- dotInsights  -  January 2026 ([26 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
+- dotInsights  -  January 2026 ([27 days ago](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/))
 - Leveraging Span-Based String Concatenation for Improved Performance ([28 days ago](https://dotnettips.wordpress.com/2026/01/04/leveraging-span-based-string-concatenation-for-improved-performance/))
 
 <!-- news_marker ends -->
