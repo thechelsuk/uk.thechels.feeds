@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([1 hours ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
-- AI sees all — and now, agencies do too ([2 hours ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
+- Search Suspended for 7 People on Fishing Vessel That Sank Off Massachusetts ([3 minutes ago](https://www.insurancejournal.com/news/east/2026/02/01/856416.htm))
+- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([2 hours ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
+- AI sees all — and now, agencies do too ([3 hours ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
 - 3 in 5 Brits now use AI for self-diagnosis in health ([10 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([2 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
@@ -67,7 +68,6 @@ description: Insurance Updates
 - Danone Recalls Batches of Aptamil Baby Formula in Germany, Letter Shows ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856207.htm))
 - USAA Prevails in MSP Recovery’s Latest Class-Action Attempt ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856252.htm))
 - People Moves: Trucordia Names Nelson VP of Public Relations; Hub Hires Ackerman as SVP, Private Client Risk Services ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856185.htm))
-- Oregon Disabling Workers’ Comp Claims Fell in 2024 ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856039.htm))
 - Penny Black’s Social Diary: Allianz’s toys; Biba’s flatbread ([2 days ago](https://www.postonline.co.uk/people/7959689/penny-blacks-social-diary-allianzs-toys-bibas-flatbread))
 - Are insurers' fair value data demands unfair to brokers? ([2 days ago](https://www.postonline.co.uk/regulation/7959742/are-insurers-fair-value-data-demands-unfair-to-brokers))
 - WTW flags higher natural catastrophe 'risk floor' amid lower insured losses in 2025 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/wtw-flags-higher-natural-catastrophe-risk-floor-amid-lower-insured-losses-in-2025-563706.aspx))
