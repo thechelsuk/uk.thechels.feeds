@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 in 5 Brits now use AI for self-diagnosis in health ([21 minutes ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
+- 3 in 5 Brits now use AI for self-diagnosis in health ([47 minutes ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
@@ -35,7 +35,7 @@ description: Insurance Updates
 - Tysers appoints Marlena Truszczynska as Head of Shipping Claims ([1 days ago](https://www.reinsurancene.ws/tysers-appoints-marlena-truszczynska-as-head-of-shipping-claims/))
 - Worries Deepened in South After Days of Snow, Ice and Power Outages ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/01/30/856309.htm))
 - SCOR partners with MGA Baobab Insurance to strengthen cyber capabilities ([1 days ago](https://www.reinsurancene.ws/scor-partners-with-mga-baobab-insurance-to-strengthen-cyber-capabilities/))
-- Empathy Teams Up With Transamerica on Digital Legacy ([1 days ago](https://insurance-edge.net/2026/01/30/empathy-teams-up-with-transamerica-on-digital-legacy/))
+- Empathy Teams Up With Transamerica on Digital Legacy ([2 days ago](https://insurance-edge.net/2026/01/30/empathy-teams-up-with-transamerica-on-digital-legacy/))
 - Markets/Coverages: Brit Announces Renewal of $200M Cyber Consortium ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856301.htm))
 - Gallagher Re sees 32% drop in cyber aggregate XOL rates amid oversupply ([2 days ago](https://www.reinsurancene.ws/gallagher-re-sees-32-drop-in-cyber-aggregate-xol-rates-amid-oversupply/))
 - North American Risk Professionals See Average 11% Salary Increase ([2 days ago](https://www.insurancejournal.com/news/national/2026/01/30/856227.htm))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - Blog: Claims standards are tightening, but rebuild costs are the real stress test ([6 days ago](https://www.postonline.co.uk/claims/7959675/blog-claims-standards-are-tightening-but-rebuild-costs-are-the-real-stress-test))
 - Diary of an Insurer: Policy Expert’s Linda Crichton ([6 days ago](https://www.postonline.co.uk/personal/7959415/diary-of-an-insurer-policy-experts-linda-crichton))
 - Aviva DigiCare+ offers unlimited GP access to individual protection customers and their families ([9 days ago](https://ifamagazine.com/aviva-digicare-offers-unlimited-gp-access-to-individual-protection-customers-and-their-families/))
-- Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([11 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
+- Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([12 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
 
 <!-- news_marker ends -->
