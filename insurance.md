@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([23 minutes ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
+- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([52 minutes ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
 - AI sees all — and now, agencies do too ([1 hours ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
-- 3 in 5 Brits now use AI for self-diagnosis in health ([8 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
+- 3 in 5 Brits now use AI for self-diagnosis in health ([9 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([2 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([2 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
