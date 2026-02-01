@@ -8,10 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- AI sees all — and now, agencies do too ([37 minutes ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
+- 77% of insurance execs say workforce constrains AI; 86% plan to embed AI agents in teams ([23 minutes ago](https://www.dig-in.com/news/77-of-insurance-execs-say-workforce-constrains-ai))
+- AI sees all — and now, agencies do too ([1 hours ago](https://www.dig-in.com/opinion/ai-sees-all-and-now-agencies-do-too))
 - 3 in 5 Brits now use AI for self-diagnosis in health ([8 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
-- Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
+- Latest Financials From Jera Shows Revenues Decreasing ([2 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([2 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([2 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
 - Targa Telematics Wins UBI Award ([2 days ago](https://insurance-edge.net/2026/01/30/targa-telematics-wins-ubi-award/))
@@ -114,7 +115,6 @@ description: Insurance Updates
 - Is pet insurance pulling on the leash or coming to heel? ([4 days ago](https://www.postonline.co.uk/personal/7959502/is-the-pet-insurance-pulling-on-the-leash-or-coming-to-heel))
 - Why homeowners insurance rates could stabilize in 2026 ([4 days ago](https://www.dig-in.com/news/why-homeowners-insurance-rates-could-stabilize-in-2026))
 - Will Nevada wildfire coverage exclusion make insurance unaffordable? ([5 days ago](https://www.dig-in.com/news/will-nevada-wildfire-exclusion-make-insurance-unaffordable))
-- Why power outages do more economic damage than we think ([5 days ago](https://www.dig-in.com/articles/why-power-outages-do-more-economic-damage-than-we-think))
 - Lickens appointed Konsileo chair ([5 days ago](https://www.postonline.co.uk/news/7959736/lickens-appointed-konsileo-chair))
 - FCA confirms AI review led by Mills ([5 days ago](https://www.postonline.co.uk/news/7959735/fca-confirms-ai-review-led-by-mills))
 - FCA rejects calls for further Covid BI interventions ([5 days ago](https://www.postonline.co.uk/regulation/7959734/fca-rejects-calls-for-further-covid-bi-interventions))
