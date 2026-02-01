@@ -8,14 +8,14 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 3 in 5 Brits now use AI for self-diagnosis in health ([5 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
+- 3 in 5 Brits now use AI for self-diagnosis in health ([6 hours ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
 - Events: Insurtech Brasil May 2026 ([1 days ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
 - Targa Telematics Wins UBI Award ([1 days ago](https://insurance-edge.net/2026/01/30/targa-telematics-wins-ubi-award/))
 - Market Trends: Big Investments in AI Right Now ([1 days ago](https://insurance-edge.net/2026/01/30/market-trends-big-investments-in-ai-right-now/))
-- What Modern Bingo Tells Us About How Businesses Should Expand with an Online Platform ([1 days ago](https://insurance-edge.net/2026/01/30/what-modern-bingo-tells-us-about-how-businesses-should-expand-with-an-online-platform/))
+- What Modern Bingo Tells Us About How Businesses Should Expand with an Online Platform ([2 days ago](https://insurance-edge.net/2026/01/30/what-modern-bingo-tells-us-about-how-businesses-should-expand-with-an-online-platform/))
 - TDI Investigations Result in $50M for Fraud Victims ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/01/30/856357.htm))
 - Michigan AG Secures Judgment Against Contractors Over Consumer Scam ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/01/30/856352.htm))
 - Aon Reports Organic Growth of 6% for 2nd Straight Year ([2 days ago](https://www.insurancejournal.com/news/international/2026/01/30/856337.htm))
