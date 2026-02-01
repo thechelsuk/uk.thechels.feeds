@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Events: Insurtech Brasil May 2026 ([20 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
+- Events: Insurtech Brasil May 2026 ([21 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
@@ -95,8 +95,8 @@ description: Insurance Updates
 - Why facilities are here to stay in the London market ([2 days ago](https://www.postonline.co.uk/lloydslondon/7959727/why-facilities-are-here-to-stay-in-the-london-market))
 - Throwback Thursday: War opens Lloyd’s; Royal spending ([2 days ago](https://www.postonline.co.uk/lloydslondon/7959256/throwback-thursday-war-opens-lloyds-royal-spending))
 - Q&A: Sharon Bishop, PremFina ([2 days ago](https://www.postonline.co.uk/personal/7959665/qa-sharon-bishop-premfina))
-- Willis launches new eight-point framework to target systemic risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/willis-launches-new-eightpoint-framework-to-target-systemic-risk-563544.aspx))
-- Tokio Marine HCC flags 2025's biggest cyber losses ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-hcc-flags-2025s-biggest-cyber-losses-563541.aspx))
+- Willis launches new eight-point framework to target systemic risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/willis-launches-new-eightpoint-framework-to-target-systemic-risk-563544.aspx))
+- Tokio Marine HCC flags 2025's biggest cyber losses ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/tokio-marine-hcc-flags-2025s-biggest-cyber-losses-563541.aspx))
 - Clear Group swoops for Gauntlet AR Network ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/clear-group-swoops-for-gauntlet-ar-network-563512.aspx))
 - Managing General Agents' Association unveils 2026 priorities ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/managing-general-agents-association-unveils-2026-priorities-563511.aspx))
 - California regulator disputes presidential order on wildfire recovery ([3 days ago](https://www.dig-in.com/news/california-regulator-disputes-trump-wildfire-recovery-order))
