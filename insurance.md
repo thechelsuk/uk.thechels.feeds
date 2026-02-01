@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Events: Insurtech Brasil May 2026 ([14 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
+- Events: Insurtech Brasil May 2026 ([16 hours ago](https://insurance-edge.net/2026/01/31/events-insurtech-brasil-may-2026/))
 - Latest Financials From Jera Shows Revenues Decreasing ([1 days ago](https://insurance-edge.net/2026/01/30/latest-financials-from-jera-shows-revenues-decreasing/))
 - Insurance platform Ethos, backers raise $200M in US IPO ([1 days ago](https://www.dig-in.com/articles/insurance-platform-ethos-backers-raise-200m-in-us-ipo))
 - California Accelerates Work on EV Rules, Tax Credits That Trump Opposes ([1 days ago](https://www.insurancejournal.com/news/west/2026/01/30/856363.htm))
@@ -110,7 +110,7 @@ description: Insurance Updates
 - ManyPets sends all claims through AI agent ([3 days ago](https://www.postonline.co.uk/technology/7959737/manypets-sends-all-claims-through-ai-agent))
 - Is AI negligence the next legal fault line for PI insurers? ([3 days ago](https://www.postonline.co.uk/technology/7959462/is-ai-negligence-the-next-legal-fault-line-for-pi-insurers))
 - Is pet insurance pulling on the leash or coming to heel? ([3 days ago](https://www.postonline.co.uk/personal/7959502/is-the-pet-insurance-pulling-on-the-leash-or-coming-to-heel))
-- Why homeowners insurance rates could stabilize in 2026 ([3 days ago](https://www.dig-in.com/news/why-homeowners-insurance-rates-could-stabilize-in-2026))
+- Why homeowners insurance rates could stabilize in 2026 ([4 days ago](https://www.dig-in.com/news/why-homeowners-insurance-rates-could-stabilize-in-2026))
 - Will Nevada wildfire coverage exclusion make insurance unaffordable? ([4 days ago](https://www.dig-in.com/news/will-nevada-wildfire-exclusion-make-insurance-unaffordable))
 - Why power outages do more economic damage than we think ([4 days ago](https://www.dig-in.com/articles/why-power-outages-do-more-economic-damage-than-we-think))
 - Bond insurance grows slightly in 2025 ([4 days ago](https://www.dig-in.com/news/bond-insurance-grows-slightly-in-2025))
