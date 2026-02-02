@@ -8,7 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([7 hours ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
+- Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([2 minutes ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
+- Surviving the Streaming Dungeon with Kafka Queues ([3 minutes ago](https://dotnetkicks.com/r/739213?url=https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/))
+- Building a Greenfield System with the Critter Stack ([13 minutes ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
+- Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([8 hours ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([1 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([4 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([4 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
@@ -43,9 +46,6 @@ description: DotNet Updates
 - Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende ([14 days ago](https://dotnetkicks.com/r/738401?url=https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/))
 - F# Weekly #3, 2026 - Most token-efficient static language? ([14 days ago](https://dotnetkicks.com/r/738375?url=https://sergeytihon.com/2026/01/17/f-weekly-3-2026-most-token-efficient-static-language/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([15 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
-- Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms  -  Microsoft Security Blog ([15 days ago](https://dotnetkicks.com/r/738338?url=https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/))
-- Copilot Memories - Visual Studio Blog ([18 days ago](https://dotnetkicks.com/r/738215?url=https://devblogs.microsoft.com/visualstudio/copilot-memories/))
-- How AI Will Transform Open Source Business Models ([18 days ago](https://dotnetkicks.com/r/738148?url=https://petabridge.com/blog/ai-transforms-oss-business-models/))
 - .NET and .NET Framework January 2026 servicing releases updates ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([20 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([20 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
