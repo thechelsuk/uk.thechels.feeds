@@ -8,11 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm ([49 minutes ago](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html))
+- eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware ([45 minutes ago](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html))
+- Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm ([1 hours ago](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html))
 - Open-source AI is a global security nightmare waiting to happen, say researchers ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/))
-- Exposed MongoDB instances still targeted in data extortion attacks ([13 hours ago](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/))
-- New Apple privacy feature limits location tracking on iPhones, iPads ([14 hours ago](https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/))
-- AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/))
+- Exposed MongoDB instances still targeted in data extortion attacks ([14 hours ago](https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/))
+- New Apple privacy feature limits location tracking on iPhones, iPads ([15 hours ago](https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/))
+- AI security startup CEO posts a job. Deepfake candidate applies, inner turmoil ensues. ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/01/ai_security_startup_ceo_posts/))
 - OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/))
 - OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/))
 - RINA Accountants & Advisors is creating $400K settlement fund to settle lawsuit over 2022 data breach ([1 days ago](https://databreaches.net/2026/01/31/rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach/?pk_campaign=feed&pk_kwd=rina-accountants-advisors-is-creating-400k-settlement-fund-to-settle-lawsuit-over-2022-data-breach))
@@ -123,7 +124,6 @@ description: SecOps News
 - Password Reuse in Disguise: An Often-Missed Risky Workaround ([4 days ago](https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html))
 - Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088 ([4 days ago](https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html))
 - Eating Our Own Dogfood: What Running Report URI on Report URI Taught Us ([4 days ago](https://scotthelme.ghost.io/eating-our-own-dogfood-what-running-report-uri-on-report-uri-taught-us/))
-- Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan ([4 days ago](https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html))
 - Beware! Fake ChatGPT browser extensions are stealing your login credentials ([4 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/beware-fake-chatgpt-browser-extensions-are-stealing-your-login-credentials))
 - Paranoid WhatsApp users rejoice: Encrypted app gets one-click privacy toggle ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/27/whatsapp_strict_account_settings_meta_rust/))
 - Let them eat sourdough: ShinyHunters claims Panera Bread as stolen credentials victim ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/01/27/shinyhunters_claim_panera_bread/))
@@ -200,10 +200,10 @@ description: SecOps News
 - Incident with Copilot ([25 days ago](https://www.githubstatus.com/incidents/91ryv3glwnvz))
 - Smashing Security podcast #449: How to scam someone in seven days ([25 days ago](https://grahamcluley.com/smashing-security-podcast-449/))
 - Some models missing in Copilot ([25 days ago](https://www.githubstatus.com/incidents/vyxbxqhdt75d))
-- Weekly Update 485 ([25 days ago](https://www.troyhunt.com/weekly-update-485/))
+- Weekly Update 485 ([26 days ago](https://www.troyhunt.com/weekly-update-485/))
 - Incident with Actions ([26 days ago](https://www.githubstatus.com/incidents/266hgcx77zqw))
 - Incident with Copilot ([26 days ago](https://www.githubstatus.com/incidents/d6pkw798c0f0))
 - Coinbase insider who sold customer data to criminals arrested in India ([26 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/coinbase-insider-who-sold-customer-data-to-criminals-arrested-in-india))
-- WhiteDate - 6,076 breached accounts ([26 days ago](https://haveibeenpwned.com/Breach/WhiteDate))
+- WhiteDate - 6,076 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/WhiteDate))
 
 <!-- news_marker ends -->
