@@ -9,10 +9,10 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Linear Regression with Pseudo-Inverse Training Using JavaScript ([13 hours ago](https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx))
-- F# Weekly #5, 2026 - Leveling Up With Lattice ([13 hours ago](https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/))
-- Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([16 hours ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
-- Surviving the Streaming Dungeon with Kafka Queues ([16 hours ago](https://dotnetkicks.com/r/739213?url=https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/))
-- Building a Greenfield System with the Critter Stack ([16 hours ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
+- F# Weekly #5, 2026 - Leveling Up With Lattice ([14 hours ago](https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/))
+- Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([17 hours ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
+- Surviving the Streaming Dungeon with Kafka Queues ([17 hours ago](https://dotnetkicks.com/r/739213?url=https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/))
+- Building a Greenfield System with the Critter Stack ([17 hours ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
 - Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([1 days ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([2 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([4 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
