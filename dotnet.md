@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([12 hours ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
+- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([13 hours ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([13 hours ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Linear Regression with Pseudo-Inverse Training Using JavaScript ([1 days ago](https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx))
 - F# Weekly #5, 2026 - Leveling Up With Lattice ([1 days ago](https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/))
@@ -42,7 +42,7 @@ description: DotNet Updates
 - Marten's Aggregation Projection Subsystem ([12 days ago](https://dotnetkicks.com/r/738612?url=https://jeremydmiller.com/2026/01/22/martens-aggregation-projection-subsystem/))
 - Catching Up with Recent Wolverine Releases ([13 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
 - CoPilot Gets Us Started ([13 days ago](https://dotnetkicks.com/r/738494?url=https://jesseliberty.com/2026/01/21/copilot-gets-us-started/))
-- You Can't Future-Proof Software Architecture ([13 days ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
+- You Can't Future-Proof Software Architecture ([14 days ago](https://dotnetkicks.com/r/738487?url=https://codeopinion.com/you-cant-future-proof-software-architecture/))
 - An AI Project ([14 days ago](https://dotnetkicks.com/r/738475?url=https://jesseliberty.com/2026/01/20/an-ai-project/))
 - Easier Query Models with Marten ([14 days ago](https://dotnetkicks.com/r/738454?url=https://jeremydmiller.com/2026/01/20/easier-query-models-with-marten/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([14 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
