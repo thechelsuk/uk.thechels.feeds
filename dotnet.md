@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Your Idempotent Code Is Lying To You ([3 hours ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
-- Winter 2026 Runs ([13 hours ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
+- Winter 2026 Runs ([14 hours ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([1 days ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([1 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Linear Regression with Pseudo-Inverse Training Using JavaScript ([1 days ago](https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx))
@@ -21,8 +21,8 @@ description: DotNet Updates
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([3 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([6 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([6 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
-- .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([6 days ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
-- .NET AI Essentials – The Core Building Blocks Explained ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
+- .NET AI Essentials - The Core Building Blocks Explained - .NET Blog ([7 days ago](https://dotnetkicks.com/r/739065?url=https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
+- .NET AI Essentials – The Core Building Blocks Explained ([7 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([7 days ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Security Software False Positives ([7 days ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
 - Prepare for Launch: Enrichment Strategies for Apache Flink ([7 days ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
