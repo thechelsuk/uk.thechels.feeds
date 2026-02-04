@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Your Idempotent Code Is Lying To You ([3 hours ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
+- Your Idempotent Code Is Lying To You ([4 hours ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
 - Winter 2026 Runs ([14 hours ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([1 days ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([1 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
@@ -30,9 +30,9 @@ description: DotNet Updates
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([8 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1 ([8 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Force step up authentication in web applications ([8 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
-- Wolverine Idioms for MediatR Users ([8 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
-- Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([8 days ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
-- Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([8 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
+- Wolverine Idioms for MediatR Users ([9 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
+- Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([9 days ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
+- Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([9 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([9 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([10 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([10 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
@@ -49,11 +49,10 @@ description: DotNet Updates
 - Collection Performance: High-Performance Collection Randomization in .NET ([17 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
 - .NET and .NET Framework January 2026 servicing releases updates ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([22 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
-- How to Build Android Widgets with .NET MAUI ([22 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
+- How to Build Android Widgets with .NET MAUI ([23 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET’s Virtual Monorepo ([23 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 - File I/O Performance: Picking the Fastest Weapon in Your Arsenal ([24 days ago](https://dotnettips.wordpress.com/2026/01/11/file-i-o-performance-picking-the-fastest-weapon-in-your-arsenal/))
-- Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([27 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
+- Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider ([28 days ago](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/))
 - Coding Faster with dotNetTips.com Spargine 10: January 2026 Release ([29 days ago](https://dotnettips.wordpress.com/2026/01/06/coding-faster-with-dotnettips-com-spargine-10-january-2026-release/))
-- Generative AI with Large Language Models in C# in 2026 ([29 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/))
 
 <!-- news_marker ends -->
