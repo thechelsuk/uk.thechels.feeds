@@ -48,7 +48,7 @@ description: DotNet Updates
 - Catching Up with Recent Wolverine Releases ([15 days ago](https://dotnetkicks.com/r/738518?url=https://jeremydmiller.com/2026/01/21/catching-up-with-recent-wolverine-releases/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([16 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([18 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
-- .NET and .NET Framework January 2026 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
+- .NET and .NET Framework January 2026 servicing releases updates ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([23 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([24 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
 - How We Synchronize .NET’s Virtual Monorepo ([24 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
