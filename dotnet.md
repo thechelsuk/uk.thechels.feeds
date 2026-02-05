@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([41 minutes ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
-- .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([48 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
+- .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
+- .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
 - Your Idempotent Code Is Lying To You ([1 days ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
 - Winter 2026 Runs ([1 days ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([10 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([10 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([11 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
-- HyperVideo Features ([11 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
+- HyperVideo Features ([12 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
 - F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([12 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
 - Announcing winapp, the Windows App Development CLI ([14 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([14 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
