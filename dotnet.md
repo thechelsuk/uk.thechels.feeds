@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
-- Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([23 hours ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
+- Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
 - Your Idempotent Code Is Lying To You ([1 days ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
 - Winter 2026 Runs ([1 days ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([2 days ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
@@ -32,7 +32,7 @@ description: DotNet Updates
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([9 days ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([9 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1 ([9 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
-- Force step up authentication in web applications ([9 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
+- Force step up authentication in web applications ([10 days ago](https://dotnetkicks.com/r/738839?url=https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/))
 - Wolverine Idioms for MediatR Users ([10 days ago](https://dotnetkicks.com/r/738794?url=https://jeremydmiller.com/2026/01/26/wolverine-idioms-for-mediatr-users/))
 - Join Microsoft at NDC London 2026 - Let's Build the Future of .NET Together - .NET Blog ([10 days ago](https://dotnetkicks.com/r/738783?url=https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([10 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
