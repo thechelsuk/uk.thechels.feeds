@@ -29,7 +29,7 @@ description: Insurance Updates
 - EPA Outlines Trump Plan to Speed up Rebuilding of Homes Destroyed in LA Wildfires ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857215.htm))
 - LatAm insurtech investment surges 117% in 2025: Mapfre ([1 days ago](https://www.reinsurancene.ws/latam-insurtech-investment-surges-117-in-2025-mapfre/))
 - Man Charged in Organized Cargo Theft of Snow Crab, Blueberries, Cologne ([1 days ago](https://www.insurancejournal.com/news/east/2026/02/06/857191.htm))
-- Alexander De Croo and Tsutomu Yamamoto join the IDF Steering Committee ([1 days ago](https://www.reinsurancene.ws/alexander-de-croo-and-tsutomu-yamamoto-join-the-idf-steering-committee/))
+- Alexander De Croo and Tsutomu Yamamoto join the IDF Steering Committee ([2 days ago](https://www.reinsurancene.ws/alexander-de-croo-and-tsutomu-yamamoto-join-the-idf-steering-committee/))
 - RGA Reports $1.18 Billion Net Income for 2025, Signaling Strong Financial Momentum ([2 days ago](https://www.insurtechinsights.com/rga-reports-1-18-billion-net-income-for-2025-signaling-strong-financial-momentum/))
 - Joint Letter to EU on Distributed Ledger Technology ([2 days ago](https://insurance-edge.net/2026/02/06/joint-letter-to-eu-on-distributed-ledger-technology/))
 - Addressing widening protection gaps with public-private insurance programmes: GA ([2 days ago](https://www.reinsurancene.ws/addressing-widening-protection-gaps-with-public-private-insurance-programmes-ga/))
@@ -71,7 +71,7 @@ description: Insurance Updates
 - Howden Raises US$703m in Bond Add-On to Support Future Growth ([2 days ago](https://www.insurtechinsights.com/howden-raises-us703m-in-bond-add-on-to-support-future-growth/))
 - Rising trade and complex assets fuel surge in specialty claims ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rising-trade-and-complex-assets-fuel-surge-in-specialty-claims-564389.aspx))
 - Nuffield Health achieves ‘Gold’ with ANTT infection prevention accreditation across more than 90 sites ([2 days ago](https://ifamagazine.com/nuffield-health-achieves-gold-with-antt-infection-prevention-accreditation-across-more-than-90-sites/))
-- Allstate Reports Strong Q4 2025 Results as Revenues Rise 5.1% and Net Income Reaches $3.8bn ([2 days ago](https://www.insurtechinsights.com/allstate-reports-strong-q4-2025-results-as-revenues-rise-5-1-and-net-income-reaches-3-8bn/))
+- Allstate Reports Strong Q4 2025 Results as Revenues Rise 5.1% and Net Income Reaches $3.8bn ([3 days ago](https://www.insurtechinsights.com/allstate-reports-strong-q4-2025-results-as-revenues-rise-5-1-and-net-income-reaches-3-8bn/))
 - UnitedHealthcare targets hourly workforce with flexible plan options ([3 days ago](https://www.dig-in.com/news/affordable-healthcare-options-for-hourly-workers))
 - Non-violent cargo thefts could ‘move needle’ for marine rates ([3 days ago](https://www.postonline.co.uk/commercial/7959782/non-violent-cargo-thefts-could-move-needle-for-marine-rates))
 - Lawyer warns of worrying uptick in driving licence fraud ([3 days ago](https://www.postonline.co.uk/regulation/7959756/lawyer-warns-of-worrying-uptick-in-driving-licence-fraud))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - FCA hits Markerstudy with growth restrictions ([5 days ago](https://www.postonline.co.uk/news/7959762/fca-hits-markerstudy-with-growth-restrictions))
 - FCA’s Pure Protection interim report: Mortgage Advice Bureau reacts ([5 days ago](https://ifamagazine.com/fcas-pure-protection-interim-report-mortgage-advice-bureau-reacts/))
 - 3 in 5 Brits now use AI for self-diagnosis in health ([7 days ago](https://ifamagazine.com/3-in-5-brits-now-use-ai-for-self-diagnosis-in-health/))
-- Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([18 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
+- Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([19 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
 
 <!-- news_marker ends -->
