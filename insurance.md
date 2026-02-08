@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Fire at Pennsylvania Hospital Forces Evacuation of Dozens of Patients ([1 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857327.htm))
+- Fire at Pennsylvania Hospital Forces Evacuation of Dozens of Patients ([2 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857327.htm))
 - Freight Train Derails in Connecticut, Sending Cars Carrying Liquid Propane Into River ([2 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857312.htm))
 - Latam Insurtech Sector Continues to Grow ([1 days ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
 - LA Mayor Race Shaken by Wildfire Allegations ([2 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - Talanx commits €100 million to Cologne’s green transport overhaul ([2 days ago](https://www.insurancebusinessmag.com/uk/news/environmental/talanx-commits-100-million-to-colognes-green-transport-overhaul-564450.aspx))
 - Commercial Express secures new capacity from Fortegra ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/commercial-express-secures-new-capacity-from-fortegra-564449.aspx))
 - AI is stress-testing insurance's foundations ([2 days ago](https://www.dig-in.com/opinion/ai-is-stress-testing-insurances-foundations))
-- Beazley agrees to Zurich's $11B takeover bid ([2 days ago](https://www.dig-in.com/articles/beazley-agrees-to-zurichs-11b-takeover-bid))
+- Beazley agrees to Zurich's $11B takeover bid ([3 days ago](https://www.dig-in.com/articles/beazley-agrees-to-zurichs-11b-takeover-bid))
 - Howden Raises US$703m in Bond Add-On to Support Future Growth ([3 days ago](https://www.insurtechinsights.com/howden-raises-us703m-in-bond-add-on-to-support-future-growth/))
 - Rising trade and complex assets fuel surge in specialty claims ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rising-trade-and-complex-assets-fuel-surge-in-specialty-claims-564389.aspx))
 - Nuffield Health achieves ‘Gold’ with ANTT infection prevention accreditation across more than 90 sites ([3 days ago](https://ifamagazine.com/nuffield-health-achieves-gold-with-antt-infection-prevention-accreditation-across-more-than-90-sites/))
@@ -113,7 +113,7 @@ description: Insurance Updates
 - What the rise in ghost broking scams means for insurers ([4 days ago](https://www.postonline.co.uk/claims/7959503/what-the-rise-in-ghost-broking-scams-means-for-insurers))
 - 2025 Climate crisis and tech stories ([4 days ago](https://www.dig-in.com/list/2025-climate-crisis-and-tech-stories))
 - Cyber insurance growing pains and catalyzing innovation ([4 days ago](https://www.dig-in.com/opinion/cyber-insurance-growing-pains-and-catalyzing-innovation))
-- Generali Deutschland Selects Clearwater Analytics to Scale Unit-Linked Fund Operations ([4 days ago](https://www.insurtechinsights.com/generali-deutschland-selects-clearwater-analytics-to-scale-unit-linked-fund-operations/))
+- Generali Deutschland Selects Clearwater Analytics to Scale Unit-Linked Fund Operations ([5 days ago](https://www.insurtechinsights.com/generali-deutschland-selects-clearwater-analytics-to-scale-unit-linked-fund-operations/))
 - Overhaul of FAIR Plan last-resort home insurance proposed ([5 days ago](https://www.dig-in.com/news/overhaul-of-fair-plan-last-resort-home-insurance-proposed))
 - Waymo Raises $16 Billion at $126 Billion Valuation ([5 days ago](https://www.insurtechinsights.com/waymo-raises-16-billion-at-126-billion-valuation/))
 - Aviva’s Storah tackles gap between price and value ([5 days ago](https://www.postonline.co.uk/personal/7959770/avivas-storah-tackles-gap-between-price-and-value))
