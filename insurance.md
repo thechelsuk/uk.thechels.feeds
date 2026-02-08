@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- More people buying insurance digitally: JD Power ([1 hours ago](https://www.dig-in.com/news/more-people-buying-insurance-digitally-jd-power))
-- How Gen Z is changing health and life insurance ([1 hours ago](https://www.dig-in.com/opinion/how-gen-z-is-changing-health-and-life-insurance))
+- More people buying insurance digitally: JD Power ([2 hours ago](https://www.dig-in.com/news/more-people-buying-insurance-digitally-jd-power))
+- How Gen Z is changing health and life insurance ([2 hours ago](https://www.dig-in.com/opinion/how-gen-z-is-changing-health-and-life-insurance))
 - Fire at Pennsylvania Hospital Forces Evacuation of Dozens of Patients ([5 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857327.htm))
-- Freight Train Derails in Connecticut, Sending Cars Carrying Liquid Propane Into River ([5 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857312.htm))
+- Freight Train Derails in Connecticut, Sending Cars Carrying Liquid Propane Into River ([6 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857312.htm))
 - Latam Insurtech Sector Continues to Grow ([1 days ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
 - LA Mayor Race Shaken by Wildfire Allegations ([2 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
 - McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
