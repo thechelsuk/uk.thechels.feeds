@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latam Insurtech Sector Continues to Grow ([17 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
+- Latam Insurtech Sector Continues to Grow ([19 hours ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
 - LA Mayor Race Shaken by Wildfire Allegations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
 - McGowan Allied Specialty Insurance Announces Sales Territory Realignment ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/06/857274.htm))
 - Louisiana Agency to Pay $1.2M Refund for Illegal Overcharging on Surety Premiums ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/06/857269.htm))
@@ -91,8 +91,8 @@ description: Insurance Updates
 - Report: Pet insurance premiums fall in Q4 as vet costs soar ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-pet-insurance-premiums-fall-in-q4-as-vet-costs-soar-564306.aspx))
 - FCA and SRA warn on motor finance claims as duplicate cases hit insurers and lenders ([3 days ago](https://www.insurancebusinessmag.com/uk/news/claims/fca-and-sra-warn-on-motor-finance-claims-as-duplicate-cases-hit-insurers-and-lenders-564305.aspx))
 - Insurance insights: What 2025 taught us—and what 2026 will demand ([3 days ago](https://www.dig-in.com/opinion/insurance-insights-from-2025-and-into-2026))
-- AI in auto claims: The shift from novelty to necessity ([3 days ago](https://www.dig-in.com/opinion/ai-in-auto-claims-is-a-necessity))
 - The Standard's AI strides ([3 days ago](https://www.dig-in.com/news/the-standards-ai-strides))
+- AI in auto claims: The shift from novelty to necessity ([3 days ago](https://www.dig-in.com/opinion/ai-in-auto-claims-is-a-necessity))
 - Workers underprepared for retirement as guaranteed pensions decline: report ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/workers-underprepared-for-retirement-as-guaranteed-pensions-decline-report-564277.aspx))
 - Aon Partners with SecurityScorecard to Enhance Cyber Risk Offerings ([3 days ago](https://www.insurtechinsights.com/aon-partners-with-securityscorecard-to-enhance-cyber-risk-offerings/))
 - Reframe Cancer: National Cancer Plan is welcome, but delivery will be key ([3 days ago](https://ifamagazine.com/reframe-cancer-comments-on-the-national-cancer-plan-out-today/))
