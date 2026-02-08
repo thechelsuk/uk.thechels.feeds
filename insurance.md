@@ -70,7 +70,7 @@ description: Insurance Updates
 - Beazley agrees to Zurich's $11B takeover bid ([2 days ago](https://www.dig-in.com/articles/beazley-agrees-to-zurichs-11b-takeover-bid))
 - Howden Raises US$703m in Bond Add-On to Support Future Growth ([2 days ago](https://www.insurtechinsights.com/howden-raises-us703m-in-bond-add-on-to-support-future-growth/))
 - Rising trade and complex assets fuel surge in specialty claims ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/rising-trade-and-complex-assets-fuel-surge-in-specialty-claims-564389.aspx))
-- Nuffield Health achieves ‘Gold’ with ANTT infection prevention accreditation across more than 90 sites ([2 days ago](https://ifamagazine.com/nuffield-health-achieves-gold-with-antt-infection-prevention-accreditation-across-more-than-90-sites/))
+- Nuffield Health achieves ‘Gold’ with ANTT infection prevention accreditation across more than 90 sites ([3 days ago](https://ifamagazine.com/nuffield-health-achieves-gold-with-antt-infection-prevention-accreditation-across-more-than-90-sites/))
 - Allstate Reports Strong Q4 2025 Results as Revenues Rise 5.1% and Net Income Reaches $3.8bn ([3 days ago](https://www.insurtechinsights.com/allstate-reports-strong-q4-2025-results-as-revenues-rise-5-1-and-net-income-reaches-3-8bn/))
 - UnitedHealthcare targets hourly workforce with flexible plan options ([3 days ago](https://www.dig-in.com/news/affordable-healthcare-options-for-hourly-workers))
 - Non-violent cargo thefts could ‘move needle’ for marine rates ([3 days ago](https://www.postonline.co.uk/commercial/7959782/non-violent-cargo-thefts-could-move-needle-for-marine-rates))
