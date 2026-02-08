@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Telcos aren't saying how they fought back against China's Salt Typhoon attacks ([19 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/infosec_news_in_brief/))
+- Telcos aren't saying how they fought back against China's Salt Typhoon attacks ([47 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/infosec_news_in_brief/))
 - New tool blocks imposter attacks disguised as safe commands ([7 hours ago](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/))
-- This dev made a Llama with three inference engines ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/))
+- This dev made a Llama with three inference engines ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/))
 - OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills ([15 hours ago](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html))
 - Asterisk Security Release 23.2.2 ([18 hours ago](https://seclists.org/fulldisclosure/2026/Feb/9))
 - Asterisk Security Release 21.12.1 ([18 hours ago](https://seclists.org/fulldisclosure/2026/Feb/8))
@@ -134,6 +134,7 @@ description: SecOps News
 - njRAT runs MassLogger ([6 days ago](https://www.netresec.com/?page=Blog&month=2026-02&post=njRAT-runs-MassLogger))
 - Disruption with some GitHub services ([6 days ago](https://www.githubstatus.com/incidents/g9mdtzd4rt72))
 - Disruption with some GitHub services ([6 days ago](https://www.githubstatus.com/incidents/vj8q32xs2d32))
+- Please Don’t Feed the Scattered Lapsus ShinyHunters ([6 days ago](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/))
 - Ransomware attack compromised 377,000 people’s Social Security and driver’s license numbers from Texas gas station and convenience store chain ([6 days ago](https://databreaches.net/2026/02/02/ransomware-attack-compromised-377000-peoples-social-security-and-drivers-license-numbers-from-texas-gas-station-and-convenience-store-chain/?pk_campaign=feed&pk_kwd=ransomware-attack-compromised-377000-peoples-social-security-and-drivers-license-numbers-from-texas-gas-station-and-convenience-store-chain))
 - IA: Dallas County to pay $600,000 to security testers arrested in 2019 ([6 days ago](https://databreaches.net/2026/02/02/ia-dallas-county-to-pay-600000-to-security-testers-arrested-in-2019/?pk_campaign=feed&pk_kwd=ia-dallas-county-to-pay-600000-to-security-testers-arrested-in-2019))
 - The European Space Agency got hacked, and now we own the domain used! ([6 days ago](https://scotthelme.ghost.io/the-european-space-agency-got-hacked-and-now-we-own-the-domain-used/))
@@ -167,6 +168,7 @@ description: SecOps News
 - Re: Multiple Security Misconfigurations and Customer Enumeration Exposure in Convercent Whistleblowing Platform (EQS Group) ([12 days ago](https://seclists.org/fulldisclosure/2026/Jan/26))
 - SoundCloud - 29,815,722 breached accounts ([12 days ago](https://haveibeenpwned.com/Breach/SoundCloud))
 - Regression in windows runners for public repositories ([12 days ago](https://www.githubstatus.com/incidents/90hj03y5tj3c))
+- Who Operates the Badbox 2.0 Botnet? ([13 days ago](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/))
 - Disruption with repo creation ([14 days ago](https://www.githubstatus.com/incidents/g697qcy5dsks))
 - Disruption with some GitHub services ([17 days ago](https://www.githubstatus.com/incidents/cqb5hcy0gx18))
 - European Space Agency’s cybersecurity in freefall as yet another breach exposes spacecraft and mission data ([17 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/european-space-agencys-cybersecurity-in-freefall-as-yet-another-breach-exposes-spacecraft-and-mission-data))
