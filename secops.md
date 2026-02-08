@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New tool blocks imposter attacks disguised as safe commands ([1 hours ago](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/))
-- Three AI engines walk into a bar in single file... ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/))
+- Three AI engines walk into a bar in single file... ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/))
 - OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills ([9 hours ago](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html))
 - Asterisk Security Release 23.2.2 ([12 hours ago](https://seclists.org/fulldisclosure/2026/Feb/9))
 - Asterisk Security Release 21.12.1 ([12 hours ago](https://seclists.org/fulldisclosure/2026/Feb/8))
@@ -31,7 +31,7 @@ description: SecOps News
 - DKnife Linux toolkit hijacks router traffic to spy, deliver malware ([1 days ago](https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/))
 - Four horsemen of the AI-pocalypse line up capex bigger than Israel's GDP ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/06/ai_capex_plans/))
 - CISA warns of SmarterMail RCE flaw used in ransomware attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/))
-- Flickr emails users about data breach, pins it on 3rd party ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/))
+- Flickr emails users about data breach, pins it on 3rd party ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/))
 - DDoS deluge: Brit biz battered as botnet blitzes break records ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/06/uk_climbs_up_ddos_hit/))
 - Supermarket sorry after facial recognition alert flags right criminal, wrong customer ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/06/sainsburys_/))
 - EDR, Email, and SASE Miss This Entire Class of Browser Attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/))
@@ -76,8 +76,8 @@ description: SecOps News
 - Anthropic apes OpenAI with cheeky chatbot commercials ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/05/anthropic_superbowl_openai_chatgpt_ads/))
 - Microsoft to shut down Exchange Online EWS in April 2027 ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/))
 - AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack ([2 days ago](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html))
-- Most SAP migrations bust budgets and project timelines, research finds ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/05/sap_migrations_research/))
-- Italian university La Sapienza goes offline after cyberattack ([2 days ago](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/))
+- Most SAP migrations bust budgets and project timelines, research finds ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/05/sap_migrations_research/))
+- Italian university La Sapienza goes offline after cyberattack ([3 days ago](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/))
 - Betterment breach may expose 1.4M users after social engineering attack ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/05/betterment_hack/))
 - Microsoft declares 'reliability' a priority for Visual Studio AI ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_visual_studio_ai/))
 - UK's 'world-first' deepfake detection framework unlikely to stop the fakes, says expert ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/05/uk_government_deepfake_framework/))
@@ -192,7 +192,7 @@ description: SecOps News
 - How Insecure IoT Devices in Your Buildings Could Expose Tenants’ Data ([23 days ago](https://grcsolutions.io/how-insecure-iot-devices-in-your-buildings-could-expose-tenants-data/))
 - Weekly Update 486 ([23 days ago](https://www.troyhunt.com/weekly-update-486/))
 - Incident with Issues and Pull Requests ([23 days ago](https://www.githubstatus.com/incidents/q987xpbqjbpl))
-- WEF: AI overtakes ransomware as fastest-growing cyber risk ([23 days ago](https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk))
+- WEF: AI overtakes ransomware as fastest-growing cyber risk ([24 days ago](https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk))
 - Actions workflow run and job status updates are experiencing delays ([24 days ago](https://www.githubstatus.com/incidents/5ccghcfrkv39))
 - Cyber Essentials Certification Process Infographic ([24 days ago](https://grcsolutions.io/cyber-essentials-certification-process-infographic/))
 - Smashing Security podcast #450: From Instagram panic to Grok gone wild ([24 days ago](https://grahamcluley.com/smashing-security-podcast-450/))
@@ -207,7 +207,7 @@ description: SecOps News
 - Who Decides Who Doesn’t Deserve Privacy? ([26 days ago](https://www.troyhunt.com/who-decides-who-doesnt-deserve-privacy/))
 - What a Year of Solar and Batteries Really Saved Us in 2025 ([26 days ago](https://scotthelme.ghost.io/what-a-year-of-solar-and-batteries-really-saved-us-in-2025/))
 - Hackers get hacked, as BreachForums database is leaked ([26 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-get-hacked-as-breachforums-database-is-leaked))
-- Instagram - 6,215,150 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/Instagram))
+- Instagram - 6,215,150 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/Instagram))
 - BreachForums (2025) - 672,247 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/BreachForums2025))
 
 <!-- news_marker ends -->
