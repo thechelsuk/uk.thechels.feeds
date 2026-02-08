@@ -9,7 +9,7 @@ description: SecOps News
 
 <!-- news_marker starts -->
 - New tool blocks imposter attacks disguised as safe commands ([3 hours ago](https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/))
-- Three AI engines walk into a bar in single file... ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/))
+- Three AI engines walk into a bar in single file... ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/08/llama3pure_incorporates_three_inference_engines/))
 - OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills ([11 hours ago](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html))
 - Asterisk Security Release 23.2.2 ([14 hours ago](https://seclists.org/fulldisclosure/2026/Feb/9))
 - Asterisk Security Release 21.12.1 ([14 hours ago](https://seclists.org/fulldisclosure/2026/Feb/8))
@@ -118,7 +118,7 @@ description: SecOps News
 - Weekly Update 489 ([4 days ago](https://www.troyhunt.com/weekly-update-489/))
 - AI agents can't yet pull off fully autonomous cyberattacks – but they are already very helpful to crims ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/03/autonomous_cyberattacks_not_real_yet/))
 - Delays in UI updates for Actions Runs ([4 days ago](https://www.githubstatus.com/incidents/f314nlctbfs5))
-- Critical React Native Metro dev server bug under attack as researchers scream into the void ([4 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/03/critical_react_native_metro_server/))
+- Critical React Native Metro dev server bug under attack as researchers scream into the void ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/03/critical_react_native_metro_server/))
 - CISA updated ransomware intel on 59 bugs last year without telling defenders ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/03/greynoise_cisa_ransomware_gripe/))
 - Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata ([5 days ago](https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html))
 - [Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate ([5 days ago](https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html))
@@ -191,7 +191,7 @@ description: SecOps News
 - The Business Case for Data Protection Investment – Board Briefing ([23 days ago](https://grcsolutions.io/the-business-case-for-data-protection-investment-board-briefing/))
 - How Insecure IoT Devices in Your Buildings Could Expose Tenants’ Data ([23 days ago](https://grcsolutions.io/how-insecure-iot-devices-in-your-buildings-could-expose-tenants-data/))
 - Weekly Update 486 ([23 days ago](https://www.troyhunt.com/weekly-update-486/))
-- Incident with Issues and Pull Requests ([23 days ago](https://www.githubstatus.com/incidents/q987xpbqjbpl))
+- Incident with Issues and Pull Requests ([24 days ago](https://www.githubstatus.com/incidents/q987xpbqjbpl))
 - WEF: AI overtakes ransomware as fastest-growing cyber risk ([24 days ago](https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk))
 - Actions workflow run and job status updates are experiencing delays ([24 days ago](https://www.githubstatus.com/incidents/5ccghcfrkv39))
 - Cyber Essentials Certification Process Infographic ([24 days ago](https://grcsolutions.io/cyber-essentials-certification-process-infographic/))
