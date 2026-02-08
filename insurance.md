@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Fire at Pennsylvania Hospital Forces Evacuation of Dozens of Patients ([2 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857327.htm))
+- Fire at Pennsylvania Hospital Forces Evacuation of Dozens of Patients ([3 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857327.htm))
 - Freight Train Derails in Connecticut, Sending Cars Carrying Liquid Propane Into River ([3 hours ago](https://www.insurancejournal.com/news/east/2026/02/08/857312.htm))
 - Latam Insurtech Sector Continues to Grow ([1 days ago](https://insurance-edge.net/2026/02/07/latam-insurtech-sector-continues-to-grow/))
 - LA Mayor Race Shaken by Wildfire Allegations ([2 days ago](https://www.insurancejournal.com/news/west/2026/02/06/857279.htm))
