@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Isolate the swiyu Public Beta management APIs using YARP ([5 hours ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
-- Is the craft dead? ([9 hours ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
-- The danger of glamourizing one shots ([17 hours ago](https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
+- Isolate the swiyu Public Beta management APIs using YARP ([6 hours ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
+- Is the craft dead? ([10 hours ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
+- The danger of glamourizing one shots ([18 hours ago](https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([1 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
 - F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code ([1 days ago](https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([3 days ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
@@ -46,7 +46,7 @@ description: DotNet Updates
 - String Performance: The Fastest Way to Get a String’s Length ([15 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([15 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
 - F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([16 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
-- Announcing winapp, the Windows App Development CLI ([17 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
+- Announcing winapp, the Windows App Development CLI ([18 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([18 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([18 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([20 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
