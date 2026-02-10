@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Accelerating Arm momentum in Japan with App Assure ([18 minutes ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
 - dotInsights  -  February 2026 ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Isolate the swiyu Public Beta management APIs using YARP ([1 days ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
 - Is the craft dead? ([1 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
@@ -47,7 +48,6 @@ description: DotNet Updates
 - String Performance: The Fastest Way to Get a String’s Length ([16 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - HyperVideo Features ([16 days ago](https://dotnetkicks.com/r/738686?url=http://jesseliberty.com/2026/01/24/hypervideo-features/))
 - F# Weekly #4, 2026 - F# event / (un)conference in 2026? ([17 days ago](https://dotnetkicks.com/r/738685?url=http://sergeytihon.com/2026/01/24/f-weekly-3-2026-f-event-unconference-in-2026/))
-- Announcing winapp, the Windows App Development CLI ([19 days ago](https://dotnetkicks.com/r/738625?url=https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/))
 - ReSharper 2026.1 Early Access Program Has Begun ([19 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([19 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([21 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
@@ -55,6 +55,6 @@ description: DotNet Updates
 - .NET and .NET Framework January 2026 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([28 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([28 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET’s Virtual Monorepo ([28 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
+- How We Synchronize .NET’s Virtual Monorepo ([29 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 
 <!-- news_marker ends -->
