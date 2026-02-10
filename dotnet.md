@@ -19,7 +19,7 @@ description: DotNet Updates
 - F# Weekly #6, 2026 - FScript &amp; An ode to "Slowly" handcrafted code ([2 days ago](https://dotnetkicks.com/r/739580?url=https://sergeytihon.com/2026/02/07/f-weekly-6-2026-fscript-an-ode-to-slowly-handcrafted-code/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows - .NET Blog ([5 days ago](https://dotnetkicks.com/r/739519?url=https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
-- Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([5 days ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
+- Roadmap for AI in Visual Studio (February) - Visual Studio Blog ([6 days ago](https://dotnetkicks.com/r/739413?url=https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/))
 - Your Idempotent Code Is Lying To You ([6 days ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
 - The danger of glamourizing one shots ([6 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
 - Winter 2026 Runs ([6 days ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
