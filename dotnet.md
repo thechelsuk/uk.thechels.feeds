@@ -19,7 +19,7 @@ description: DotNet Updates
 - Your Idempotent Code Is Lying To You ([5 days ago](https://dotnetkicks.com/r/739377?url=https://codeopinion.com/your-idempotent-code-is-lying-to-you/))
 - The danger of glamourizing one shots ([6 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
 - Winter 2026 Runs ([6 days ago](https://dotnetkicks.com/r/739374?url=https://textslashplain.com/2026/02/03/winter-2026-runs/))
-- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([6 days ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
+- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([7 days ago](https://dotnetkicks.com/r/739302?url=https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([7 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Linear Regression with Pseudo-Inverse Training Using JavaScript ([7 days ago](https://dotnetkicks.com/r/739299?url=https://visualstudiomagazine.com/Articles/2026/02/02/Linear-Regression-with-Pseudo-Inverse-Training-Using-JavaScript.aspx))
 - F# Weekly #5, 2026 - Leveling Up With Lattice ([7 days ago](https://dotnetkicks.com/r/739289?url=https://sergeytihon.com/2026/02/01/f-weekly-5-2026-leveling-up-with-lattice/))
