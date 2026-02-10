@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([1 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- .NET and .NET Framework February 2026 servicing releases updates ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- Accelerating Arm momentum in Japan with App Assure ([3 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
-- dotInsights  -  February 2026 ([5 hours ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
+- .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([2 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- .NET and .NET Framework February 2026 servicing releases updates ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- Accelerating Arm momentum in Japan with App Assure ([4 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
+- dotInsights  -  February 2026 ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Isolate the swiyu Public Beta management APIs using YARP ([1 days ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
 - Is the craft dead? ([1 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - The danger of glamourizing one shots ([1 days ago](https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
@@ -38,7 +38,7 @@ description: DotNet Updates
 - .NET AI Essentials – The Core Building Blocks Explained ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([13 days ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Security Software False Positives ([13 days ago](https://dotnetkicks.com/r/739027?url=https://textslashplain.com/2026/01/27/microsoft-defender-false-positives/))
-- Prepare for Launch: Enrichment Strategies for Apache Flink ([13 days ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
+- Prepare for Launch: Enrichment Strategies for Apache Flink ([14 days ago](https://dotnetkicks.com/r/738968?url=https://rion.io/2026/01/27/prepare-for-launch-enrichment-strategies-for-apache-flink/))
 - Visual Studio January Update - Enhanced Editor Experience - Visual Studio Blog ([14 days ago](https://dotnetkicks.com/r/738956?url=https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([14 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1 ([14 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
