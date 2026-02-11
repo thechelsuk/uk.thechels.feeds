@@ -11,7 +11,7 @@ description: DotNet Updates
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([3 hours ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([4 hours ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! - .NET Blog ([12 hours ago](https://dotnetkicks.com/r/739733?url=https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
-- .NET 11 Preview 1 is now available! ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
+- .NET 11 Preview 1 is now available! ([13 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([16 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - .NET and .NET Framework February 2026 servicing releases updates ([16 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - Accelerating Arm momentum in Japan with App Assure ([18 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
