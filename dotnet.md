@@ -10,13 +10,13 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([1 hours ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
 - Five Reasons to attend SQLCon  -  Microsoft Fabric Blog  -  Microsoft Fabric ([3 hours ago](https://dotnetkicks.com/r/739762?url=https://blog.fabric.microsoft.com/en-us/blog/32624))
-- Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([8 hours ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
-- Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([9 hours ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
+- Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([9 hours ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
+- Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([10 hours ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/739733?url=https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET 11 Preview 1 is now available! ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
-- .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([21 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- .NET and .NET Framework February 2026 servicing releases updates ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- Accelerating Arm momentum in Japan with App Assure ([23 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
+- .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- .NET and .NET Framework February 2026 servicing releases updates ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- Accelerating Arm momentum in Japan with App Assure ([1 days ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
 - dotInsights  -  February 2026 ([1 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Isolate the swiyu Public Beta management APIs using YARP ([2 days ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
 - Is the craft dead? ([2 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
@@ -59,6 +59,5 @@ description: DotNet Updates
 - .NET and .NET Framework January 2026 servicing releases updates ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 - The Windows File Explorer replacement, File Pilot, is awesome ([29 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 - How to Build Android Widgets with .NET MAUI ([29 days ago](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/))
-- How We Synchronize .NET’s Virtual Monorepo ([29 days ago](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/))
 
 <!-- news_marker ends -->
