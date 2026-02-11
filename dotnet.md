@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([21 minutes ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
+- Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([49 minutes ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([1 hours ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/739733?url=https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
-- .NET 11 Preview 1 is now available! ([9 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
+- .NET 11 Preview 1 is now available! ([10 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([13 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - .NET and .NET Framework February 2026 servicing releases updates ([13 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - Accelerating Arm momentum in Japan with App Assure ([15 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - Maia 200: The AI accelerator built for inference - The Official Microsoft Blog ([8 days ago](https://dotnetkicks.com/r/739232?url=https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/))
 - Surviving the Streaming Dungeon with Kafka Queues ([8 days ago](https://dotnetkicks.com/r/739213?url=https://rion.io/2026/02/02/surviving-the-streaming-dungeon-with-kafka-queues/))
 - Building a Greenfield System with the Critter Stack ([8 days ago](https://dotnetkicks.com/r/739200?url=https://jeremydmiller.com/2026/02/02/building-a-greenfield-system-with-the-critter-stack/))
-- Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([8 days ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
+- Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR ([9 days ago](https://dotnetkicks.com/r/739158?url=https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([10 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([12 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([12 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
