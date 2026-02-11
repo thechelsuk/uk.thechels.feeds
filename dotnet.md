@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET 11 Preview 1 is now available! - .NET Blog ([5 hours ago](https://dotnetkicks.com/r/739733?url=https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
-- .NET 11 Preview 1 is now available! ([5 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
-- .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([9 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- .NET and .NET Framework February 2026 servicing releases updates ([9 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- Accelerating Arm momentum in Japan with App Assure ([11 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
-- dotInsights  -  February 2026 ([13 hours ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
+- .NET 11 Preview 1 is now available! - .NET Blog ([6 hours ago](https://dotnetkicks.com/r/739733?url=https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
+- .NET 11 Preview 1 is now available! ([6 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
+- .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([10 hours ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- .NET and .NET Framework February 2026 servicing releases updates ([10 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- Accelerating Arm momentum in Japan with App Assure ([12 hours ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
+- dotInsights  -  February 2026 ([14 hours ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Isolate the swiyu Public Beta management APIs using YARP ([1 days ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
 - Is the craft dead? ([1 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - The danger of glamourizing one shots ([2 days ago](https://dotnetkicks.com/r/739584?url=http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
