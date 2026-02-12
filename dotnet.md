@@ -32,6 +32,5 @@ description: DotNet Updates
 - Rider 2026.1 Early Access Program Is Now Open! ([21 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([23 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([25 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
-- .NET and .NET Framework January 2026 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
 
 <!-- news_marker ends -->
