@@ -10,8 +10,8 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([17 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([17 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
-- Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([19 hours ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
-- Five Reasons to attend SQLCon  -  Microsoft Fabric Blog  -  Microsoft Fabric ([21 hours ago](https://dotnetkicks.com/r/739762?url=https://blog.fabric.microsoft.com/en-us/blog/32624))
+- Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([20 hours ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
+- Five Reasons to attend SQLCon  -  Microsoft Fabric Blog  -  Microsoft Fabric ([22 hours ago](https://dotnetkicks.com/r/739762?url=https://blog.fabric.microsoft.com/en-us/blog/32624))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([1 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([1 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! - .NET Blog ([1 days ago](https://dotnetkicks.com/r/739733?url=https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
