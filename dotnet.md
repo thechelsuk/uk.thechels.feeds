@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([22 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
-- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([22 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
+- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([23 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
+- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([23 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([1 days ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
 - Five Reasons to attend SQLCon  -  Microsoft Fabric Blog  -  Microsoft Fabric ([1 days ago](https://dotnetkicks.com/r/739762?url=https://blog.fabric.microsoft.com/en-us/blog/32624))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([1 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - .NET 11 Preview 1 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates - .NET Blog ([1 days ago](https://dotnetkicks.com/r/739731?url=https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - .NET and .NET Framework February 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- Accelerating Arm momentum in Japan with App Assure ([1 days ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
+- Accelerating Arm momentum in Japan with App Assure ([2 days ago](https://dotnetkicks.com/r/739676?url=https://blogs.windows.com/windowsdeveloper/2026/02/10/accelerating-arm-momentum-in-japan-with-app-assure/))
 - dotInsights  -  February 2026 ([2 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Isolate the swiyu Public Beta management APIs using YARP ([3 days ago](https://dotnetkicks.com/r/739624?url=https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/))
 - Is the craft dead? ([3 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
