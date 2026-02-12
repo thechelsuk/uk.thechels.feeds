@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([18 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
-- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([18 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
-- Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([21 hours ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
+- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([19 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
+- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([19 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
+- Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([22 hours ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
 - Five Reasons to attend SQLCon  -  Microsoft Fabric Blog  -  Microsoft Fabric ([23 hours ago](https://dotnetkicks.com/r/739762?url=https://blog.fabric.microsoft.com/en-us/blog/32624))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([1 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([1 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
@@ -51,7 +51,7 @@ description: DotNet Updates
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs ([16 days ago](https://dotnetkicks.com/r/738845?url=https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1 ([16 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([16 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
-- How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([16 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
+- How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([17 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([18 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
 - ReSharper 2026.1 Early Access Program Has Begun ([20 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
 - Rider 2026.1 Early Access Program Is Now Open! ([20 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
