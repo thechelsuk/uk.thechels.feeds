@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([14 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
-- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([14 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
+- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 - .NET Blog ([15 hours ago](https://dotnetkicks.com/r/739786?url=https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
+- GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([15 hours ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Unlock language-specific rich symbol context using new find_symbol tool - Visual Studio Blog ([17 hours ago](https://dotnetkicks.com/r/739775?url=https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/))
 - Five Reasons to attend SQLCon  -  Microsoft Fabric Blog  -  Microsoft Fabric ([19 hours ago](https://dotnetkicks.com/r/739762?url=https://blog.fabric.microsoft.com/en-us/blog/32624))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([1 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
@@ -58,6 +58,5 @@ description: DotNet Updates
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([22 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 - Collection Performance: High-Performance Collection Randomization in .NET ([25 days ago](https://dotnettips.wordpress.com/2026/01/18/collection-performance-high-performance-collection-randomization-in-net/))
 - .NET and .NET Framework January 2026 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/))
-- The Windows File Explorer replacement, File Pilot, is awesome ([29 days ago](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/))
 
 <!-- news_marker ends -->
