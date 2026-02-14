@@ -126,7 +126,7 @@ description: Insurance Updates
 - Talanx Reports Record Net Income of €2.48bn for 2025 ([4 days ago](https://www.insurtechinsights.com/talanx-reports-record-net-income-of-e2-48bn-for-2025/))
 - Whiplash reform has failed injured people ([4 days ago](https://www.postonline.co.uk/claims/7959784/whiplash-reform-has-failed-injured-people))
 - Big Interview: Chris Hall, QuestGates ([4 days ago](https://www.postonline.co.uk/claims/7959731/big-interview-chris-hall-questgates))
-- GOP senators push FEMA to scrap Risk Rating 2.0 ([4 days ago](https://www.dig-in.com/news/gop-senators-push-fema-to-scrap-risk-rating-2-0))
+- GOP senators push FEMA to scrap Risk Rating 2.0 ([5 days ago](https://www.dig-in.com/news/gop-senators-push-fema-to-scrap-risk-rating-2-0))
 - Record use of Diagnostic and GP service marks another strong year for Benenden Health in 2025 ([5 days ago](https://ifamagazine.com/record-use-of-diagnostic-and-gp-service-marks-another-strong-year-for-benenden-health-in-2025/))
 - Health Shield Wellbeing and My Menopause Centre announce partnership ([5 days ago](https://ifamagazine.com/health-shield-wellbeing-and-my-menopause-centre-announce-partnership/))
 - Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([25 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
