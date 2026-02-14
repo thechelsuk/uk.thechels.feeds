@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- MAPFRE Opens New Office in Gujarat India ([10 hours ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
-- California Insurance Commissioner Unveils Intervenor Reform Regulations ([19 hours ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
+- MAPFRE Opens New Office in Gujarat India ([11 hours ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
+- California Insurance Commissioner Unveils Intervenor Reform Regulations ([20 hours ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
 - Adjusters to meet creators of AI-based claim review system ([23 hours ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
 - New MGA Scheme Aimed at Care Sector Recruiters & Agencies ([1 days ago](https://insurance-edge.net/2026/02/13/new-mga-scheme-aimed-at-care-sector-recruiters-agencies/))
 - Experian Launches Insurance Marketplace App on ChatGPT ([1 days ago](https://www.insurancejournal.com/news/national/2026/02/13/858094.htm))
@@ -67,7 +67,7 @@ description: Insurance Updates
 - Wildfire Risk Scoring Transparency Bill Passes Washington Senate ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/13/857963.htm))
 - Enter Best Insurance Employer 2026 today ([1 days ago](https://www.postonline.co.uk/news/7959858/enter-best-insurance-employer-2026-today))
 - Why FCA’s premium finance probe fell short ([1 days ago](https://www.postonline.co.uk/regulation/7959861/why-fcas-premium-finance-probe-fell-short))
-- When AI risk becomes uninsurable ([1 days ago](https://www.dig-in.com/opinion/when-ai-risk-becomes-uninsurable))
+- When AI risk becomes uninsurable ([2 days ago](https://www.dig-in.com/opinion/when-ai-risk-becomes-uninsurable))
 - AXIAN bets on insurance to deepen risk underwriting in Africa ([2 days ago](https://www.dig-in.com/articles/axian-bets-on-insurance-deepen-risk-underwriting-in-africa))
 - Japan insurer scandals deepen as Dai-ichi reveals misconduct ([2 days ago](https://www.dig-in.com/articles/japan-insurer-scandals-deepen-as-dai-ichi-reveals-misconduct))
 - Insurers argue furlough deductions permitted by policy wordings ([2 days ago](https://www.postonline.co.uk/commercial/7959875/insurers-argue-furlough-deductions-permitted-by-policy-wordings))
