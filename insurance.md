@@ -116,7 +116,7 @@ description: Insurance Updates
 - Regulatory ripple effect of the Which? insurance complaint ([3 days ago](https://www.postonline.co.uk/regulation/7959743/regulatory-ripple-effect-of-the-which-insurance-complaint))
 - The rise of embedded insurance and its impact on the digital landscape ([3 days ago](https://www.dig-in.com/opinion/the-rise-of-embedded-insurance))
 - How new tech and an evolving workforce are reshaping MGAs in 2026, Vertafore ([3 days ago](https://www.dig-in.com/news/new-tech-evolving-workforce-reshaping-mgas-vertafore))
-- Insurance broker stocks sink as AI app sparks disruption fears ([3 days ago](https://www.dig-in.com/articles/insurance-broker-stocks-sink-ai-app-sparks-disruption-fears))
+- Insurance broker stocks sink as AI app sparks disruption fears ([4 days ago](https://www.dig-in.com/articles/insurance-broker-stocks-sink-ai-app-sparks-disruption-fears))
 - Insurance tech firm ManageMy lands new backing ([4 days ago](https://www.insurtechinsights.com/insurance-tech-firm-managemy-lands-new-backing/))
 - Admiral Invests in HSBC UK Direct Lending Fund to Support Mid-Market Growth ([4 days ago](https://www.insurtechinsights.com/admiral-invests-in-hsbc-uk-direct-lending-fund-to-support-mid-market-growth/))
 - Broker share prices tumble after ChatGPT insurance apps go live ([4 days ago](https://www.postonline.co.uk/technology/7959842/broker-share-prices-tumble-after-chatgpt-insurance-apps-go-live))
