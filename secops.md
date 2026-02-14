@@ -8,12 +8,12 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- One threat actor responsible for 83% of recent Ivanti RCE attacks ([44 minutes ago](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/))
+- One threat actor responsible for 83% of recent Ivanti RCE attacks ([1 hours ago](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/))
 - Snail mail letters target Trezor and Ledger users in crypto-theft attacks ([1 hours ago](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/))
 - Contain your Windows apps inside Linux Windows ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/14/winapps_and_winboat/))
-- Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data ([4 hours ago](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/))
-- How AI could eat itself: Competitors can probe models to steal their secrets and clone them ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/14/ai_risk_distillation_attacks/))
-- Disruption with some GitHub services regarding file upload ([17 hours ago](https://www.githubstatus.com/incidents/lvf95rlzkxrr))
+- Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data ([5 hours ago](https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/))
+- How AI could eat itself: Competitors can probe models to steal their secrets and clone them ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/14/ai_risk_distillation_attacks/))
+- Disruption with some GitHub services regarding file upload ([18 hours ago](https://www.githubstatus.com/incidents/lvf95rlzkxrr))
 - Fake job recruiters hide malware in developer coding challenges ([18 hours ago](https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/))
 - Anthropic wants comp-sci students to vibe code their way through college ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/13/anthropic_claudeifies_comp_sci_courses/))
 - Claude LLM artifacts abused to push Mac infostealers in ClickFix attack ([20 hours ago](https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/))
@@ -60,9 +60,9 @@ description: SecOps News
 - Urgent warnings from UK and US cyber agencies after Polish energy grid attack ([1 days ago](https://www.fortra.com/blog/urgent-warnings-uk-and-us-cyber-agencies-after-polish-energy-grid-attack))
 - Odido data breach exposes personal info of 6.2 million customers ([1 days ago](https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/))
 - Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support ([1 days ago](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html))
-- WordPress plugin with 900k installs vulnerable to critical RCE flaw ([1 days ago](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/))
-- Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems ([1 days ago](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html))
-- Intermittent disruption with Copilot completions and inline suggestions ([1 days ago](https://www.githubstatus.com/incidents/1x0f4x1wwqmb))
+- WordPress plugin with 900k installs vulnerable to critical RCE flaw ([2 days ago](https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/))
+- Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems ([2 days ago](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html))
+- Intermittent disruption with Copilot completions and inline suggestions ([2 days ago](https://www.githubstatus.com/incidents/1x0f4x1wwqmb))
 - How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development ([2 days ago](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/))
 - Elon Musk paints exodus of xAI co-founders as 'evolution' ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/))
 - 'Another dark day': Users slam Microsoft over Polyglot Notebooks deprecation ([2 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/12/polyglot_notebooks_deprecation/))
@@ -209,6 +209,5 @@ description: SecOps News
 - Pass'Sport - 6,366,133 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/PassSport))
 - Weekly Update 487 ([27 days ago](https://www.troyhunt.com/weekly-update-487/))
 - Weekly Update 486 ([29 days ago](https://www.troyhunt.com/weekly-update-486/))
-- WEF: AI overtakes ransomware as fastest-growing cyber risk ([29 days ago](https://www.fortra.com/blog/wef-ai-overtakes-ransomware-fastest-growing-cyber-risk))
 
 <!-- news_marker ends -->
