@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- MAPFRE Opens New Office in Gujarat India ([9 hours ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
-- California Insurance Commissioner Unveils Intervenor Reform Regulations ([18 hours ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
-- Adjusters to meet creators of AI-based claim review system ([22 hours ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
+- MAPFRE Opens New Office in Gujarat India ([10 hours ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
+- California Insurance Commissioner Unveils Intervenor Reform Regulations ([19 hours ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
+- Adjusters to meet creators of AI-based claim review system ([23 hours ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
 - New MGA Scheme Aimed at Care Sector Recruiters & Agencies ([1 days ago](https://insurance-edge.net/2026/02/13/new-mga-scheme-aimed-at-care-sector-recruiters-agencies/))
 - Experian Launches Insurance Marketplace App on ChatGPT ([1 days ago](https://www.insurancejournal.com/news/national/2026/02/13/858094.htm))
 - European reinsurer price declines less severe than broker headlines: JP Morgan ([1 days ago](https://www.reinsurancene.ws/european-reinsurer-price-declines-less-severe-than-broker-headlines-jp-morgan/))
@@ -102,7 +102,7 @@ description: Insurance Updates
 - Purbeck Insurance unveils insurance apprenticeship programme ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/purbeck-insurance-unveils-insurance-apprenticeship-programme-565081.aspx))
 - Foresters CEO talks about life insurance's tech advances ([2 days ago](https://www.dig-in.com/news/foresters-ceo-talks-about-life-insurances-tech-advances))
 - How insurers can partner with consumers ([2 days ago](https://www.dig-in.com/opinion/how-insurers-can-partner-with-consumers))
-- Former Howden Executive João Mendonça Named CEO of Acrisure Portugal ([2 days ago](https://www.insurtechinsights.com/former-howden-executive-joao-mendonca-named-ceo-of-acrisure-portugal/))
+- Former Howden Executive João Mendonça Named CEO of Acrisure Portugal ([3 days ago](https://www.insurtechinsights.com/former-howden-executive-joao-mendonca-named-ceo-of-acrisure-portugal/))
 - ElevenLabs Secures AI Agent Insurance with AIUC-1 Certification ([3 days ago](https://www.insurtechinsights.com/elevenlabs-secures-ai-agent-insurance-with-aiuc-1-certification/))
 - Liberty Mutual to partner with net-zero focused PE firm Ara ([3 days ago](https://www.insurtechinsights.com/liberty-mutual-to-partner-with-net-zero-focused-pe-firm-ara/))
 - Chronic condition workplace healthcare benefits usage rises 142% in 2025 – Healix Health ([3 days ago](https://ifamagazine.com/chronic-condition-workplace-healthcare-benefits-usage-rises-142-in-2025-healix-health/))
