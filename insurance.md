@@ -33,8 +33,8 @@ description: Insurance Updates
 - Nestlé Runs 24 Hours to Avert Formula Shortages After Recall ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/13/858040.htm))
 - Forest Service Gets Pushback on Plan to Use Controlled Burns in Green Mountains ([1 days ago](https://www.insurancejournal.com/news/east/2026/02/13/858035.htm))
 - Generali launches new software factory to drive tech transformation ([1 days ago](https://www.reinsurancene.ws/generali-launches-new-software-factory-to-drive-tech-transformation/))
-- Contractor Jailed After Workplace Death ([1 days ago](https://insurance-edge.net/2026/02/13/contractor-jailed-after-workplace-death/))
-- AXA XL and USMIG to distribute coverage for shipping supply chain and transport ([1 days ago](https://www.reinsurancene.ws/axa-xl-and-usmig-to-distribute-coverage-for-shipping-supply-chain-and-transport/))
+- Contractor Jailed After Workplace Death ([2 days ago](https://insurance-edge.net/2026/02/13/contractor-jailed-after-workplace-death/))
+- AXA XL and USMIG to distribute coverage for shipping supply chain and transport ([2 days ago](https://www.reinsurancene.ws/axa-xl-and-usmig-to-distribute-coverage-for-shipping-supply-chain-and-transport/))
 - FERMA Launches Next Gen Risk Council ([2 days ago](https://insurance-edge.net/2026/02/13/ferma-launches-next-gen-risk-council/))
 - Sompo Intl. sees 9M’25 revenue surge as reinsurance CoR falls to 66.2% ([2 days ago](https://www.reinsurancene.ws/sompo-intl-sees-9m25-revenue-surge-as-reinsurance-cor-falls-to-66-2/))
 - Viewpoint: East London Faces Risks of Extreme Flooding – But Resilience Can Be Built ([2 days ago](https://www.insurancejournal.com/news/international/2026/02/13/858017.htm))
@@ -127,8 +127,8 @@ description: Insurance Updates
 - Whiplash reform has failed injured people ([5 days ago](https://www.postonline.co.uk/claims/7959784/whiplash-reform-has-failed-injured-people))
 - Big Interview: Chris Hall, QuestGates ([5 days ago](https://www.postonline.co.uk/claims/7959731/big-interview-chris-hall-questgates))
 - GOP senators push FEMA to scrap Risk Rating 2.0 ([5 days ago](https://www.dig-in.com/news/gop-senators-push-fema-to-scrap-risk-rating-2-0))
-- Record use of Diagnostic and GP service marks another strong year for Benenden Health in 2025 ([5 days ago](https://ifamagazine.com/record-use-of-diagnostic-and-gp-service-marks-another-strong-year-for-benenden-health-in-2025/))
+- Record use of Diagnostic and GP service marks another strong year for Benenden Health in 2025 ([6 days ago](https://ifamagazine.com/record-use-of-diagnostic-and-gp-service-marks-another-strong-year-for-benenden-health-in-2025/))
 - Health Shield Wellbeing and My Menopause Centre announce partnership ([6 days ago](https://ifamagazine.com/health-shield-wellbeing-and-my-menopause-centre-announce-partnership/))
-- Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([25 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
+- Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([26 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
 
 <!-- news_marker ends -->
