@@ -67,7 +67,7 @@ description: Insurance Updates
 - Wildfire Risk Scoring Transparency Bill Passes Washington Senate ([2 days ago](https://www.insurancejournal.com/news/west/2026/02/13/857963.htm))
 - Enter Best Insurance Employer 2026 today ([2 days ago](https://www.postonline.co.uk/news/7959858/enter-best-insurance-employer-2026-today))
 - Why FCA’s premium finance probe fell short ([2 days ago](https://www.postonline.co.uk/regulation/7959861/why-fcas-premium-finance-probe-fell-short))
-- When AI risk becomes uninsurable ([2 days ago](https://www.dig-in.com/opinion/when-ai-risk-becomes-uninsurable))
+- When AI risk becomes uninsurable ([3 days ago](https://www.dig-in.com/opinion/when-ai-risk-becomes-uninsurable))
 - AXIAN bets on insurance to deepen risk underwriting in Africa ([3 days ago](https://www.dig-in.com/articles/axian-bets-on-insurance-deepen-risk-underwriting-in-africa))
 - Japan insurer scandals deepen as Dai-ichi reveals misconduct ([3 days ago](https://www.dig-in.com/articles/japan-insurer-scandals-deepen-as-dai-ichi-reveals-misconduct))
 - Insurers argue furlough deductions permitted by policy wordings ([3 days ago](https://www.postonline.co.uk/commercial/7959875/insurers-argue-furlough-deductions-permitted-by-policy-wordings))
