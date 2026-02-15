@@ -8,9 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Scale or fail: Three keys to breaking out of AI pilot purgatory ([11 minutes ago](https://www.dig-in.com/opinion/three-keys-to-breaking-out-of-ai-pilot-purgatory))
 - MAPFRE Opens New Office in Gujarat India ([1 days ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
 - California Insurance Commissioner Unveils Intervenor Reform Regulations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
-- Adjusters to meet creators of AI-based claim review system ([1 days ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
+- Adjusters to meet creators of AI-based claim review system ([2 days ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
 - New MGA Scheme Aimed at Care Sector Recruiters & Agencies ([2 days ago](https://insurance-edge.net/2026/02/13/new-mga-scheme-aimed-at-care-sector-recruiters-agencies/))
 - Experian Launches Insurance Marketplace App on ChatGPT ([2 days ago](https://www.insurancejournal.com/news/national/2026/02/13/858094.htm))
 - European reinsurer price declines less severe than broker headlines: JP Morgan ([2 days ago](https://www.reinsurancene.ws/european-reinsurer-price-declines-less-severe-than-broker-headlines-jp-morgan/))
@@ -126,7 +127,6 @@ description: Insurance Updates
 - Talanx Reports Record Net Income of €2.48bn for 2025 ([5 days ago](https://www.insurtechinsights.com/talanx-reports-record-net-income-of-e2-48bn-for-2025/))
 - Whiplash reform has failed injured people ([5 days ago](https://www.postonline.co.uk/claims/7959784/whiplash-reform-has-failed-injured-people))
 - Big Interview: Chris Hall, QuestGates ([5 days ago](https://www.postonline.co.uk/claims/7959731/big-interview-chris-hall-questgates))
-- GOP senators push FEMA to scrap Risk Rating 2.0 ([5 days ago](https://www.dig-in.com/news/gop-senators-push-fema-to-scrap-risk-rating-2-0))
 - Record use of Diagnostic and GP service marks another strong year for Benenden Health in 2025 ([6 days ago](https://ifamagazine.com/record-use-of-diagnostic-and-gp-service-marks-another-strong-year-for-benenden-health-in-2025/))
 - Health Shield Wellbeing and My Menopause Centre announce partnership ([6 days ago](https://ifamagazine.com/health-shield-wellbeing-and-my-menopause-centre-announce-partnership/))
 - Finalists Revealed for Inaugural Challenge Lab at ITC London 2026 ([26 days ago](https://thefintechtimes.com/finalists-revealed-for-inaugural-challenge-lab-at-itc-london-2026/))
