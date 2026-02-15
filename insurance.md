@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- MAPFRE Opens New Office in Gujarat India ([18 hours ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
+- MAPFRE Opens New Office in Gujarat India ([19 hours ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
 - California Insurance Commissioner Unveils Intervenor Reform Regulations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
 - Adjusters to meet creators of AI-based claim review system ([1 days ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
 - New MGA Scheme Aimed at Care Sector Recruiters & Agencies ([1 days ago](https://insurance-edge.net/2026/02/13/new-mga-scheme-aimed-at-care-sector-recruiters-agencies/))
@@ -95,8 +95,8 @@ description: Insurance Updates
 - Why alignment with suppliers is key to good customer outcomes ([2 days ago](https://www.postonline.co.uk/claims/7959785/why-alignment-with-suppliers-is-key-to-good-customer-outcomes))
 - MGA-capacity tie-ups accelerate as Umbrl taps ARAG for embedded legal cover ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/mgacapacity-tieups-accelerate-as-umbrl-taps-arag-for-embedded-legal-cover-565116.aspx))
 - Throwback Thursday: NFU turns 60 ([2 days ago](https://www.postonline.co.uk/commercial/7959258/throwback-thursday-nfu-turns-60))
-- In a soft market, claims gets loud: Why terms and service suddenly matter more ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/in-a-soft-market-claims-gets-loud-why-terms-and-service-suddenly-matter-more-565119.aspx))
-- Acrisure expands UK MGA network with launch of 2Vision ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/acrisure-expands-uk-mga-network-with-launch-of-2vision-565078.aspx))
+- In a soft market, claims gets loud: Why terms and service suddenly matter more ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/in-a-soft-market-claims-gets-loud-why-terms-and-service-suddenly-matter-more-565119.aspx))
+- Acrisure expands UK MGA network with launch of 2Vision ([3 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/acrisure-expands-uk-mga-network-with-launch-of-2vision-565078.aspx))
 - LMA report challenges 'binary' view of lead and follow as London market evolves ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lma-report-challenges-binary-view-of-lead-and-follow-as-london-market-evolves-565076.aspx))
 - DVLA data shows sharp drop in UK car thefts in 2025 - QuestGates ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/dvla-data-shows-sharp-drop-in-uk-car-thefts-in-2025--questgates-565080.aspx))
 - Purbeck Insurance unveils insurance apprenticeship programme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/purbeck-insurance-unveils-insurance-apprenticeship-programme-565081.aspx))
