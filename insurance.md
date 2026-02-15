@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Why real insurance innovation happens in the unsexy layers of operations ([1 hours ago](https://www.dig-in.com/opinion/why-real-insurance-innovation-happens-in-operations))
-- Scale or fail: Three keys to breaking out of AI pilot purgatory ([1 hours ago](https://www.dig-in.com/opinion/three-keys-to-breaking-out-of-ai-pilot-purgatory))
+- Scale or fail: Three keys to breaking out of AI pilot purgatory ([2 hours ago](https://www.dig-in.com/opinion/three-keys-to-breaking-out-of-ai-pilot-purgatory))
 - MAPFRE Opens New Office in Gujarat India ([1 days ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
 - California Insurance Commissioner Unveils Intervenor Reform Regulations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
 - Adjusters to meet creators of AI-based claim review system ([2 days ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
@@ -117,7 +117,7 @@ description: Insurance Updates
 - Why UK drivers deserve fairer motor insurance premiums ([4 days ago](https://www.postonline.co.uk/personal/7959504/why-uk-drivers-deserve-fairer-motor-insurance-premiums))
 - Regulatory ripple effect of the Which? insurance complaint ([4 days ago](https://www.postonline.co.uk/regulation/7959743/regulatory-ripple-effect-of-the-which-insurance-complaint))
 - The rise of embedded insurance and its impact on the digital landscape ([4 days ago](https://www.dig-in.com/opinion/the-rise-of-embedded-insurance))
-- How new tech and an evolving workforce are reshaping MGAs in 2026, Vertafore ([4 days ago](https://www.dig-in.com/news/new-tech-evolving-workforce-reshaping-mgas-vertafore))
+- How new tech and an evolving workforce are reshaping MGAs in 2026, Vertafore ([5 days ago](https://www.dig-in.com/news/new-tech-evolving-workforce-reshaping-mgas-vertafore))
 - Insurance tech firm ManageMy lands new backing ([5 days ago](https://www.insurtechinsights.com/insurance-tech-firm-managemy-lands-new-backing/))
 - Admiral Invests in HSBC UK Direct Lending Fund to Support Mid-Market Growth ([5 days ago](https://www.insurtechinsights.com/admiral-invests-in-hsbc-uk-direct-lending-fund-to-support-mid-market-growth/))
 - Broker share prices tumble after ChatGPT insurance apps go live ([5 days ago](https://www.postonline.co.uk/technology/7959842/broker-share-prices-tumble-after-chatgpt-insurance-apps-go-live))
