@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups ([16 minutes ago](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/))
+- CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups ([41 minutes ago](https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/))
 - Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps ([1 hours ago](https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/))
 - GPT-5 bests human judges in legal smack down ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/02/15/gpt5_bests_human_judges_in/))
-- Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging ([2 hours ago](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html))
+- Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging ([3 hours ago](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html))
 - Nevada unveils new statewide data classification policy months after cyberattack ([20 hours ago](https://databreaches.net/2026/02/14/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/?pk_campaign=feed&pk_kwd=nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack))
 - One threat actor responsible for 83% of recent Ivanti RCE attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/))
 - Snail mail letters target Trezor and Ledger users in crypto-theft attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/))
@@ -73,8 +73,8 @@ description: SecOps News
 - Romania's oil pipeline operator Conpet confirms data stolen in attack ([2 days ago](https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/))
 - Urgent warnings from UK and US cyber agencies after Polish energy grid attack ([2 days ago](https://www.fortra.com/blog/urgent-warnings-uk-and-us-cyber-agencies-after-polish-energy-grid-attack))
 - Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support ([2 days ago](https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html))
-- Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems ([2 days ago](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html))
-- Intermittent disruption with Copilot completions and inline suggestions ([2 days ago](https://www.githubstatus.com/incidents/1x0f4x1wwqmb))
+- Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems ([3 days ago](https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html))
+- Intermittent disruption with Copilot completions and inline suggestions ([3 days ago](https://www.githubstatus.com/incidents/1x0f4x1wwqmb))
 - How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development ([3 days ago](https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/))
 - Elon Musk paints exodus of xAI co-founders as 'evolution' ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/12/musk_xai_departures/))
 - 'Another dark day': Users slam Microsoft over Polyglot Notebooks deprecation ([3 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/12/polyglot_notebooks_deprecation/))
