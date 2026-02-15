@@ -102,7 +102,7 @@ description: Insurance Updates
 - Purbeck Insurance unveils insurance apprenticeship programme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/purbeck-insurance-unveils-insurance-apprenticeship-programme-565081.aspx))
 - Foresters CEO talks about life insurance's tech advances ([3 days ago](https://www.dig-in.com/news/foresters-ceo-talks-about-life-insurances-tech-advances))
 - How insurers can partner with consumers ([3 days ago](https://www.dig-in.com/opinion/how-insurers-can-partner-with-consumers))
-- Former Howden Executive João Mendonça Named CEO of Acrisure Portugal ([3 days ago](https://www.insurtechinsights.com/former-howden-executive-joao-mendonca-named-ceo-of-acrisure-portugal/))
+- Former Howden Executive João Mendonça Named CEO of Acrisure Portugal ([4 days ago](https://www.insurtechinsights.com/former-howden-executive-joao-mendonca-named-ceo-of-acrisure-portugal/))
 - ElevenLabs Secures AI Agent Insurance with AIUC-1 Certification ([4 days ago](https://www.insurtechinsights.com/elevenlabs-secures-ai-agent-insurance-with-aiuc-1-certification/))
 - Liberty Mutual to partner with net-zero focused PE firm Ara ([4 days ago](https://www.insurtechinsights.com/liberty-mutual-to-partner-with-net-zero-focused-pe-firm-ara/))
 - Chronic condition workplace healthcare benefits usage rises 142% in 2025 – Healix Health ([4 days ago](https://ifamagazine.com/chronic-condition-workplace-healthcare-benefits-usage-rises-142-in-2025-healix-health/))
