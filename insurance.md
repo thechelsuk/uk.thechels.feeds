@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why real insurance innovation happens in the unsexy layers of operations ([2 hours ago](https://www.dig-in.com/opinion/why-real-insurance-innovation-happens-in-operations))
+- Why real insurance innovation happens in the unsexy layers of operations ([3 hours ago](https://www.dig-in.com/opinion/why-real-insurance-innovation-happens-in-operations))
 - Scale or fail: Three keys to breaking out of AI pilot purgatory ([3 hours ago](https://www.dig-in.com/opinion/three-keys-to-breaking-out-of-ai-pilot-purgatory))
 - MAPFRE Opens New Office in Gujarat India ([1 days ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
-- California Insurance Commissioner Unveils Intervenor Reform Regulations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
+- California Insurance Commissioner Unveils Intervenor Reform Regulations ([2 days ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
 - Adjusters to meet creators of AI-based claim review system ([2 days ago](https://www.dig-in.com/news/adjusters-to-meet-creators-of-ai-based-claim-review-system))
 - New MGA Scheme Aimed at Care Sector Recruiters & Agencies ([2 days ago](https://insurance-edge.net/2026/02/13/new-mga-scheme-aimed-at-care-sector-recruiters-agencies/))
 - Experian Launches Insurance Marketplace App on ChatGPT ([2 days ago](https://www.insurancejournal.com/news/national/2026/02/13/858094.htm))
