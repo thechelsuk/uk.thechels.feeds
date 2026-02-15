@@ -29,7 +29,7 @@ description: Insurance Updates
 - Ryan Specialty’s revenue grows by 13.2% in Q4’25 ([1 days ago](https://www.reinsurancene.ws/ryan-specialtys-revenue-grows-by-13-2-in-q425/))
 - MAPFRE Re Gets Regulatory Approval to Open India Branch Office ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/13/858057.htm))
 - Former New Jersey Attorney General Platkin Opens Law Office ([1 days ago](https://www.insurancejournal.com/news/east/2026/02/13/858052.htm))
-- China Orders Cereulide Tests as Nestle, Danone Face Recalls ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/13/858045.htm))
+- China Orders Cereulide Tests as Nestle, Danone Face Recalls ([2 days ago](https://www.insurancejournal.com/news/international/2026/02/13/858045.htm))
 - Nestlé Runs 24 Hours to Avert Formula Shortages After Recall ([2 days ago](https://www.insurancejournal.com/news/international/2026/02/13/858040.htm))
 - Forest Service Gets Pushback on Plan to Use Controlled Burns in Green Mountains ([2 days ago](https://www.insurancejournal.com/news/east/2026/02/13/858035.htm))
 - Generali launches new software factory to drive tech transformation ([2 days ago](https://www.reinsurancene.ws/generali-launches-new-software-factory-to-drive-tech-transformation/))
