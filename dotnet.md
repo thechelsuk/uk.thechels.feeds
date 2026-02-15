@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([8 hours ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
+- Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([9 hours ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([3 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([4 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([4 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - The danger of glamourizing one shots ([11 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([12 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([14 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
-- ReSharper and Rider 2025.3.2 Updates Out Now! ([16 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
+- ReSharper and Rider 2025.3.2 Updates Out Now! ([17 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 - Game Dev in 2025: Excerpts From the State of Game Development Report ([17 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
 - .NET AI Essentials – The Core Building Blocks Explained ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([18 days ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
