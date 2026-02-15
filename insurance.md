@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Why real insurance innovation happens in the unsexy layers of operations ([41 minutes ago](https://www.dig-in.com/opinion/why-real-insurance-innovation-happens-in-operations))
+- Why real insurance innovation happens in the unsexy layers of operations ([1 hours ago](https://www.dig-in.com/opinion/why-real-insurance-innovation-happens-in-operations))
 - Scale or fail: Three keys to breaking out of AI pilot purgatory ([1 hours ago](https://www.dig-in.com/opinion/three-keys-to-breaking-out-of-ai-pilot-purgatory))
 - MAPFRE Opens New Office in Gujarat India ([1 days ago](https://insurance-edge.net/2026/02/14/mapfre-opens-new-office-in-gujarat-india/))
 - California Insurance Commissioner Unveils Intervenor Reform Regulations ([1 days ago](https://www.insurancejournal.com/news/west/2026/02/13/858121.htm))
@@ -102,8 +102,8 @@ description: Insurance Updates
 - LMA report challenges 'binary' view of lead and follow as London market evolves ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lma-report-challenges-binary-view-of-lead-and-follow-as-london-market-evolves-565076.aspx))
 - DVLA data shows sharp drop in UK car thefts in 2025 - QuestGates ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/dvla-data-shows-sharp-drop-in-uk-car-thefts-in-2025--questgates-565080.aspx))
 - Purbeck Insurance unveils insurance apprenticeship programme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/purbeck-insurance-unveils-insurance-apprenticeship-programme-565081.aspx))
-- Foresters CEO talks about life insurance's tech advances ([3 days ago](https://www.dig-in.com/news/foresters-ceo-talks-about-life-insurances-tech-advances))
-- How insurers can partner with consumers ([3 days ago](https://www.dig-in.com/opinion/how-insurers-can-partner-with-consumers))
+- Foresters CEO talks about life insurance's tech advances ([4 days ago](https://www.dig-in.com/news/foresters-ceo-talks-about-life-insurances-tech-advances))
+- How insurers can partner with consumers ([4 days ago](https://www.dig-in.com/opinion/how-insurers-can-partner-with-consumers))
 - Former Howden Executive João Mendonça Named CEO of Acrisure Portugal ([4 days ago](https://www.insurtechinsights.com/former-howden-executive-joao-mendonca-named-ceo-of-acrisure-portugal/))
 - ElevenLabs Secures AI Agent Insurance with AIUC-1 Certification ([4 days ago](https://www.insurtechinsights.com/elevenlabs-secures-ai-agent-insurance-with-aiuc-1-certification/))
 - Liberty Mutual to partner with net-zero focused PE firm Ara ([4 days ago](https://www.insurtechinsights.com/liberty-mutual-to-partner-with-net-zero-focused-pe-firm-ara/))
