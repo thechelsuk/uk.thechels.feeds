@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([4 hours ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
+- Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([5 hours ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
 - Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([2 days ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([5 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([6 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([6 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- dotInsights  -  February 2026 ([6 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
+- dotInsights  -  February 2026 ([7 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([7 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
 - Is the craft dead? ([8 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([9 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
