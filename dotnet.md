@@ -31,8 +31,8 @@ description: DotNet Updates
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([22 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
 - How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([23 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 - String Performance: The Fastest Way to Get a String’s Length ([24 days ago](https://dotnettips.wordpress.com/2026/01/25/string-performance-the-fastest-way-to-get-a-strings-length/))
-- ReSharper 2026.1 Early Access Program Has Begun ([26 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
-- Rider 2026.1 Early Access Program Is Now Open! ([26 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
+- ReSharper 2026.1 Early Access Program Has Begun ([27 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/))
+- Rider 2026.1 Early Access Program Is Now Open! ([27 days ago](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/))
 - Making foreach on an IEnumerable allocation-free using reflection and dynamic methods ([29 days ago](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/))
 
 <!-- news_marker ends -->
