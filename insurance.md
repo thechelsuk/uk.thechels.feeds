@@ -10,7 +10,7 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - Duffy Will Brief Congress Next Week on El Paso Shutdown ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
 - Supreme Court overturns tariffs: How will this affect insurance costs? ([1 days ago](https://www.dig-in.com/news/the-impact-of-no-tariffs-on-the-insurance-industry))
-- Insurtech Qumis Secures $4.3M Seed Round ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/20/858943.htm))
+- Insurtech Qumis Secures $4.3M Seed Round ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/02/20/858943.htm))
 - High Court Ruling on Trump Tariffs to ‘Ease Uncertainty,’ Says AM Best ([2 days ago](https://www.insurancejournal.com/news/national/2026/02/20/858935.htm))
 - Fidelis Insurance increases common share repurchase authorisation to $400m ([2 days ago](https://www.reinsurancene.ws/fidelis-insurance-increases-common-share-repurchase-authorisation-to-400m/))
 - Westfield Specialty GWP Hits Nearly $2bn in 2025 ([2 days ago](https://insurance-edge.net/2026/02/20/westfield-specialty-gwp-hits-nearly-2bn-in-2025/))
