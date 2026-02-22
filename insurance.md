@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Duffy Will Brief Congress Next Week on El Paso Shutdown ([23 hours ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
+- Duffy Will Brief Congress Next Week on El Paso Shutdown ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
 - Supreme Court overturns tariffs: How will this affect insurance costs? ([1 days ago](https://www.dig-in.com/news/the-impact-of-no-tariffs-on-the-insurance-industry))
 - Insurtech Qumis Secures $4.3M Seed Round ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/02/20/858943.htm))
 - High Court Ruling on Trump Tariffs to ‘Ease Uncertainty,’ Says AM Best ([1 days ago](https://www.insurancejournal.com/news/national/2026/02/20/858935.htm))
