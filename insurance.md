@@ -96,7 +96,7 @@ description: Insurance Updates
 - Sompo clears regulatory hurdles for Aspen acquisition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/sompo-clears-regulatory-hurdles-for-aspen-acquisition-565853.aspx))
 - Q&A: Greg Ferguson, Bridge Specialty ([2 days ago](https://www.postonline.co.uk/broker/7959693/qa-greg-ferguson-bridge-specialty))
 - Throwback Thursday: Writing gaffs; Don’t ring us ([2 days ago](https://www.postonline.co.uk/personal/7959259/throwback-thursday-writing-gaffs-dont-ring-us))
-- Insurance moves: Arch Insurance, Consilium, Sixfold and Fadata ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-consilium-sixfold-and-fadata-565831.aspx))
+- Insurance moves: Arch Insurance, Consilium, Sixfold and Fadata ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-consilium-sixfold-and-fadata-565831.aspx))
 - New insurance career development program offers personal lines agent training ([3 days ago](https://www.dig-in.com/news/insurance-career-program-offers-personal-lines-training))
 - Nationwide expands Ting program; AIG completes $2.7B acquisitions: Insurtech news ([3 days ago](https://www.dig-in.com/news/nationwide-expands-ting-aig-completes-acquisitions-insurtech))
 - Berkshire cuts Amazon stake, makes bet on New York Times ([3 days ago](https://www.dig-in.com/articles/berkshire-cuts-amazon-stake-makes-bet-on-new-york-times))
