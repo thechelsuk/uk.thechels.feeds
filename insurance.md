@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Supporting mutual insurers' use of AI - Part 1 ([43 minutes ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-1))
-- Supporting mutual insurers' use of AI - Part 2 ([43 minutes ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-2))
+- Supporting mutual insurers' use of AI - Part 1 ([1 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-1))
+- Supporting mutual insurers' use of AI - Part 2 ([1 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-2))
 - Duffy Will Brief Congress Next Week on El Paso Shutdown ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
-- Supreme Court overturns tariffs: How will this affect insurance costs? ([1 days ago](https://www.dig-in.com/news/the-impact-of-no-tariffs-on-the-insurance-industry))
+- Supreme Court overturns tariffs: How will this affect insurance costs? ([2 days ago](https://www.dig-in.com/news/the-impact-of-no-tariffs-on-the-insurance-industry))
 - Insurtech Qumis Secures $4.3M Seed Round ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/02/20/858943.htm))
 - High Court Ruling on Trump Tariffs to ‘Ease Uncertainty,’ Says AM Best ([2 days ago](https://www.insurancejournal.com/news/national/2026/02/20/858935.htm))
 - Fidelis Insurance increases common share repurchase authorisation to $400m ([2 days ago](https://www.reinsurancene.ws/fidelis-insurance-increases-common-share-repurchase-authorisation-to-400m/))
@@ -99,7 +99,7 @@ description: Insurance Updates
 - Q&A: Greg Ferguson, Bridge Specialty ([3 days ago](https://www.postonline.co.uk/broker/7959693/qa-greg-ferguson-bridge-specialty))
 - Throwback Thursday: Writing gaffs; Don’t ring us ([3 days ago](https://www.postonline.co.uk/personal/7959259/throwback-thursday-writing-gaffs-dont-ring-us))
 - Insurance moves: Arch Insurance, Consilium, Sixfold and Fadata ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-consilium-sixfold-and-fadata-565831.aspx))
-- New insurance career development program offers personal lines agent training ([3 days ago](https://www.dig-in.com/news/insurance-career-program-offers-personal-lines-training))
+- New insurance career development program offers personal lines agent training ([4 days ago](https://www.dig-in.com/news/insurance-career-program-offers-personal-lines-training))
 - Nationwide expands Ting program; AIG completes $2.7B acquisitions: Insurtech news ([4 days ago](https://www.dig-in.com/news/nationwide-expands-ting-aig-completes-acquisitions-insurtech))
 - Berkshire cuts Amazon stake, makes bet on New York Times ([4 days ago](https://www.dig-in.com/articles/berkshire-cuts-amazon-stake-makes-bet-on-new-york-times))
 - Hiscox Re rebrands and launches capital platform ([4 days ago](https://www.insurtechinsights.com/hiscox-re-rebrands-and-launches-capital-platform/))
