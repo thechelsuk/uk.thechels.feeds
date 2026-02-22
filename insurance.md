@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Supporting mutual insurers' use of AI - Part 1 ([1 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-1))
-- Supporting mutual insurers' use of AI - Part 2 ([1 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-2))
-- Duffy Will Brief Congress Next Week on El Paso Shutdown ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
+- Supporting mutual insurers' use of AI - Part 1 ([2 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-1))
+- Supporting mutual insurers' use of AI - Part 2 ([2 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-2))
+- Duffy Will Brief Congress Next Week on El Paso Shutdown ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
 - Supreme Court overturns tariffs: How will this affect insurance costs? ([2 days ago](https://www.dig-in.com/news/the-impact-of-no-tariffs-on-the-insurance-industry))
 - Insurtech Qumis Secures $4.3M Seed Round ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/02/20/858943.htm))
 - High Court Ruling on Trump Tariffs to ‘Ease Uncertainty,’ Says AM Best ([2 days ago](https://www.insurancejournal.com/news/national/2026/02/20/858935.htm))
@@ -75,7 +75,7 @@ description: Insurance Updates
 - Dunny or delight? Rating Australian forays into UK insurance ([2 days ago](https://www.postonline.co.uk/personal/7959822/dunny-or-delight-rating-australian-forays-into-uk-insurance))
 - Which? fears FCA’s premium finance response is a worrying omen ([2 days ago](https://www.postonline.co.uk/personal/7959884/which-fears-fcas-premium-finance-response-is-a-worrying-omen))
 - Penny Black’s Social Diary: Zurich’s sci-fi future; ITC’s macarons ([2 days ago](https://www.postonline.co.uk/people/7959754/penny-blacks-social-diary-zurichs-sci-fi-future-itcs-macarons))
-- QBE lifts profits above US$2 billion with best underwriting result in years ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-lifts-profits-above-us2-billion-with-best-underwriting-result-in-years-565962.aspx))
+- QBE lifts profits above US$2 billion with best underwriting result in years ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-lifts-profits-above-us2-billion-with-best-underwriting-result-in-years-565962.aspx))
 - Zurich Insurance profit beats estimates ([3 days ago](https://www.dig-in.com/articles/zurich-insurance-profit-beats-estimates))
 - How climate change can create insurance deserts ([3 days ago](https://www.dig-in.com/opinion/how-climate-change-can-create-insurance-deserts))
 - Agentic AI could give CFOs more decision control ([3 days ago](https://www.dig-in.com/opinion/agentic-ai-could-give-cfos-more-decision-control))
