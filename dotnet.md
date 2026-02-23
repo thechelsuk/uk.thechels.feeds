@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([22 hours ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
+- UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([23 hours ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([2 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
 - Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([5 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
 - Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([7 days ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
@@ -19,10 +19,10 @@ description: DotNet Updates
 - .NET and .NET Framework February 2026 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - dotInsights  -  February 2026 ([12 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([12 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
-- Is the craft dead? ([13 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
+- Is the craft dead? ([14 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([14 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
-- The danger of glamourizing one shots ([18 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
+- The danger of glamourizing one shots ([19 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([19 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([21 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([24 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
