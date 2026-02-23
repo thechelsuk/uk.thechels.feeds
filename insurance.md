@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Supporting mutual insurers' use of AI - Part 1 ([2 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-1))
-- Supporting mutual insurers' use of AI - Part 2 ([2 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-2))
+- Northeast State Under Emergency as Snow Falls Amid Blizzard Warning ([31 minutes ago](https://www.insurancejournal.com/news/east/2026/02/22/859075.htm))
+- Supporting mutual insurers' use of AI - Part 1 ([3 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-1))
+- Supporting mutual insurers' use of AI - Part 2 ([3 hours ago](https://www.dig-in.com/news/supporting-mutual-insurers-use-of-ai-part-2))
 - Duffy Will Brief Congress Next Week on El Paso Shutdown ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/859022.htm))
 - Supreme Court overturns tariffs: How will this affect insurance costs? ([2 days ago](https://www.dig-in.com/news/the-impact-of-no-tariffs-on-the-insurance-industry))
 - Insurtech Qumis Secures $4.3M Seed Round ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/02/20/858943.htm))
@@ -71,7 +72,6 @@ description: Insurance Updates
 - England Golf names Howden as official partner ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/england-golf-names-howden-as-official-partner-566006.aspx))
 - People Moves: Higginbotham Hires Ritter as Medical Director for Employee Benefits ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/858835.htm))
 - Texas Fire Threat to Worsen as Oklahoma Panhandle Burns ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/20/858831.htm))
-- Delaware High Court Rescues Cyber Insurers’ Subrogation Claims ([2 days ago](https://www.insurancejournal.com/news/east/2026/02/20/858599.htm))
 - Dunny or delight? Rating Australian forays into UK insurance ([2 days ago](https://www.postonline.co.uk/personal/7959822/dunny-or-delight-rating-australian-forays-into-uk-insurance))
 - Which? fears FCA’s premium finance response is a worrying omen ([2 days ago](https://www.postonline.co.uk/personal/7959884/which-fears-fcas-premium-finance-response-is-a-worrying-omen))
 - Penny Black’s Social Diary: Zurich’s sci-fi future; ITC’s macarons ([2 days ago](https://www.postonline.co.uk/people/7959754/penny-blacks-social-diary-zurichs-sci-fi-future-itcs-macarons))
