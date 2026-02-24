@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([11 hours ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
+- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([12 hours ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([1 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([2 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([4 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
