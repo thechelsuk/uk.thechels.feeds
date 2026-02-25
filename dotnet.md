@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([15 hours ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
-- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([23 hours ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
+- Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([16 hours ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
+- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([1 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([1 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([2 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([3 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([14 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([14 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([14 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
-- .NET 11 Preview 1 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
+- .NET 11 Preview 1 is now available! ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - dotInsights  -  February 2026 ([15 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([15 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
