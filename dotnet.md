@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([5 hours ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
-- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([13 hours ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
+- Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([6 hours ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
+- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([14 hours ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([1 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([1 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([3 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
@@ -35,6 +35,5 @@ description: DotNet Updates
 - Boost Your .NET Projects with Spargine: Supercharge Your .NET Apps with NetworkHelper ([28 days ago](https://dotnettips.wordpress.com/2026/01/28/boost-your-net-projects-with-spargine-supercharge-your-net-apps-with-networkhelper/))
 - Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1 ([29 days ago](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/))
 - Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together ([29 days ago](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/))
-- How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider ([29 days ago](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/))
 
 <!-- news_marker ends -->
