@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Vector Data in .NET – Building Blocks for AI Part 2 ([13 minutes ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
+- Vector Data in .NET – Building Blocks for AI Part 2 ([1 hours ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([1 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([1 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([2 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
@@ -21,7 +21,7 @@ description: DotNet Updates
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([15 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([15 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
-- .NET and .NET Framework February 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
+- .NET and .NET Framework February 2026 servicing releases updates ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - dotInsights  -  February 2026 ([16 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([16 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
 - Is the craft dead? ([17 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
