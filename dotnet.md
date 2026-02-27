@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Vector Data in .NET – Building Blocks for AI Part 2 ([15 hours ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
+- Vector Data in .NET – Building Blocks for AI Part 2 ([16 hours ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([2 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([2 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
-- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([2 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
+- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([3 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([3 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([5 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([7 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
-- Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([9 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
+- Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([10 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
 - Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([12 days ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([15 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([16 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
@@ -28,10 +28,10 @@ description: DotNet Updates
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([19 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
 - .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 - The danger of glamourizing one shots ([23 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
-- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([23 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
+- Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([24 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([26 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
 - ReSharper and Rider 2025.3.2 Updates Out Now! ([28 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
-- Game Dev in 2025: Excerpts From the State of Game Development Report ([28 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
+- Game Dev in 2025: Excerpts From the State of Game Development Report ([29 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/))
 - .NET AI Essentials – The Core Building Blocks Explained ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/))
 
 <!-- news_marker ends -->
