@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([4 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
-- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([5 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
-- UK Appoints Barclays Executive as Top Bank of England Regulator ([22 hours ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
-- Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([23 hours ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
+- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([5 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
+- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([6 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
+- UK Appoints Barclays Executive as Top Bank of England Regulator ([23 hours ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
+- Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([1 days ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
 - UK's Flood Re plans more cat bonds ([1 days ago](https://www.dig-in.com/articles/uks-flood-re-plans-more-cat-bonds))
 - State Farm to Issue $136M in Dividends to Louisiana Drivers ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/27/859946.htm))
 - State Farm to pay record $5B dividend to auto clients ([1 days ago](https://www.dig-in.com/articles/state-farm-to-pay-record-5b-dividend-to-auto-clients))
@@ -75,7 +75,7 @@ description: Insurance Updates
 - Gallagher snaps up German industrial specialist KROSE ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/gallagher-snaps-up-german-industrial-specialist-krose-566788.aspx))
 - Is AI changing the entry point to insurance? ([1 days ago](https://www.dig-in.com/opinion/is-ai-changing-the-entry-point-to-insurance))
 - The impact of climate change on insurance availability ([1 days ago](https://www.dig-in.com/opinion/the-impact-of-climate-change-on-insurance-availability))
-- Munich Re: How are GLP-1 medications and AI technologies impacting life insurance? ([1 days ago](https://www.dig-in.com/news/munich-re-how-glp-1-and-ai-impact-life-insurance))
+- Munich Re: How are GLP-1 medications and AI technologies impacting life insurance? ([2 days ago](https://www.dig-in.com/news/munich-re-how-glp-1-and-ai-impact-life-insurance))
 - Allianz CEO outlines strategy to manage expenses ([2 days ago](https://www.postonline.co.uk/news/7959939/allianz-ceo-outlines-strategy-to-manage-expenses))
 - Fidelis Insurance announces total rebrand ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fidelis-insurance-announces-total-rebrand-566732.aspx))
 - Allianz SE Reports €17.4 Billion Profit as New Strategic Cycle Begins ([2 days ago](https://www.insurtechinsights.com/allianz-se-reports-e17-4-billion-profit-as-new-strategic-cycle-begins/))
