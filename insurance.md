@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([6 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
-- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([7 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
+- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([7 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
+- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([8 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
 - Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([1 days ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
 - UK's Flood Re plans more cat bonds ([1 days ago](https://www.dig-in.com/articles/uks-flood-re-plans-more-cat-bonds))
@@ -119,7 +119,7 @@ description: Insurance Updates
 - What do insurers need before the UK goes driverless? ([3 days ago](https://www.postonline.co.uk/technology/7959730/what-do-insurers-need-before-the-uk-goes-driverless))
 - Why the FCA’s fair value rules need a rethink ([3 days ago](https://www.postonline.co.uk/regulation/7959667/why-the-fcas-fair-value-rules-need-a-rethink))
 - Will the CMA tame pet insurance costs? ([3 days ago](https://www.postonline.co.uk/personal/7959761/will-the-cma-tame-pet-insurance-costs))
-- U.S. executives stressed but surviving, Sentry survey ([3 days ago](https://www.dig-in.com/news/executives-stressed-but-surviving-sentry))
+- U.S. executives stressed but surviving, Sentry survey ([4 days ago](https://www.dig-in.com/news/executives-stressed-but-surviving-sentry))
 - Bowhead Specialty Reports Strong Q4 and Full-Year 2025 Growth ([4 days ago](https://www.insurtechinsights.com/bowhead-specialty-reports-strong-q4-and-full-year-2025-growth/))
 - Stanford replaces Thaker as Sompo UK CEO ([4 days ago](https://www.postonline.co.uk/commercial/7959929/stanford-replaces-thaker-as-sompo-uk-ceo))
 - Sompo International Completes Acquisition of Aspen Insurance ([4 days ago](https://www.insurtechinsights.com/sompo-international-completes-acquisition-of-aspen-insurance/))
