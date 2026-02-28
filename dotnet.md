@@ -30,6 +30,5 @@ description: DotNet Updates
 - The danger of glamourizing one shots ([24 days ago](http://feeds.hanselman.com/~/945480803/0/scotthanselman~The-danger-of-glamourizing-one-shots))
 - Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2 ([25 days ago](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/))
 - Boost Your .NET Projects with Spargine: High-Performance ULIDs with the Ulid Struct ([27 days ago](https://dotnettips.wordpress.com/2026/02/01/boost-your-net-projects-with-spargine-high-performance-ulids-with-the-ulid-struct/))
-- ReSharper and Rider 2025.3.2 Updates Out Now! ([29 days ago](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/))
 
 <!-- news_marker ends -->
