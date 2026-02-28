@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([3 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
-- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([4 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
-- UK Appoints Barclays Executive as Top Bank of England Regulator ([21 hours ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
-- Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([22 hours ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
+- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([4 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
+- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([5 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
+- UK Appoints Barclays Executive as Top Bank of England Regulator ([22 hours ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
+- Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([23 hours ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
 - UK's Flood Re plans more cat bonds ([1 days ago](https://www.dig-in.com/articles/uks-flood-re-plans-more-cat-bonds))
 - State Farm to Issue $136M in Dividends to Louisiana Drivers ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/02/27/859946.htm))
 - State Farm to pay record $5B dividend to auto clients ([1 days ago](https://www.dig-in.com/articles/state-farm-to-pay-record-5b-dividend-to-auto-clients))
@@ -120,7 +120,7 @@ description: Insurance Updates
 - Why the FCA’s fair value rules need a rethink ([3 days ago](https://www.postonline.co.uk/regulation/7959667/why-the-fcas-fair-value-rules-need-a-rethink))
 - Will the CMA tame pet insurance costs? ([3 days ago](https://www.postonline.co.uk/personal/7959761/will-the-cma-tame-pet-insurance-costs))
 - U.S. executives stressed but surviving, Sentry survey ([3 days ago](https://www.dig-in.com/news/executives-stressed-but-surviving-sentry))
-- Bowhead Specialty Reports Strong Q4 and Full-Year 2025 Growth ([3 days ago](https://www.insurtechinsights.com/bowhead-specialty-reports-strong-q4-and-full-year-2025-growth/))
+- Bowhead Specialty Reports Strong Q4 and Full-Year 2025 Growth ([4 days ago](https://www.insurtechinsights.com/bowhead-specialty-reports-strong-q4-and-full-year-2025-growth/))
 - Stanford replaces Thaker as Sompo UK CEO ([4 days ago](https://www.postonline.co.uk/commercial/7959929/stanford-replaces-thaker-as-sompo-uk-ceo))
 - Sompo International Completes Acquisition of Aspen Insurance ([4 days ago](https://www.insurtechinsights.com/sompo-international-completes-acquisition-of-aspen-insurance/))
 - Caravan Guard founder Peter Wilby passes away ([4 days ago](https://www.postonline.co.uk/news/7959927/caravan-guard-founder-peter-wilby-passes-away))
@@ -128,6 +128,6 @@ description: Insurance Updates
 - Zurich Australia moves to acquire ClearView in AUD 415m life insurance deal ([4 days ago](https://www.insurtechinsights.com/zurich-australia-moves-to-acquire-clearview-in-aud-415m-life-insurance-deal/))
 - Aviva appoints Chris Cochrane as group CIO ([4 days ago](https://www.postonline.co.uk/news/7959924/aviva-appoints-chris-cochrane-as-group-cio))
 - Sign up for Claims Club to hear from London Fire Brigade and others ([4 days ago](https://www.postonline.co.uk/market-access/claims-fraud/7959904/sign-up-for-claims-club-to-hear-from-london-fire-brigade-and-others))
-- Canopius and Globex Underwriting Services Team Up to Expand Global Marine Coverage ([4 days ago](https://www.insurtechinsights.com/canopius-and-globex-underwriting-services-team-up-to-expand-global-marine-coverage/))
+- Canopius and Globex Underwriting Services Team Up to Expand Global Marine Coverage ([5 days ago](https://www.insurtechinsights.com/canopius-and-globex-underwriting-services-team-up-to-expand-global-marine-coverage/))
 
 <!-- news_marker ends -->
