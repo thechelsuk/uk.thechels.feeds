@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([9 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
-- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([10 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
+- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([11 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
+- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([11 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
 - Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([1 days ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
 - UK's Flood Re plans more cat bonds ([1 days ago](https://www.dig-in.com/articles/uks-flood-re-plans-more-cat-bonds))
@@ -98,8 +98,8 @@ description: Insurance Updates
 - Throwback Thursday: Golf society; Risk assessor wages ([2 days ago](https://www.postonline.co.uk/risk-management/7959260/throwback-thursday-golf-society-risk-assessor-wages))
 - Insurance moves: Gallagher, Malago Insurance, Intact and HDI ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-gallagher-malago-insurance-intact-and-hdi-566633.aspx))
 - Report: Global stability enters ‘grey‑zone’ era as businesses face new class of geopolitical risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-global-stability-enters-greyzone-era-as-businesses-face-new-class-of-geopolitical-risk-566632.aspx))
-- London P&I Club posts positive 2026 renewal as tonnage grows 14.5% ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/london-pandi-club-posts-positive-2026-renewal-as-tonnage-grows-14-5-566630.aspx))
-- New MGA Elitium targets UK manufacturing and unoccupied property risks ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/new-mga-elitium-targets-uk-manufacturing-and-unoccupied-property-risks-566627.aspx))
+- London P&I Club posts positive 2026 renewal as tonnage grows 14.5% ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/london-pandi-club-posts-positive-2026-renewal-as-tonnage-grows-14-5-566630.aspx))
+- New MGA Elitium targets UK manufacturing and unoccupied property risks ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/new-mga-elitium-targets-uk-manufacturing-and-unoccupied-property-risks-566627.aspx))
 - Using AI to strengthen cybersecurity training ([3 days ago](https://www.dig-in.com/news/using-ai-to-strengthen-cybersecurity-training))
 - Insurance Careers Month: talent coverage overview ([3 days ago](https://www.dig-in.com/news/insurance-careers-month-talent-coverage-overview))
 - Increase in major climate events expected, Digital Insurance survey ([3 days ago](https://www.dig-in.com/news/increase-major-climate-events-expected-digital-insurance))
