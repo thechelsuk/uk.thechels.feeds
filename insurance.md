@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([14 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
-- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([14 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
+- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([15 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
+- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([15 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
 - Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([1 days ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
 - UK's Flood Re plans more cat bonds ([1 days ago](https://www.dig-in.com/articles/uks-flood-re-plans-more-cat-bonds))
