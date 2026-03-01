@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- More complex risk landscape as AVs hit the road ([19 minutes ago](https://www.dig-in.com/news/more-complex-risk-landscape-as-avs-hit-the-road))
-- MGAs should tread lightly with AI, underwriter says ([1 hours ago](https://www.dig-in.com/news/mgas-should-tread-lightly-with-ai-underwriter-says))
-- Insider threat prevention is built with trust and connection ([1 hours ago](https://www.dig-in.com/opinion/preventing-insider-threats))
-- Why Reinsurance Keeps Delivering Returns When Markets Falter ([9 hours ago](https://insurance-edge.net/2026/03/01/why-reinsurance-keeps-delivering-returns-when-markets-falter/))
+- More complex risk landscape as AVs hit the road ([1 hours ago](https://www.dig-in.com/news/more-complex-risk-landscape-as-avs-hit-the-road))
+- MGAs should tread lightly with AI, underwriter says ([2 hours ago](https://www.dig-in.com/news/mgas-should-tread-lightly-with-ai-underwriter-says))
+- Insider threat prevention is built with trust and connection ([2 hours ago](https://www.dig-in.com/opinion/preventing-insider-threats))
+- Why Reinsurance Keeps Delivering Returns When Markets Falter ([10 hours ago](https://insurance-edge.net/2026/03/01/why-reinsurance-keeps-delivering-returns-when-markets-falter/))
 - Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
 - Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([1 days ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([2 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
