@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([13 hours ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
+- Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([14 hours ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([3 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([4 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([4 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
