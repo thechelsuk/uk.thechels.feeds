@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([12 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
-- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([13 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
+- Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([13 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
+- Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([14 hours ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([1 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
 - Swiss Re Results 2025: $4.8bn Profit, Share Buyback ([1 days ago](https://insurance-edge.net/2026/02/27/swiss-re-results-2025-4-8bn-profit-share-buyback/))
 - UK's Flood Re plans more cat bonds ([1 days ago](https://www.dig-in.com/articles/uks-flood-re-plans-more-cat-bonds))
@@ -69,7 +69,7 @@ description: Insurance Updates
 - Florida Appeals Court Pulls the Plug on Physician Dispensing in Workers’ Comp ([1 days ago](https://www.insurancejournal.com/news/southeast/2026/02/27/859798.htm))
 - Penny Black’s Social Diary: Zurich’s fundraiser; Fortnum & Mason’s pudding ([1 days ago](https://www.postonline.co.uk/people/7959755/penny-blacks-social-diary-zurichs-fundraiser-fortnum-masons-pudding))
 - FCA’s tech request and my less than ‘appy’ experience ([1 days ago](https://www.postonline.co.uk/technology/7959926/fcas-tech-request-and-my-less-than-appy-experience))
-- Disruption is the new normal – and corporate travel cover must catch up: Zurich ([1 days ago](https://www.insurancebusinessmag.com/uk/news/travel/disruption-is-the-new-normal--and-corporate-travel-cover-must-catch-up-zurich-566798.aspx))
+- Disruption is the new normal – and corporate travel cover must catch up: Zurich ([2 days ago](https://www.insurancebusinessmag.com/uk/news/travel/disruption-is-the-new-normal--and-corporate-travel-cover-must-catch-up-zurich-566798.aspx))
 - Bspoke Underwriting secures £50 million capacity for niche personal lines ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/bspoke-underwriting-secures-50-million-capacity-for-niche-personal-lines-566794.aspx))
 - Acorn boosts tech ranks as non‑standard motor under pressure ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/acorn-boosts-tech-ranks-as-nonstandard-motor-under-pressure-566792.aspx))
 - Gallagher snaps up German industrial specialist KROSE ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/gallagher-snaps-up-german-industrial-specialist-krose-566788.aspx))
