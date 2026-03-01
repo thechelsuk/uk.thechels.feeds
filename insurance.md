@@ -8,8 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Insider threat prevention is built with trust and connection ([34 minutes ago](https://www.dig-in.com/opinion/preventing-insider-threats))
-- Why Reinsurance Keeps Delivering Returns When Markets Falter ([8 hours ago](https://insurance-edge.net/2026/03/01/why-reinsurance-keeps-delivering-returns-when-markets-falter/))
+- More complex risk landscape as AVs hit the road ([19 minutes ago](https://www.dig-in.com/news/more-complex-risk-landscape-as-avs-hit-the-road))
+- MGAs should tread lightly with AI, underwriter says ([1 hours ago](https://www.dig-in.com/news/mgas-should-tread-lightly-with-ai-underwriter-says))
+- Insider threat prevention is built with trust and connection ([1 hours ago](https://www.dig-in.com/opinion/preventing-insider-threats))
+- Why Reinsurance Keeps Delivering Returns When Markets Falter ([9 hours ago](https://insurance-edge.net/2026/03/01/why-reinsurance-keeps-delivering-returns-when-markets-falter/))
 - Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
 - Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([1 days ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([2 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
@@ -102,8 +104,6 @@ description: Insurance Updates
 - London P&I Club posts positive 2026 renewal as tonnage grows 14.5% ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/london-pandi-club-posts-positive-2026-renewal-as-tonnage-grows-14-5-566630.aspx))
 - New MGA Elitium targets UK manufacturing and unoccupied property risks ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/new-mga-elitium-targets-uk-manufacturing-and-unoccupied-property-risks-566627.aspx))
 - Using AI to strengthen cybersecurity training ([4 days ago](https://www.dig-in.com/news/using-ai-to-strengthen-cybersecurity-training))
-- Insurance Careers Month: talent coverage overview ([4 days ago](https://www.dig-in.com/news/insurance-careers-month-talent-coverage-overview))
-- Increase in major climate events expected, Digital Insurance survey ([4 days ago](https://www.dig-in.com/news/increase-major-climate-events-expected-digital-insurance))
 - Sompo Appoints Sarah Stanford as CEO of UK Operations ([4 days ago](https://www.insurtechinsights.com/sompo-appoints-sarah-stanford-as-ceo-of-uk-operations/))
 - Centerview sleep lawsuit settles, but Wall Street hours stay in the spotlight ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/centerview-sleep-lawsuit-settles-but-wall-street-hours-stay-in-the-spotlight-566574.aspx))
 - The AI shift in risk, protection and advisory firms ([4 days ago](https://ifamagazine.com/the-ai-shift-in-risk-protection-and-advisory-firms/))
