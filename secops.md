@@ -8,15 +8,16 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- KomikoAI - 1,060,191 breached accounts ([1 hours ago](https://haveibeenpwned.com/Breach/KomikoAI))
+- UK government's Vulnerability Monitoring System is working - fixes flow far faster ([19 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/03/02/uk_gov_nips_public_sector/))
+- KomikoAI - 1,060,191 breached accounts ([2 hours ago](https://haveibeenpwned.com/Breach/KomikoAI))
 - South Korea’s tax office apologizes for leaking seed phrase to seized crypto ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/03/02/south_korea_tax_office_cryptocurrency_leak/))
 - AWS Middle East disrupted after ‘objects struck datacenter’ amid Iran war ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/03/01/asia_tech_news_roundup/))
-- South Korean Police Lose Seized Crypto By Posting Password Online ([4 hours ago](https://databreaches.net/2026/03/01/south-korean-police-lose-seized-crypto-by-posting-password-online/?pk_campaign=feed&pk_kwd=south-korean-police-lose-seized-crypto-by-posting-password-online))
-- ClawJacked attack let malicious websites hijack OpenClaw to steal data ([5 hours ago](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/))
-- Samsung TVs to stop collecting Texans’ data without express consent ([11 hours ago](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/))
-- Hackers Weaponize Claude Code in Mexican Government Cyberattack ([14 hours ago](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/))
-- OpenClaw, but in containers: Meet NanoClaw ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/03/01/nanoclaw_container_openclaw/))
-- SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/03/01/saaspocalypse_opinion/))
+- South Korean Police Lose Seized Crypto By Posting Password Online ([5 hours ago](https://databreaches.net/2026/03/01/south-korean-police-lose-seized-crypto-by-posting-password-online/?pk_campaign=feed&pk_kwd=south-korean-police-lose-seized-crypto-by-posting-password-online))
+- ClawJacked attack let malicious websites hijack OpenClaw to steal data ([6 hours ago](https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/))
+- Samsung TVs to stop collecting Texans’ data without express consent ([12 hours ago](https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/))
+- Hackers Weaponize Claude Code in Mexican Government Cyberattack ([15 hours ago](https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/))
+- OpenClaw, but in containers: Meet NanoClaw ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/03/01/nanoclaw_container_openclaw/))
+- SaaS-pocalypse chatter is doomster pr0n. It would be nice if enterprise IT were boring again ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/03/01/saaspocalypse_opinion/))
 - QuickLens Chrome extension steals crypto, shows ClickFix attack ([1 days ago](https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/))
 - ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket ([1 days ago](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html))
 - $4.8M in crypto stolen after Korean tax agency exposes wallet seed ([1 days ago](https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/))
@@ -138,7 +139,6 @@ description: SecOps News
 - UK data watchdog fines Reddit £14.47M for letting kids slip past the gate ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/24/ico_fines_reddit/))
 - Korean cops charge teens over bike hire breach that exposed data on 4.62M riders ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/24/korean_bike_breach_charges/))
 - UK tech hit by double trouble: Fewer foreign techies amid skills squeeze ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/24/brit_tech_firms_face_falling/))
-- Euro allies aiming to rapidly build low-cost air defense weapons ([5 days ago](https://go.theregister.com/feed/www.theregister.com/2026/02/24/uk_joins_european_allies_aiming/))
 - Code search experiencing degraded performance ([6 days ago](https://www.githubstatus.com/incidents/jn8kcmg5ydch))
 - Weekly Update 492 ([6 days ago](https://www.troyhunt.com/weekly-update-492/))
 - Incident with Issues and Pull Requests Search ([6 days ago](https://www.githubstatus.com/incidents/47n199g2d88x))
@@ -208,6 +208,5 @@ description: SecOps News
 - Please Don’t Feed the Scattered Lapsus ShinyHunters ([27 days ago](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/))
 - The European Space Agency got hacked, and now we own the domain used! ([27 days ago](https://scotthelme.ghost.io/the-european-space-agency-got-hacked-and-now-we-own-the-domain-used/))
 - FBI takes notorious RAMP ransomware forum offline ([29 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-takes-notorious-ramp-ransomware-forum-offline))
-- Panera Bread - 5,112,502 breached accounts ([29 days ago](https://haveibeenpwned.com/Breach/PaneraBread))
 
 <!-- news_marker ends -->
