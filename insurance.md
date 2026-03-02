@@ -9,12 +9,12 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - More complex risk landscape as AVs hit the road ([6 hours ago](https://www.dig-in.com/news/more-complex-risk-landscape-as-avs-hit-the-road))
-- MGAs should tread lightly with AI, underwriter says ([6 hours ago](https://www.dig-in.com/news/mgas-should-tread-lightly-with-ai-underwriter-says))
-- Insider threat prevention is built with trust and connection ([7 hours ago](https://www.dig-in.com/opinion/preventing-insider-threats))
+- MGAs should tread lightly with AI, underwriter says ([7 hours ago](https://www.dig-in.com/news/mgas-should-tread-lightly-with-ai-underwriter-says))
+- Insider threat prevention is built with trust and connection ([8 hours ago](https://www.dig-in.com/opinion/preventing-insider-threats))
 - Burns defends Allianz partnership as GAA revolt exposes sponsor risk ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/burns-defends-allianz-partnership-as-gaa-revolt-exposes-sponsor-risk-566940.aspx))
 - Report: Ukraine war risk insurance shifts from pilots to structured market ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/business-resilience/report-ukraine-war-risk-insurance-shifts-from-pilots-to-structured-market-566939.aspx))
-- Caravan Guard founder Peter Wilby dies at 78 ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/caravan-guard-founder-peter-wilby-dies-at-78-566938.aspx))
-- Why Reinsurance Keeps Delivering Returns When Markets Falter ([15 hours ago](https://insurance-edge.net/2026/03/01/why-reinsurance-keeps-delivering-returns-when-markets-falter/))
+- Caravan Guard founder Peter Wilby dies at 78 ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/caravan-guard-founder-peter-wilby-dies-at-78-566938.aspx))
+- Why Reinsurance Keeps Delivering Returns When Markets Falter ([16 hours ago](https://insurance-edge.net/2026/03/01/why-reinsurance-keeps-delivering-returns-when-markets-falter/))
 - Berkshire Hathaway posts strong ’25 re/insurance result, expects to write less P&C business ‘for a period of time’ ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-posts-strong-25-re-insurance-result-expects-to-write-less-pc-business-for-a-period-of-time/))
 - Digital ID Requirement For Money & Asset Transactions Moves Closer in UK ([1 days ago](https://insurance-edge.net/2026/02/28/digital-id-requirement-for-money-asset-transactions-moves-closer-in-uk/))
 - UK Appoints Barclays Executive as Top Bank of England Regulator ([2 days ago](https://www.insurancejournal.com/news/international/2026/02/27/859949.htm))
