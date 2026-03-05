@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  March 2026 ([12 hours ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
-- dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([18 hours ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
+- dotInsights  -  March 2026 ([14 hours ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
+- dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([19 hours ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([3 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([6 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([7 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
