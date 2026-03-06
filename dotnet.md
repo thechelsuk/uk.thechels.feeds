@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Release v1.0 of the official MCP C# SDK ([20 hours ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
+- Release v1.0 of the official MCP C# SDK ([21 hours ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 - dotInsights  -  March 2026 ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([2 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
@@ -17,7 +17,7 @@ description: DotNet Updates
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([9 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([9 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([10 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
-- C# Extension Members ([10 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
+- C# Extension Members ([11 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([12 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([14 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
 - Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([17 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([23 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- dotInsights  -  February 2026 ([23 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
+- dotInsights  -  February 2026 ([24 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([24 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
 - Is the craft dead? ([25 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([26 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
