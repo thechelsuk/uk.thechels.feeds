@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Release v1.0 of the official MCP C# SDK ([21 hours ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
+- Release v1.0 of the official MCP C# SDK ([22 hours ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 - dotInsights  -  March 2026 ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([2 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
