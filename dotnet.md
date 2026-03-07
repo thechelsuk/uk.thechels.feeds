@@ -13,7 +13,7 @@ description: DotNet Updates
 - dotInsights  -  March 2026 ([3 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([3 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([6 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
-- Vector Data in .NET – Building Blocks for AI Part 2 ([8 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
+- Vector Data in .NET – Building Blocks for AI Part 2 ([9 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([10 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([10 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([11 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
@@ -31,6 +31,5 @@ description: DotNet Updates
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([25 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
 - Is the craft dead? ([26 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([27 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
-- .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/))
 
 <!-- news_marker ends -->
