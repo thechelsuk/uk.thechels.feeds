@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Summary of Iran War Impact and Risk Outlook ([1 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
-- Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([18 hours ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
-- Lumera Picks Up XCelent Award For Customer Support ([22 hours ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
+- Latest Summary of Iran War Impact and Risk Outlook ([2 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
+- Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([19 hours ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
+- Lumera Picks Up XCelent Award For Customer Support ([23 hours ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
 - AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
 - SCOR will ‘cautiously try to expand’ NA nat cat portfolio if prices remain adequate: CEO Léger ([1 days ago](https://www.reinsurancene.ws/scor-will-cautiously-try-to-expand-na-nat-cat-portfolio-if-prices-remain-adequate-ceo-leger/))
 - AI ‘Man Camps’ Offer Golf, Free Steaks to Lure Workers in Texas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/03/06/860884.htm))
@@ -77,7 +77,7 @@ description: Insurance Updates
 - Stability returns, but the business insurance market is more technical in 2026 ([1 days ago](https://www.dig-in.com/opinion/the-business-insurance-market-is-more-technical-in-2026))
 - Agents at the center: Why the human touch still wins in insurance ([1 days ago](https://www.dig-in.com/opinion/agents-provide-the-human-touch-in-insurance-interactions))
 - Gen AI, agentic AI account for 68% of insurance deployments in Q4 2025: Evident ([1 days ago](https://www.dig-in.com/news/gen-ai-agentic-ai-account-for-68-of-insurance-deployments))
-- $1.2bn UK Motor Profit as Admiral Group’s ROE Hits 53% ([1 days ago](https://www.insurtechinsights.com/1-2bn-uk-motor-profit-as-admiral-groups-roe-hits-53/))
+- $1.2bn UK Motor Profit as Admiral Group’s ROE Hits 53% ([2 days ago](https://www.insurtechinsights.com/1-2bn-uk-motor-profit-as-admiral-groups-roe-hits-53/))
 - FCA names Brewis replacement ([2 days ago](https://www.postonline.co.uk/regulation/7959992/fca-names-brewis-replacement))
 - 20 insurtechs go head-to-head for Lloyd’s Lab cohort 16 spots ([2 days ago](https://www.postonline.co.uk/lloydslondon/7959985/20-insurtechs-go-head-to-head-for-lloyds-lab-cohort-16-spots))
 - Volt Underwriting deploys Novee AI for power and renewables underwriting ([2 days ago](https://www.insurtechinsights.com/volt-underwriting-deploys-novee-ai-for-power-and-renewables-underwriting/))
