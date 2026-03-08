@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Summary of Iran War Impact and Risk Outlook ([9 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
+- Latest Summary of Iran War Impact and Risk Outlook ([10 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
 - Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
 - Lumera Picks Up XCelent Award For Customer Support ([1 days ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
 - AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
@@ -70,9 +70,9 @@ description: Insurance Updates
 - Axa’s Lloyd on the power of fearless females ([1 days ago](https://www.postonline.co.uk/personal/7959880/axas-lloyd-on-the-power-of-fearless-females))
 - Revealed - what's changing about cyber claims ([1 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/revealed--whats-changing-about-cyber-claims-567617.aspx))
 - Insurance moves: QBE, Lumara and Tokio Marine Kiln ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-qbe-lumara-and-tokio-marine-kiln-567597.aspx))
-- Potholes drive up stress and repair bills as insurers count the cost - Hagerty survey ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/potholes-drive-up-stress-and-repair-bills-as-insurers-count-the-cost--hagerty-survey-567596.aspx))
-- Howden hires duo to lead global push into private capital advisory ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/howden-hires-duo-to-lead-global-push-into-private-capital-advisory-567594.aspx))
-- Antares Group posts profit amid wildfire and Ukraine hits ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/antares-group-posts-profit-amid-wildfire-and-ukraine-hits-567593.aspx))
+- Potholes drive up stress and repair bills as insurers count the cost - Hagerty survey ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/potholes-drive-up-stress-and-repair-bills-as-insurers-count-the-cost--hagerty-survey-567596.aspx))
+- Howden hires duo to lead global push into private capital advisory ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/howden-hires-duo-to-lead-global-push-into-private-capital-advisory-567594.aspx))
+- Antares Group posts profit amid wildfire and Ukraine hits ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/antares-group-posts-profit-amid-wildfire-and-ukraine-hits-567593.aspx))
 - Taxes, insurance eat 21% of mortgage payments ([2 days ago](https://www.dig-in.com/news/taxes-insurance-eat-21-of-mortgage-payments))
 - Stability returns, but the business insurance market is more technical in 2026 ([2 days ago](https://www.dig-in.com/opinion/the-business-insurance-market-is-more-technical-in-2026))
 - Agents at the center: Why the human touch still wins in insurance ([2 days ago](https://www.dig-in.com/opinion/agents-provide-the-human-touch-in-insurance-interactions))
