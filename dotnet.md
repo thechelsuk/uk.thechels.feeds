@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Inside the Azure SDK for .NET: A Code Quality Reality Check ([2 hours ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
+- Inside the Azure SDK for .NET: A Code Quality Reality Check ([3 hours ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([2 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 - dotInsights  -  March 2026 ([3 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
@@ -17,11 +17,11 @@ description: DotNet Updates
 - Vector Data in .NET – Building Blocks for AI Part 2 ([9 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([11 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([11 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
-- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([11 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
+- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([12 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([12 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([14 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([16 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
-- Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([18 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
+- Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([19 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
 - Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([21 days ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([24 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
 - Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([25 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
