@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Liberty puts Previsico flood detection to work ([2 hours ago](https://www.dig-in.com/news/liberty-puts-previsico-flood-detection-to-work))
-- Life insurance and annuity providers behind on user friendliness: JD Power ([2 hours ago](https://www.dig-in.com/news/life-annuity-providers-behind-on-user-friendliness))
-- Impacts from the Iran war on insurance and cybersecurity risks ([2 hours ago](https://www.dig-in.com/news/iran-war-impacts-on-insurance-and-cybersecurity))
+- Life insurance and annuity providers behind on user friendliness: JD Power ([3 hours ago](https://www.dig-in.com/news/life-annuity-providers-behind-on-user-friendliness))
+- Liberty puts Previsico flood detection to work ([3 hours ago](https://www.dig-in.com/news/liberty-puts-previsico-flood-detection-to-work))
+- Impacts from the Iran war on insurance and cybersecurity risks ([3 hours ago](https://www.dig-in.com/news/iran-war-impacts-on-insurance-and-cybersecurity))
 - Latest Summary of Iran War Impact and Risk Outlook ([1 days ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
 - Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
 - Lumera Picks Up XCelent Award For Customer Support ([2 days ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
