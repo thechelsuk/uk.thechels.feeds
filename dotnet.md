@@ -29,7 +29,7 @@ description: DotNet Updates
 - .NET and .NET Framework February 2026 servicing releases updates ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - dotInsights  -  February 2026 ([25 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([25 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
-- Is the craft dead? ([26 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
+- Is the craft dead? ([27 days ago](http://feeds.hanselman.com/~/945480746/0/scotthanselman~Is-the-craft-dead))
 - Boost Your .NET Projects with Spargine: Global Phone Number and Postal Code Validation Made Easy ([27 days ago](https://dotnettips.wordpress.com/2026/02/08/boost-your-net-projects-with-spargine-global-phone-number-and-postal-code-validation-made-easy/))
 
 <!-- news_marker ends -->
