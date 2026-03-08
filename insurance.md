@@ -77,7 +77,7 @@ description: Insurance Updates
 - Stability returns, but the business insurance market is more technical in 2026 ([2 days ago](https://www.dig-in.com/opinion/the-business-insurance-market-is-more-technical-in-2026))
 - Agents at the center: Why the human touch still wins in insurance ([2 days ago](https://www.dig-in.com/opinion/agents-provide-the-human-touch-in-insurance-interactions))
 - Gen AI, agentic AI account for 68% of insurance deployments in Q4 2025: Evident ([2 days ago](https://www.dig-in.com/news/gen-ai-agentic-ai-account-for-68-of-insurance-deployments))
-- $1.2bn UK Motor Profit as Admiral Group’s ROE Hits 53% ([2 days ago](https://www.insurtechinsights.com/1-2bn-uk-motor-profit-as-admiral-groups-roe-hits-53/))
+- $1.2bn UK Motor Profit as Admiral Group’s ROE Hits 53% ([3 days ago](https://www.insurtechinsights.com/1-2bn-uk-motor-profit-as-admiral-groups-roe-hits-53/))
 - FCA names Brewis replacement ([3 days ago](https://www.postonline.co.uk/regulation/7959992/fca-names-brewis-replacement))
 - 20 insurtechs go head-to-head for Lloyd’s Lab cohort 16 spots ([3 days ago](https://www.postonline.co.uk/lloydslondon/7959985/20-insurtechs-go-head-to-head-for-lloyds-lab-cohort-16-spots))
 - Volt Underwriting deploys Novee AI for power and renewables underwriting ([3 days ago](https://www.insurtechinsights.com/volt-underwriting-deploys-novee-ai-for-power-and-renewables-underwriting/))
