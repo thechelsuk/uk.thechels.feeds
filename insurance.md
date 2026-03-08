@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Summary of Iran War Impact and Risk Outlook ([15 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
+- Latest Summary of Iran War Impact and Risk Outlook ([16 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
 - Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
 - Lumera Picks Up XCelent Award For Customer Support ([1 days ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
 - AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
@@ -57,8 +57,8 @@ description: Insurance Updates
 - War risk cover still available despite Gulf shipping near-standstill ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/war-risk-cover-still-available-despite-gulf-shipping-nearstandstill-567651.aspx))
 - AXA-backed dashboard tracks dengue in real time across 88 countries ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axabacked-dashboard-tracks-dengue-in-real-time-across-88-countries-567648.aspx))
 - Missile Fire Hinders Middle East Rescue Flights as Airspace Edges Open ([1 days ago](https://www.insurancejournal.com/news/international/2026/03/06/860794.htm))
-- The importance of cancer navigation: what advisers need to know in 2026 ([1 days ago](https://ifamagazine.com/the-importance-of-cancer-navigation-what-advisers-need-to-know-in-2026/))
-- More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region ([1 days ago](https://www.insurancejournal.com/news/international/2026/03/06/860787.htm))
+- The importance of cancer navigation: what advisers need to know in 2026 ([2 days ago](https://ifamagazine.com/the-importance-of-cancer-navigation-what-advisers-need-to-know-in-2026/))
+- More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region ([2 days ago](https://www.insurancejournal.com/news/international/2026/03/06/860787.htm))
 - Strait of Hormuz Shipping Is at Near-Total Halt, JMIC Says ([2 days ago](https://www.insurancejournal.com/news/international/2026/03/06/860782.htm))
 - ISC Group launches 18-category awards to champion gender balance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/diversity-inclusion/isc-group-launches-18category-awards-to-champion-gender-balance-567630.aspx))
 - Penny Black’s Social Diary: Allianz’s tennis star; ABI’s questions ([2 days ago](https://www.postonline.co.uk/people/7959793/penny-blacks-social-diary-allianzs-tennis-star-abis-questions))
@@ -93,7 +93,7 @@ description: Insurance Updates
 - Guardian income protection now available on UnderwriteMe’s protection platform ([2 days ago](https://ifamagazine.com/guardian-income-protection-now-available-on-underwritemes-protection-platform/))
 - Aviva’s UK PL premiums up by half with help from Direct Line ([2 days ago](https://www.postonline.co.uk/news/7959982/avivas-uk-pl-premiums-up-by-half-with-help-from-direct-line))
 - British Friendly pays over £4.9m in claims and cuts average claim decision time to eight days ([2 days ago](https://ifamagazine.com/british-friendly-pays-over-4-9m-in-claims-and-cuts-average-claim-decision-time-to-eight-days/))
-- Lancashire claws back from wildfire crisis to post 21% ROE ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lancashire-claws-back-from-wildfire-crisis-to-post-21-roe-567485.aspx))
+- Lancashire claws back from wildfire crisis to post 21% ROE ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lancashire-claws-back-from-wildfire-crisis-to-post-21-roe-567485.aspx))
 - Middle East conflict piles pressure on energy and marine insurers - Allianz Trade ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/middle-east-conflict-piles-pressure-on-energy-and-marine-insurers--allianz-trade-567497.aspx))
 - Admiral profit jumps 16% as rivals struggle to keep pace ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/admiral-profit-jumps-16-as-rivals-struggle-to-keep-pace-567482.aspx))
 - Soft cycle shock: Can a US-Iran conflict harden the global insurance market? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/soft-cycle-shock-can-a-usiran-conflict-harden-the-global-insurance-market-567476.aspx))
