@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Summary of Iran War Impact and Risk Outlook ([6 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
-- Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([23 hours ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
+- Latest Summary of Iran War Impact and Risk Outlook ([7 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
+- Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
 - Lumera Picks Up XCelent Award For Customer Support ([1 days ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
 - AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
 - SCOR will ‘cautiously try to expand’ NA nat cat portfolio if prices remain adequate: CEO Léger ([1 days ago](https://www.reinsurancene.ws/scor-will-cautiously-try-to-expand-na-nat-cat-portfolio-if-prices-remain-adequate-ceo-leger/))
@@ -109,7 +109,7 @@ description: Insurance Updates
 - AXIS offshore wind claims study highlights loss drivers and pressure points for insurers ([2 days ago](https://www.insurancebusinessmag.com/uk/news/construction-engineering/axis-offshore-wind-claims-study-highlights-loss-drivers-and-pressure-points-for-insurers-567459.aspx))
 - Insurance moves: Open GI, ALA Insurance, Hamilton, BHSI and Policy Expert ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-open-gi-ala-insurance-hamilton-bhsi-and-policy-expert-567436.aspx))
 - Brokerslink bolsters UK benefits capability with Everywhen addition ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/brokerslink-bolsters-uk-benefits-capability-with-everywhen-addition-567435.aspx))
-- Which? warns insurers are failing storm-hit homeowners ([2 days ago](https://www.postonline.co.uk/personal/7959977/which-warns-insurers-are-failing-storm-hit-homeowners))
+- Which? warns insurers are failing storm-hit homeowners ([3 days ago](https://www.postonline.co.uk/personal/7959977/which-warns-insurers-are-failing-storm-hit-homeowners))
 - The next phase of insurtech: AI maturity, digital buying and rebuilding trust ([3 days ago](https://www.dig-in.com/opinion/the-next-phase-of-insurtech))
 - Marsh says tanker-insurance plan could take a few weeks ([3 days ago](https://www.dig-in.com/articles/marsh-says-u-s-tanker-insurance-plan-could-take-a-few-weeks))
 - Top insurtech funding rounds, February 2026 ([3 days ago](https://www.dig-in.com/list/top-insurtech-funding-rounds-february-2026))
