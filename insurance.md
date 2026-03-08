@@ -11,7 +11,7 @@ description: Insurance Updates
 - Latest Summary of Iran War Impact and Risk Outlook ([1 days ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
 - Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
 - Lumera Picks Up XCelent Award For Customer Support ([1 days ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
-- AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
+- AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
 - SCOR will ‘cautiously try to expand’ NA nat cat portfolio if prices remain adequate: CEO Léger ([2 days ago](https://www.reinsurancene.ws/scor-will-cautiously-try-to-expand-na-nat-cat-portfolio-if-prices-remain-adequate-ceo-leger/))
 - AI ‘Man Camps’ Offer Golf, Free Steaks to Lure Workers in Texas ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/03/06/860884.htm))
 - NHTSA to Hold Self-Driving Safety Forum With CEOs of Waymo, Zoox, Aurora ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/06/860886.htm))
