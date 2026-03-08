@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Summary of Iran War Impact and Risk Outlook ([13 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
+- Latest Summary of Iran War Impact and Risk Outlook ([14 hours ago](https://insurance-edge.net/2026/03/07/latest-summary-of-iran-war-impact-and-risk-outlook/))
 - Attorneys for Suspect in LA Wildfire Seek Release Based on New Evidence ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/06/860926.htm))
 - Lumera Picks Up XCelent Award For Customer Support ([1 days ago](https://insurance-edge.net/2026/03/06/lumera-picks-up-xcelent-award-for-customer-support/))
 - AM Best Upgrades Issuer Credit Rating of First Chicago Insurance Group Members ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/03/06/860910.htm))
