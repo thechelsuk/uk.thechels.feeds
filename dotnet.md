@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Inside the Azure SDK for .NET: A Code Quality Reality Check ([6 hours ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
+- Inside the Azure SDK for .NET: A Code Quality Reality Check ([7 hours ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([2 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([3 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 - dotInsights  -  March 2026 ([4 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
