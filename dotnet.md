@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([14 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
-- .NET 11 Preview 2 is now available! ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
-- .NET and .NET Framework March 2026 servicing releases updates ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
+- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([15 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
+- .NET 11 Preview 2 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
+- .NET and .NET Framework March 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([1 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
-- Extend your coding agent with .NET Skills ([1 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
+- Extend your coding agent with .NET Skills ([2 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([3 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([6 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([6 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
