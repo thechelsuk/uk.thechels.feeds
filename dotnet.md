@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([8 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
-- .NET 11 Preview 2 is now available! ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
-- .NET and .NET Framework March 2026 servicing releases updates ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
+- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([9 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
+- .NET 11 Preview 2 is now available! ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
+- .NET and .NET Framework March 2026 servicing releases updates ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([1 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 - Extend your coding agent with .NET Skills ([1 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([3 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([14 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([14 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([15 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
-- C# Extension Members ([15 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
+- C# Extension Members ([16 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([17 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([19 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
 - Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([22 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([28 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
-- dotInsights  -  February 2026 ([28 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
+- dotInsights  -  February 2026 ([29 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
 - Open Source in Focus: .NET Projects and the Tools Behind Them ([29 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
 
 <!-- news_marker ends -->
