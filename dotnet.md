@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- CollabTalk Podcast: Episode 183 with David McCarter ([1 hours ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
-- UX Chronicles: How OpenAI Broke Sora ([1 hours ago](https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
+- CollabTalk Podcast: Episode 183 with David McCarter ([2 hours ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
+- UX Chronicles: How OpenAI Broke Sora ([2 hours ago](https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([1 days ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
@@ -34,6 +34,5 @@ description: DotNet Updates
 - .NET 11 Preview 1 is now available! ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - dotInsights  -  February 2026 ([29 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
-- Open Source in Focus: .NET Projects and the Tools Behind Them ([29 days ago](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/))
 
 <!-- news_marker ends -->
