@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([22 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
+- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([23 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([1 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
