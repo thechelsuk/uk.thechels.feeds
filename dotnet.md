@@ -8,7 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([23 hours ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
+- CollabTalk Podcast: Episode 183 with David McCarter ([14 minutes ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
+- UX Chronicles: How OpenAI Broke Sora ([14 minutes ago](https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
+- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([1 days ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([1 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
@@ -29,8 +31,6 @@ description: DotNet Updates
 - Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([22 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
 - Boost Your .NET Projects with Spargine: Centralized Time Handling with the Clock Type ([24 days ago](https://dotnettips.wordpress.com/2026/02/15/boost-your-net-projects-with-spargine-centralized-time-handling-with-the-clock-type/))
 - GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026 ([28 days ago](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/))
-- Microsoft .NET Code Analysis: Efficient String Prefix Checks — StartsWith() vs. IndexOf() ([28 days ago](https://dotnettips.wordpress.com/2026/02/11/microsoft-net-code-analysis-efficient-string-prefix-checks-startswith-vs-indexof/))
-- Boost Your .NET Projects with Spargine: Modern Password Hashing Using PasswordHasher ([28 days ago](https://dotnettips.wordpress.com/2026/02/11/boost-your-net-projects-with-spargine-modern-password-hashing-using-passwordhasher/))
 - .NET 11 Preview 1 is now available! ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/))
 - .NET and .NET Framework February 2026 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/))
 - dotInsights  -  February 2026 ([29 days ago](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/))
