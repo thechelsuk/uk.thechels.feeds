@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Modernize .NET Anywhere with GitHub Copilot ([21 hours ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
-- .NET 10.0.5 Out-of-Band Release – macOS Debugger Fix ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/))
+- Modernize .NET Anywhere with GitHub Copilot ([22 hours ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
+- .NET 10.0.5 Out-of-Band Release – macOS Debugger Fix ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/))
 - CollabTalk Podcast: Episode 183 with David McCarter ([1 days ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
 - UX Chronicles: How OpenAI Broke Sora ([1 days ago](https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([2 days ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([16 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([16 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([17 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
-- C# Extension Members ([17 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
+- C# Extension Members ([18 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([19 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
 - Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([21 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
 - Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([24 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
