@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([4 hours ago](https://dotnettips.wordpress.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
+- Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([5 hours ago](https://dotnettips.wordpress.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
 - Modernize .NET Anywhere with GitHub Copilot ([1 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
 - .NET 10.0.5 Out-of-Band Release – macOS Debugger Fix ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/))
 - CollabTalk Podcast: Episode 183 with David McCarter ([1 days ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([12 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([15 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([16 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
-- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([16 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
+- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([17 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([17 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([18 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([19 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
