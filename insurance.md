@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Jail Time For Gang Involved in Sale & Rent-Back Scheme ([5 hours ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
-- US News: Fenris Launches MCP Server ([22 hours ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
-- Many People in UK Still Tend to Swerve Life Insurance ([23 hours ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
+- Jail Time For Gang Involved in Sale & Rent-Back Scheme ([6 hours ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
+- US News: Fenris Launches MCP Server ([23 hours ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
+- Many People in UK Still Tend to Swerve Life Insurance ([1 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
 - ‘Nation’s First’ Smoke Damage Standards Bill Wending Through California Legislature ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/13/861910.htm))
 - Kestrel sees net income hit $46.7m in 2025 amid premium growth ([1 days ago](https://www.reinsurancene.ws/kestrel-sees-net-income-hit-46-7m-in-2025-amid-premium-growth/))
 - Mapfre raises ROE target to above 13% and sets improved CoR for 2026 ([1 days ago](https://www.reinsurancene.ws/mapfre-raises-roe-target-to-above-13-and-sets-improved-cor-for-2026/))
