@@ -8,12 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Regular Expression Performance: Supercharge Your Match Counting ([17 minutes ago](https://dotnettips.wordpress.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
 - Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([1 days ago](https://dotnettips.wordpress.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
 - Modernize .NET Anywhere with GitHub Copilot ([2 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
 - .NET 10.0.5 Out-of-Band Release – macOS Debugger Fix ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/))
-- CollabTalk Podcast: Episode 183 with David McCarter ([2 days ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
-- UX Chronicles: How OpenAI Broke Sora ([2 days ago](https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
-- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([3 days ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
+- CollabTalk Podcast: Episode 183 with David McCarter ([3 days ago](https://dotnettips.wordpress.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
+- UX Chronicles: How OpenAI Broke Sora ([3 days ago](https://dotnettips.wordpress.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
+- dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([4 days ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([4 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
@@ -30,7 +31,6 @@ description: DotNet Updates
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([18 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([19 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 - UX Chronicles: A Software Engineer’s Reality Check on Modern Air Travel ([20 days ago](https://dotnettips.wordpress.com/2026/02/22/ux-chronicles-a-software-engineers-reality-check-on-modern-air-travel/))
-- Making Code Easier to Understand with Mermaid Diagrams and CodeRush ([22 days ago](https://dotnettips.wordpress.com/2026/02/20/making-code-easier-to-understand-with-mermaid-diagrams-and-coderush/))
 - Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3 ([25 days ago](https://andrewlock.net/creating-standard-and-observable-instruments/))
 
 <!-- news_marker ends -->
