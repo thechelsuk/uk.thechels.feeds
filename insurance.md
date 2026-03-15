@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Jail Time For Gang Involved in Sale & Rent-Back Scheme ([8 hours ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
+- Jail Time For Gang Involved in Sale & Rent-Back Scheme ([10 hours ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
 - US News: Fenris Launches MCP Server ([1 days ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
 - Many People in UK Still Tend to Swerve Life Insurance ([1 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
 - ‘Nation’s First’ Smoke Damage Standards Bill Wending Through California Legislature ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/13/861910.htm))
