@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Jail Time For Gang Involved in Sale & Rent-Back Scheme ([11 hours ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
+- Jail Time For Gang Involved in Sale & Rent-Back Scheme ([12 hours ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
 - US News: Fenris Launches MCP Server ([1 days ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
 - Many People in UK Still Tend to Swerve Life Insurance ([1 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
 - ‘Nation’s First’ Smoke Damage Standards Bill Wending Through California Legislature ([1 days ago](https://www.insurancejournal.com/news/west/2026/03/13/861910.htm))
@@ -63,7 +63,7 @@ description: Insurance Updates
 - P/C Statutory Results: The Highs and The Lows ([1 days ago](https://www.insurancejournal.com/news/national/2026/03/13/861704.htm))
 - Planet-Warming El Niño to Form by September, US Forecasters Say ([1 days ago](https://www.insurancejournal.com/news/national/2026/03/13/861693.htm))
 - Neptune Flood Launches App in ChatGPT to Get Preliminary Flood Insurance Quotes ([1 days ago](https://www.insurancejournal.com/news/national/2026/03/13/861759.htm))
-- Insurance moves: Nexus, Fidelis, Allianz SE and Markerstudy ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-nexus-fidelis-allianz-se-and-markerstudy-568445.aspx))
+- Insurance moves: Nexus, Fidelis, Allianz SE and Markerstudy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-nexus-fidelis-allianz-se-and-markerstudy-568445.aspx))
 - PRA fines Aviva's UK Insurance unit £10.6 million over solvency miscalculation ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pra-fines-avivas-uk-insurance-unit-10-6-million-over-solvency-miscalculation-568441.aspx))
 - Vienna Insurance Group breaks €1 billion profit barrier on strong underwriting performance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/vienna-insurance-group-breaks-1-billion-profit-barrier-on-strong-underwriting-performance-568438.aspx))
 - Allianz UK flags sharp rise in insurance fraud ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-uk-flags-sharp-rise-in-insurance-fraud-568437.aspx))
@@ -94,8 +94,8 @@ description: Insurance Updates
 - Q&A: Jordan De Saa, Acturis ([2 days ago](https://www.postonline.co.uk/technology/7959930/qa-jordan-de-saa-acturis))
 - Throwback Thursday: NU goes west & D&G’s PC deal ([2 days ago](https://www.postonline.co.uk/personal/7959585/throwback-thursday-nu-goes-west-dgs-pc-deal))
 - Cyber competition must not weaken underwriting discipline ([2 days ago](https://www.postonline.co.uk/commercial/7959997/cyber-competition-must-not-weaken-underwriting-discipline))
-- London market holds line on Iran war cover amid price surges, IUA chief says ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/london-market-holds-line-on-iran-war-cover-amid-price-surges-iua-chief-says-568289.aspx))
-- Insurance moves: Markel, AXA XL, Chubb, Assurant and Banyan Risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-axa-xl-chubb-assurant-and-banyan-risk-568297.aspx))
+- London market holds line on Iran war cover amid price surges, IUA chief says ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/london-market-holds-line-on-iran-war-cover-amid-price-surges-iua-chief-says-568289.aspx))
+- Insurance moves: Markel, AXA XL, Chubb, Assurant and Banyan Risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-axa-xl-chubb-assurant-and-banyan-risk-568297.aspx))
 - QBE working with Beloy on embedded EV salary sacrifice cover ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/qbe-working-with-beloy-on-embedded-ev-salary-sacrifice-cover-568291.aspx))
 - Insure4Sport posts record month amid UK fitness boom ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insure4sport-posts-record-month-amid-uk-fitness-boom-568290.aspx))
 - 72% of insurers still rely on Excel for critical workflows, INTX ([3 days ago](https://www.dig-in.com/news/72-of-insurers-rely-on-excel-for-critical-workflows-intx))
