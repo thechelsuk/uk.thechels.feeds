@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How data is key to P&C customer service ([4 minutes ago](https://www.dig-in.com/news/how-data-is-key-to-p-c-customer-service))
-- Understanding the risks of AI integration across the insurance industry ([34 minutes ago](https://www.dig-in.com/news/the-risks-of-ai-integration-across-insurance))
+- How data is key to P&C customer service ([1 hours ago](https://www.dig-in.com/news/how-data-is-key-to-p-c-customer-service))
+- Understanding the risks of AI integration across the insurance industry ([1 hours ago](https://www.dig-in.com/news/the-risks-of-ai-integration-across-insurance))
 - Jail Time For Gang Involved in Sale & Rent-Back Scheme ([1 days ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
 - US News: Fenris Launches MCP Server ([1 days ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
-- Many People in UK Still Tend to Swerve Life Insurance ([1 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
+- Many People in UK Still Tend to Swerve Life Insurance ([2 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
 - ‘Nation’s First’ Smoke Damage Standards Bill Wending Through California Legislature ([2 days ago](https://www.insurancejournal.com/news/west/2026/03/13/861910.htm))
 - Kestrel sees net income hit $46.7m in 2025 amid premium growth ([2 days ago](https://www.reinsurancene.ws/kestrel-sees-net-income-hit-46-7m-in-2025-amid-premium-growth/))
 - Mapfre raises ROE target to above 13% and sets improved CoR for 2026 ([2 days ago](https://www.reinsurancene.ws/mapfre-raises-roe-target-to-above-13-and-sets-improved-cor-for-2026/))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - Insurance moves: Markel, AXA XL, Chubb, Assurant and Banyan Risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-markel-axa-xl-chubb-assurant-and-banyan-risk-568297.aspx))
 - QBE working with Beloy on embedded EV salary sacrifice cover ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/qbe-working-with-beloy-on-embedded-ev-salary-sacrifice-cover-568291.aspx))
 - Insure4Sport posts record month amid UK fitness boom ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insure4sport-posts-record-month-amid-uk-fitness-boom-568290.aspx))
-- 72% of insurers still rely on Excel for critical workflows, INTX ([3 days ago](https://www.dig-in.com/news/72-of-insurers-rely-on-excel-for-critical-workflows-intx))
+- 72% of insurers still rely on Excel for critical workflows, INTX ([4 days ago](https://www.dig-in.com/news/72-of-insurers-rely-on-excel-for-critical-workflows-intx))
 - AI brings severe change but will "unlock" value for insurance ([4 days ago](https://www.dig-in.com/news/ai-brings-severe-change-but-will-unlock-value-for-insurance))
 - Why underwriting judgement cannot be automated away ([4 days ago](https://www.dig-in.com/opinion/why-underwriting-judgement-cannot-be-automated-away))
 - FDIC's Hill: Stablecoins ineligible for pass-through insurance ([4 days ago](https://www.dig-in.com/news/fdics-hill-stablecoins-ineligible-for-pass-through-insurance))
