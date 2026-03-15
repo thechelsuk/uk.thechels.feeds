@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Regular Expression Performance: Supercharge Your Match Counting ([6 hours ago](https://dotnettips.wordpress.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
+- Regular Expression Performance: Supercharge Your Match Counting ([7 hours ago](https://dotnettips.wordpress.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
 - Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([1 days ago](https://dotnettips.wordpress.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
 - Modernize .NET Anywhere with GitHub Copilot ([2 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
 - .NET 10.0.5 Out-of-Band Release – macOS Debugger Fix ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([7 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([9 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([10 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
-- dotInsights  -  March 2026 ([10 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
+- dotInsights  -  March 2026 ([11 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([11 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([14 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([16 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
