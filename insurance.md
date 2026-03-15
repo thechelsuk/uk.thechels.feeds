@@ -116,7 +116,7 @@ description: Insurance Updates
 - AI is transforming proof of insurance ([4 days ago](https://www.dig-in.com/opinion/ai-is-transforming-proof-of-insurance))
 - AI and cyber events are top risks: CAS, SOA ([4 days ago](https://www.dig-in.com/news/ai-and-cyber-events-are-top-risks-cas-soa))
 - The evolving impact of AI on insurance ([4 days ago](https://www.dig-in.com/opinion/the-evolving-impact-of-ai-on-insurance))
-- Can increasing women's access to specialists decrease insurance costs? ([4 days ago](https://www.dig-in.com/news/how-blair-health-is-making-healthcare-more-inclusive))
+- Can increasing women's access to specialists decrease insurance costs? ([5 days ago](https://www.dig-in.com/news/how-blair-health-is-making-healthcare-more-inclusive))
 - Marsh Appoints Nick Studer CEO of Marsh Risk, Creates Enterprise Client Role for Martin South ([5 days ago](https://www.insurtechinsights.com/marsh-appoints-nick-studer-ceo-of-marsh-risk-creates-enterprise-client-role-for-martin-south/))
 - Beazley Acquires kWh Analytics to Expand Renewable Energy Insurance Capabilities ([5 days ago](https://www.insurtechinsights.com/beazley-acquires-kwh-analytics-to-expand-renewable-energy-insurance-capabilities/))
 - FOS calls for more vigilance among young drivers ([5 days ago](https://www.postonline.co.uk/claims/7960011/fos-calls-for-more-vigilance-among-young-drivers))
