@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How data is key to P&C customer service ([4 hours ago](https://www.dig-in.com/news/how-data-is-key-to-p-c-customer-service))
-- Understanding the risks of AI integration across the insurance industry ([4 hours ago](https://www.dig-in.com/news/the-risks-of-ai-integration-across-insurance))
+- How data is key to P&C customer service ([5 hours ago](https://www.dig-in.com/news/how-data-is-key-to-p-c-customer-service))
+- Understanding the risks of AI integration across the insurance industry ([6 hours ago](https://www.dig-in.com/news/the-risks-of-ai-integration-across-insurance))
+- Stryker Attack Mirrors Tactics Used in Iran‑Aligned Hacks ([20 hours ago](https://www.insurancejournal.com/news/national/2026/03/15/861989.htm))
 - Jail Time For Gang Involved in Sale & Rent-Back Scheme ([1 days ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
 - US News: Fenris Launches MCP Server ([2 days ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
 - Many People in UK Still Tend to Swerve Life Insurance ([2 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
@@ -64,7 +65,6 @@ description: Insurance Updates
 - Syngenta to Cease Global Production of Toxic Herbicide ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/03/13/861795.htm))
 - P/C Statutory Results: The Highs and The Lows ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/13/861704.htm))
 - Planet-Warming El Niño to Form by September, US Forecasters Say ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/13/861693.htm))
-- Neptune Flood Launches App in ChatGPT to Get Preliminary Flood Insurance Quotes ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/13/861759.htm))
 - Insurance moves: Nexus, Fidelis, Allianz SE and Markerstudy ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-nexus-fidelis-allianz-se-and-markerstudy-568445.aspx))
 - PRA fines Aviva's UK Insurance unit £10.6 million over solvency miscalculation ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pra-fines-avivas-uk-insurance-unit-10-6-million-over-solvency-miscalculation-568441.aspx))
 - Vienna Insurance Group breaks €1 billion profit barrier on strong underwriting performance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/vienna-insurance-group-breaks-1-billion-profit-barrier-on-strong-underwriting-performance-568438.aspx))
