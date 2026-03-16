@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How data is key to P&C customer service ([3 hours ago](https://www.dig-in.com/news/how-data-is-key-to-p-c-customer-service))
-- Understanding the risks of AI integration across the insurance industry ([3 hours ago](https://www.dig-in.com/news/the-risks-of-ai-integration-across-insurance))
+- How data is key to P&C customer service ([4 hours ago](https://www.dig-in.com/news/how-data-is-key-to-p-c-customer-service))
+- Understanding the risks of AI integration across the insurance industry ([4 hours ago](https://www.dig-in.com/news/the-risks-of-ai-integration-across-insurance))
 - Jail Time For Gang Involved in Sale & Rent-Back Scheme ([1 days ago](https://insurance-edge.net/2026/03/14/jail-time-for-gang-involved-in-sale-rent-back-scheme/))
 - US News: Fenris Launches MCP Server ([2 days ago](https://insurance-edge.net/2026/03/13/us-news-fenris-launches-mcp-server/))
 - Many People in UK Still Tend to Swerve Life Insurance ([2 days ago](https://insurance-edge.net/2026/03/13/many-people-in-uk-still-tend-to-swerve-life-insurance/))
