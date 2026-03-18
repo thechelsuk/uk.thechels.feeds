@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([7 hours ago](https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
-- RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([20 hours ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
+- dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([8 hours ago](https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
+- RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([21 hours ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
 - Regular Expression Performance: Supercharge Your Match Counting ([3 days ago](https://dotnettips.wordpress.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
 - Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([4 days ago](https://dotnettips.wordpress.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
 - Modernize .NET Anywhere with GitHub Copilot ([5 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
