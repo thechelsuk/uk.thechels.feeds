@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Accelerating .NET MAUI Development with AI Agents ([11 hours ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
+- Accelerating .NET MAUI Development with AI Agents ([12 hours ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([2 days ago](https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([2 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
 - Regular Expression Performance: Supercharge Your Match Counting ([5 days ago](https://dotnettips.wordpress.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
@@ -31,7 +31,7 @@ description: DotNet Updates
 - Vector Data in .NET – Building Blocks for AI Part 2 ([21 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([23 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([23 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
-- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([23 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
+- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([24 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([24 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 
 <!-- news_marker ends -->
