@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider 2026.1 Release Candidate Is Out! ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
-- ReSharper 2026.1 Release Candidate Released! ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
+- Rider 2026.1 Release Candidate Is Out! ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
+- ReSharper 2026.1 Release Candidate Released! ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([1 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([2 days ago](https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([3 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
@@ -32,7 +32,7 @@ description: DotNet Updates
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([19 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([22 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([23 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
-- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([23 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
+- The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([24 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([24 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([25 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 
