@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- NHTSA Upgrades Probe into 3.2M Teslas Over Self-Driving Crashes ([23 hours ago](https://www.insurancejournal.com/news/national/2026/03/20/862650.htm))
-- Iran threatens international tourist sites as war with U.S. and Israel deepens ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/hospitality/iran-threatens-international-tourist-sites-as-war-with-u-s--and-israel-deepens-569354.aspx))
-- What’s On USA; Formation `26: Agents of Innovation ([23 hours ago](https://insurance-edge.net/2026/03/20/whats-on-usa-formation-26-agents-of-innovation/))
+- NHTSA Upgrades Probe into 3.2M Teslas Over Self-Driving Crashes ([1 days ago](https://www.insurancejournal.com/news/national/2026/03/20/862650.htm))
+- Iran threatens international tourist sites as war with U.S. and Israel deepens ([1 days ago](https://www.insurancebusinessmag.com/uk/news/hospitality/iran-threatens-international-tourist-sites-as-war-with-u-s--and-israel-deepens-569354.aspx))
+- What’s On USA; Formation `26: Agents of Innovation ([1 days ago](https://insurance-edge.net/2026/03/20/whats-on-usa-formation-26-agents-of-innovation/))
 - Intelligent AI partners with Guidewire to integrate high-resolution property risk and rebuilt data ([1 days ago](https://www.reinsurancene.ws/intelligent-ai-partners-with-guidewire-to-integrate-high-resolution-property-risk-and-rebuilt-data/))
 - Intelligent AI Teams Up With Guidewire on Property Data ([1 days ago](https://insurance-edge.net/2026/03/20/intelligent-ai-teams-up-with-guidewire-on-property-data/))
 - Chubb reveals structure of DFC’s $20bn Gulf Maritime Insurance Facility ([1 days ago](https://www.reinsurancene.ws/chubb-reveals-structure-of-dfcs-20bn-gulf-maritime-insurance-facility/))
