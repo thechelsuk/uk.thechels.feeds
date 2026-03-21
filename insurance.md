@@ -98,7 +98,7 @@ description: Insurance Updates
 - How AI can help build the insurance workforce of the future ([2 days ago](https://www.postonline.co.uk/market-access/7960027/how-ai-can-help-build-the-insurance-workforce-of-the-future))
 - Middle East conflict puts terrorism insurance accumulation risk in the spotlight ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/middle-east-conflict-puts-terrorism-insurance-accumulation-risk-in-the-spotlight-569098.aspx))
 - AI ambition and manual reality: Insurers face 'operational divide' in 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/ai-ambition-and-manual-reality-insurers-face-operational-divide-in-2026-569093.aspx))
-- FHFA loosens insurance rules targeting condos, rural loans ([2 days ago](https://www.dig-in.com/news/fhfa-loosens-condos-and-rural-loans-insurance-rules))
+- FHFA loosens insurance rules targeting condos, rural loans ([3 days ago](https://www.dig-in.com/news/fhfa-loosens-condos-and-rural-loans-insurance-rules))
 - State lawmakers to try again on standards for insurers' use of aerial images ([3 days ago](https://www.dig-in.com/news/state-lawmakers-will-address-insurers-use-of-aerial-images))
 - Frequent climate events are quietly becoming a larger problem ([3 days ago](https://www.dig-in.com/opinion/climate-events-are-becoming-a-larger-problem))
 - Home insurance prices set to keep rising with severe weather ([3 days ago](https://www.dig-in.com/articles/home-insurance-prices-set-to-keep-rising-with-severe-weather))
