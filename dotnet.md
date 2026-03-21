@@ -34,6 +34,6 @@ description: DotNet Updates
 - Rock Your Career: When Recruiters Treat Interviews Like Lottery Tickets ([24 days ago](https://dotnettips.wordpress.com/2026/02/25/rock-your-career-when-recruiters-treat-interviews-like-lottery-tickets/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([24 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([25 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
-- C# Extension Members ([25 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
+- C# Extension Members ([26 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 
 <!-- news_marker ends -->
