@@ -69,7 +69,7 @@ description: Insurance Updates
 - ANV Group to acquire London-based Iris Insurance Brokers ([1 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/anv-group-to-acquire-londonbased-iris-insurance-brokers-569231.aspx))
 - R&W insurance premiums rise sharply as mega deals hit record levels - Marsh ([1 days ago](https://www.insurancebusinessmag.com/uk/news/claims/randw-insurance-premiums-rise-sharply-as-mega-deals-hit-record-levels--marsh-569240.aspx))
 - Athora reports €767 million capital generation as PICG acquisition nears completion ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/athora-reports-767-million-capital-generation-as-picg-acquisition-nears-completion-569239.aspx))
-- IGI and Brokerslink refresh boards ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/igi-and-brokerslink-refresh-boards-569232.aspx))
+- IGI and Brokerslink refresh boards ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/igi-and-brokerslink-refresh-boards-569232.aspx))
 - Personal insurance in 2026: Stability returns, underwriting tightens ([2 days ago](https://www.dig-in.com/opinion/personal-insurance-in-2026))
 - How to avoid 3 common pitfalls as an independent agent ([2 days ago](https://www.dig-in.com/opinion/how-to-avoid-3-common-pitfalls-as-an-independent-agent))
 - What will differentiate AI leaders from laggards as insurance moves beyond "pilot mania" ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/what-will-differentiate-ai-leaders-from-laggards-as-insurance-moves-beyond-pilot-mania-569187.aspx))
