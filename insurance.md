@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Beazley acquires kWh Analytics; Aon names North America CEO: Insurtech news ([1 hours ago](https://www.dig-in.com/news/beazley-acquires-kwh-analytics-aon-names-ceo-insurtech-news))
-- AI compliance issues and legal liability risks for insurers ([2 hours ago](https://www.dig-in.com/opinion/legal-issues-and-ai-compliance))
-- Hormuz: Update From Lloyd’s Market Association ([8 hours ago](https://insurance-edge.net/2026/03/22/hormuz-update-from-lloyds-market-association/))
+- Beazley acquires kWh Analytics; Aon names North America CEO: Insurtech news ([2 hours ago](https://www.dig-in.com/news/beazley-acquires-kwh-analytics-aon-names-ceo-insurtech-news))
+- AI compliance issues and legal liability risks for insurers ([3 hours ago](https://www.dig-in.com/opinion/legal-issues-and-ai-compliance))
+- Hormuz: Update From Lloyd’s Market Association ([9 hours ago](https://insurance-edge.net/2026/03/22/hormuz-update-from-lloyds-market-association/))
 - NHTSA Upgrades Probe into 3.2M Teslas Over Self-Driving Crashes ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/20/862650.htm))
 - Iran threatens international tourist sites as war with U.S. and Israel deepens ([2 days ago](https://www.insurancebusinessmag.com/uk/news/hospitality/iran-threatens-international-tourist-sites-as-war-with-u-s--and-israel-deepens-569354.aspx))
 - What’s On USA; Formation `26: Agents of Innovation ([2 days ago](https://insurance-edge.net/2026/03/20/whats-on-usa-formation-26-agents-of-innovation/))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - How AI can help build the insurance workforce of the future ([3 days ago](https://www.postonline.co.uk/market-access/7960027/how-ai-can-help-build-the-insurance-workforce-of-the-future))
 - Middle East conflict puts terrorism insurance accumulation risk in the spotlight ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/middle-east-conflict-puts-terrorism-insurance-accumulation-risk-in-the-spotlight-569098.aspx))
 - AI ambition and manual reality: Insurers face 'operational divide' in 2026 ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/ai-ambition-and-manual-reality-insurers-face-operational-divide-in-2026-569093.aspx))
-- FHFA loosens insurance rules targeting condos, rural loans ([3 days ago](https://www.dig-in.com/news/fhfa-loosens-condos-and-rural-loans-insurance-rules))
+- FHFA loosens insurance rules targeting condos, rural loans ([4 days ago](https://www.dig-in.com/news/fhfa-loosens-condos-and-rural-loans-insurance-rules))
 - State lawmakers to try again on standards for insurers' use of aerial images ([4 days ago](https://www.dig-in.com/news/state-lawmakers-will-address-insurers-use-of-aerial-images))
 - Frequent climate events are quietly becoming a larger problem ([4 days ago](https://www.dig-in.com/opinion/climate-events-are-becoming-a-larger-problem))
 - Home insurance prices set to keep rising with severe weather ([4 days ago](https://www.dig-in.com/articles/home-insurance-prices-set-to-keep-rising-with-severe-weather))
