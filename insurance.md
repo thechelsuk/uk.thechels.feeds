@@ -8,7 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Hormuz: Update From Lloyd’s Market Association ([5 hours ago](https://insurance-edge.net/2026/03/22/hormuz-update-from-lloyds-market-association/))
+- AI compliance issues and legal liability risks for insurers ([8 minutes ago](https://www.dig-in.com/opinion/legal-issues-and-ai-compliance))
+- Hormuz: Update From Lloyd’s Market Association ([7 hours ago](https://insurance-edge.net/2026/03/22/hormuz-update-from-lloyds-market-association/))
 - NHTSA Upgrades Probe into 3.2M Teslas Over Self-Driving Crashes ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/20/862650.htm))
 - Iran threatens international tourist sites as war with U.S. and Israel deepens ([2 days ago](https://www.insurancebusinessmag.com/uk/news/hospitality/iran-threatens-international-tourist-sites-as-war-with-u-s--and-israel-deepens-569354.aspx))
 - What’s On USA; Formation `26: Agents of Innovation ([2 days ago](https://insurance-edge.net/2026/03/20/whats-on-usa-formation-26-agents-of-innovation/))
@@ -71,7 +72,7 @@ description: Insurance Updates
 - Athora reports €767 million capital generation as PICG acquisition nears completion ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/athora-reports-767-million-capital-generation-as-picg-acquisition-nears-completion-569239.aspx))
 - IGI and Brokerslink refresh boards ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/igi-and-brokerslink-refresh-boards-569232.aspx))
 - Personal insurance in 2026: Stability returns, underwriting tightens ([2 days ago](https://www.dig-in.com/opinion/personal-insurance-in-2026))
-- How to avoid 3 common pitfalls as an independent agent ([2 days ago](https://www.dig-in.com/opinion/how-to-avoid-3-common-pitfalls-as-an-independent-agent))
+- How to avoid 3 common pitfalls as an independent agent ([3 days ago](https://www.dig-in.com/opinion/how-to-avoid-3-common-pitfalls-as-an-independent-agent))
 - What will differentiate AI leaders from laggards as insurance moves beyond "pilot mania" ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/what-will-differentiate-ai-leaders-from-laggards-as-insurance-moves-beyond-pilot-mania-569187.aspx))
 - ManyPets CEO warns pet insurance is at inflection point ([3 days ago](https://www.postonline.co.uk/personal/7960059/manypets-ceo-warns-pet-insurance-is-at-inflection-point))
 - Insurance industry urged to move “beyond climate” ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-industry-urged-to-move-beyond-climate-569176.aspx))
@@ -115,7 +116,6 @@ description: Insurance Updates
 - How should success of FCA’s response to Which be judged? ([4 days ago](https://www.postonline.co.uk/regulation/7959697/how-should-success-of-fcas-response-to-which-be-judged))
 - Digital claims tools drive property insurance customer satisfaction, JD Power ([4 days ago](https://www.dig-in.com/news/digital-claims-tools-drive-customer-satisfaction))
 - Overcoming AI adoption challenges for life insurance ([4 days ago](https://www.dig-in.com/opinion/overcoming-ai-adoption-challenges-for-life-insurance))
-- Markel launches AI Centre of Enablement, names head of AI ([4 days ago](https://www.dig-in.com/news/markel-launches-ai-centre-of-enablement-names-head-of-ai))
 - GRiD influences government decision to clarify IHT exemption for standalone death in service benefits ([5 days ago](https://ifamagazine.com/grid-influences-government-decision-to-clarify-iht-exemption-for-standalone-death-in-service-benefits/))
 - Modern Pricing Becomes Critical as Insurers Confront Data and Competitive Pressures ([5 days ago](https://www.insurtechinsights.com/modern-pricing-becomes-critical-as-insurers-confront-data-and-competitive-pressures/))
 - Cloud and AI Key to Strengthening Underwriting Profitability, Industry Leaders Say ([6 days ago](https://www.insurtechinsights.com/cloud-and-ai-key-to-strengthening-underwriting-profitability-industry-leaders-say/))
