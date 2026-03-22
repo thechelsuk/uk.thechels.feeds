@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- General Performance: Exploring Thread ID Retrieval Methods ([6 hours ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
-- Rider 2026.1 Release Candidate Is Out! ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
-- ReSharper 2026.1 Release Candidate Released! ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
+- General Performance: Exploring Thread ID Retrieval Methods ([7 hours ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
+- Rider 2026.1 Release Candidate Is Out! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
+- ReSharper 2026.1 Release Candidate Released! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([2 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([4 days ago](https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([4 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([14 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([16 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([17 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
-- dotInsights  -  March 2026 ([17 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
+- dotInsights  -  March 2026 ([18 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([18 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([21 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([23 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
