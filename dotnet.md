@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- General Performance: Exploring Thread ID Retrieval Methods ([8 hours ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
+- General Performance: Exploring Thread ID Retrieval Methods ([9 hours ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([2 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
@@ -34,6 +34,6 @@ description: DotNet Updates
 - Vector Data in .NET – Building Blocks for AI Part 2 ([23 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([25 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([26 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
-- C# Extension Members ([26 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
+- C# Extension Members ([27 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 
 <!-- news_marker ends -->
