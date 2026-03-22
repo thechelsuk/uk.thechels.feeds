@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- General Performance: Exploring Thread ID Retrieval Methods ([2 hours ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
+- General Performance: Exploring Thread ID Retrieval Methods ([3 hours ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([2 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([11 days ago](https://dotnettips.wordpress.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
-- Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([11 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
+- Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([12 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 - Extend your coding agent with .NET Skills ([12 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([14 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([16 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
