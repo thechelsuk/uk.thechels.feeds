@@ -33,7 +33,7 @@ description: DotNet Updates
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([22 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Vector Data in .NET – Building Blocks for AI Part 2 ([24 days ago](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/))
 - The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip ([26 days ago](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/))
-- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([26 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
+- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([27 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([27 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 
 <!-- news_marker ends -->
