@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Beazley acquires kWh Analytics; Aon names North America CEO: Insurtech news ([3 hours ago](https://www.dig-in.com/news/beazley-acquires-kwh-analytics-aon-names-ceo-insurtech-news))
-- AI compliance issues and legal liability risks for insurers ([4 hours ago](https://www.dig-in.com/opinion/legal-issues-and-ai-compliance))
-- Hormuz: Update From Lloyd’s Market Association ([10 hours ago](https://insurance-edge.net/2026/03/22/hormuz-update-from-lloyds-market-association/))
+- Beazley acquires kWh Analytics; Aon names North America CEO: Insurtech news ([4 hours ago](https://www.dig-in.com/news/beazley-acquires-kwh-analytics-aon-names-ceo-insurtech-news))
+- AI compliance issues and legal liability risks for insurers ([5 hours ago](https://www.dig-in.com/opinion/legal-issues-and-ai-compliance))
+- Hormuz: Update From Lloyd’s Market Association ([11 hours ago](https://insurance-edge.net/2026/03/22/hormuz-update-from-lloyds-market-association/))
 - NHTSA Upgrades Probe into 3.2M Teslas Over Self-Driving Crashes ([2 days ago](https://www.insurancejournal.com/news/national/2026/03/20/862650.htm))
 - Iran threatens international tourist sites as war with U.S. and Israel deepens ([2 days ago](https://www.insurancebusinessmag.com/uk/news/hospitality/iran-threatens-international-tourist-sites-as-war-with-u-s--and-israel-deepens-569354.aspx))
 - What’s On USA; Formation `26: Agents of Innovation ([2 days ago](https://insurance-edge.net/2026/03/20/whats-on-usa-formation-26-agents-of-innovation/))
