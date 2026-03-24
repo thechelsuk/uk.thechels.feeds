@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Generative AI for Beginners .NET: Version 2 on .NET 10 ([16 hours ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
-- Ten Months with Copilot Coding Agent in dotnet/runtime ([18 hours ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
+- Generative AI for Beginners .NET: Version 2 on .NET 10 ([17 hours ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
+- Ten Months with Copilot Coding Agent in dotnet/runtime ([19 hours ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([2 days ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - dotInsights  -  March 2026 ([19 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([20 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
 - Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([23 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
-- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([27 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
+- Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([28 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 - C# Extension Members ([28 days ago](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/))
 
 <!-- news_marker ends -->
