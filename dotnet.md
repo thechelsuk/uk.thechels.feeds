@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([2 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
-- Ten Months with Copilot Coding Agent in dotnet/runtime ([2 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
+- Ten Months with Copilot Coding Agent in dotnet/runtime ([3 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([4 days ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([6 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([6 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
