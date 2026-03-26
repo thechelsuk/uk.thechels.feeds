@@ -27,12 +27,12 @@ description: DotNet Updates
 - .NET and .NET Framework March 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([15 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 - Extend your coding agent with .NET Skills ([16 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
-- Inside the Azure SDK for .NET: A Code Quality Reality Check ([17 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
+- Inside the Azure SDK for .NET: A Code Quality Reality Check ([18 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([20 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([20 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 - dotInsights  -  March 2026 ([21 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
-- dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([21 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
-- Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([24 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
+- dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([22 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
+- Inside the AWS SDK for .NET: A Code Quality Wake-Up Call ([25 days ago](https://dotnettips.wordpress.com/2026/03/01/inside-the-aws-sdk-for-net-a-code-quality-wake-up-call/))
 - Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4 ([29 days ago](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/))
 
 <!-- news_marker ends -->
