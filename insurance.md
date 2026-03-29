@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Investment Cash is Over $8 Trillion in Luxembourg ([1 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
-- Repairify Expands Mobile Operations, With Rapid ADAS Issues Support & Capabilities ([4 hours ago](https://insurance-edge.net/2026/03/28/repairify-expands-mobile-operations-with-rapid-adas-issues-support-capabilities/))
-- Q&A: What Are the Primary Causes of Motorcycle Crashes? ([5 hours ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
-- Corebridge Financial and Equitable Holdings agree $22bn merger to create $1.5tn platform ([11 hours ago](https://www.insurtechinsights.com/corebridge-financial-and-equitable-holdings-agree-22bn-merger-to-create-1-5tn-platform/))
-- China Life Insurance posts strong profit growth driven by investment performance and product innovation ([11 hours ago](https://www.insurtechinsights.com/china-life-insurance-posts-strong-profit-growth-driven-by-investment-performance-and-product-innovation/))
-- New Drivers See Insurance Premiums Fall, Says Compare The Market ([13 hours ago](https://insurance-edge.net/2026/03/28/new-drivers-see-insurance-premiums-fall-says-compare-the-market/))
+- Investment Cash is Over $8 Trillion in Luxembourg ([2 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
+- Repairify Expands Mobile Operations, With Rapid ADAS Issues Support & Capabilities ([6 hours ago](https://insurance-edge.net/2026/03/28/repairify-expands-mobile-operations-with-rapid-adas-issues-support-capabilities/))
+- Q&A: What Are the Primary Causes of Motorcycle Crashes? ([6 hours ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
+- Corebridge Financial and Equitable Holdings agree $22bn merger to create $1.5tn platform ([13 hours ago](https://www.insurtechinsights.com/corebridge-financial-and-equitable-holdings-agree-22bn-merger-to-create-1-5tn-platform/))
+- China Life Insurance posts strong profit growth driven by investment performance and product innovation ([13 hours ago](https://www.insurtechinsights.com/china-life-insurance-posts-strong-profit-growth-driven-by-investment-performance-and-product-innovation/))
+- New Drivers See Insurance Premiums Fall, Says Compare The Market ([15 hours ago](https://insurance-edge.net/2026/03/28/new-drivers-see-insurance-premiums-fall-says-compare-the-market/))
 - ALA Insights on EV Switchover: Will We Have Enough Charging Points by 2030? ([1 days ago](https://insurance-edge.net/2026/03/27/ala-insights-on-ev-switchover-will-we-have-enough-charging-points-by-2030/))
 - AX Makes Major Fleet Investment With Nissan ([1 days ago](https://insurance-edge.net/2026/03/27/ax-makes-major-fleet-investment-with-nissan/))
 - A 'federal property reinsurer' would benefit state and local governments ([1 days ago](https://www.dig-in.com/news/a-federal-property-reinsurer-would-benefit-state-and-local-governments))
