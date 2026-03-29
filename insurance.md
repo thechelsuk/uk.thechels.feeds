@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Does AI help imagery "see" better? ([34 minutes ago](https://www.dig-in.com/news/how-ai-is-refining-image-searches))
-- Why complex claims are becoming insurance's new capital constraint ([1 hours ago](https://www.dig-in.com/opinion/complex-claims-are-becoming-insurances-capital-constraint))
-- Insurance data: Finding it, protecting it and the role of AI – Part 2 ([1 hours ago](https://www.dig-in.com/news/finding-protecting-and-the-role-of-ai-in-data-part-2))
-- Investment Cash is Over $8 Trillion in Luxembourg ([21 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
+- Does AI help imagery "see" better? ([1 hours ago](https://www.dig-in.com/news/how-ai-is-refining-image-searches))
+- Why complex claims are becoming insurance's new capital constraint ([2 hours ago](https://www.dig-in.com/opinion/complex-claims-are-becoming-insurances-capital-constraint))
+- Insurance data: Finding it, protecting it and the role of AI – Part 2 ([2 hours ago](https://www.dig-in.com/news/finding-protecting-and-the-role-of-ai-in-data-part-2))
+- Investment Cash is Over $8 Trillion in Luxembourg ([22 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
 - Repairify Expands Mobile Operations, With Rapid ADAS Issues Support & Capabilities ([1 days ago](https://insurance-edge.net/2026/03/28/repairify-expands-mobile-operations-with-rapid-adas-issues-support-capabilities/))
 - Q&A: What Are the Primary Causes of Motorcycle Crashes? ([1 days ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
 - Corebridge Financial and Equitable Holdings agree $22bn merger to create $1.5tn platform ([1 days ago](https://www.insurtechinsights.com/corebridge-financial-and-equitable-holdings-agree-22bn-merger-to-create-1-5tn-platform/))
