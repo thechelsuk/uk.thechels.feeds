@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Does AI help imagery "see" better? ([2 hours ago](https://www.dig-in.com/news/how-ai-is-refining-image-searches))
-- Why complex claims are becoming insurance's new capital constraint ([3 hours ago](https://www.dig-in.com/opinion/complex-claims-are-becoming-insurances-capital-constraint))
-- Insurance data: Finding it, protecting it and the role of AI – Part 2 ([3 hours ago](https://www.dig-in.com/news/finding-protecting-and-the-role-of-ai-in-data-part-2))
-- Investment Cash is Over $8 Trillion in Luxembourg ([23 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
+- Does AI help imagery "see" better? ([3 hours ago](https://www.dig-in.com/news/how-ai-is-refining-image-searches))
+- Why complex claims are becoming insurance's new capital constraint ([4 hours ago](https://www.dig-in.com/opinion/complex-claims-are-becoming-insurances-capital-constraint))
+- Insurance data: Finding it, protecting it and the role of AI – Part 2 ([4 hours ago](https://www.dig-in.com/news/finding-protecting-and-the-role-of-ai-in-data-part-2))
+- Investment Cash is Over $8 Trillion in Luxembourg ([1 days ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
 - Repairify Expands Mobile Operations, With Rapid ADAS Issues Support & Capabilities ([1 days ago](https://insurance-edge.net/2026/03/28/repairify-expands-mobile-operations-with-rapid-adas-issues-support-capabilities/))
 - Q&A: What Are the Primary Causes of Motorcycle Crashes? ([1 days ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
 - Corebridge Financial and Equitable Holdings agree $22bn merger to create $1.5tn platform ([1 days ago](https://www.insurtechinsights.com/corebridge-financial-and-equitable-holdings-agree-22bn-merger-to-create-1-5tn-platform/))
@@ -78,7 +78,7 @@ description: Insurance Updates
 - Insurance moves: Commercial Express, HLPartnership, DUAL, AXIS and Arkel ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-commercial-express-hlpartnership-dual-axis-and-arkel-570011.aspx))
 - Policy Expert posts robust growth as UK personal lines margins tighten ([2 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/policy-expert-posts-robust-growth-as-uk-personal-lines-margins-tighten-570006.aspx))
 - Pinion Insurance appoints Aspen veteran as group CFO ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pinion-insurance-appoints-aspen-veteran-as-group-cfo-570010.aspx))
-- Integrating Agentic AI: Where autonomy meets accountability ([2 days ago](https://www.dig-in.com/opinion/integrating-agentic-ai-where-autonomy-meets-accountability))
+- Integrating Agentic AI: Where autonomy meets accountability ([3 days ago](https://www.dig-in.com/opinion/integrating-agentic-ai-where-autonomy-meets-accountability))
 - Future of property & casualty insurance ([3 days ago](https://www.dig-in.com/opinion/future-of-property-casualty-insurance))
 - FEMA to offer $1B through embattled disaster mitigation fund ([3 days ago](https://www.dig-in.com/articles/fema-to-offer-1b-through-embattled-disaster-mitigation-fund))
 - Equitable, Corebridge plan to merge in all-stock deal ([3 days ago](https://www.dig-in.com/articles/equitable-corebridge-plan-to-merge-in-all-stock-deal))
