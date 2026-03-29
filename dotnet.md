@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- General Performance: Comparing Methods for Retrieving Process File Path ([8 hours ago](https://dotnettips.wordpress.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
+- General Performance: Comparing Methods for Retrieving Process File Path ([9 hours ago](https://dotnettips.wordpress.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([5 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
-- Ten Months with Copilot Coding Agent in dotnet/runtime ([5 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
+- Ten Months with Copilot Coding Agent in dotnet/runtime ([6 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([7 days ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([9 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([9 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
