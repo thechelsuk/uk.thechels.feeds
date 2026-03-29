@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Investment Cash is Over $8 Trillion in Luxembourg ([18 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
+- Investment Cash is Over $8 Trillion in Luxembourg ([19 hours ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
 - Repairify Expands Mobile Operations, With Rapid ADAS Issues Support & Capabilities ([22 hours ago](https://insurance-edge.net/2026/03/28/repairify-expands-mobile-operations-with-rapid-adas-issues-support-capabilities/))
-- Q&A: What Are the Primary Causes of Motorcycle Crashes? ([22 hours ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
+- Q&A: What Are the Primary Causes of Motorcycle Crashes? ([23 hours ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
 - Corebridge Financial and Equitable Holdings agree $22bn merger to create $1.5tn platform ([1 days ago](https://www.insurtechinsights.com/corebridge-financial-and-equitable-holdings-agree-22bn-merger-to-create-1-5tn-platform/))
 - China Life Insurance posts strong profit growth driven by investment performance and product innovation ([1 days ago](https://www.insurtechinsights.com/china-life-insurance-posts-strong-profit-growth-driven-by-investment-performance-and-product-innovation/))
 - New Drivers See Insurance Premiums Fall, Says Compare The Market ([1 days ago](https://insurance-edge.net/2026/03/28/new-drivers-see-insurance-premiums-fall-says-compare-the-market/))
@@ -106,8 +106,8 @@ description: Insurance Updates
 - Insurance data: Finding it, protecting it and the role of AI - Part 1 ([3 days ago](https://www.dig-in.com/news/integrating-insurance-data-into-ai))
 - House gives deposit insurance reform another try ([3 days ago](https://www.dig-in.com/news/house-gives-deposit-insurance-reform-another-try))
 - Illinois legislature revisits action on insurance rate increases ([3 days ago](https://www.dig-in.com/news/illinois-legislature-revisits-action-on-insurance-rate-increases))
-- Aon unveils new U.S. specialty distribution leadership to accelerate growth and client solutions ([3 days ago](https://www.insurtechinsights.com/aon-unveils-new-u-s-specialty-distribution-leadership-to-accelerate-growth-and-client-solutions/))
-- Verisk and APCIA highlight strong 2025 performance for U.S. P&C insurers ([3 days ago](https://www.insurtechinsights.com/verisk-and-apcia-highlight-strong-2025-performance-for-u-s-pc-insurers/))
+- Aon unveils new U.S. specialty distribution leadership to accelerate growth and client solutions ([4 days ago](https://www.insurtechinsights.com/aon-unveils-new-u-s-specialty-distribution-leadership-to-accelerate-growth-and-client-solutions/))
+- Verisk and APCIA highlight strong 2025 performance for U.S. P&C insurers ([4 days ago](https://www.insurtechinsights.com/verisk-and-apcia-highlight-strong-2025-performance-for-u-s-pc-insurers/))
 - Handle with care: Many workers keen to share layoff experience online ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/handle-with-care-many-workers-keen-to-share-layoff-experience-online-569805.aspx))
 - Aviva targets US surplus lines market with New York launch ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-targets-us-surplus-lines-market-with-new-york-launch-569795.aspx))
 - In Focus: the resilience audit – why income protection is the only real foundation ([4 days ago](https://ifamagazine.com/in-focus-the-resilience-audit-why-income-protection-is-the-only-real-foundation/))
