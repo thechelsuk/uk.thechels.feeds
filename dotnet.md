@@ -8,15 +8,15 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([1 hours ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
-- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([1 hours ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
-- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([1 hours ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
+- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([2 hours ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
+- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
+- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
 - General Performance: Comparing Methods for Retrieving Process File Path ([1 days ago](https://dotnettips.wordpress.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([6 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
 - Ten Months with Copilot Coding Agent in dotnet/runtime ([6 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([8 days ago](https://dotnettips.wordpress.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
-- Rider 2026.1 Release Candidate Is Out! ([9 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
-- ReSharper 2026.1 Release Candidate Released! ([9 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
+- Rider 2026.1 Release Candidate Is Out! ([10 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
+- ReSharper 2026.1 Release Candidate Released! ([10 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([10 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([12 days ago](https://dotnettips.wordpress.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([12 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([22 days ago](https://dotnettips.wordpress.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([24 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([25 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
-- dotInsights  -  March 2026 ([25 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
+- dotInsights  -  March 2026 ([26 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 - dotNetDave Says… Rushing into Coding Without Proper Planning Will Lead to Costly Mistakes and Delays ([26 days ago](https://dotnettips.wordpress.com/2026/03/04/dotnetdave-says-rushing-into-coding-without-proper-planning-will-lead-to-costly-mistakes-and-delays/))
 
 <!-- news_marker ends -->
