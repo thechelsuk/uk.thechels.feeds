@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Does AI help imagery "see" better? ([4 hours ago](https://www.dig-in.com/news/how-ai-is-refining-image-searches))
-- Why complex claims are becoming insurance's new capital constraint ([5 hours ago](https://www.dig-in.com/opinion/complex-claims-are-becoming-insurances-capital-constraint))
-- Insurance data: Finding it, protecting it and the role of AI – Part 2 ([5 hours ago](https://www.dig-in.com/news/finding-protecting-and-the-role-of-ai-in-data-part-2))
+- Does AI help imagery "see" better? ([6 hours ago](https://www.dig-in.com/news/how-ai-is-refining-image-searches))
+- Why complex claims are becoming insurance's new capital constraint ([6 hours ago](https://www.dig-in.com/opinion/complex-claims-are-becoming-insurances-capital-constraint))
+- Insurance data: Finding it, protecting it and the role of AI – Part 2 ([6 hours ago](https://www.dig-in.com/news/finding-protecting-and-the-role-of-ai-in-data-part-2))
 - Investment Cash is Over $8 Trillion in Luxembourg ([1 days ago](https://insurance-edge.net/2026/03/28/investment-cash-is-over-8-trillion-in-luxembourg/))
 - Repairify Expands Mobile Operations, With Rapid ADAS Issues Support & Capabilities ([1 days ago](https://insurance-edge.net/2026/03/28/repairify-expands-mobile-operations-with-rapid-adas-issues-support-capabilities/))
 - Q&A: What Are the Primary Causes of Motorcycle Crashes? ([1 days ago](https://insurance-edge.net/2026/03/28/qa-what-are-the-primary-causes-of-motorcycle-crashes/))
