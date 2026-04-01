@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([12 hours ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
-- Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([16 hours ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
+- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([13 hours ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
+- Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([17 hours ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
 - Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([2 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
 - ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
