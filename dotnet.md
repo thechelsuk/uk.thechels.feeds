@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([1 hours ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
-- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([22 hours ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
+- Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([2 hours ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
+- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([23 hours ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([1 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
 - ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
 - Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
