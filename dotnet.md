@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([16 hours ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
+- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([1 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
 - ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
 - Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
