@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([22 hours ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
+- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([23 hours ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([1 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
-- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([1 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
+- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([2 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
 - ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
 - Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([2 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
@@ -32,7 +32,7 @@ description: DotNet Updates
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([22 days ago](https://dotnettips.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
-- Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([22 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
+- Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([23 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 - Extend your coding agent with .NET Skills ([23 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([25 days ago](https://dotnettips.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([27 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
