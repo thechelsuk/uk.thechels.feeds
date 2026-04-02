@@ -36,7 +36,7 @@ description: DotNet Updates
 - Extend your coding agent with .NET Skills ([23 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 - Inside the Azure SDK for .NET: A Code Quality Reality Check ([25 days ago](https://dotnettips.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - Release v1.0 of the official MCP C# SDK ([27 days ago](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/))
-- ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([27 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
+- ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 - dotInsights  -  March 2026 ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/))
 
 <!-- news_marker ends -->
