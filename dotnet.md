@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Explore union types in C# 15 ([16 hours ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
-- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([1 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
+- Explore union types in C# 15 ([17 hours ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
+- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([2 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([2 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
 - Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([3 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([3 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
