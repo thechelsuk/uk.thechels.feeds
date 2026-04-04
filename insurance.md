@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Younger homebuyers turning to social media signals advice gap, Vitality research shows ([15 hours ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
-- Deals: Acrisure Welcomes Four Businesses to Its Platform ([15 hours ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
-- Why pre-underwriting certainty is a myth – and what to do instead ([16 hours ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
-- Construction Company Fined 42K After Fatal Accident ([17 hours ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
+- Younger homebuyers turning to social media signals advice gap, Vitality research shows ([16 hours ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
+- Deals: Acrisure Welcomes Four Businesses to Its Platform ([17 hours ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
+- Why pre-underwriting certainty is a myth – and what to do instead ([17 hours ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
+- Construction Company Fined 42K After Fatal Accident ([18 hours ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
 - The real AI bottleneck is the insurance policy ([1 days ago](https://www.dig-in.com/opinion/the-real-ai-bottleneck-in-insurance-is-the-policy))
 - Why the relationship between legal and risk is changing ([1 days ago](https://www.dig-in.com/opinion/why-the-relationship-between-legal-and-risk-is-changing))
 - Aerial imagery: Ongoing coverage of AI, legislation and more ([1 days ago](https://www.dig-in.com/news/aerial-imagery-ongoing-coverage-of-ai-legislation-and-more))
