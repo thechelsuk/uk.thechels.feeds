@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- China: Cheche Group Posts H2 2025 Results ([10 hours ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
+- China: Cheche Group Posts H2 2025 Results ([12 hours ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
 - Younger homebuyers turning to social media signals advice gap, Vitality research shows ([1 days ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
 - Deals: Acrisure Welcomes Four Businesses to Its Platform ([1 days ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
 - Why pre-underwriting certainty is a myth – and what to do instead ([1 days ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
@@ -88,8 +88,8 @@ description: Insurance Updates
 - How temporary is the ABI’s fire safety facility? ([3 days ago](https://www.postonline.co.uk/risk-management/7960026/how-temporary-is-the-abis-fire-safety-facility))
 - Why Lloyd’s must embrace TikTok to attract young talent ([3 days ago](https://www.postonline.co.uk/lloydslondon/7959719/why-lloyds-must-embrace-tiktok-to-attract-young-talent))
 - SOA appoints new CEO and Delos expands coverage: Insurtech news ([3 days ago](https://www.dig-in.com/news/soa-appoints-new-ceo-and-delos-expands-coverage-insurtech-news))
-- Meet the insurtech: Cyberbay ([3 days ago](https://www.dig-in.com/news/meet-the-insurtech-cyberbay))
-- Insurance IT leaders have an AI infrastructure problem ([3 days ago](https://www.dig-in.com/opinion/insurance-it-leaders-have-an-ai-infrastructure-problem))
+- Meet the insurtech: Cyberbay ([4 days ago](https://www.dig-in.com/news/meet-the-insurtech-cyberbay))
+- Insurance IT leaders have an AI infrastructure problem ([4 days ago](https://www.dig-in.com/opinion/insurance-it-leaders-have-an-ai-infrastructure-problem))
 - Roundtable: Total loss in transition – EVs, costs and capacity ([4 days ago](https://www.postonline.co.uk/market-access/motor/7960050/roundtable-total-loss-in-transition-evs-costs-and-capacity))
 - Howden IAL launches following Hymans Robertson deal ([4 days ago](https://www.postonline.co.uk/news/7960136/howden-ial-launches-following-hymans-robertson-deal))
 - Brokers embrace tech and push for flexibility from insurers ([4 days ago](https://www.postonline.co.uk/broker/7960133/brokers-embrace-tech-and-push-for-flexibility-from-insurers))
