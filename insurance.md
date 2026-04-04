@@ -15,7 +15,7 @@ description: Insurance Updates
 - Construction Company Fined 42K After Fatal Accident ([1 days ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
 - The real AI bottleneck is the insurance policy ([1 days ago](https://www.dig-in.com/opinion/the-real-ai-bottleneck-in-insurance-is-the-policy))
 - Why the relationship between legal and risk is changing ([1 days ago](https://www.dig-in.com/opinion/why-the-relationship-between-legal-and-risk-is-changing))
-- Aerial imagery: Ongoing coverage of AI, legislation and more ([1 days ago](https://www.dig-in.com/news/aerial-imagery-ongoing-coverage-of-ai-legislation-and-more))
+- Aerial imagery: Ongoing coverage of AI, legislation and more ([2 days ago](https://www.dig-in.com/news/aerial-imagery-ongoing-coverage-of-ai-legislation-and-more))
 - Reinsurance Rates Continued Softening During April Renewals, Despite Iran War ([2 days ago](https://www.insurancejournal.com/news/international/2026/04/02/864470.htm))
 - Toymaker Hasbro Reports Cybersecurity Incident ([2 days ago](https://www.insurancejournal.com/news/east/2026/04/02/864475.htm))
 - US cyber rates drop 32% at April 1, bespoke solutions surge amid ample reinsurance capacity: Gallagher Re ([2 days ago](https://www.reinsurancene.ws/us-cyber-rates-drop-32-at-april-1-bespoke-solutions-surge-amid-ample-reinsurance-capacity-gallagher-re/))
