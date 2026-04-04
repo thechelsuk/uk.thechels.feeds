@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- China: Cheche Group Posts H2 2025 Results ([8 hours ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
+- China: Cheche Group Posts H2 2025 Results ([10 hours ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
 - Younger homebuyers turning to social media signals advice gap, Vitality research shows ([1 days ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
 - Deals: Acrisure Welcomes Four Businesses to Its Platform ([1 days ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
 - Why pre-underwriting certainty is a myth – and what to do instead ([1 days ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
@@ -16,7 +16,7 @@ description: Insurance Updates
 - The real AI bottleneck is the insurance policy ([1 days ago](https://www.dig-in.com/opinion/the-real-ai-bottleneck-in-insurance-is-the-policy))
 - Why the relationship between legal and risk is changing ([1 days ago](https://www.dig-in.com/opinion/why-the-relationship-between-legal-and-risk-is-changing))
 - Aerial imagery: Ongoing coverage of AI, legislation and more ([1 days ago](https://www.dig-in.com/news/aerial-imagery-ongoing-coverage-of-ai-legislation-and-more))
-- Reinsurance Rates Continued Softening During April Renewals, Despite Iran War ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/02/864470.htm))
+- Reinsurance Rates Continued Softening During April Renewals, Despite Iran War ([2 days ago](https://www.insurancejournal.com/news/international/2026/04/02/864470.htm))
 - Toymaker Hasbro Reports Cybersecurity Incident ([2 days ago](https://www.insurancejournal.com/news/east/2026/04/02/864475.htm))
 - US cyber rates drop 32% at April 1, bespoke solutions surge amid ample reinsurance capacity: Gallagher Re ([2 days ago](https://www.reinsurancene.ws/us-cyber-rates-drop-32-at-april-1-bespoke-solutions-surge-amid-ample-reinsurance-capacity-gallagher-re/))
 - Mississippi Lawmakers Revive Wind-Mitigation Program with $15,000 Grants ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/04/02/864472.htm))
@@ -72,7 +72,7 @@ description: Insurance Updates
 - AI tackles the $208B problem of catastrophic storms: Allianz ([2 days ago](https://www.dig-in.com/news/allianz-how-ai-is-used-in-natural-catastrophe-models))
 - Risky roads, automation worry commercial drivers: Nationwide survey ([2 days ago](https://www.dig-in.com/news/risky-roads-automation-commercial-drivers-nationwide-survey))
 - Lenders to Solera form pact as loans near maturity ([2 days ago](https://www.dig-in.com/articles/lenders-to-solera-form-pact-as-loans-near-maturity))
-- AIG accelerates AI strategy to drive growth and innovation ([2 days ago](https://www.insurtechinsights.com/aig-accelerates-ai-strategy-to-drive-growth-and-innovation/))
+- AIG accelerates AI strategy to drive growth and innovation ([3 days ago](https://www.insurtechinsights.com/aig-accelerates-ai-strategy-to-drive-growth-and-innovation/))
 - Freedom Health Insurance launches Freedom Physiotherapy ([3 days ago](https://ifamagazine.com/freedom-health-insurance-launches-freedom-physiotherapy/))
 - Acrisure expands underwriting platform with acquisition of Vave ([3 days ago](https://www.insurtechinsights.com/acrisure-expands-underwriting-platform-with-acquisition-of-vave/))
 - Swiss Re appoints Henock Teklu as Group Chief Transformation Officer and Chief of Staff ([3 days ago](https://www.insurtechinsights.com/swiss-re-appoints-henock-teklu-as-group-chief-transformation-officer-and-chief-of-staff/))
