@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Younger homebuyers turning to social media signals advice gap, Vitality research shows ([19 hours ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
-- Deals: Acrisure Welcomes Four Businesses to Its Platform ([19 hours ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
-- Why pre-underwriting certainty is a myth – and what to do instead ([19 hours ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
-- Construction Company Fined 42K After Fatal Accident ([20 hours ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
+- Younger homebuyers turning to social media signals advice gap, Vitality research shows ([20 hours ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
+- Deals: Acrisure Welcomes Four Businesses to Its Platform ([20 hours ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
+- Why pre-underwriting certainty is a myth – and what to do instead ([20 hours ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
+- Construction Company Fined 42K After Fatal Accident ([21 hours ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
 - The real AI bottleneck is the insurance policy ([1 days ago](https://www.dig-in.com/opinion/the-real-ai-bottleneck-in-insurance-is-the-policy))
 - Why the relationship between legal and risk is changing ([1 days ago](https://www.dig-in.com/opinion/why-the-relationship-between-legal-and-risk-is-changing))
 - Aerial imagery: Ongoing coverage of AI, legislation and more ([1 days ago](https://www.dig-in.com/news/aerial-imagery-ongoing-coverage-of-ai-legislation-and-more))
@@ -59,7 +59,7 @@ description: Insurance Updates
 - Intact's Grosscurth eyes SME growth in push to double business ([1 days ago](https://www.postonline.co.uk/commercial/7960114/intacts-grosscurth-eyes-sme-growth-in-push-to-double-business))
 - Oil Prices Surge, Allies Discuss Securing Hormuz, as Trump Vows to Step Up Iran Attacks ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/02/864349.htm))
 - Meet the New AI Coworker Who Won’t Stop Snitching to Your Boss ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/02/864343.htm))
-- People Moves: Shankland to Lead Markel Ocean Cargo, US; Verisk Hires Murphy to Lead Sales for Claims Solutions; Kalepa Appoints Howell as Head of Product ([1 days ago](https://www.insurancejournal.com/news/national/2026/04/02/864128.htm))
+- People Moves: Shankland to Lead Markel Ocean Cargo, US; Verisk Hires Murphy to Lead Sales for Claims Solutions; Kalepa Appoints Howell as Head of Product ([2 days ago](https://www.insurancejournal.com/news/national/2026/04/02/864128.htm))
 - Baidu Robotaxis Freeze Mid-Ride in Wuhan, Trap Passengers ([2 days ago](https://www.insurancejournal.com/news/international/2026/04/02/864304.htm))
 - Perplexity AI Machine Accused of Sharing Data With Meta, Google ([2 days ago](https://www.insurancejournal.com/news/national/2026/04/02/864332.htm))
 - EPA Watchdog Finds Nation’s Most Toxic Sites Are Vulnerable to Flooding, Wildfires ([2 days ago](https://www.insurancejournal.com/news/national/2026/04/02/864228.htm))
