@@ -35,7 +35,7 @@ description: DotNet Updates
 - .NET and .NET Framework March 2026 servicing releases updates ([24 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([24 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 - Extend your coding agent with .NET Skills ([25 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
-- Inside the Azure SDK for .NET: A Code Quality Reality Check ([26 days ago](https://dotnettips.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
+- Inside the Azure SDK for .NET: A Code Quality Reality Check ([27 days ago](https://dotnettips.com/2026/03/08/inside-the-azure-sdk-for-net-a-code-quality-reality-check/))
 - ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out ([29 days ago](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/))
 
 <!-- news_marker ends -->

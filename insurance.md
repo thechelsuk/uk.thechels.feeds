@@ -8,10 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Younger homebuyers turning to social media signals advice gap, Vitality research shows ([20 hours ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
-- Deals: Acrisure Welcomes Four Businesses to Its Platform ([20 hours ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
-- Why pre-underwriting certainty is a myth – and what to do instead ([20 hours ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
-- Construction Company Fined 42K After Fatal Accident ([21 hours ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
+- China: Cheche Group Posts H2 2025 Results ([14 minutes ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
+- Younger homebuyers turning to social media signals advice gap, Vitality research shows ([21 hours ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
+- Deals: Acrisure Welcomes Four Businesses to Its Platform ([21 hours ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
+- Why pre-underwriting certainty is a myth – and what to do instead ([21 hours ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
+- Construction Company Fined 42K After Fatal Accident ([22 hours ago](https://insurance-edge.net/2026/04/03/construction-company-fined-42k-after-fatal-accident/))
 - The real AI bottleneck is the insurance policy ([1 days ago](https://www.dig-in.com/opinion/the-real-ai-bottleneck-in-insurance-is-the-policy))
 - Why the relationship between legal and risk is changing ([1 days ago](https://www.dig-in.com/opinion/why-the-relationship-between-legal-and-risk-is-changing))
 - Aerial imagery: Ongoing coverage of AI, legislation and more ([1 days ago](https://www.dig-in.com/news/aerial-imagery-ongoing-coverage-of-ai-legislation-and-more))
@@ -43,7 +44,6 @@ description: Insurance Updates
 - Santam Syndicate 1918 appoints Nigel Tatlock as Head of Property ([1 days ago](https://www.reinsurancene.ws/santam-syndicate-1918-appoints-nigel-tatlock-as-head-of-property/))
 - Accelerant appoints Linda S. Huber as Chief Financial Officer ([1 days ago](https://www.insurtechinsights.com/accelerant-appoints-linda-s-huber-as-chief-financial-officer/))
 - CatIQ lowers final Ontario & Quebec ice storm loss estimate to CAD 466m ([1 days ago](https://www.reinsurancene.ws/catiq-lowers-final-ontario-quebec-ice-storm-loss-estimate-to-cad-466m/))
-- Telematics and UBI in the UK: the Technology Works – But Who Does it Serve? ([1 days ago](https://insurance-edge.net/2026/04/02/telematics-and-ubi-in-the-uk-the-technology-works-but-who-does-it-serve/))
 - TRM strengthens specialist PMI division with new Supervision & Development Manager appointment ([1 days ago](https://ifamagazine.com/trm-strengthens-specialist-pmi-division-with-new-supervision-development-manager-appointment/))
 - Bridgehaven’s European move; Covéa’s partnership; Axa UK’s general counsel ([1 days ago](https://www.postonline.co.uk/news/7960141/bridgehavens-european-move-coveas-partnership-axa-uks-general-counsel))
 - Personal motor premiums rise for first time in two years ([1 days ago](https://www.postonline.co.uk/news/7960142/personal-motor-premiums-rise-for-first-time-in-two-years))
