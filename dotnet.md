@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- String Performance: Avoid Unnecessary Conversions with StringBuilder ([2 hours ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
+- String Performance: Avoid Unnecessary Conversions with StringBuilder ([3 hours ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Explore union types in C# 15 ([2 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([3 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([4 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
@@ -34,7 +34,7 @@ description: DotNet Updates
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([25 days ago](https://dotnettips.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - .NET and .NET Framework March 2026 servicing releases updates ([25 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
-- Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([25 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
+- Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([26 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 - Extend your coding agent with .NET Skills ([26 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 
 <!-- news_marker ends -->
