@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- String Performance: Avoid Unnecessary Conversions with StringBuilder ([6 hours ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
+- String Performance: Avoid Unnecessary Conversions with StringBuilder ([7 hours ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Explore union types in C# 15 ([2 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([4 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([4 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
@@ -20,8 +20,8 @@ description: DotNet Updates
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([12 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
 - Ten Months with Copilot Coding Agent in dotnet/runtime ([12 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([14 days ago](https://dotnettips.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
-- Rider 2026.1 Release Candidate Is Out! ([15 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
-- ReSharper 2026.1 Release Candidate Released! ([15 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
+- Rider 2026.1 Release Candidate Is Out! ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
+- ReSharper 2026.1 Release Candidate Released! ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([16 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([18 days ago](https://dotnettips.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([18 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
