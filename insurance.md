@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- China: Cheche Group Posts H2 2025 Results ([23 hours ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
+- China: Cheche Group Posts H2 2025 Results ([1 days ago](https://insurance-edge.net/2026/04/04/china-cheche-group-posts-h2-2025-results/))
 - Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent ([1 days ago](https://thefintechtimes.com/generali-hong-kong-automates-health-claims-with-covergos-ai-agent/))
 - Younger homebuyers turning to social media signals advice gap, Vitality research shows ([1 days ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
 - Deals: Acrisure Welcomes Four Businesses to Its Platform ([1 days ago](https://insurance-edge.net/2026/04/03/deals-acrisure-welcomes-four-businesses-to-its-platform/))
