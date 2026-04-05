@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- String Performance: Avoid Unnecessary Conversions with StringBuilder ([11 hours ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
+- String Performance: Avoid Unnecessary Conversions with StringBuilder ([12 hours ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Explore union types in C# 15 ([3 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([4 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([4 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([18 days ago](https://dotnettips.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([19 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
 - Regular Expression Performance: Supercharge Your Match Counting ([21 days ago](https://dotnettips.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
-- Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([22 days ago](https://dotnettips.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
+- Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([23 days ago](https://dotnettips.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
 - Modernize .NET Anywhere with GitHub Copilot ([24 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/))
 - .NET 10.0.5 Out-of-Band Release – macOS Debugger Fix ([24 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/))
 - CollabTalk Podcast: Episode 183 with David McCarter ([24 days ago](https://dotnettips.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
