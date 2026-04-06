@@ -32,9 +32,9 @@ description: DotNet Updates
 - CollabTalk Podcast: Episode 183 with David McCarter ([25 days ago](https://dotnettips.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
 - UX Chronicles: How OpenAI Broke Sora ([25 days ago](https://dotnettips.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([26 days ago](https://dotnettips.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
-- .NET 11 Preview 2 is now available! ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
-- .NET and .NET Framework March 2026 servicing releases updates ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
+- .NET 11 Preview 2 is now available! ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
+- .NET and .NET Framework March 2026 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([27 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
-- Extend your coding agent with .NET Skills ([27 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
+- Extend your coding agent with .NET Skills ([28 days ago](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/))
 
 <!-- news_marker ends -->
