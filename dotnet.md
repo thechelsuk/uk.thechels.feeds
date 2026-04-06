@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([1 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Explore union types in C# 15 ([3 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
-- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([4 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
+- Configuring contextual options with Microsoft.Extensions.Options.Contextual ([5 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([5 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
 - Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([6 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([6 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
