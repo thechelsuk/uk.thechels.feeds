@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Running AI agents safely in a microVM using docker sandbox ([5 hours ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
+- Running AI agents safely in a microVM using docker sandbox ([6 hours ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([2 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Explore union types in C# 15 ([4 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([6 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
