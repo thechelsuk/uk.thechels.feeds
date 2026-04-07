@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ASP.NET Core 2.3 end of support announcement ([20 minutes ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
-- Running AI agents safely in a microVM using docker sandbox ([7 hours ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
+- Your Migration’s Source of Truth: The Modernization Assessment ([16 minutes ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
+- ASP.NET Core 2.3 end of support announcement ([1 hours ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
+- Running AI agents safely in a microVM using docker sandbox ([8 hours ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([2 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Explore union types in C# 15 ([5 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([6 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
@@ -35,7 +36,6 @@ description: DotNet Updates
 - UX Chronicles: How OpenAI Broke Sora ([26 days ago](https://dotnettips.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([27 days ago](https://dotnettips.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
 - .NET 11 Preview 2 is now available! ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
-- .NET and .NET Framework March 2026 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([28 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 
 <!-- news_marker ends -->
