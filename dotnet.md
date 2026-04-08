@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  April 2026 ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
+- dotInsights  -  April 2026 ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Your Migration’s Source of Truth: The Modernization Assessment ([1 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([1 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
 - Running AI agents safely in a microVM using docker sandbox ([1 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - General Performance: Exploring Thread ID Retrieval Methods ([17 days ago](https://dotnettips.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([19 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([19 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
-- Accelerating .NET MAUI Development with AI Agents ([19 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
+- Accelerating .NET MAUI Development with AI Agents ([20 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([21 days ago](https://dotnettips.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([22 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
 - Regular Expression Performance: Supercharge Your Match Counting ([24 days ago](https://dotnettips.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
@@ -36,7 +36,7 @@ description: DotNet Updates
 - CollabTalk Podcast: Episode 183 with David McCarter ([27 days ago](https://dotnettips.com/2026/03/12/collabtalk-podcast-episode-183-with-david-mccarter/))
 - UX Chronicles: How OpenAI Broke Sora ([27 days ago](https://dotnettips.com/2026/03/12/ux-chronicles-how-openai-broke-sora/))
 - dotNetDave Says… Clear Naming Standards Create Clearer Code and Clearer Code Leads to Better Software ([28 days ago](https://dotnettips.com/2026/03/11/dotnetdave-says-clear-naming-standards-create-clearer-code-and-clearer-code-leads-to-better-software/))
-- .NET 11 Preview 2 is now available! ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
+- .NET 11 Preview 2 is now available! ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/))
 - Splitting the NetEscapades.EnumGenerators packages: the road to a stable release ([29 days ago](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/))
 
 <!-- news_marker ends -->
