@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  April 2026 ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
+- dotInsights  -  April 2026 ([18 hours ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Your Migration’s Source of Truth: The Modernization Assessment ([1 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([1 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
 - Running AI agents safely in a microVM using docker sandbox ([1 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
