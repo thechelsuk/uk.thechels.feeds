@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
+- Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([1 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Your Migration’s Source of Truth: The Modernization Assessment ([2 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([2 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
@@ -25,8 +25,8 @@ description: DotNet Updates
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([17 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
 - Ten Months with Copilot Coding Agent in dotnet/runtime ([17 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([19 days ago](https://dotnettips.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
-- Rider 2026.1 Release Candidate Is Out! ([20 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
-- ReSharper 2026.1 Release Candidate Released! ([20 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
+- Rider 2026.1 Release Candidate Is Out! ([21 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
+- ReSharper 2026.1 Release Candidate Released! ([21 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
 - Accelerating .NET MAUI Development with AI Agents ([21 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([23 days ago](https://dotnettips.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([23 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
