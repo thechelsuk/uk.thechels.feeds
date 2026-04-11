@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- More Iran/Gulf Analysis From Pole Star Global and HUAX ([5 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
+- More Iran/Gulf Analysis From Pole Star Global and HUAX ([6 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([1 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([1 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
 - Iowa AG Sues Meta Over Alleged Deceptive Practices on Instagram ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865402.htm))
@@ -124,7 +124,6 @@ description: Insurance Updates
 - IFB’s Jallow reveals new strategies to fight insurance fraud ([4 days ago](https://www.postonline.co.uk/claims/7960076/ifbs-jallow-reveals-new-strategies-to-fight-insurance-fraud))
 - 67% of employers say they needed more notice before the changes to statutory sick pay ([5 days ago](https://ifamagazine.com/67-of-employers-say-they-needed-more-notice-before-the-changes-to-statutory-sick-pay/))
 - SSP reform risks driving healthcare benefit cuts | Healix Health warns ([5 days ago](https://ifamagazine.com/ssp-reform-risks-driving-healthcare-benefit-cuts-industry-warns/))
-- Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent ([7 days ago](https://thefintechtimes.com/generali-hong-kong-automates-health-claims-with-covergos-ai-agent/))
 - Younger homebuyers turning to social media signals advice gap, Vitality research shows ([8 days ago](https://ifamagazine.com/younger-homebuyers-turning-to-social-media-signals-advice-gap-vitality-research-shows/))
 - Why pre-underwriting certainty is a myth – and what to do instead ([8 days ago](https://ifamagazine.com/why-pre-underwriting-certainty-is-a-myth-and-what-to-do-instead/))
 - TRM strengthens specialist PMI division with new Supervision & Development Manager appointment ([9 days ago](https://ifamagazine.com/trm-strengthens-specialist-pmi-division-with-new-supervision-development-manager-appointment/))
