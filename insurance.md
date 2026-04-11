@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- More Iran/Gulf Analysis From Pole Star Global and HUAX ([7 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
+- More Iran/Gulf Analysis From Pole Star Global and HUAX ([8 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([1 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([1 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
 - Iowa AG Sues Meta Over Alleged Deceptive Practices on Instagram ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865402.htm))
