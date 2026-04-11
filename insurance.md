@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- More Iran/Gulf Analysis From Pole Star Global and HUAX ([4 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
+- More Iran/Gulf Analysis From Pole Star Global and HUAX ([5 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([1 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([1 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
 - Iowa AG Sues Meta Over Alleged Deceptive Practices on Instagram ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865402.htm))
@@ -93,7 +93,7 @@ description: Insurance Updates
 - Crawford warns on pollution and liability risks as Gulf conflict intensifies ([2 days ago](https://www.insurancebusinessmag.com/uk/news/environmental/crawford-warns-on-pollution-and-liability-risks-as-gulf-conflict-intensifies-571130.aspx))
 - PMI-funded private health admissions hit a new high - Broadstone ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/pmifunded-private-health-admissions-hit-a-new-high--broadstone-571129.aspx))
 - DUAL UK ramps up cyber firepower with Liberty and KYND tie‑ups ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/dual-uk-ramps-up-cyber-firepower-with-liberty-and-kynd-tieups-571128.aspx))
-- Over 50% of execs see GenAI, cybersecurity reshaping insurance in 2026 ([2 days ago](https://www.dig-in.com/news/half-of-execs-see-genai-cybersecurity-reshaping-insurance))
+- Over 50% of execs see GenAI, cybersecurity reshaping insurance in 2026 ([3 days ago](https://www.dig-in.com/news/half-of-execs-see-genai-cybersecurity-reshaping-insurance))
 - How legal system abuse pushes insurance costs higher: Swiss Re ([3 days ago](https://www.dig-in.com/news/legal-system-abuse-pushes-insurance-costs-higher))
 - Why AI and data are redefining credit risk ([3 days ago](https://www.dig-in.com/opinion/why-ai-and-data-are-redefining-credit-risk))
 - Strait of Hormuz slams shut as ceasefire dealt huge blow ([3 days ago](https://www.insurancebusinessmag.com/uk/news/marine/strait-of-hormuz-slams-shut-as-ceasefire-dealt-huge-blow-571106.aspx))
@@ -114,7 +114,7 @@ description: Insurance Updates
 - Will Burnham mount a Johnson-style challenge at Biba? ([3 days ago](https://www.postonline.co.uk/news/7960154/will-burnham-mount-a-johnson-style-challenge-at-biba))
 - How 3D inspection tech is transforming insurance ([3 days ago](https://www.postonline.co.uk/technology/7959958/how-3d-inspection-tech-is-transforming-insurance))
 - Hidden scammer arms race every business now faces ([3 days ago](https://www.postonline.co.uk/technology/7959988/hidden-scammer-arms-race-every-business-now-faces))
-- Why insurance must rethink its recruiting and talent strategy ([3 days ago](https://www.dig-in.com/opinion/why-insurance-must-rethink-its-recruiting-and-talent-strategy))
+- Why insurance must rethink its recruiting and talent strategy ([4 days ago](https://www.dig-in.com/opinion/why-insurance-must-rethink-its-recruiting-and-talent-strategy))
 - American Integrity Insurance Group appoints Brian Foley as CFO, strengthening leadership after successful IPO ([4 days ago](https://www.insurtechinsights.com/american-integrity-insurance-group-appoints-brian-foley-as-cfo-strengthening-leadership-after-successful-ipo/))
 - McLarens makes more changes at the top ([4 days ago](https://www.postonline.co.uk/news/7960155/mclarens-makes-more-changes-at-the-top))
 - Aviva completes commercial combined overhaul ([4 days ago](https://www.postonline.co.uk/broker/7960150/aviva-completes-commercial-combined-overhaul))
