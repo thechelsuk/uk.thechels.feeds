@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- How to turn AI capability into competitive advantage ([31 minutes ago](https://www.dig-in.com/opinion/how-to-turn-ai-capability-into-competitive-advantage))
-- Most Expensive Dog and Cat Breeds to Insure? Aqua Has Some Answers ([3 hours ago](https://insurance-edge.net/2026/04/12/most-expensive-dog-and-cat-breeds-to-insure-aqua-has-some-answers/))
+- Small, well-funded states show potential for stricter regulatory oversight ([7 minutes ago](https://www.dig-in.com/news/small-states-show-potential-for-stricter-oversight))
+- How to turn AI capability into competitive advantage ([1 hours ago](https://www.dig-in.com/opinion/how-to-turn-ai-capability-into-competitive-advantage))
+- Most Expensive Dog and Cat Breeds to Insure? Aqua Has Some Answers ([4 hours ago](https://insurance-edge.net/2026/04/12/most-expensive-dog-and-cat-breeds-to-insure-aqua-has-some-answers/))
 - More Iran/Gulf Analysis From Pole Star Global and HUAX ([1 days ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([2 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([2 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
@@ -94,7 +95,7 @@ description: Insurance Updates
 - Crawford warns on pollution and liability risks as Gulf conflict intensifies ([3 days ago](https://www.insurancebusinessmag.com/uk/news/environmental/crawford-warns-on-pollution-and-liability-risks-as-gulf-conflict-intensifies-571130.aspx))
 - PMI-funded private health admissions hit a new high - Broadstone ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/pmifunded-private-health-admissions-hit-a-new-high--broadstone-571129.aspx))
 - DUAL UK ramps up cyber firepower with Liberty and KYND tie‑ups ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/dual-uk-ramps-up-cyber-firepower-with-liberty-and-kynd-tieups-571128.aspx))
-- Over 50% of execs see GenAI, cybersecurity reshaping insurance in 2026 ([3 days ago](https://www.dig-in.com/news/half-of-execs-see-genai-cybersecurity-reshaping-insurance))
+- Over 50% of execs see GenAI, cybersecurity reshaping insurance in 2026 ([4 days ago](https://www.dig-in.com/news/half-of-execs-see-genai-cybersecurity-reshaping-insurance))
 - How legal system abuse pushes insurance costs higher: Swiss Re ([4 days ago](https://www.dig-in.com/news/legal-system-abuse-pushes-insurance-costs-higher))
 - Why AI and data are redefining credit risk ([4 days ago](https://www.dig-in.com/opinion/why-ai-and-data-are-redefining-credit-risk))
 - Strait of Hormuz slams shut as ceasefire dealt huge blow ([4 days ago](https://www.insurancebusinessmag.com/uk/news/marine/strait-of-hormuz-slams-shut-as-ceasefire-dealt-huge-blow-571106.aspx))
@@ -103,7 +104,6 @@ description: Insurance Updates
 - Kanye West ban triggers multi-million loss concerns for event insurers ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/kanye-west-ban-triggers-multimillion-loss-concerns-for-event-insurers-571073.aspx))
 - Compare the Market brings ChatGPT integration to insurance pricing journey with new car cover tool ([4 days ago](https://www.insurtechinsights.com/compare-the-market-brings-chatgpt-integration-to-insurance-pricing-journey-with-new-car-cover-tool/))
 - Vocational rehabilitation: driving better outcomes in income protection ([4 days ago](https://ifamagazine.com/vocational-rehabilitation-driving-better-outcomes-in-income-protection/))
-- Breaking 'the autoimmune career ceiling': How chronic illness care supports workers ([4 days ago](https://www.dig-in.com/news/welltheory-ceo-shares-her-experience-with-work-and-chronic-illness))
 - Macquarie launches transactional liability insurance business ([4 days ago](https://www.postonline.co.uk/commercial/7960160/macquarie-launches-transactional-liability-insurance-business))
 - Pricing discipline tightens as MGAs resist soft market pressure ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/pricing-discipline-tightens-as-mgas-resist-soft-market-pressure-571052.aspx))
 - SCOR’s London Market portfolio owner on the long road to true digitalisation ([4 days ago](https://www.insurancebusinessmag.com/uk/news/technology/scors-london-market-portfolio-owner-on-the-long-road-to-true-digitalisation-571051.aspx))
