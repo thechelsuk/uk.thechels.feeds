@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([11 hours ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
+- Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([12 hours ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([3 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([4 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
-- Your Migration’s Source of Truth: The Modernization Assessment ([4 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
+- Your Migration’s Source of Truth: The Modernization Assessment ([5 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([5 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
 - Running AI agents safely in a microVM using docker sandbox ([5 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([7 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
@@ -32,6 +32,5 @@ description: DotNet Updates
 - dotNetDave Says… Good Recruiters Are Transparent and Willing to Share Details About the Job Position ([25 days ago](https://dotnettips.com/2026/03/18/dotnetdave-says-good-recruiters-are-transparent-and-willing-to-share-details-about-the-job-position/))
 - RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI ([26 days ago](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/))
 - Regular Expression Performance: Supercharge Your Match Counting ([28 days ago](https://dotnettips.com/2026/03/15/regular-expression-performance-supercharge-your-match-counting/))
-- Rock Your Career: The Recruiter Survival Guide for Software Engineers – How to Use Recruiters Without Getting Used ([29 days ago](https://dotnettips.com/2026/03/13/rock-your-career-the-recruiter-survival-guide-for-software-engineers-how-to-use-recruiters-without-getting-used/))
 
 <!-- news_marker ends -->
