@@ -8,13 +8,13 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Most Expensive Dog and Cat Breeds to Insure? Aqua Has Some Answers ([7 minutes ago](https://insurance-edge.net/2026/04/12/most-expensive-dog-and-cat-breeds-to-insure-aqua-has-some-answers/))
+- Most Expensive Dog and Cat Breeds to Insure? Aqua Has Some Answers ([1 hours ago](https://insurance-edge.net/2026/04/12/most-expensive-dog-and-cat-breeds-to-insure-aqua-has-some-answers/))
 - More Iran/Gulf Analysis From Pole Star Global and HUAX ([1 days ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([1 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([1 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
-- Iowa AG Sues Meta Over Alleged Deceptive Practices on Instagram ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865402.htm))
-- Inszone Acquires Oklahoma’s Schuessler ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/10/865396.htm))
-- Markel Expands in Australia With Office in Perth ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/10/865386.htm))
+- Iowa AG Sues Meta Over Alleged Deceptive Practices on Instagram ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865402.htm))
+- Inszone Acquires Oklahoma’s Schuessler ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/10/865396.htm))
+- Markel Expands in Australia With Office in Perth ([2 days ago](https://www.insurancejournal.com/news/international/2026/04/10/865386.htm))
 - Swiss Re’s shareholders elect Jean-Jacques Henchoz as new Board member and approve dividend ([2 days ago](https://www.reinsurancene.ws/swiss-res-shareholders-elect-jean-jacques-henchoz-as-new-board-member-and-approve-dividend/))
 - Missouri Fossil Company Owner Accused of Disability Fraud ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865379.htm))
 - California utility bills are 20% higher due to wildfires ([2 days ago](https://www.dig-in.com/articles/california-utility-bills-are-20-higher-due-to-wildfires))
