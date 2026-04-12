@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- More Iran/Gulf Analysis From Pole Star Global and HUAX ([12 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
+- More Iran/Gulf Analysis From Pole Star Global and HUAX ([13 hours ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([1 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([1 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
 - Iowa AG Sues Meta Over Alleged Deceptive Practices on Instagram ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/10/865402.htm))
@@ -89,7 +89,7 @@ description: Insurance Updates
 - Throwback Thursday: Insurer takes helm of Post ([2 days ago](https://www.postonline.co.uk/people/7959593/throwback-thursday-insurer-takes-helm-of-post))
 - How insurers can prepare for tomorrow's risks ([2 days ago](https://www.postonline.co.uk/commercial/7960144/how-insurers-can-prepare-for-tomorrows-risks))
 - Q&A: David King, Artificial Labs ([2 days ago](https://www.postonline.co.uk/technology/7959976/qa-david-king-artificial-labs))
-- Insurance moves: Arch Insurance, AXA, UIB and Asta ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-axa-uib-and-asta-571133.aspx))
+- Insurance moves: Arch Insurance, AXA, UIB and Asta ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-arch-insurance-axa-uib-and-asta-571133.aspx))
 - Crawford warns on pollution and liability risks as Gulf conflict intensifies ([3 days ago](https://www.insurancebusinessmag.com/uk/news/environmental/crawford-warns-on-pollution-and-liability-risks-as-gulf-conflict-intensifies-571130.aspx))
 - PMI-funded private health admissions hit a new high - Broadstone ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/pmifunded-private-health-admissions-hit-a-new-high--broadstone-571129.aspx))
 - DUAL UK ramps up cyber firepower with Liberty and KYND tie‑ups ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/dual-uk-ramps-up-cyber-firepower-with-liberty-and-kynd-tieups-571128.aspx))
