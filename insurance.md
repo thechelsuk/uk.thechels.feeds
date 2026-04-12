@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Small, well-funded states show potential for stricter regulatory oversight ([2 hours ago](https://www.dig-in.com/news/small-states-show-potential-for-stricter-oversight))
-- How to turn AI capability into competitive advantage ([3 hours ago](https://www.dig-in.com/opinion/how-to-turn-ai-capability-into-competitive-advantage))
-- Most Expensive Dog and Cat Breeds to Insure? Aqua Has Some Answers ([6 hours ago](https://insurance-edge.net/2026/04/12/most-expensive-dog-and-cat-breeds-to-insure-aqua-has-some-answers/))
+- Small, well-funded states show potential for stricter regulatory oversight ([3 hours ago](https://www.dig-in.com/news/small-states-show-potential-for-stricter-oversight))
+- How to turn AI capability into competitive advantage ([4 hours ago](https://www.dig-in.com/opinion/how-to-turn-ai-capability-into-competitive-advantage))
+- Most Expensive Dog and Cat Breeds to Insure? Aqua Has Some Answers ([7 hours ago](https://insurance-edge.net/2026/04/12/most-expensive-dog-and-cat-breeds-to-insure-aqua-has-some-answers/))
 - More Iran/Gulf Analysis From Pole Star Global and HUAX ([1 days ago](https://insurance-edge.net/2026/04/11/more-iran-gulf-analysis-from-pole-star-global-and-huax/))
 - Remote intervention for self-driving cars creates insurance risks ([2 days ago](https://www.dig-in.com/news/remote-assist-for-self-driving-cars-creates-insurance-risks))
 - Eleos Life Secures $3m in Capital, Targets Growth ([2 days ago](https://insurance-edge.net/2026/04/10/eleos-life-secures-3m-in-capital-targets-growth/))
