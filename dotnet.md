@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Running AI agents with customized templates using docker sandbox ([8 hours ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
+- Running AI agents with customized templates using docker sandbox ([9 hours ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([2 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([5 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([6 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
