@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Pin Clustering in .NET MAUI Maps ([4 hours ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
+- Pin Clustering in .NET MAUI Maps ([5 hours ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
 - .NET and .NET Framework April 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
 - .NET 11 Preview 3 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([1 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
