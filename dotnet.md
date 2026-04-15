@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Pin Clustering in .NET MAUI Maps ([35 minutes ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
-- .NET and .NET Framework April 2026 servicing releases updates ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
-- .NET 11 Preview 3 is now available! ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
+- Pin Clustering in .NET MAUI Maps ([1 hours ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
+- .NET and .NET Framework April 2026 servicing releases updates ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
+- .NET 11 Preview 3 is now available! ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([1 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([3 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([6 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([7 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
-- Your Migration’s Source of Truth: The Modernization Assessment ([7 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
+- Your Migration’s Source of Truth: The Modernization Assessment ([8 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([8 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
 - Running AI agents safely in a microVM using docker sandbox ([8 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([10 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
