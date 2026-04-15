@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework April 2026 servicing releases updates ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
-- .NET 11 Preview 3 is now available! ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
+- .NET and .NET Framework April 2026 servicing releases updates ([15 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
+- .NET 11 Preview 3 is now available! ([15 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([1 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([3 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([5 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
@@ -22,9 +22,9 @@ description: DotNet Updates
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([14 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([14 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
 - Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([15 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
-- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([15 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
-- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([15 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
-- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([15 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
+- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([16 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
+- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
+- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
 - General Performance: Comparing Methods for Retrieving Process File Path ([17 days ago](https://dotnettips.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([22 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
 - Ten Months with Copilot Coding Agent in dotnet/runtime ([22 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
