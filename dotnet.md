@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Pin Clustering in .NET MAUI Maps ([15 hours ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
+- Pin Clustering in .NET MAUI Maps ([16 hours ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
 - .NET and .NET Framework April 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
 - .NET 11 Preview 3 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([1 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - Explore union types in C# 15 ([13 days ago](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([14 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([15 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
-- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([15 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
+- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 - ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([16 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
 - ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
 - Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([16 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
