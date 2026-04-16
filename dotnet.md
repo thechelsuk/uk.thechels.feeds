@@ -9,8 +9,8 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Pin Clustering in .NET MAUI Maps ([1 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
-- .NET and .NET Framework April 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
-- .NET 11 Preview 3 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
+- .NET and .NET Framework April 2026 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
+- .NET 11 Preview 3 is now available! ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([2 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([4 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([7 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
