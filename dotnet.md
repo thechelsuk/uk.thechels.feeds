@@ -32,6 +32,6 @@ description: DotNet Updates
 - General Performance: Exploring Thread ID Retrieval Methods ([26 days ago](https://dotnettips.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
-- Accelerating .NET MAUI Development with AI Agents ([28 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
+- Accelerating .NET MAUI Development with AI Agents ([29 days ago](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/))
 
 <!-- news_marker ends -->
