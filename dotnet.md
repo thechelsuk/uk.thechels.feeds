@@ -28,7 +28,7 @@ description: DotNet Updates
 - Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([19 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
 - General Performance: Comparing Methods for Retrieving Process File Path ([20 days ago](https://dotnettips.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([25 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
-- Ten Months with Copilot Coding Agent in dotnet/runtime ([25 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
+- Ten Months with Copilot Coding Agent in dotnet/runtime ([26 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 - General Performance: Exploring Thread ID Retrieval Methods ([27 days ago](https://dotnettips.com/2026/03/22/general-performance-exploring-thread-id-retrieval-methods/))
 - Rider 2026.1 Release Candidate Is Out! ([29 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/rider-2026-1-release-candidate/))
 - ReSharper 2026.1 Release Candidate Released! ([29 days ago](https://blog.jetbrains.com/dotnet/2026/03/20/resharper-2026-1-release-candidate/))
