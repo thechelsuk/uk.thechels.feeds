@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- India Approves $1.4 Billion Maritime Insurance Pool ([8 hours ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
+- India Approves $1.4 Billion Maritime Insurance Pool ([9 hours ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
 - What's really holding carriers back from AI deployment? ([23 hours ago](https://www.dig-in.com/news/whats-really-holding-carriers-back-from-ai-deployment))
 - State Farm Agrees to $15M Settlement for Underpaid Vehicle Claims in Arkansas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/17/866427.htm))
 - Update: Shipping Firms Seek Clarifications Before Transiting Now-Opened Hormuz ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866423.htm))
@@ -104,7 +104,7 @@ description: Insurance Updates
 - Insurance moves: AEGIS London and HDI Global ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-aegis-london-and-hdi-global-571919.aspx))
 - BIBA joins PEIA as scrutiny on pet insurance intensifies ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/biba-joins-peia-as-scrutiny-on-pet-insurance-intensifies-571918.aspx))
 - Polo backs first Lloyd’s syndicate in India’s GIFT City ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/polo-backs-first-lloyds-syndicate-in-indias-gift-city-571917.aspx))
-- What micro cyber incidents mean for insurance risk ([2 days ago](https://www.dig-in.com/opinion/what-micro-cyber-incidents-mean-for-insurance-risk))
+- What micro cyber incidents mean for insurance risk ([3 days ago](https://www.dig-in.com/opinion/what-micro-cyber-incidents-mean-for-insurance-risk))
 - Why some state insurance regulators are stricter than others ([3 days ago](https://www.dig-in.com/news/why-some-state-insurance-regulators-are-stricter-than-others))
 - England has 1.2 million buildings at risk of flooding ([3 days ago](https://www.dig-in.com/articles/england-has-1-2-million-buildings-at-risk-of-flooding))
 - Neptune Flood uncovers over 600,000 more Calif. properties at risk ([3 days ago](https://www.dig-in.com/news/neptune-flood-finds-600-000-more-calif-properties-at-risk))
