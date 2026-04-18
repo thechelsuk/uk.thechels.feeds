@@ -15,7 +15,7 @@ description: DotNet Updates
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([6 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([9 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([10 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
-- Your Migration’s Source of Truth: The Modernization Assessment ([10 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
+- Your Migration’s Source of Truth: The Modernization Assessment ([11 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([11 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
 - Running AI agents safely in a microVM using docker sandbox ([11 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([13 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
