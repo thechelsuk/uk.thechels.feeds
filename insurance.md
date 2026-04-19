@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- India Approves $1.4 Billion Maritime Insurance Pool ([16 hours ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
+- India Approves $1.4 Billion Maritime Insurance Pool ([17 hours ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
 - What's really holding carriers back from AI deployment? ([1 days ago](https://www.dig-in.com/news/whats-really-holding-carriers-back-from-ai-deployment))
 - State Farm Agrees to $15M Settlement for Underpaid Vehicle Claims in Arkansas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/17/866427.htm))
 - Update: Shipping Firms Seek Clarifications Before Transiting Now-Opened Hormuz ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866423.htm))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Bank of England Says it Is Testing AI Risks to Financial System ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866194.htm))
 - Is it third time lucky for Axa as it merges divisions again? ([1 days ago](https://www.postonline.co.uk/personal/7960207/is-it-third-time-lucky-for-axa-as-it-merges-divisions-again))
 - Penny Black’s Social Diary: Lloyd’s tours; Ageas’s chocolate ([1 days ago](https://www.postonline.co.uk/people/7960029/penny-blacks-social-diary-lloyds-tours-ageass-chocolate))
-- Beazley lines up US$1 billion marine war facility for Hormuz transits ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/beazley-lines-up-us1-billion-marine-war-facility-for-hormuz-transits-572091.aspx))
+- Beazley lines up US$1 billion marine war facility for Hormuz transits ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/beazley-lines-up-us1-billion-marine-war-facility-for-hormuz-transits-572091.aspx))
 - Insurance Act fails to curb disputes as litigation jumps 180% in a decade: Mactavish report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-act-fails-to-curb-disputes-as-litigation-jumps-180-in-a-decade-mactavish-report-572065.aspx))
 - Utmost builds £116 billion insurance-based wealth platform in 2025 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/utmost-builds-116-billion-insurancebased-wealth-platform-in-2025-572064.aspx))
 - Global capital revamp puts complex assets and FundedRe in regulators' sights - report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/global-capital-revamp-puts-complex-assets-and-fundedre-in-regulators-sights--report-572063.aspx))
