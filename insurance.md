@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- India Approves $1.4 Billion Maritime Insurance Pool ([13 hours ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
+- India Approves $1.4 Billion Maritime Insurance Pool ([14 hours ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
 - What's really holding carriers back from AI deployment? ([1 days ago](https://www.dig-in.com/news/whats-really-holding-carriers-back-from-ai-deployment))
 - State Farm Agrees to $15M Settlement for Underpaid Vehicle Claims in Arkansas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/17/866427.htm))
 - Update: Shipping Firms Seek Clarifications Before Transiting Now-Opened Hormuz ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866423.htm))
