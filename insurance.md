@@ -10,7 +10,7 @@ description: Insurance Updates
 <!-- news_marker starts -->
 - India Approves $1.4 Billion Maritime Insurance Pool ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/18/866456.htm))
 - What's really holding carriers back from AI deployment? ([1 days ago](https://www.dig-in.com/news/whats-really-holding-carriers-back-from-ai-deployment))
-- State Farm Agrees to $15M Settlement for Underpaid Vehicle Claims in Arkansas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/17/866427.htm))
+- State Farm Agrees to $15M Settlement for Underpaid Vehicle Claims in Arkansas ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/17/866427.htm))
 - Update: Shipping Firms Seek Clarifications Before Transiting Now-Opened Hormuz ([2 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866423.htm))
 - CEO John Doyle expects Marsh to be an ‘AI winner’ ([2 days ago](https://www.reinsurancene.ws/ceo-john-doyle-expects-marsh-to-be-an-ai-winner/))
 - Tysers Live CEO Chapman steps down ([2 days ago](https://www.postonline.co.uk/news/7960220/tysers-live-ceo-chapman-steps-down))
@@ -77,7 +77,7 @@ description: Insurance Updates
 - IFB signs short-term motor insurance provider ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/ifb-signs-shortterm-motor-insurance-provider-572061.aspx))
 - What small businesses need to know about insurance preparedness ([2 days ago](https://www.dig-in.com/opinion/small-businesses-and-insurance-preparedness))
 - 95% of financial service leaders are investing in AI technology ([2 days ago](https://www.dig-in.com/news/95-of-financial-service-leaders-are-investing-in-ai-technology))
-- $28m Sompo backs Zego to develop telematics motor insurance in Japan ([2 days ago](https://www.insurtechinsights.com/28m-sompo-backs-zego-to-develop-telematics-motor-insurance-in-japan/))
+- $28m Sompo backs Zego to develop telematics motor insurance in Japan ([3 days ago](https://www.insurtechinsights.com/28m-sompo-backs-zego-to-develop-telematics-motor-insurance-in-japan/))
 - Beazley to launch marine war consortium ([3 days ago](https://www.postonline.co.uk/commercial/7960217/beazley-to-launch-marine-war-consortium))
 - Rideshare-related claims jump 96% in 2025: Verisk ([3 days ago](https://www.dig-in.com/news/rideshare-related-claims-jump-96-in-2025-verisk))
 - Travelers posts sharp earnings rebound as catastrophe losses normalise ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/travelers-posts-sharp-earnings-rebound-as-catastrophe-losses-normalise-572012.aspx))
