@@ -106,7 +106,7 @@ description: Insurance Updates
 - Polo backs first Lloyd’s syndicate in India’s GIFT City ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/polo-backs-first-lloyds-syndicate-in-indias-gift-city-571917.aspx))
 - What micro cyber incidents mean for insurance risk ([3 days ago](https://www.dig-in.com/opinion/what-micro-cyber-incidents-mean-for-insurance-risk))
 - Why some state insurance regulators are stricter than others ([3 days ago](https://www.dig-in.com/news/why-some-state-insurance-regulators-are-stricter-than-others))
-- England has 1.2 million buildings at risk of flooding ([3 days ago](https://www.dig-in.com/articles/england-has-1-2-million-buildings-at-risk-of-flooding))
+- England has 1.2 million buildings at risk of flooding ([4 days ago](https://www.dig-in.com/articles/england-has-1-2-million-buildings-at-risk-of-flooding))
 - Neptune Flood uncovers over 600,000 more Calif. properties at risk ([4 days ago](https://www.dig-in.com/news/neptune-flood-finds-600-000-more-calif-properties-at-risk))
 - Clear Group acquires south coast broker Pangea ([4 days ago](https://www.postonline.co.uk/news/7960204/clear-group-acquires-south-coast-broker-pangea))
 - Gain campaign celebrates neurodiversity in insurance ([4 days ago](https://www.postonline.co.uk/people/7960198/gain-campaign-celebrates-neurodiversity-in-insurance))
