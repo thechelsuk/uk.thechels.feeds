@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- String Performance: Why Some String Searches Are Slower Than You Think ([37 minutes ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([1 hours ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Pin Clustering in .NET MAUI Maps ([3 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
 - .NET and .NET Framework April 2026 servicing releases updates ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
 - .NET 11 Preview 3 is now available! ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([5 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([7 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
-- Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([9 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
+- Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([10 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([11 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Your Migration’s Source of Truth: The Modernization Assessment ([11 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - ASP.NET Core 2.3 end of support announcement ([11 days ago](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/))
