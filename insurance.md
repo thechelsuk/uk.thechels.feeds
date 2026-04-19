@@ -104,7 +104,7 @@ description: Insurance Updates
 - Insurance moves: AEGIS London and HDI Global ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-aegis-london-and-hdi-global-571919.aspx))
 - BIBA joins PEIA as scrutiny on pet insurance intensifies ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/biba-joins-peia-as-scrutiny-on-pet-insurance-intensifies-571918.aspx))
 - Polo backs first Lloyd’s syndicate in India’s GIFT City ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/polo-backs-first-lloyds-syndicate-in-indias-gift-city-571917.aspx))
-- What micro cyber incidents mean for insurance risk ([3 days ago](https://www.dig-in.com/opinion/what-micro-cyber-incidents-mean-for-insurance-risk))
+- What micro cyber incidents mean for insurance risk ([4 days ago](https://www.dig-in.com/opinion/what-micro-cyber-incidents-mean-for-insurance-risk))
 - Why some state insurance regulators are stricter than others ([4 days ago](https://www.dig-in.com/news/why-some-state-insurance-regulators-are-stricter-than-others))
 - England has 1.2 million buildings at risk of flooding ([4 days ago](https://www.dig-in.com/articles/england-has-1-2-million-buildings-at-risk-of-flooding))
 - Neptune Flood uncovers over 600,000 more Calif. properties at risk ([4 days ago](https://www.dig-in.com/news/neptune-flood-finds-600-000-more-calif-properties-at-risk))
