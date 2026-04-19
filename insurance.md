@@ -62,7 +62,7 @@ description: Insurance Updates
 - Confronting the escalating threat of severe convective storms in 2026 ([1 days ago](https://www.insurancejournal.com/blogs/cotality/2026/04/17/866266.htm))
 - US-Iran Deal Will Take Months, Gulf and Europe Officials Say ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866343.htm))
 - Europe Looks to Contain Trump’s Fury as It Hosts Hormuz Summit ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866335.htm))
-- Spain’s Blackout Probe Blames Grid Operator, Government, Watchdog ([1 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866234.htm))
+- Spain’s Blackout Probe Blames Grid Operator, Government, Watchdog ([2 days ago](https://www.insurancejournal.com/news/international/2026/04/17/866234.htm))
 - Reinsurers Least Successful Acquirers in Industry M&A: Analysis ([2 days ago](https://www.insurancejournal.com/news/national/2026/04/17/866302.htm))
 - Nationwide: Consumers Say Insurance Should Evolve for Micromobility Vehicles ([2 days ago](https://www.insurancejournal.com/news/national/2026/04/17/866306.htm))
 - Mythos Poses Risk to SEC Market-Tracking Database, Group Says ([2 days ago](https://www.insurancejournal.com/news/national/2026/04/17/866318.htm))
