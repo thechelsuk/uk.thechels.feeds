@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- String Performance: Why Some String Searches Are Slower Than You Think ([21 hours ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([22 hours ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Pin Clustering in .NET MAUI Maps ([4 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
 - .NET and .NET Framework April 2026 servicing releases updates ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
 - .NET 11 Preview 3 is now available! ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
