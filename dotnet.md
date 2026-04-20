@@ -8,11 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Guidance Counselor 2.0 with David McCarter ([4 hours ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
+- Writing Node.js addons with .NET Native AOT ([11 minutes ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
+- Guidance Counselor 2.0 with David McCarter ([5 hours ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([1 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Pin Clustering in .NET MAUI Maps ([5 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
-- .NET and .NET Framework April 2026 servicing releases updates ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
-- .NET 11 Preview 3 is now available! ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
+- .NET and .NET Framework April 2026 servicing releases updates ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
+- .NET 11 Preview 3 is now available! ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([6 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([8 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([11 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
