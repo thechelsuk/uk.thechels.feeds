@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET 10.0.7 Out-of-Band Security Update ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
-- Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([10 hours ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
+- .NET 10.0.7 Out-of-Band Security Update ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
+- Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([11 hours ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Writing Node.js addons with .NET Native AOT ([1 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
 - Guidance Counselor 2.0 with David McCarter ([1 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([2 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
