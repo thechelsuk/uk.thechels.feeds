@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET 10.0.7 Out-of-Band Security Update ([19 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
+- .NET 10.0.7 Out-of-Band Security Update ([20 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([1 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Writing Node.js addons with .NET Native AOT ([1 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
 - Guidance Counselor 2.0 with David McCarter ([2 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
-- String Performance: Why Some String Searches Are Slower Than You Think ([2 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([3 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Pin Clustering in .NET MAUI Maps ([6 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
 - .NET and .NET Framework April 2026 servicing releases updates ([7 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
 - .NET 11 Preview 3 is now available! ([7 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
@@ -33,6 +33,5 @@ description: DotNet Updates
 - Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([23 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
 - General Performance: Comparing Methods for Retrieving Process File Path ([24 days ago](https://dotnettips.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
 - Generative AI for Beginners .NET: Version 2 on .NET 10 ([29 days ago](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/))
-- Ten Months with Copilot Coding Agent in dotnet/runtime ([29 days ago](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/))
 
 <!-- news_marker ends -->
