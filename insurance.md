@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Zurich Insurance defeats mesothelioma claim as claimant's old memories crumble ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/zurich-insurance-defeats-mesothelioma-claim-as-claimants-old-memories-crumble-573060.aspx))
-- Single treaty word triggers $61 million dispute in Lloyd's reinsurance ruling ([23 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/single-treaty-word-triggers-61-million-dispute-in-lloyds-reinsurance-ruling-573057.aspx))
+- Zurich Insurance defeats mesothelioma claim as claimant's old memories crumble ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/zurich-insurance-defeats-mesothelioma-claim-as-claimants-old-memories-crumble-573060.aspx))
+- Single treaty word triggers $61 million dispute in Lloyd's reinsurance ruling ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/single-treaty-word-triggers-61-million-dispute-in-lloyds-reinsurance-ruling-573057.aspx))
 - Massive Ice Sheets Threaten Homes in Northern Michigan ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/24/867258.htm))
 - Inszone Acquires Michigan’s James R. Vozar Insurance Agency ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/04/24/867256.htm))
 - A 50% Surge in Zombie Oil Wells Prompts Texas to Crack Down on Toxic Water Leaks ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/24/867247.htm))
