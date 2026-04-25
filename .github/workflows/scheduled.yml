@@ -40,5 +40,6 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "New Feed")
+                  git add -A
+                  git diff --staged --quiet || git commit -m "Chore: Update RSS feeds for `date +'%Y-%m-%d %H:%M'`"
                   git push
