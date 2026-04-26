@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Finding Items at Blazing Speed ([1 hours ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
-- Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([1 hours ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
+- Collection Performance: Finding Items at Blazing Speed ([2 hours ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
+- Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([2 hours ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([2 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
 - .NET 10.0.7 Out-of-Band Security Update ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([4 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
