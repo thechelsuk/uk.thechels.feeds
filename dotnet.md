@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Finding Items at Blazing Speed ([8 hours ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
-- Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([8 hours ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
+- Collection Performance: Finding Items at Blazing Speed ([9 hours ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
+- Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([9 hours ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([2 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
 - .NET 10.0.7 Out-of-Band Security Update ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([5 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Writing Node.js addons with .NET Native AOT ([5 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
-- Guidance Counselor 2.0 with David McCarter ([5 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
-- String Performance: Why Some String Searches Are Slower Than You Think ([6 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- Guidance Counselor 2.0 with David McCarter ([6 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([7 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Pin Clustering in .NET MAUI Maps ([10 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
 - .NET and .NET Framework April 2026 servicing releases updates ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/))
 - .NET 11 Preview 3 is now available! ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
