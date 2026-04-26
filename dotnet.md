@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Finding Items at Blazing Speed ([4 hours ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
-- Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([4 hours ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
+- Collection Performance: Finding Items at Blazing Speed ([5 hours ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
+- Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([5 hours ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([2 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
 - .NET 10.0.7 Out-of-Band Security Update ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([5 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
@@ -31,9 +31,9 @@ description: DotNet Updates
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([25 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([25 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
 - Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([26 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
-- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([26 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
-- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([26 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
-- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([26 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
+- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([27 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
+- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([27 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
+- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([27 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
 - General Performance: Comparing Methods for Retrieving Process File Path ([28 days ago](https://dotnettips.com/2026/03/29/general-performance-comparing-methods-for-retrieving-process-file-path/))
 
 <!-- news_marker ends -->
