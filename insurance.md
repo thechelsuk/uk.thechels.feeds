@@ -94,7 +94,7 @@ description: Insurance Updates
 - Benenden Health closes 2025 with £25.1m boost to strengthen member services ([2 days ago](https://ifamagazine.com/benenden-health-closes-2025-with-25-1m-boost-to-strengthen-member-services/))
 - Top Lloyd's syndicates pull away as performance gap widens ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/top-lloyds-syndicates-pull-away-as-performance-gap-widens-572849.aspx))
 - Iran war to tip 15,000 more firms into insolvency, Allianz warns ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/iran-war-to-tip-15000-more-firms-into-insolvency-allianz-warns-572841.aspx))
-- Record IPT haul reignites industry push for health cover rethink ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/record-ipt-haul-reignites-industry-push-for-health-cover-rethink-572835.aspx))
+- Record IPT haul reignites industry push for health cover rethink ([3 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/record-ipt-haul-reignites-industry-push-for-health-cover-rethink-572835.aspx))
 - Q&A: Mathew Rowles, Malago Insurance ([3 days ago](https://www.postonline.co.uk/broker/7960001/qa-mathew-rowles-malago-insurance))
 - Why non-payment risk is suddenly brokers' biggest conversation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/why-nonpayment-risk-is-suddenly-brokers-biggest-conversation-572824.aspx))
 - How insurers can retain the human touch in the age of AI ([3 days ago](https://www.postonline.co.uk/technology/7960224/how-insurers-can-retain-the-human-touch-in-the-age-of-ai))
