@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Maine Governor Blocks First State Freeze on New Data Centers ([46 minutes ago](https://www.insurancejournal.com/news/east/2026/04/26/867287.htm))
-- Zurich Insurance defeats mesothelioma claim as claimant's old memories crumble ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/zurich-insurance-defeats-mesothelioma-claim-as-claimants-old-memories-crumble-573060.aspx))
-- Single treaty word triggers $61 million dispute in Lloyd's reinsurance ruling ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/single-treaty-word-triggers-61-million-dispute-in-lloyds-reinsurance-ruling-573057.aspx))
+- Maine Governor Blocks First State Freeze on New Data Centers ([1 hours ago](https://www.insurancejournal.com/news/east/2026/04/26/867287.htm))
+- Zurich Insurance defeats mesothelioma claim as claimant's old memories crumble ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/zurich-insurance-defeats-mesothelioma-claim-as-claimants-old-memories-crumble-573060.aspx))
+- Single treaty word triggers $61 million dispute in Lloyd's reinsurance ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/single-treaty-word-triggers-61-million-dispute-in-lloyds-reinsurance-ruling-573057.aspx))
 - Massive Ice Sheets Threaten Homes in Northern Michigan ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/04/24/867258.htm))
 - Inszone Acquires Michigan’s James R. Vozar Insurance Agency ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/04/24/867256.htm))
 - A 50% Surge in Zombie Oil Wells Prompts Texas to Crack Down on Toxic Water Leaks ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/04/24/867247.htm))
