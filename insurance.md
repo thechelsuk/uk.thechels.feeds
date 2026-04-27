@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Maine Governor Blocks First State Freeze on New Data Centers ([8 hours ago](https://www.insurancejournal.com/news/east/2026/04/26/867287.htm))
+- Maine Governor Blocks First State Freeze on New Data Centers ([9 hours ago](https://www.insurancejournal.com/news/east/2026/04/26/867287.htm))
 - Zurich Insurance defeats mesothelioma claim as claimant's old memories crumble ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/zurich-insurance-defeats-mesothelioma-claim-as-claimants-old-memories-crumble-573060.aspx))
 - Single treaty word triggers $61 million dispute in Lloyd's reinsurance ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/single-treaty-word-triggers-61-million-dispute-in-lloyds-reinsurance-ruling-573057.aspx))
 - Massive Ice Sheets Threaten Homes in Northern Michigan ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/04/24/867258.htm))
@@ -69,8 +69,8 @@ description: Insurance Updates
 - Mississippi Law School Among First in Nation to Require AI Education ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/04/24/866917.htm))
 - Penny Black’s Social Diary: NGIN’s yoga; ISC’s sweet potato ([2 days ago](https://www.postonline.co.uk/people/7960032/penny-blacks-social-diary-ngins-yoga-iscs-sweet-potato))
 - Lloyd’s pushed to prove value of Dive In replacement ([2 days ago](https://www.postonline.co.uk/lloydslondon/7960228/lloyds-pushed-to-prove-value-of-dive-in-replacement))
-- Insurance moves: Liberty Specialty and Markel ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-liberty-specialty-and-markel-572949.aspx))
-- Why carbon credits are becoming a major London market line ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/why-carbon-credits-are-becoming-a-major-london-market-line-572948.aspx))
+- Insurance moves: Liberty Specialty and Markel ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-liberty-specialty-and-markel-572949.aspx))
+- Why carbon credits are becoming a major London market line ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/why-carbon-credits-are-becoming-a-major-london-market-line-572948.aspx))
 - LMA issues AI governance blueprint as Lloyd’s market steps up adoption ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-issues-ai-governance-blueprint-as-lloyds-market-steps-up-adoption-572946.aspx))
 - Simply Business brings ChatGPT into SME insurance funnel as insurers test new distribution route ([3 days ago](https://www.insurancebusinessmag.com/uk/news/sme/simply-business-brings-chatgpt-into-sme-insurance-funnel-as-insurers-test-new-distribution-route-572945.aspx))
 - 95% of drivers interested in personalized insurance rates: Root Insurance ([3 days ago](https://www.dig-in.com/news/95-of-drivers-interested-in-personalized-insurance-rates))
