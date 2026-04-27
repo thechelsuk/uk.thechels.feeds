@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Maine Governor Blocks First State Freeze on New Data Centers ([5 hours ago](https://www.insurancejournal.com/news/east/2026/04/26/867287.htm))
+- Maine Governor Blocks First State Freeze on New Data Centers ([8 hours ago](https://www.insurancejournal.com/news/east/2026/04/26/867287.htm))
 - Zurich Insurance defeats mesothelioma claim as claimant's old memories crumble ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/zurich-insurance-defeats-mesothelioma-claim-as-claimants-old-memories-crumble-573060.aspx))
 - Single treaty word triggers $61 million dispute in Lloyd's reinsurance ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/single-treaty-word-triggers-61-million-dispute-in-lloyds-reinsurance-ruling-573057.aspx))
 - Massive Ice Sheets Threaten Homes in Northern Michigan ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/04/24/867258.htm))
@@ -71,8 +71,8 @@ description: Insurance Updates
 - Lloyd’s pushed to prove value of Dive In replacement ([2 days ago](https://www.postonline.co.uk/lloydslondon/7960228/lloyds-pushed-to-prove-value-of-dive-in-replacement))
 - Insurance moves: Liberty Specialty and Markel ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-liberty-specialty-and-markel-572949.aspx))
 - Why carbon credits are becoming a major London market line ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/why-carbon-credits-are-becoming-a-major-london-market-line-572948.aspx))
-- LMA issues AI governance blueprint as Lloyd’s market steps up adoption ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-issues-ai-governance-blueprint-as-lloyds-market-steps-up-adoption-572946.aspx))
-- Simply Business brings ChatGPT into SME insurance funnel as insurers test new distribution route ([2 days ago](https://www.insurancebusinessmag.com/uk/news/sme/simply-business-brings-chatgpt-into-sme-insurance-funnel-as-insurers-test-new-distribution-route-572945.aspx))
+- LMA issues AI governance blueprint as Lloyd’s market steps up adoption ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/lma-issues-ai-governance-blueprint-as-lloyds-market-steps-up-adoption-572946.aspx))
+- Simply Business brings ChatGPT into SME insurance funnel as insurers test new distribution route ([3 days ago](https://www.insurancebusinessmag.com/uk/news/sme/simply-business-brings-chatgpt-into-sme-insurance-funnel-as-insurers-test-new-distribution-route-572945.aspx))
 - 95% of drivers interested in personalized insurance rates: Root Insurance ([3 days ago](https://www.dig-in.com/news/95-of-drivers-interested-in-personalized-insurance-rates))
 - Supreme Court upholds £1bn in furlough deductions from BI claims ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/supreme-court-upholds-1bn-in-furlough-deductions-from-bi-claims-572906.aspx))
 - Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([3 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
@@ -99,10 +99,10 @@ description: Insurance Updates
 - Why non-payment risk is suddenly brokers' biggest conversation ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/why-nonpayment-risk-is-suddenly-brokers-biggest-conversation-572824.aspx))
 - How insurers can retain the human touch in the age of AI ([3 days ago](https://www.postonline.co.uk/technology/7960224/how-insurers-can-retain-the-human-touch-in-the-age-of-ai))
 - Throwback Thursday: Friends Provident goes online ([3 days ago](https://www.postonline.co.uk/technology/7959595/throwback-thursday-friends-provident-goes-online))
-- FCA and PRA unveil 'pragmatic' SM&CR overhaul ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-and-pra-unveil-pragmatic-smandcr-overhaul-572803.aspx))
-- Legal expenses now fastest-growing claims area for UK charities - WRS ([3 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/legal-expenses-now-fastestgrowing-claims-area-for-uk-charities--wrs-572801.aspx))
-- PFR products need to be smarter, more adaptable, study finds ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/pfr-products-need-to-be-smarter-more-adaptable-study-finds-572800.aspx))
-- Aviva rolls out flood-preparedness app ([3 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/aviva-rolls-out-floodpreparedness-app-572799.aspx))
+- FCA and PRA unveil 'pragmatic' SM&CR overhaul ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-and-pra-unveil-pragmatic-smandcr-overhaul-572803.aspx))
+- Legal expenses now fastest-growing claims area for UK charities - WRS ([4 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/legal-expenses-now-fastestgrowing-claims-area-for-uk-charities--wrs-572801.aspx))
+- PFR products need to be smarter, more adaptable, study finds ([4 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/pfr-products-need-to-be-smarter-more-adaptable-study-finds-572800.aspx))
+- Aviva rolls out flood-preparedness app ([4 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/aviva-rolls-out-floodpreparedness-app-572799.aspx))
 - California agency to decide how consumer groups can fight rate increases ([4 days ago](https://www.dig-in.com/news/california-to-decide-how-advocates-can-fight-rate-increases))
 - Clear Group expands Scottish footprint with Spence Insurance acquisition ([4 days ago](https://www.insurtechinsights.com/clear-group-expands-scottish-footprint-with-spence-insurance-acquisition/))
 - Pets at work? How benefit teams can prep to accommodate service animals ([4 days ago](https://www.dig-in.com/news/ada-workplace-accommodations-include-animals))
@@ -130,6 +130,6 @@ description: Insurance Updates
 - Stress among the leading reasons policyholders seek mental health support, finds LV= ([6 days ago](https://ifamagazine.com/stress-among-the-leading-reasons-policyholders-seek-mental-health-support-finds-lv/))
 - Canada Life partners with Perci Health to give GCI members specialist cancer care ([6 days ago](https://ifamagazine.com/canada-life-partners-with-perci-health-to-give-gci-members-specialist-cancer-care/))
 - A&E waiting times reach five-year low, but system pressures and delays persist | The Exeter insight ([10 days ago](https://ifamagazine.com/ae-waiting-times-reach-five-year-low-but-system-pressures-and-delays-persist-the-exeter-insight/))
-- Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent ([22 days ago](https://thefintechtimes.com/generali-hong-kong-automates-health-claims-with-covergos-ai-agent/))
+- Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent ([23 days ago](https://thefintechtimes.com/generali-hong-kong-automates-health-claims-with-covergos-ai-agent/))
 
 <!-- news_marker ends -->
