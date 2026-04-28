@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Welcome to SkiaSharp 4.0 Preview 1 ([24 minutes ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
-- High-Performance Distributed Caching with .NET and Postgres on Azure ([25 minutes ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
-- New features in Git 2.54: easier rebasing, hooks, and statistics ([7 hours ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
-- Combining API versioning with OpenAPI in .NET 10 applications ([21 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
+- Welcome to SkiaSharp 4.0 Preview 1 ([1 hours ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
+- High-Performance Distributed Caching with .NET and Postgres on Azure ([1 hours ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
+- New features in Git 2.54: easier rebasing, hooks, and statistics ([8 hours ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
+- Combining API versioning with OpenAPI in .NET 10 applications ([22 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - Collection Performance: Finding Items at Blazing Speed ([2 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([2 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([5 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
@@ -27,7 +27,7 @@ description: DotNet Updates
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([16 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([19 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([20 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
-- Your Migration’s Source of Truth: The Modernization Assessment ([20 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
+- Your Migration’s Source of Truth: The Modernization Assessment ([21 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - Running AI agents safely in a microVM using docker sandbox ([21 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([23 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([27 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
