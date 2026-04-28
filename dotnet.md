@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Combining API versioning with OpenAPI in .NET 10 applications ([3 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
+- Combining API versioning with OpenAPI in .NET 10 applications ([4 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - Collection Performance: Finding Items at Blazing Speed ([1 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([1 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([4 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
