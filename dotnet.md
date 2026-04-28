@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- New features in Git 2.54: easier rebasing, hooks, and statistics ([36 minutes ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
-- Combining API versioning with OpenAPI in .NET 10 applications ([14 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
+- New features in Git 2.54: easier rebasing, hooks, and statistics ([1 hours ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
+- Combining API versioning with OpenAPI in .NET 10 applications ([15 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - Collection Performance: Finding Items at Blazing Speed ([2 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([2 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([4 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
@@ -33,8 +33,8 @@ description: DotNet Updates
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([27 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([27 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
 - Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
-- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([28 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
-- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
-- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([28 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
+- ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates ([29 days ago](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/))
+- ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows ([29 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/))
+- Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support ([29 days ago](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/))
 
 <!-- news_marker ends -->
