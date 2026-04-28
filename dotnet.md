@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- New features in Git 2.54: easier rebasing, hooks, and statistics ([5 hours ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
-- Combining API versioning with OpenAPI in .NET 10 applications ([19 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
+- New features in Git 2.54: easier rebasing, hooks, and statistics ([6 hours ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
+- Combining API versioning with OpenAPI in .NET 10 applications ([20 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - Collection Performance: Finding Items at Blazing Speed ([2 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([2 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([4 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
