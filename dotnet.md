@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Welcome to SkiaSharp 4.0 Preview 1 ([21 hours ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
-- High-Performance Distributed Caching with .NET and Postgres on Azure ([21 hours ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
+- Welcome to SkiaSharp 4.0 Preview 1 ([22 hours ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
+- High-Performance Distributed Caching with .NET and Postgres on Azure ([22 hours ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
 - New features in Git 2.54: easier rebasing, hooks, and statistics ([1 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Combining API versioning with OpenAPI in .NET 10 applications ([1 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - Collection Performance: Finding Items at Blazing Speed ([3 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
@@ -25,7 +25,7 @@ description: DotNet Updates
 - .NET 11 Preview 3 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/))
 - Running AI agents with customized templates using docker sandbox ([15 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([17 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
-- Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([19 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
+- Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([20 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
 - dotInsights  -  April 2026 ([21 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Your Migration’s Source of Truth: The Modernization Assessment ([21 days ago](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/))
 - Running AI agents safely in a microVM using docker sandbox ([22 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
