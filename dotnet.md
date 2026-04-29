@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Governing MCP tool calls in .NET with the Agent Governance Toolkit ([24 minutes ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
+- Governing MCP tool calls in .NET with the Agent Governance Toolkit ([1 hours ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
 - Welcome to SkiaSharp 4.0 Preview 1 ([1 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
 - High-Performance Distributed Caching with .NET and Postgres on Azure ([1 days ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
 - Combining API versioning with OpenAPI in .NET 10 applications ([1 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
