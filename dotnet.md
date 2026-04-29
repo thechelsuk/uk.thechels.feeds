@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Welcome to SkiaSharp 4.0 Preview 1 ([22 hours ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
-- High-Performance Distributed Caching with .NET and Postgres on Azure ([22 hours ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
+- Welcome to SkiaSharp 4.0 Preview 1 ([23 hours ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
+- High-Performance Distributed Caching with .NET and Postgres on Azure ([23 hours ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
+- Combining API versioning with OpenAPI in .NET 10 applications ([23 hours ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - New features in Git 2.54: easier rebasing, hooks, and statistics ([1 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
-- Combining API versioning with OpenAPI in .NET 10 applications ([1 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - Collection Performance: Finding Items at Blazing Speed ([3 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([3 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([5 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
