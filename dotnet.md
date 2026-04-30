@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Building an AI-Powered Conference App with .NET’s Composable AI Stack ([1 hours ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
+- Building an AI-Powered Conference App with .NET’s Composable AI Stack ([2 hours ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
 - Governing MCP tool calls in .NET with the Agent Governance Toolkit ([1 days ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
 - VSTest is Removing its Newtonsoft.Json Dependency ([1 days ago](https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/))
 - Welcome to SkiaSharp 4.0 Preview 1 ([2 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - Collection Performance: Finding Items at Blazing Speed ([4 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([4 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([7 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
-- .NET 10.0.7 Out-of-Band Security Update ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
+- .NET 10.0.7 Out-of-Band Security Update ([9 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([9 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Writing Node.js addons with .NET Native AOT ([9 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
 - Guidance Counselor 2.0 with David McCarter ([10 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
