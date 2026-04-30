@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Governing MCP tool calls in .NET with the Agent Governance Toolkit ([15 hours ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
-- VSTest is Removing its Newtonsoft.Json Dependency ([15 hours ago](https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/))
+- Governing MCP tool calls in .NET with the Agent Governance Toolkit ([16 hours ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
+- VSTest is Removing its Newtonsoft.Json Dependency ([16 hours ago](https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/))
 - Welcome to SkiaSharp 4.0 Preview 1 ([1 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
 - High-Performance Distributed Caching with .NET and Postgres on Azure ([1 days ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
 - Combining API versioning with OpenAPI in .NET 10 applications ([1 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
@@ -32,6 +32,5 @@ description: DotNet Updates
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([25 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 - Configuring contextual options with Microsoft.Extensions.Options.Contextual ([28 days ago](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/))
 - Coding Faster with dotNetTips.com Spargine 10: April 2026 Release ([29 days ago](https://dotnettips.com/2026/04/01/coding-faster-with-dotnettips-com-spargine-10-april-2026-release/))
-- Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper ([29 days ago](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/))
 
 <!-- news_marker ends -->
