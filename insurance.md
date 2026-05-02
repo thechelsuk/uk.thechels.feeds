@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([5 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
-- Sun Life HK Publishes 2025 Results ([11 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
-- BMO turns to AI, quantum computing to predict earthquakes ([22 hours ago](https://www.dig-in.com/articles/bmo-turns-to-ai-quantum-computing-to-predict-earthquakes))
-- LA fire suspect angry he had no date for New Year's, U.S. says ([22 hours ago](https://www.dig-in.com/articles/la-fire-suspect-angry-he-had-no-date-for-new-years-u-s-says))
+- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([6 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
+- Sun Life HK Publishes 2025 Results ([12 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
+- BMO turns to AI, quantum computing to predict earthquakes ([23 hours ago](https://www.dig-in.com/articles/bmo-turns-to-ai-quantum-computing-to-predict-earthquakes))
+- LA fire suspect angry he had no date for New Year's, U.S. says ([23 hours ago](https://www.dig-in.com/articles/la-fire-suspect-angry-he-had-no-date-for-new-years-u-s-says))
 - Thatcham Research Welcomes New Offences on Car Theft Tech Devices ([1 days ago](https://insurance-edge.net/2026/05/01/thatcham-research-welcomes-new-offences-on-car-theft-tech-devices/))
 - Inszone Acquires Arkansas’ Mena Insurance Agency ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/01/868171.htm))
 - AI advancing faster than expected as AIG builds multi-agentic solution: CEO Zaffino ([1 days ago](https://www.reinsurancene.ws/ai-advancing-faster-than-expected-as-aig-builds-multi-agentic-solution-ceo-zaffino/))
@@ -73,7 +73,7 @@ description: Insurance Updates
 - AXA UK deepens domestic abuse response with new employee fund ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-uk-deepens-domestic-abuse-response-with-new-employee-fund-573687.aspx))
 - Willis Re targets Asian growth with senior hire in Singapore ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/willis-re-targets-asian-growth-with-senior-hire-in-singapore-573680.aspx))
 - Chartered Insurance Institute strengthens executive team with dual hire ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chartered-insurance-institute-strengthens-executive-team-with-dual-hire-573679.aspx))
-- How to avoid mistake-ridden AI output ([1 days ago](https://www.dig-in.com/news/how-to-avoid-mistake-ridden-ai-output))
+- How to avoid mistake-ridden AI output ([2 days ago](https://www.dig-in.com/news/how-to-avoid-mistake-ridden-ai-output))
 - Why annuities growth is tied to data exchange and standardization ([2 days ago](https://www.dig-in.com/opinion/why-annuities-growth-tied-to-data-exchange-standardization))
 - Hannover Re US appoints Kelly Rabin as Chief Actuary amid leadership transition ([2 days ago](https://www.insurtechinsights.com/hannover-re-us-appoints-kelly-rabin-as-chief-actuary-amid-leadership-transition/))
 - In Focus: lining up regulation, technology and communications to better engage younger clients with protection ([2 days ago](https://ifamagazine.com/in-focus-lining-up-regulation-technology-and-communications-to-better-engage-younger-clients-with-protection/))
