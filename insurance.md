@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([8 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
-- Sun Life HK Publishes 2025 Results ([15 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
+- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([10 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
+- Sun Life HK Publishes 2025 Results ([16 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
 - BMO turns to AI, quantum computing to predict earthquakes ([1 days ago](https://www.dig-in.com/articles/bmo-turns-to-ai-quantum-computing-to-predict-earthquakes))
 - LA fire suspect angry he had no date for New Year's, U.S. says ([1 days ago](https://www.dig-in.com/articles/la-fire-suspect-angry-he-had-no-date-for-new-years-u-s-says))
 - Thatcham Research Welcomes New Offences on Car Theft Tech Devices ([1 days ago](https://insurance-edge.net/2026/05/01/thatcham-research-welcomes-new-offences-on-car-theft-tech-devices/))
