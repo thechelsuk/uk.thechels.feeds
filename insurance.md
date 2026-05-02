@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([6 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
-- Sun Life HK Publishes 2025 Results ([13 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
+- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([8 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
+- Sun Life HK Publishes 2025 Results ([14 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
 - BMO turns to AI, quantum computing to predict earthquakes ([1 days ago](https://www.dig-in.com/articles/bmo-turns-to-ai-quantum-computing-to-predict-earthquakes))
 - LA fire suspect angry he had no date for New Year's, U.S. says ([1 days ago](https://www.dig-in.com/articles/la-fire-suspect-angry-he-had-no-date-for-new-years-u-s-says))
 - Thatcham Research Welcomes New Offences on Car Theft Tech Devices ([1 days ago](https://insurance-edge.net/2026/05/01/thatcham-research-welcomes-new-offences-on-car-theft-tech-devices/))
@@ -108,7 +108,7 @@ description: Insurance Updates
 - Brown & Brown strikes agri scheme deal with Progeny Underwriting ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brown-and-brown-strikes-agri-scheme-deal-with-progeny-underwriting-573527.aspx))
 - Howden acquires Maven Financial ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/howden-acquires-maven-financial-573526.aspx))
 - Court blocks RSA's bid for sensitive records in multi-million pound claim ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-blocks-rsas-bid-for-sensitive-records-in-multimillion-pound-claim-573478.aspx))
-- Voluntary severance packages: a good way to get rid of the old and the weak? ([2 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/voluntary-severance-packages-a-good-way-to-get-rid-of-the-old-and-the-weak-573514.aspx))
+- Voluntary severance packages: a good way to get rid of the old and the weak? ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/voluntary-severance-packages-a-good-way-to-get-rid-of-the-old-and-the-weak-573514.aspx))
 - How to deliver personalized life and annuity products ([3 days ago](https://www.dig-in.com/opinion/how-to-deliver-personalized-life-and-annuity-products))
 - 33% see AI as risk, 35% see AI as protection: Beazley ([3 days ago](https://www.dig-in.com/news/beazley-consumers-see-ai-as-risk-and-resilience))
 - Making AI risk quantifiable: how insurers can underwrite the uninsurable ([3 days ago](https://ifamagazine.com/making-ai-risk-quantifiable-how-insurers-can-underwrite-the-uninsurable/))
