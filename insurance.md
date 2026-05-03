@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([12 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
-- Sun Life HK Publishes 2025 Results ([18 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
+- Berkshire Hathaway re/insurance underwriting earnings rose 29% to $1.717bn in Q1 2026 ([13 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/))
+- Sun Life HK Publishes 2025 Results ([19 hours ago](https://insurance-edge.net/2026/05/02/sun-life-hk-publishes-2025-results/))
 - BMO turns to AI, quantum computing to predict earthquakes ([1 days ago](https://www.dig-in.com/articles/bmo-turns-to-ai-quantum-computing-to-predict-earthquakes))
 - LA fire suspect angry he had no date for New Year's, U.S. says ([1 days ago](https://www.dig-in.com/articles/la-fire-suspect-angry-he-had-no-date-for-new-years-u-s-says))
 - Thatcham Research Welcomes New Offences on Car Theft Tech Devices ([1 days ago](https://insurance-edge.net/2026/05/01/thatcham-research-welcomes-new-offences-on-car-theft-tech-devices/))
@@ -68,10 +68,10 @@ description: Insurance Updates
 - The industry is letting young drivers down on telematics ([1 days ago](https://www.postonline.co.uk/news/7960236/the-industry-is-letting-young-drivers-down-on-telematics))
 - Penny Black’s Social Diary: Zurich’s Baker show; Insurtech chocolate ([1 days ago](https://www.postonline.co.uk/technology/7960069/penny-blacks-social-diary-zurichs-baker-show-insurtech-chocolate))
 - CII reveals more changes at the top after White’s exit ([1 days ago](https://www.postonline.co.uk/people/7960295/cii-reveals-more-changes-at-the-top-after-whites-exit))
-- Gallagher leans on AssuredPartners deal to power Q1 earnings jump ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-leans-on-assuredpartners-deal-to-power-q1-earnings-jump-573740.aspx))
-- Arch Insurance EU adds new Milan office ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arch-insurance-eu-adds-new-milan-office-573688.aspx))
-- AXA UK deepens domestic abuse response with new employee fund ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-uk-deepens-domestic-abuse-response-with-new-employee-fund-573687.aspx))
-- Willis Re targets Asian growth with senior hire in Singapore ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/willis-re-targets-asian-growth-with-senior-hire-in-singapore-573680.aspx))
+- Gallagher leans on AssuredPartners deal to power Q1 earnings jump ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-leans-on-assuredpartners-deal-to-power-q1-earnings-jump-573740.aspx))
+- Arch Insurance EU adds new Milan office ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arch-insurance-eu-adds-new-milan-office-573688.aspx))
+- AXA UK deepens domestic abuse response with new employee fund ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-uk-deepens-domestic-abuse-response-with-new-employee-fund-573687.aspx))
+- Willis Re targets Asian growth with senior hire in Singapore ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/willis-re-targets-asian-growth-with-senior-hire-in-singapore-573680.aspx))
 - Chartered Insurance Institute strengthens executive team with dual hire ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chartered-insurance-institute-strengthens-executive-team-with-dual-hire-573679.aspx))
 - How to avoid mistake-ridden AI output ([2 days ago](https://www.dig-in.com/news/how-to-avoid-mistake-ridden-ai-output))
 - Why annuities growth is tied to data exchange and standardization ([2 days ago](https://www.dig-in.com/opinion/why-annuities-growth-tied-to-data-exchange-standardization))
@@ -130,6 +130,6 @@ description: Insurance Updates
 - WTW strengthens AI strategy with senior leadership appointments ([4 days ago](https://www.insurtechinsights.com/wtw-strengthens-ai-strategy-with-senior-leadership-appointments/))
 - Optalitix selected by H.W. Kaufman Group to scale London Market underwriting capabilities ([5 days ago](https://www.insurtechinsights.com/optalitix-selected-by-h-w-kaufman-group-to-scale-london-market-underwriting-capabilities/))
 - Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([9 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
-- Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent ([28 days ago](https://thefintechtimes.com/generali-hong-kong-automates-health-claims-with-covergos-ai-agent/))
+- Generali Hong Kong Automates Health Claims with CoverGo’s AI Agent ([29 days ago](https://thefintechtimes.com/generali-hong-kong-automates-health-claims-with-covergos-ai-agent/))
 
 <!-- news_marker ends -->
