@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([12 hours ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
+- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([13 hours ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([2 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([3 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
 - Governing MCP tool calls in .NET with the Agent Governance Toolkit ([4 days ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - What’s new for .NET in Ubuntu 26.04 ([10 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
 - .NET 10.0.7 Out-of-Band Security Update ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([12 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
-- Writing Node.js addons with .NET Native AOT ([12 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
+- Writing Node.js addons with .NET Native AOT ([13 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
 - Guidance Counselor 2.0 with David McCarter ([13 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([14 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Pin Clustering in .NET MAUI Maps ([18 days ago](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/))
