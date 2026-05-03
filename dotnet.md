@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([6 hours ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
+- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([7 hours ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([2 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([2 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
 - Governing MCP tool calls in .NET with the Agent Governance Toolkit ([3 days ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - Running AI agents with customized templates using docker sandbox ([19 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([21 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([23 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
-- dotInsights  -  April 2026 ([24 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
+- dotInsights  -  April 2026 ([25 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Running AI agents safely in a microVM using docker sandbox ([26 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 - String Performance: Avoid Unnecessary Conversions with StringBuilder ([28 days ago](https://dotnettips.com/2026/04/05/string-performance-avoid-unnecessary-conversions-with-stringbuilder/))
 
