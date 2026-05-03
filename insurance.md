@@ -107,7 +107,7 @@ description: Insurance Updates
 - Optio targets European growth with Irish construction surety buy ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/optio-targets-european-growth-with-irish-construction-surety-buy-573528.aspx))
 - Brown & Brown strikes agri scheme deal with Progeny Underwriting ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brown-and-brown-strikes-agri-scheme-deal-with-progeny-underwriting-573527.aspx))
 - Howden acquires Maven Financial ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/howden-acquires-maven-financial-573526.aspx))
-- Court blocks RSA's bid for sensitive records in multi-million pound claim ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-blocks-rsas-bid-for-sensitive-records-in-multimillion-pound-claim-573478.aspx))
+- Court blocks RSA's bid for sensitive records in multi-million pound claim ([4 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-blocks-rsas-bid-for-sensitive-records-in-multimillion-pound-claim-573478.aspx))
 - Voluntary severance packages: a good way to get rid of the old and the weak? ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/voluntary-severance-packages-a-good-way-to-get-rid-of-the-old-and-the-weak-573514.aspx))
 - How to deliver personalized life and annuity products ([4 days ago](https://www.dig-in.com/opinion/how-to-deliver-personalized-life-and-annuity-products))
 - 33% see AI as risk, 35% see AI as protection: Beazley ([4 days ago](https://www.dig-in.com/news/beazley-consumers-see-ai-as-risk-and-resilience))
