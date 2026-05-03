@@ -73,7 +73,7 @@ description: Insurance Updates
 - AXA UK deepens domestic abuse response with new employee fund ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-uk-deepens-domestic-abuse-response-with-new-employee-fund-573687.aspx))
 - Willis Re targets Asian growth with senior hire in Singapore ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/willis-re-targets-asian-growth-with-senior-hire-in-singapore-573680.aspx))
 - Chartered Insurance Institute strengthens executive team with dual hire ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/chartered-insurance-institute-strengthens-executive-team-with-dual-hire-573679.aspx))
-- How to avoid mistake-ridden AI output ([2 days ago](https://www.dig-in.com/news/how-to-avoid-mistake-ridden-ai-output))
+- How to avoid mistake-ridden AI output ([3 days ago](https://www.dig-in.com/news/how-to-avoid-mistake-ridden-ai-output))
 - Why annuities growth is tied to data exchange and standardization ([3 days ago](https://www.dig-in.com/opinion/why-annuities-growth-tied-to-data-exchange-standardization))
 - Hannover Re US appoints Kelly Rabin as Chief Actuary amid leadership transition ([3 days ago](https://www.insurtechinsights.com/hannover-re-us-appoints-kelly-rabin-as-chief-actuary-amid-leadership-transition/))
 - In Focus: lining up regulation, technology and communications to better engage younger clients with protection ([3 days ago](https://ifamagazine.com/in-focus-lining-up-regulation-technology-and-communications-to-better-engage-younger-clients-with-protection/))
