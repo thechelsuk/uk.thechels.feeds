@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Microsoft Agent Framework – Building Blocks for AI Part 3 ([1 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
+- Microsoft Agent Framework – Building Blocks for AI Part 3 ([2 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
 - Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([1 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([3 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([4 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
@@ -21,7 +21,7 @@ description: DotNet Updates
 - Collection Performance: Finding Items at Blazing Speed ([8 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([8 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([11 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
-- .NET 10.0.7 Out-of-Band Security Update ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
+- .NET 10.0.7 Out-of-Band Security Update ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([13 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Writing Node.js addons with .NET Native AOT ([13 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
 - Guidance Counselor 2.0 with David McCarter ([14 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
