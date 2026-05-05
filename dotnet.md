@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Microsoft Agent Framework – Building Blocks for AI Part 3 ([19 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
+- Microsoft Agent Framework – Building Blocks for AI Part 3 ([21 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
 - Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([2 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([4 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([4 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
@@ -24,12 +24,12 @@ description: DotNet Updates
 - .NET 10.0.7 Out-of-Band Security Update ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([14 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Writing Node.js addons with .NET Native AOT ([14 days ago](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/))
-- Guidance Counselor 2.0 with David McCarter ([14 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
-- String Performance: Why Some String Searches Are Slower Than You Think ([15 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- Guidance Counselor 2.0 with David McCarter ([15 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([16 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 - Running AI agents with customized templates using docker sandbox ([21 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([23 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 - Webinar – OSS Power-Ups: XenoAtom.Terminal.UI ([25 days ago](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/))
-- dotInsights  -  April 2026 ([26 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
+- dotInsights  -  April 2026 ([27 days ago](https://blog.jetbrains.com/dotnet/2026/04/08/dotinsights-april-2026/))
 - Running AI agents safely in a microVM using docker sandbox ([28 days ago](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/))
 
 <!-- news_marker ends -->
