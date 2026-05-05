@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Microsoft Agent Framework – Building Blocks for AI Part 3 ([13 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
-- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([1 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
+- Microsoft Agent Framework – Building Blocks for AI Part 3 ([14 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
+- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([2 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([4 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([4 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
 - Governing MCP tool calls in .NET with the Agent Governance Toolkit ([5 days ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
