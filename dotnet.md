@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Durable Workflows in the Microsoft Agent Framework ([1 hours ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
+- Durable Workflows in the Microsoft Agent Framework ([2 hours ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
 - Microsoft Agent Framework – Building Blocks for AI Part 3 ([2 days ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
 - Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([3 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([5 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - Collection Performance: Finding Items at Blazing Speed ([10 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([10 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([13 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
-- .NET 10.0.7 Out-of-Band Security Update ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
+- .NET 10.0.7 Out-of-Band Security Update ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([15 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Guidance Counselor 2.0 with David McCarter ([16 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([17 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
