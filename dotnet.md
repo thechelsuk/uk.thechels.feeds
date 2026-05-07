@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Durable Workflows in the Microsoft Agent Framework ([19 hours ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
+- Durable Workflows in the Microsoft Agent Framework ([20 hours ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
 - Microsoft Agent Framework – Building Blocks for AI Part 3 ([2 days ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
 - Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([4 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([6 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
