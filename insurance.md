@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Q1 Results Update From Octave Specialty ([7 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
+- Quick Q1 Results Update From Octave Specialty ([8 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
 - Fertilizer Firms See Profit Windfall as War Upends Supplies ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869199.htm))
 - People Moves: Novatae Names Voorhees as Managing Director of Personal Lines ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/08/869195.htm))
 - Sompo Re adds Beatrice Morley as Head of London, Reinsurance ([1 days ago](https://www.reinsurancene.ws/sompo-re-adds-beatrice-morley-as-head-of-london-reinsurance/))
