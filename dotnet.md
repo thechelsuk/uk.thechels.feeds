@@ -22,7 +22,7 @@ description: DotNet Updates
 - New features in Git 2.54: easier rebasing, hooks, and statistics ([11 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Collection Performance: Finding Items at Blazing Speed ([13 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([13 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
-- What’s new for .NET in Ubuntu 26.04 ([15 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
+- What’s new for .NET in Ubuntu 26.04 ([16 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([18 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Guidance Counselor 2.0 with David McCarter ([19 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([20 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))

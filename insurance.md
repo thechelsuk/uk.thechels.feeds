@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Q1 Results Update From Octave Specialty ([3 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
+- Quick Q1 Results Update From Octave Specialty ([4 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
 - Fertilizer Firms See Profit Windfall as War Upends Supplies ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869199.htm))
 - People Moves: Novatae Names Voorhees as Managing Director of Personal Lines ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/08/869195.htm))
 - Sompo Re adds Beatrice Morley as Head of London, Reinsurance ([1 days ago](https://www.reinsurancene.ws/sompo-re-adds-beatrice-morley-as-head-of-london-reinsurance/))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - In Focus: the role of digital channels in raising awareness and promoting screening among younger audiences ([9 days ago](https://ifamagazine.com/in-focus-the-role-of-digital-channels-in-raising-awareness-and-promoting-screening-among-younger-audiences/))
 - In Focus: rethinking assumptions about younger clients and AI in protection ([9 days ago](https://ifamagazine.com/in-focus-rethinking-assumptions-about-younger-clients-and-ai-in-protection/))
 - The unfiltered view: UK insurance leaders on AI’s real impact ([9 days ago](https://ifamagazine.com/the-unfiltered-view-uk-insurance-leaders-on-ais-real-impact/))
-- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([15 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
+- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([16 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
 
 <!-- news_marker ends -->
