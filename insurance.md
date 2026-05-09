@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Q1 Results Update From Octave Specialty ([4 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
+- Quick Q1 Results Update From Octave Specialty ([5 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
 - Fertilizer Firms See Profit Windfall as War Upends Supplies ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869199.htm))
 - People Moves: Novatae Names Voorhees as Managing Director of Personal Lines ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/08/869195.htm))
 - Sompo Re adds Beatrice Morley as Head of London, Reinsurance ([1 days ago](https://www.reinsurancene.ws/sompo-re-adds-beatrice-morley-as-head-of-london-reinsurance/))
@@ -116,7 +116,7 @@ description: Insurance Updates
 - Three Aviva HNW leaders resign on the same day ([3 days ago](https://www.postonline.co.uk/news/7960305/three-aviva-hnw-leaders-resign-on-the-same-day))
 - MGAs warned about deadline for meeting FCA requirements ([3 days ago](https://www.postonline.co.uk/news/7960299/mgas-warned-about-deadline-for-meeting-fca-requirements))
 - Managing blackout exposure in the freight sector ([3 days ago](https://www.postonline.co.uk/commercial/7960104/managing-blackout-exposure-in-the-freight-sector))
-- Why insurance risk leaders worry about AI's impact on staffing ([3 days ago](https://www.dig-in.com/news/why-insurance-risk-leaders-worry-about-ai-impact-on-staffing))
+- Why insurance risk leaders worry about AI's impact on staffing ([4 days ago](https://www.dig-in.com/news/why-insurance-risk-leaders-worry-about-ai-impact-on-staffing))
 - Verisk integrates insurance analytics into Claude to streamline underwriting and claims workflows ([4 days ago](https://www.insurtechinsights.com/verisk-integrates-insurance-analytics-into-claude-to-streamline-underwriting-and-claims-workflows/))
 - State Farm faces millions in penalties for LA wildfire claims ([4 days ago](https://www.dig-in.com/articles/state-farm-faces-millions-in-penalties-for-la-wildfire-claims))
 - PwC drops weight loss drugs while 2 in 5 employees demand weight-loss drugs in benefit plans ([4 days ago](https://ifamagazine.com/pwc-drops-weight-loss-drugs-while-2-in-5-employees-demand-weight-loss-drugs-in-benefit-plans/))
