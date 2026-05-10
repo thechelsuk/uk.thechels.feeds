@@ -129,6 +129,6 @@ description: Insurance Updates
 - In Focus: the role of digital channels in raising awareness and promoting screening among younger audiences ([10 days ago](https://ifamagazine.com/in-focus-the-role-of-digital-channels-in-raising-awareness-and-promoting-screening-among-younger-audiences/))
 - In Focus: rethinking assumptions about younger clients and AI in protection ([10 days ago](https://ifamagazine.com/in-focus-rethinking-assumptions-about-younger-clients-and-ai-in-protection/))
 - The unfiltered view: UK insurance leaders on AI’s real impact ([10 days ago](https://ifamagazine.com/the-unfiltered-view-uk-insurance-leaders-on-ais-real-impact/))
-- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([16 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
+- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([17 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
 
 <!-- news_marker ends -->
