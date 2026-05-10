@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([4 hours ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
+- Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([5 hours ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([2 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
 - Durable Workflows in the Microsoft Agent Framework ([3 days ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
 - Microsoft Agent Framework – Building Blocks for AI Part 3 ([5 days ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
