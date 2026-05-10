@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Q1 Results Update From Octave Specialty ([12 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
+- Quick Q1 Results Update From Octave Specialty ([14 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
 - Fertilizer Firms See Profit Windfall as War Upends Supplies ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869199.htm))
 - People Moves: Novatae Names Voorhees as Managing Director of Personal Lines ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/08/869195.htm))
 - Sompo Re adds Beatrice Morley as Head of London, Reinsurance ([1 days ago](https://www.reinsurancene.ws/sompo-re-adds-beatrice-morley-as-head-of-london-reinsurance/))
@@ -63,10 +63,10 @@ description: Insurance Updates
 - Trump Administration Investigating Smith College Over Transgender Policy ([1 days ago](https://www.insurancejournal.com/news/east/2026/05/08/868993.htm))
 - How the war with Iran will rip through insurers’ balance sheets ([1 days ago](https://www.postonline.co.uk/personal/7960320/how-the-war-with-iran-will-rip-through-insurers-balance-sheets))
 - Penny Black’s Social Diary: WTW’s escape room; small plaice ([1 days ago](https://www.postonline.co.uk/technology/7960075/penny-blacks-social-diary-wtws-escape-room-small-plaice))
-- Geopolitics and digital infrastructure redraw global insurance risk map, WTW says ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/geopolitics-and-digital-infrastructure-redraw-global-insurance-risk-map-wtw-says-574533.aspx))
-- Lloyd's weighs how much to reveal from governance probe into ex-CEO John Neal: report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-weighs-how-much-to-reveal-from-governance-probe-into-exceo-john-neal-report-574513.aspx))
-- Insurance moves: Association of Average Adjusters and Euna Underwriting ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-association-of-average-adjusters-and-euna-underwriting-574512.aspx))
-- European insurers steady for now as geopolitical risks mount, Moody's says ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/european-insurers-steady-for-now-as-geopolitical-risks-mount-moodys-says-574506.aspx))
+- Geopolitics and digital infrastructure redraw global insurance risk map, WTW says ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/geopolitics-and-digital-infrastructure-redraw-global-insurance-risk-map-wtw-says-574533.aspx))
+- Lloyd's weighs how much to reveal from governance probe into ex-CEO John Neal: report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-weighs-how-much-to-reveal-from-governance-probe-into-exceo-john-neal-report-574513.aspx))
+- Insurance moves: Association of Average Adjusters and Euna Underwriting ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-association-of-average-adjusters-and-euna-underwriting-574512.aspx))
+- European insurers steady for now as geopolitical risks mount, Moody's says ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/european-insurers-steady-for-now-as-geopolitical-risks-mount-moodys-says-574506.aspx))
 - UK insurers face retention and conduct test as the Great Wealth Transfer looms ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-insurers-face-retention-and-conduct-test-as-the-great-wealth-transfer-looms-574504.aspx))
 - QBE flags resilient Q1 as catastrophe claims run below allowance, premium growth 11% ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-flags-resilient-q1-as-catastrophe-claims-run-below-allowance-premium-growth-11-574482.aspx))
 - Why data remains trapped in silos and how to break it out ([2 days ago](https://www.dig-in.com/opinion/why-data-remains-trapped-in-silos-and-how-to-break-out))
