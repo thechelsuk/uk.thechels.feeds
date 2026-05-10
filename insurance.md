@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Q1 Results Update From Octave Specialty ([9 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
+- Quick Q1 Results Update From Octave Specialty ([10 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
 - Fertilizer Firms See Profit Windfall as War Upends Supplies ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869199.htm))
 - People Moves: Novatae Names Voorhees as Managing Director of Personal Lines ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/08/869195.htm))
 - Sompo Re adds Beatrice Morley as Head of London, Reinsurance ([1 days ago](https://www.reinsurancene.ws/sompo-re-adds-beatrice-morley-as-head-of-london-reinsurance/))
@@ -68,7 +68,7 @@ description: Insurance Updates
 - Insurance moves: Association of Average Adjusters and Euna Underwriting ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-association-of-average-adjusters-and-euna-underwriting-574512.aspx))
 - European insurers steady for now as geopolitical risks mount, Moody's says ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/european-insurers-steady-for-now-as-geopolitical-risks-mount-moodys-says-574506.aspx))
 - UK insurers face retention and conduct test as the Great Wealth Transfer looms ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-insurers-face-retention-and-conduct-test-as-the-great-wealth-transfer-looms-574504.aspx))
-- QBE flags resilient Q1 as catastrophe claims run below allowance, premium growth 11% ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-flags-resilient-q1-as-catastrophe-claims-run-below-allowance-premium-growth-11-574482.aspx))
+- QBE flags resilient Q1 as catastrophe claims run below allowance, premium growth 11% ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-flags-resilient-q1-as-catastrophe-claims-run-below-allowance-premium-growth-11-574482.aspx))
 - Why data remains trapped in silos and how to break it out ([2 days ago](https://www.dig-in.com/opinion/why-data-remains-trapped-in-silos-and-how-to-break-out))
 - Why travel insurance policies are selling at record levels ([2 days ago](https://www.dig-in.com/articles/the-ultimate-guide-to-travel-insurance-for-complex-times))
 - Mercury Insurance and Olympus launch bundled coverage partnership in Florida ([2 days ago](https://www.insurtechinsights.com/mercury-insurance-and-olympus-launch-bundled-coverage-partnership-in-florida/))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - Insurance moves: Covéa, Consilium, Pro Legal, BIBA and Van Ameyde ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-covea-consilium-pro-legal-biba-and-van-ameyde-574332.aspx))
 - Aviva reaches deal with Tesco Insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/life-insurance/aviva-reaches-deal-with-tesco-insurance-574331.aspx))
 - UK pet insurance rates fall again as cost pressures mount - Defaqto ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-pet-insurance-rates-fall-again-as-cost-pressures-mount--defaqto-574329.aspx))
-- Direct Line fights to reclaim £2.5 million from alleged fraud claimant ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/direct-line-fights-to-reclaim-2-5-million-from-alleged-fraud-claimant-574290.aspx))
+- Direct Line fights to reclaim £2.5 million from alleged fraud claimant ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/direct-line-fights-to-reclaim-2-5-million-from-alleged-fraud-claimant-574290.aspx))
 - Why humans should keep the pen in an AI world ([3 days ago](https://www.dig-in.com/opinion/why-humans-should-keep-the-pen-in-an-ai-world))
 - Is personal security the new must-have benefit? ([3 days ago](https://www.dig-in.com/news/keeping-employees-safe-with-personal-security-benefits))
 - Gallagher unveils AI-powered Blueprint to optimise insurance programmes ([3 days ago](https://www.insurtechinsights.com/gallagher-unveils-ai-powered-blueprint-to-optimise-insurance-programmes/))
