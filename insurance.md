@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Q1 Results Update From Octave Specialty ([15 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
+- Quick Q1 Results Update From Octave Specialty ([17 hours ago](https://insurance-edge.net/2026/05/09/quick-q1-results-update-from-octave-specialty/))
 - Fertilizer Firms See Profit Windfall as War Upends Supplies ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869199.htm))
 - People Moves: Novatae Names Voorhees as Managing Director of Personal Lines ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/08/869195.htm))
 - Sompo Re adds Beatrice Morley as Head of London, Reinsurance ([1 days ago](https://www.reinsurancene.ws/sompo-re-adds-beatrice-morley-as-head-of-london-reinsurance/))
@@ -54,8 +54,8 @@ description: Insurance Updates
 - BIBA names four new advisory chairs to main board ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/biba-names-four-new-advisory-chairs-to-main-board-574553.aspx))
 - Mitsui O.S.K. Says its Vessels Did Not Pay Fees Transiting Hormuz ([1 days ago](https://www.insurancejournal.com/news/international/2026/05/08/869054.htm))
 - Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak ([1 days ago](https://www.insurancejournal.com/news/international/2026/05/08/869043.htm))
-- Michigan Court Sides With Progressive in Policy Misrepresentation Case ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869028.htm))
-- Driving Data and Vehicle Sensors Help Detect Early Cognitive Decline ([1 days ago](https://www.insurancejournal.com/news/national/2026/05/08/869036.htm))
+- Michigan Court Sides With Progressive in Policy Misrepresentation Case ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/05/08/869028.htm))
+- Driving Data and Vehicle Sensors Help Detect Early Cognitive Decline ([2 days ago](https://www.insurancejournal.com/news/national/2026/05/08/869036.htm))
 - Trade Court Rules Trump Tariffs Illegal, but Issues Narrow Block ([2 days ago](https://www.insurancejournal.com/news/national/2026/05/08/869033.htm))
 - Travelers: Aging Workforce, New Employees Drive Complexity in Injury Claims ([2 days ago](https://www.insurancejournal.com/news/national/2026/05/08/868996.htm))
 - Cyber Ransom Attacks Up, but Payments Headed Down on Better Preparedness ([2 days ago](https://www.insurancejournal.com/news/national/2026/05/08/869023.htm))
@@ -123,7 +123,7 @@ description: Insurance Updates
 - Mapfre Re Q1’26 net result rises 77% to €85m on lower catastrophe impact and disciplined underwriting ([4 days ago](https://www.insurtechinsights.com/mapfre-re-q126-net-result-rises-77-to-e85m-on-lower-catastrophe-impact-and-disciplined-underwriting/))
 - What to know about AI risks, coverage gaps and trust ([4 days ago](https://www.dig-in.com/news/what-to-know-about-ai-risks-coverage-gaps-and-trust))
 - Sedgwick appoints Suzanne Dann as global president and unveils Omni platform ([4 days ago](https://www.insurtechinsights.com/sedgwick-appoints-suzanne-dann-as-global-president-and-unveils-omni-platform/))
-- Access FS announces partnership with The Protection Coach ([4 days ago](https://ifamagazine.com/access-fs-announces-partnership-with-the-protection-coach/))
+- Access FS announces partnership with The Protection Coach ([5 days ago](https://ifamagazine.com/access-fs-announces-partnership-with-the-protection-coach/))
 - Protection customers embrace rapid digital health support as Aviva DigiCare+ demand rises ([5 days ago](https://ifamagazine.com/protection-customers-embrace-rapid-digital-health-support-as-aviva-digicare-demand-rises/))
 - In Focus: lining up regulation, technology and communications to better engage younger clients with protection ([9 days ago](https://ifamagazine.com/in-focus-lining-up-regulation-technology-and-communications-to-better-engage-younger-clients-with-protection/))
 - In Focus: the role of digital channels in raising awareness and promoting screening among younger audiences ([9 days ago](https://ifamagazine.com/in-focus-the-role-of-digital-channels-in-raising-awareness-and-promoting-screening-among-younger-audiences/))
