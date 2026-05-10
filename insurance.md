@@ -116,7 +116,7 @@ description: Insurance Updates
 - Three Aviva HNW leaders resign on the same day ([4 days ago](https://www.postonline.co.uk/news/7960305/three-aviva-hnw-leaders-resign-on-the-same-day))
 - MGAs warned about deadline for meeting FCA requirements ([4 days ago](https://www.postonline.co.uk/news/7960299/mgas-warned-about-deadline-for-meeting-fca-requirements))
 - Managing blackout exposure in the freight sector ([4 days ago](https://www.postonline.co.uk/commercial/7960104/managing-blackout-exposure-in-the-freight-sector))
-- Why insurance risk leaders worry about AI's impact on staffing ([4 days ago](https://www.dig-in.com/news/why-insurance-risk-leaders-worry-about-ai-impact-on-staffing))
+- Why insurance risk leaders worry about AI's impact on staffing ([5 days ago](https://www.dig-in.com/news/why-insurance-risk-leaders-worry-about-ai-impact-on-staffing))
 - Verisk integrates insurance analytics into Claude to streamline underwriting and claims workflows ([5 days ago](https://www.insurtechinsights.com/verisk-integrates-insurance-analytics-into-claude-to-streamline-underwriting-and-claims-workflows/))
 - State Farm faces millions in penalties for LA wildfire claims ([5 days ago](https://www.dig-in.com/articles/state-farm-faces-millions-in-penalties-for-la-wildfire-claims))
 - PwC drops weight loss drugs while 2 in 5 employees demand weight-loss drugs in benefit plans ([5 days ago](https://ifamagazine.com/pwc-drops-weight-loss-drugs-while-2-in-5-employees-demand-weight-loss-drugs-in-benefit-plans/))
