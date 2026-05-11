@@ -20,14 +20,14 @@ description: DotNet Updates
 - Welcome to SkiaSharp 4.0 Preview 1 ([12 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
 - High-Performance Distributed Caching with .NET and Postgres on Azure ([12 days ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
 - Combining API versioning with OpenAPI in .NET 10 applications ([12 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
-- New features in Git 2.54: easier rebasing, hooks, and statistics ([12 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
+- New features in Git 2.54: easier rebasing, hooks, and statistics ([13 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Collection Performance: Finding Items at Blazing Speed ([15 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([15 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([17 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
-- Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([19 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
+- Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([20 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Guidance Counselor 2.0 with David McCarter ([20 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([21 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
-- Running AI agents with customized templates using docker sandbox ([26 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
+- Running AI agents with customized templates using docker sandbox ([27 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 - Collection Performance: High-Performance Emptiness Checks for Concurrent & Immutable Collections ([29 days ago](https://dotnettips.com/2026/04/12/collection-performance-high-performance-emptiness-checks-for-concurrent-immutable-collections/))
 
 <!-- news_marker ends -->
