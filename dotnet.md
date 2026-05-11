@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([1 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
-- Rider 2026.2 Early Access Program Begins With Performance Improvements ([1 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
+- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
+- Rider 2026.2 Early Access Program Begins With Performance Improvements ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([1 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([3 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
 - Durable Workflows in the Microsoft Agent Framework ([4 days ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
