@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework May 2026 servicing releases updates ([54 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
-- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([9 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
-- dotInsights  -  May 2026 ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
+- .NET and .NET Framework May 2026 servicing releases updates ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
+- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([10 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
+- dotInsights  -  May 2026 ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
 - The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([1 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
 - Rider 2026.2 Early Access Program Begins With Performance Improvements ([1 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([2 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
