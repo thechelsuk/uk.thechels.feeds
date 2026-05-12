@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
-- Rider 2026.2 Early Access Program Begins With Performance Improvements ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
+- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([45 minutes ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
+- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
+- Rider 2026.2 Early Access Program Begins With Performance Improvements ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([2 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([4 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
 - Durable Workflows in the Microsoft Agent Framework ([5 days ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
@@ -22,13 +23,13 @@ description: DotNet Updates
 - Welcome to SkiaSharp 4.0 Preview 1 ([13 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
 - High-Performance Distributed Caching with .NET and Postgres on Azure ([13 days ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
 - Combining API versioning with OpenAPI in .NET 10 applications ([13 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
-- New features in Git 2.54: easier rebasing, hooks, and statistics ([13 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
+- New features in Git 2.54: easier rebasing, hooks, and statistics ([14 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Collection Performance: Finding Items at Blazing Speed ([16 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([16 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - What’s new for .NET in Ubuntu 26.04 ([18 days ago](https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/))
-- Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([20 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
+- Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([21 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
 - Guidance Counselor 2.0 with David McCarter ([21 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 - String Performance: Why Some String Searches Are Slower Than You Think ([22 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
-- Running AI agents with customized templates using docker sandbox ([27 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
+- Running AI agents with customized templates using docker sandbox ([28 days ago](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/))
 
 <!-- news_marker ends -->
