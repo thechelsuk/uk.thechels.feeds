@@ -8,9 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework May 2026 servicing releases updates ([3 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
-- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([12 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
-- dotInsights  -  May 2026 ([12 hours ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
+- .NET 11 Preview 4 is now available! ([53 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
+- .NET and .NET Framework May 2026 servicing releases updates ([4 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
+- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([13 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
+- dotInsights  -  May 2026 ([13 hours ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
 - The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([1 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
 - Rider 2026.2 Early Access Program Begins With Performance Improvements ([1 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([2 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
@@ -24,7 +25,6 @@ description: DotNet Updates
 - VSTest is Removing its Newtonsoft.Json Dependency ([13 days ago](https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/))
 - Welcome to SkiaSharp 4.0 Preview 1 ([14 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
 - High-Performance Distributed Caching with .NET and Postgres on Azure ([14 days ago](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/))
-- Combining API versioning with OpenAPI in .NET 10 applications ([14 days ago](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/))
 - New features in Git 2.54: easier rebasing, hooks, and statistics ([14 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Collection Performance: Finding Items at Blazing Speed ([16 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([16 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
