@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET MAUI Moves to CoreCLR in .NET 11 ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
-- .NET 11 Preview 4 is now available! ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
+- .NET MAUI Moves to CoreCLR in .NET 11 ([3 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
+- .NET 11 Preview 4 is now available! ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([1 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([1 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
