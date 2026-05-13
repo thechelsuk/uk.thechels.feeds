@@ -8,8 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET MAUI Moves to CoreCLR in .NET 11 ([3 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
-- .NET 11 Preview 4 is now available! ([22 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
+- Process API Improvements in .NET 11 ([27 minutes ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
+- .NET MAUI Moves to CoreCLR in .NET 11 ([4 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
+- .NET 11 Preview 4 is now available! ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([1 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([1 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
@@ -24,7 +25,6 @@ description: DotNet Updates
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([13 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
 - Governing MCP tool calls in .NET with the Agent Governance Toolkit ([14 days ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
 - VSTest is Removing its Newtonsoft.Json Dependency ([14 days ago](https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/))
-- Welcome to SkiaSharp 4.0 Preview 1 ([15 days ago](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/))
 - New features in Git 2.54: easier rebasing, hooks, and statistics ([15 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Collection Performance: Finding Items at Blazing Speed ([17 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([17 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
