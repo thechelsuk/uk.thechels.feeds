@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Process API Improvements in .NET 11 ([9 hours ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
-- .NET MAUI Moves to CoreCLR in .NET 11 ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
+- Process API Improvements in .NET 11 ([10 hours ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
+- .NET MAUI Moves to CoreCLR in .NET 11 ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
 - .NET 11 Preview 4 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([1 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([6 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
 - Durable Workflows in the Microsoft Agent Framework ([7 days ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
 - Microsoft Agent Framework – Building Blocks for AI Part 3 ([9 days ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
-- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([10 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
+- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([11 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([13 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - Building an AI-Powered Conference App with .NET’s Composable AI Stack ([13 days ago](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/))
 - Governing MCP tool calls in .NET with the Agent Governance Toolkit ([14 days ago](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/))
