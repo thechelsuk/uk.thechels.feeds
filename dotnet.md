@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Process API Improvements in .NET 11 ([16 hours ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
-- .NET MAUI Moves to CoreCLR in .NET 11 ([20 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
+- Process API Improvements in .NET 11 ([17 hours ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
+- .NET MAUI Moves to CoreCLR in .NET 11 ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
 - .NET 11 Preview 4 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([2 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - Collection Performance: Finding Items at Blazing Speed ([18 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([18 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([23 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
-- Guidance Counselor 2.0 with David McCarter ([23 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
-- String Performance: Why Some String Searches Are Slower Than You Think ([24 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- Guidance Counselor 2.0 with David McCarter ([24 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([25 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 
 <!-- news_marker ends -->
