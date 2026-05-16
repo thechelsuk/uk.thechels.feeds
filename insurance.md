@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([10 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
-- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([19 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
+- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([11 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
+- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([20 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
 - Farmers dial crop adjusters as wild weather hammers wheat ([1 days ago](https://www.dig-in.com/articles/farmers-dial-crop-adjusters-as-wild-weather-hammers-wheat))
 - The Hidden Insurance Risks of Ultra-Processed Foods ([1 days ago](https://www.insurancejournal.com/blogs/academy-journal/2026/05/15/870111.htm))
 - AI, regulation, climate: Where do Ga. insurance candidates stand? ([1 days ago](https://www.dig-in.com/news/ai-regulation-climate-where-do-ga-candidates-stand))
@@ -106,7 +106,7 @@ description: Insurance Updates
 - AXA XL launches dedicated prevention unit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-xl-launches-dedicated-prevention-unit-575176.aspx))
 - Court blocks Chubb and Fidelis from claiming millions over seized aircraft ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-blocks-chubb-and-fidelis-from-claiming-millions-over-seized-aircraft-575114.aspx))
 - 47% of customers buy insurance digitally: JD Power ([2 days ago](https://www.dig-in.com/news/47-of-customers-buy-insurance-digitally-jd-power))
-- Why insurers can't break the risk-avoidance loop ([2 days ago](https://www.dig-in.com/opinion/why-insurers-cant-break-the-risk-avoidance-loop))
+- Why insurers can't break the risk-avoidance loop ([3 days ago](https://www.dig-in.com/opinion/why-insurers-cant-break-the-risk-avoidance-loop))
 - Geico opens new Tampa offices ([3 days ago](https://www.dig-in.com/news/geico-opens-new-tampa-offices))
 - Typhoon season in Northwest Pacific seen most active in a decade ([3 days ago](https://www.dig-in.com/articles/typhoon-season-in-northwest-pacific-seen-most-active-in-a-decade))
 - PE-owned insurers boosting private credit holdings, study finds ([3 days ago](https://www.dig-in.com/articles/pe-owned-insurers-boosting-private-credit-holdings-study-finds))
