@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([12 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
-- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([21 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
+- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([13 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
+- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
 - Farmers dial crop adjusters as wild weather hammers wheat ([1 days ago](https://www.dig-in.com/articles/farmers-dial-crop-adjusters-as-wild-weather-hammers-wheat))
 - The Hidden Insurance Risks of Ultra-Processed Foods ([1 days ago](https://www.insurancejournal.com/blogs/academy-journal/2026/05/15/870111.htm))
 - AI, regulation, climate: Where do Ga. insurance candidates stand? ([1 days ago](https://www.dig-in.com/news/ai-regulation-climate-where-do-ga-candidates-stand))
