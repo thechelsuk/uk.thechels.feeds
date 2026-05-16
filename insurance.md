@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([8 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
-- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([17 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
-- Farmers dial crop adjusters as wild weather hammers wheat ([22 hours ago](https://www.dig-in.com/articles/farmers-dial-crop-adjusters-as-wild-weather-hammers-wheat))
-- The Hidden Insurance Risks of Ultra-Processed Foods ([22 hours ago](https://www.insurancejournal.com/blogs/academy-journal/2026/05/15/870111.htm))
+- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([9 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
+- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([18 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
+- Farmers dial crop adjusters as wild weather hammers wheat ([23 hours ago](https://www.dig-in.com/articles/farmers-dial-crop-adjusters-as-wild-weather-hammers-wheat))
+- The Hidden Insurance Risks of Ultra-Processed Foods ([23 hours ago](https://www.insurancejournal.com/blogs/academy-journal/2026/05/15/870111.htm))
 - AI, regulation, climate: Where do Ga. insurance candidates stand? ([1 days ago](https://www.dig-in.com/news/ai-regulation-climate-where-do-ga-candidates-stand))
 - Walmart to Pay $230K in Illinois Disability Hiring Discrimination Settlement ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/15/870096.htm))
 - ManageMy integrates with Snowflake to expand insurer data and reporting capabilities ([1 days ago](https://www.insurtechinsights.com/managemy-integrates-with-snowflake-to-expand-insurer-data-and-reporting-capabilities/))
@@ -84,8 +84,8 @@ description: Insurance Updates
 - Industry welcomes fresh Financial Services Bill ([2 days ago](https://www.postonline.co.uk/broker/7960362/industry-welcomes-fresh-financial-services-bill))
 - HMRC signs £175m AI deal with Quantexa to boost fraud detection and error correction ([2 days ago](https://www.insurtechinsights.com/hmrc-signs-175m-ai-deal-with-quantexa-to-boost-fraud-detection-and-error-correction/))
 - Bupa partners with YuLife on workplace health and wellbeing proposition ([2 days ago](https://ifamagazine.com/bupa-partners-with-yulife-on-workplace-health-and-wellbeing-proposition/))
-- Climate change will make New Orleans area uninhabitable, paper says ([2 days ago](https://www.dig-in.com/news/climate-change-to-make-new-orleans-area-uninhabitable-paper))
 - How AI can strengthen insurance in a soft market ([2 days ago](https://www.dig-in.com/opinion/how-ai-can-strengthen-insurance-in-a-soft-market))
+- Climate change will make New Orleans area uninhabitable, paper says ([2 days ago](https://www.dig-in.com/news/climate-change-to-make-new-orleans-area-uninhabitable-paper))
 - Regulator interest gives MGAs ‘competitive advantage’ ([2 days ago](https://www.postonline.co.uk/risk-management/7960356/regulator-interest-gives-mgas-competitive-advantage))
 - Five key takeaways from the Global Risk Summit ([2 days ago](https://www.postonline.co.uk/news/7960357/five-key-takeaways-from-the-global-risk-summit))
 - Cyber insurance improves but gaps remain ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cyber-insurance-improves-but-gaps-remain-575275.aspx))
@@ -109,7 +109,7 @@ description: Insurance Updates
 - Why insurers can't break the risk-avoidance loop ([2 days ago](https://www.dig-in.com/opinion/why-insurers-cant-break-the-risk-avoidance-loop))
 - Geico opens new Tampa offices ([2 days ago](https://www.dig-in.com/news/geico-opens-new-tampa-offices))
 - Typhoon season in Northwest Pacific seen most active in a decade ([2 days ago](https://www.dig-in.com/articles/typhoon-season-in-northwest-pacific-seen-most-active-in-a-decade))
-- PE-owned insurers boosting private credit holdings, study finds ([2 days ago](https://www.dig-in.com/articles/pe-owned-insurers-boosting-private-credit-holdings-study-finds))
+- PE-owned insurers boosting private credit holdings, study finds ([3 days ago](https://www.dig-in.com/articles/pe-owned-insurers-boosting-private-credit-holdings-study-finds))
 - Aon expands Claims Copilot platform across global markets ([3 days ago](https://www.insurtechinsights.com/aon-expands-claims-copilot-platform-across-global-markets/))
 - The patch surge is coming – and it's an HR problem, not just an IT one ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/the-patch-surge-is-coming--and-its-an-hr-problem-not-just-an-it-one-575111.aspx))
 - Open GI puts roles at risk as it restructures ([3 days ago](https://www.postonline.co.uk/news/7960355/open-gi-confirms-redundancies-as-it-restructures))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - Meeting younger clients earlier: social media’s growing role in protection discovery ([4 days ago](https://ifamagazine.com/meeting-younger-clients-earlier-social-medias-growing-role-in-protection-discovery/))
 - Cirencester Friendly introduces minimum benefit guarantee on income protection products ([4 days ago](https://ifamagazine.com/cirencester-friendly-introduces-minimum-benefit-guarantee-on-income-protection-products/))
 - Closing the protection gap starts before advice begins ([4 days ago](https://ifamagazine.com/closing-the-protection-gap-starts-before-advice-begins/))
-- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([22 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
+- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([23 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
 
 <!-- news_marker ends -->
