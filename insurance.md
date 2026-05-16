@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([11 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
-- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([20 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
+- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([12 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
+- English court asserts jurisdiction over AXA in cross-border forklift injury claim ([21 hours ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
 - Farmers dial crop adjusters as wild weather hammers wheat ([1 days ago](https://www.dig-in.com/articles/farmers-dial-crop-adjusters-as-wild-weather-hammers-wheat))
 - The Hidden Insurance Risks of Ultra-Processed Foods ([1 days ago](https://www.insurancejournal.com/blogs/academy-journal/2026/05/15/870111.htm))
 - AI, regulation, climate: Where do Ga. insurance candidates stand? ([1 days ago](https://www.dig-in.com/news/ai-regulation-climate-where-do-ga-candidates-stand))
@@ -75,7 +75,7 @@ description: Insurance Updates
 - West of England P&I builds capital buffer ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/west-of-england-pandi-builds-capital-buffer-575348.aspx))
 - Intact rolls out Risk Assist platform across commercial book ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/intact-rolls-out-risk-assist-platform-across-commercial-book-575372.aspx))
 - Chicago Museum’s ‘Knight Rider’ Car Ticketed for Speeding in NY Hasn’t Moved in Years ([1 days ago](https://www.insurancejournal.com/news/east/2026/05/14/870013.htm))
-- New Law Requires Insurance Rate Filings in Oklahoma to Undergo Review Process ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/14/869940.htm))
+- New Law Requires Insurance Rate Filings in Oklahoma to Undergo Review Process ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/05/14/869940.htm))
 - El Niño Odds Rise as Storm and Crop Threats Intensify Globally ([2 days ago](https://www.insurancejournal.com/news/national/2026/05/14/869927.htm))
 - What if insurers used data to create more compelling products? ([2 days ago](https://www.dig-in.com/opinion/what-if-insurers-used-data-for-more-compelling-products))
 - MS&AD to acquire 18% stake in Barings from MassMutual for $1.44 billion ([2 days ago](https://www.insurtechinsights.com/msad-to-acquire-18-stake-in-barings-from-massmutual-for-1-44-billion/))
@@ -105,7 +105,7 @@ description: Insurance Updates
 - PERILS lifts Windstorm Nils loss estimate to €767 million ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/perils-lifts-windstorm-nils-loss-estimate-to-767-million-575177.aspx))
 - AXA XL launches dedicated prevention unit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-xl-launches-dedicated-prevention-unit-575176.aspx))
 - Court blocks Chubb and Fidelis from claiming millions over seized aircraft ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-blocks-chubb-and-fidelis-from-claiming-millions-over-seized-aircraft-575114.aspx))
-- 47% of customers buy insurance digitally: JD Power ([2 days ago](https://www.dig-in.com/news/47-of-customers-buy-insurance-digitally-jd-power))
+- 47% of customers buy insurance digitally: JD Power ([3 days ago](https://www.dig-in.com/news/47-of-customers-buy-insurance-digitally-jd-power))
 - Why insurers can't break the risk-avoidance loop ([3 days ago](https://www.dig-in.com/opinion/why-insurers-cant-break-the-risk-avoidance-loop))
 - Geico opens new Tampa offices ([3 days ago](https://www.dig-in.com/news/geico-opens-new-tampa-offices))
 - Typhoon season in Northwest Pacific seen most active in a decade ([3 days ago](https://www.dig-in.com/articles/typhoon-season-in-northwest-pacific-seen-most-active-in-a-decade))
