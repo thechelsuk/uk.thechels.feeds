@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([15 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
+- New Survey Finds UK Public Support Tougher Action on Smartphone Use When Driving ([16 hours ago](https://insurance-edge.net/2026/05/16/new-survey-finds-uk-public-support-tougher-action-on-smartphone-use-when-driving/))
 - English court asserts jurisdiction over AXA in cross-border forklift injury claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/english-court-asserts-jurisdiction-over-axa-in-crossborder-forklift-injury-claim-575466.aspx))
 - Farmers dial crop adjusters as wild weather hammers wheat ([1 days ago](https://www.dig-in.com/articles/farmers-dial-crop-adjusters-as-wild-weather-hammers-wheat))
 - The Hidden Insurance Risks of Ultra-Processed Foods ([1 days ago](https://www.insurancejournal.com/blogs/academy-journal/2026/05/15/870111.htm))
@@ -100,10 +100,10 @@ description: Insurance Updates
 - Q&A: Mark Rose and Luke Anyon, Tracker ([2 days ago](https://www.postonline.co.uk/personal/7960216/qa-mark-rose-and-luke-anyon-tracker))
 - AI push puts human judgement ‘back at the centre’ of insurance - new CEO study ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ai-push-puts-human-judgement-back-at-the-centre-of-insurance--new-ceo-study-575233.aspx))
 - Willis unveils CCS insurance suite ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/willis-unveils-ccs-insurance-suite-575205.aspx))
-- King's Speech reforms put regulatory performance in the spotlight for London market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/kings-speech-reforms-put-regulatory-performance-in-the-spotlight-for-london-market-575179.aspx))
-- Talanx Group Q1 profit increases 28% ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-group-q1-profit-increases-28-575178.aspx))
-- PERILS lifts Windstorm Nils loss estimate to €767 million ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/perils-lifts-windstorm-nils-loss-estimate-to-767-million-575177.aspx))
-- AXA XL launches dedicated prevention unit ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-xl-launches-dedicated-prevention-unit-575176.aspx))
+- King's Speech reforms put regulatory performance in the spotlight for London market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/kings-speech-reforms-put-regulatory-performance-in-the-spotlight-for-london-market-575179.aspx))
+- Talanx Group Q1 profit increases 28% ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/talanx-group-q1-profit-increases-28-575178.aspx))
+- PERILS lifts Windstorm Nils loss estimate to €767 million ([3 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/perils-lifts-windstorm-nils-loss-estimate-to-767-million-575177.aspx))
+- AXA XL launches dedicated prevention unit ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-xl-launches-dedicated-prevention-unit-575176.aspx))
 - Court blocks Chubb and Fidelis from claiming millions over seized aircraft ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-blocks-chubb-and-fidelis-from-claiming-millions-over-seized-aircraft-575114.aspx))
 - 47% of customers buy insurance digitally: JD Power ([3 days ago](https://www.dig-in.com/news/47-of-customers-buy-insurance-digitally-jd-power))
 - Why insurers can't break the risk-avoidance loop ([3 days ago](https://www.dig-in.com/opinion/why-insurers-cant-break-the-risk-avoidance-loop))
