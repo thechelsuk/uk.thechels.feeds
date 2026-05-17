@@ -108,8 +108,8 @@ description: Insurance Updates
 - 47% of customers buy insurance digitally: JD Power ([3 days ago](https://www.dig-in.com/news/47-of-customers-buy-insurance-digitally-jd-power))
 - Why insurers can't break the risk-avoidance loop ([3 days ago](https://www.dig-in.com/opinion/why-insurers-cant-break-the-risk-avoidance-loop))
 - Geico opens new Tampa offices ([3 days ago](https://www.dig-in.com/news/geico-opens-new-tampa-offices))
-- Typhoon season in Northwest Pacific seen most active in a decade ([3 days ago](https://www.dig-in.com/articles/typhoon-season-in-northwest-pacific-seen-most-active-in-a-decade))
-- PE-owned insurers boosting private credit holdings, study finds ([3 days ago](https://www.dig-in.com/articles/pe-owned-insurers-boosting-private-credit-holdings-study-finds))
+- Typhoon season in Northwest Pacific seen most active in a decade ([4 days ago](https://www.dig-in.com/articles/typhoon-season-in-northwest-pacific-seen-most-active-in-a-decade))
+- PE-owned insurers boosting private credit holdings, study finds ([4 days ago](https://www.dig-in.com/articles/pe-owned-insurers-boosting-private-credit-holdings-study-finds))
 - Aon expands Claims Copilot platform across global markets ([4 days ago](https://www.insurtechinsights.com/aon-expands-claims-copilot-platform-across-global-markets/))
 - The patch surge is coming – and it's an HR problem, not just an IT one ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/the-patch-surge-is-coming--and-its-an-hr-problem-not-just-an-it-one-575111.aspx))
 - Open GI puts roles at risk as it restructures ([4 days ago](https://www.postonline.co.uk/news/7960355/open-gi-confirms-redundancies-as-it-restructures))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - Meeting younger clients earlier: social media’s growing role in protection discovery ([5 days ago](https://ifamagazine.com/meeting-younger-clients-earlier-social-medias-growing-role-in-protection-discovery/))
 - Cirencester Friendly introduces minimum benefit guarantee on income protection products ([5 days ago](https://ifamagazine.com/cirencester-friendly-introduces-minimum-benefit-guarantee-on-income-protection-products/))
 - Closing the protection gap starts before advice begins ([5 days ago](https://ifamagazine.com/closing-the-protection-gap-starts-before-advice-begins/))
-- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([23 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
+- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([24 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
 
 <!-- news_marker ends -->
