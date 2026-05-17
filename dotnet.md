@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([1 hours ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
+- Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([2 hours ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([1 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([3 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - .NET MAUI Moves to CoreCLR in .NET 11 ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
