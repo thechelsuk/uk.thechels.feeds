@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([16 hours ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
+- Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([17 hours ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([2 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([4 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - .NET MAUI Moves to CoreCLR in .NET 11 ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
-- .NET 11 Preview 4 is now available! ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
+- .NET 11 Preview 4 is now available! ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([5 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([5 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026))
