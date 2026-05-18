@@ -31,7 +31,7 @@ description: DotNet Updates
 - Collection Performance: Finding Items at Blazing Speed ([22 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([22 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([27 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
-- Guidance Counselor 2.0 with David McCarter ([27 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
-- String Performance: Why Some String Searches Are Slower Than You Think ([28 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
+- Guidance Counselor 2.0 with David McCarter ([28 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
+- String Performance: Why Some String Searches Are Slower Than You Think ([29 days ago](https://dotnettips.com/2026/04/19/string-performance-why-some-string-searches-are-slower-than-you-think/))
 
 <!-- news_marker ends -->
