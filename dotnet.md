@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([1 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
-- NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([18 hours ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
+- .NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([3 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
+- NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([20 hours ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([2 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([3 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([5 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
@@ -18,8 +18,8 @@ description: DotNet Updates
 - .NET and .NET Framework May 2026 servicing releases updates ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([7 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([7 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
-- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([7 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
-- Rider 2026.2 Early Access Program Begins With Performance Improvements ([7 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
+- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([8 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
+- Rider 2026.2 Early Access Program Begins With Performance Improvements ([8 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([9 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([11 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
 - Durable Workflows in the Microsoft Agent Framework ([12 days ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
