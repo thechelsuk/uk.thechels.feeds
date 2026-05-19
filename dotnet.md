@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([4 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
-- NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([21 hours ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
+- .NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([6 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
+- NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([23 hours ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([2 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([3 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([5 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
