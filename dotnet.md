@@ -32,6 +32,5 @@ description: DotNet Updates
 - Collection Performance: Finding Items at Blazing Speed ([24 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
 - Microsoft .NET Code Analysis: Avoid Out Parameters in Methods ([24 days ago](https://dotnettips.com/2026/04/26/microsoft-net-code-analysis-avoid-out-parameters-in-methods/))
 - Removing byte[] allocations in .NET Framework using ReadOnlySpan<T -  ([29 days ago](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/))
-- Guidance Counselor 2.0 with David McCarter ([29 days ago](https://dotnettips.com/2026/04/20/guidance-counselor-2-0-with-david-mccarter/))
 
 <!-- news_marker ends -->
