@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Understanding Health Insurance Coverage in California: Decoding the Differences ([3 hours ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
-- Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([9 hours ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
+- Understanding Health Insurance Coverage in California: Decoding the Differences ([4 hours ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
+- Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([10 hours ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
 - People Moves: Markel Taps Talbot’s O’Donoghue to Lead Fine Art & Specie for London; Aon’s Global ReSpecialty Team Promotes Mitchell, Hires Floodflash’s Rimmer ([1 days ago](https://www.insurancejournal.com/news/international/2026/05/22/871190.htm))
 - Aon appoints Alberto Carrion as Head of Lenders Solutions ([1 days ago](https://www.reinsurancene.ws/aon-appoints-alberto-carrion-as-head-of-lenders-solutions/))
@@ -129,6 +129,5 @@ description: Insurance Updates
 - NI&P Podcast #24: The value of AI beyond efficiency, with Vitality AI’s Emile Stipp ([5 days ago](https://ifamagazine.com/nip-podcast-24-the-value-of-ai-beyond-efficiency-with-vitality-ais-emile-stipp/))
 - As serious illness concerns rise, advisers face growing complexity in protection needs | Vitality ([5 days ago](https://ifamagazine.com/as-serious-illness-concerns-rise-advisers-face-growing-complexity-in-protection-needs-vitality/))
 - CIExpert and Succession Wealth announce strategic partnership to enhance protection advice ([5 days ago](https://ifamagazine.com/ciexpert-and-succession-wealth-announce-strategic-partnership-to-enhance-protection-advice/))
-- Hashgraph and RiskStream Collaborative Partner to Tokenize $1T Insurance Market Data ([29 days ago](https://thefintechtimes.com/hashgraph-and-riskstream-collaborative-partner-to-tokenize-1t-insurance-market-data/))
 
 <!-- news_marker ends -->
