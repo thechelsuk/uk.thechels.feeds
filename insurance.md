@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Understanding Health Insurance Coverage in California: Decoding the Differences ([5 hours ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
+- Understanding Health Insurance Coverage in California: Decoding the Differences ([6 hours ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([12 hours ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
 - People Moves: Markel Taps Talbot’s O’Donoghue to Lead Fine Art & Specie for London; Aon’s Global ReSpecialty Team Promotes Mitchell, Hires Floodflash’s Rimmer ([1 days ago](https://www.insurancejournal.com/news/international/2026/05/22/871190.htm))
