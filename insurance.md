@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Understanding Health Insurance Coverage in California: Decoding the Differences ([4 hours ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
-- Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([10 hours ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
+- Understanding Health Insurance Coverage in California: Decoding the Differences ([5 hours ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
+- Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([12 hours ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
 - People Moves: Markel Taps Talbot’s O’Donoghue to Lead Fine Art & Specie for London; Aon’s Global ReSpecialty Team Promotes Mitchell, Hires Floodflash’s Rimmer ([1 days ago](https://www.insurancejournal.com/news/international/2026/05/22/871190.htm))
 - Aon appoints Alberto Carrion as Head of Lenders Solutions ([1 days ago](https://www.reinsurancene.ws/aon-appoints-alberto-carrion-as-head-of-lenders-solutions/))
@@ -101,9 +101,9 @@ description: Insurance Updates
 - Orvia continues European buildout with Netherlands launch ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/orvia-continues-european-buildout-with-netherlands-launch-576053.aspx))
 - AXA Insurance UK adds climate adaptation support for SMEs ([2 days ago](https://www.insurancebusinessmag.com/uk/news/sme/axa-insurance-uk-adds-climate-adaptation-support-for-smes-576050.aspx))
 - CFC gains NCSC assurance for insurer-led cyber exercise programme ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-gains-ncsc-assurance-for-insurerled-cyber-exercise-programme-576049.aspx))
-- Growing number of Canadian business leaders developing climate plan: report ([2 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/growing-number-of-canadian-business-leaders-developing-climate-plan-report-576006.aspx))
-- Managing data is critical for cyber incidents ([2 days ago](https://www.dig-in.com/opinion/managing-data-is-critical-for-cyber-incidents))
-- AI's value and risk to California's future: candidate predictions ([2 days ago](https://www.dig-in.com/news/candidates-on-ais-value-and-risk-to-californias-future_))
+- Growing number of Canadian business leaders developing climate plan: report ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/growing-number-of-canadian-business-leaders-developing-climate-plan-report-576006.aspx))
+- Managing data is critical for cyber incidents ([3 days ago](https://www.dig-in.com/opinion/managing-data-is-critical-for-cyber-incidents))
+- AI's value and risk to California's future: candidate predictions ([3 days ago](https://www.dig-in.com/news/candidates-on-ais-value-and-risk-to-californias-future_))
 - Ascend and Honor Capital merge to create integrated insurance finance platform ([3 days ago](https://www.insurtechinsights.com/ascend-and-honor-capital-merge-to-create-integrated-insurance-finance-platform/))
 - Tom Needs to leave Applied Systems ([3 days ago](https://www.postonline.co.uk/news/7960400/tom-needs-to-leave-applied-systems))
 - HDI Global appoints Thomas Kropp as COO/CIO and elevates AI under CEO in Xcelerate29 reshuffle ([3 days ago](https://www.insurtechinsights.com/hdi-global-appoints-thomas-kropp-as-coo-cio-and-elevates-ai-under-ceo-in-xcelerate29-reshuffle/))
