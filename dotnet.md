@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
-- Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
+- What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([18 hours ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
+- Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([18 hours ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
 - Improving C# Memory Safety ([1 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
 - .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([3 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([15 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
 - Durable Workflows in the Microsoft Agent Framework ([16 days ago](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/))
 - Microsoft Agent Framework – Building Blocks for AI Part 3 ([18 days ago](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/))
-- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([19 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
+- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([20 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 - Boost Your .NET Projects with Spargine: High-Performance Character Processing with CharacterExtensions ([22 days ago](https://dotnettips.com/2026/05/01/boost-your-net-projects-with-spargine-high-performance-character-processing-with-characterextensions/))
 - New features in Git 2.54: easier rebasing, hooks, and statistics ([24 days ago](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/))
 - Collection Performance: Finding Items at Blazing Speed ([27 days ago](https://dotnettips.com/2026/04/26/collection-performance-finding-items-at-blazing-speed/))
