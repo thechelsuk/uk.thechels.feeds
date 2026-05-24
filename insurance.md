@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Update on Latest Results From Vienna Insurance Group ([9 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
+- Quick Update on Latest Results From Vienna Insurance Group ([11 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
 - Understanding Health Insurance Coverage in California: Decoding the Differences ([1 days ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([1 days ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
@@ -101,9 +101,9 @@ description: Insurance Updates
 - Orvia continues European buildout with Netherlands launch ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/orvia-continues-european-buildout-with-netherlands-launch-576053.aspx))
 - AXA Insurance UK adds climate adaptation support for SMEs ([3 days ago](https://www.insurancebusinessmag.com/uk/news/sme/axa-insurance-uk-adds-climate-adaptation-support-for-smes-576050.aspx))
 - CFC gains NCSC assurance for insurer-led cyber exercise programme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-gains-ncsc-assurance-for-insurerled-cyber-exercise-programme-576049.aspx))
-- Growing number of Canadian business leaders developing climate plan: report ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/growing-number-of-canadian-business-leaders-developing-climate-plan-report-576006.aspx))
-- Managing data is critical for cyber incidents ([3 days ago](https://www.dig-in.com/opinion/managing-data-is-critical-for-cyber-incidents))
-- AI's value and risk to California's future: candidate predictions ([3 days ago](https://www.dig-in.com/news/candidates-on-ais-value-and-risk-to-californias-future_))
+- Growing number of Canadian business leaders developing climate plan: report ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/growing-number-of-canadian-business-leaders-developing-climate-plan-report-576006.aspx))
+- Managing data is critical for cyber incidents ([4 days ago](https://www.dig-in.com/opinion/managing-data-is-critical-for-cyber-incidents))
+- AI's value and risk to California's future: candidate predictions ([4 days ago](https://www.dig-in.com/news/candidates-on-ais-value-and-risk-to-californias-future_))
 - Ascend and Honor Capital merge to create integrated insurance finance platform ([4 days ago](https://www.insurtechinsights.com/ascend-and-honor-capital-merge-to-create-integrated-insurance-finance-platform/))
 - Tom Needs to leave Applied Systems ([4 days ago](https://www.postonline.co.uk/news/7960400/tom-needs-to-leave-applied-systems))
 - HDI Global appoints Thomas Kropp as COO/CIO and elevates AI under CEO in Xcelerate29 reshuffle ([4 days ago](https://www.insurtechinsights.com/hdi-global-appoints-thomas-kropp-as-coo-cio-and-elevates-ai-under-ceo-in-xcelerate29-reshuffle/))
