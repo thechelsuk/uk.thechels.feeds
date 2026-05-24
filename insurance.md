@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Update on Latest Results From Vienna Insurance Group ([7 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
+- Quick Update on Latest Results From Vienna Insurance Group ([8 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
 - Understanding Health Insurance Coverage in California: Decoding the Differences ([1 days ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([1 days ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
-- Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
+- Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
 - People Moves: Markel Taps Talbot’s O’Donoghue to Lead Fine Art & Specie for London; Aon’s Global ReSpecialty Team Promotes Mitchell, Hires Floodflash’s Rimmer ([2 days ago](https://www.insurancejournal.com/news/international/2026/05/22/871190.htm))
 - Aon appoints Alberto Carrion as Head of Lenders Solutions ([2 days ago](https://www.reinsurancene.ws/aon-appoints-alberto-carrion-as-head-of-lenders-solutions/))
 - How candidates' climate plans would reshape California insurance ([2 days ago](https://www.dig-in.com/news/how-candidates-climate-plans-reshape-california-insurance))
@@ -71,8 +71,8 @@ description: Insurance Updates
 - ARAG grows premiums by 13% as legal and health lines power 2025 result ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-grows-premiums-by-13-as-legal-and-health-lines-power-2025-result-576212.aspx))
 - Westfield Specialty eyes scale in specialty push with strong Q1 result ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/westfield-specialty-eyes-scale-in-specialty-push-with-strong-q1-result-576210.aspx))
 - European recall volumes fall, but regulators ‘increasingly active’ — Sedgwick ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/european-recall-volumes-fall-but-regulators-increasingly-active--sedgwick-576209.aspx))
-- Cyber insurers warn AI-driven threats outpacing market pricing ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cyber-insurers-warn-aidriven-threats-outpacing-market-pricing-576146.aspx))
-- Tokio Marine targets next growth phase through Berkshire Hathaway partnership ([2 days ago](https://www.insurtechinsights.com/tokio-marine-targets-next-growth-phase-through-berkshire-hathaway-partnership/))
+- Cyber insurers warn AI-driven threats outpacing market pricing ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cyber-insurers-warn-aidriven-threats-outpacing-market-pricing-576146.aspx))
+- Tokio Marine targets next growth phase through Berkshire Hathaway partnership ([3 days ago](https://www.insurtechinsights.com/tokio-marine-targets-next-growth-phase-through-berkshire-hathaway-partnership/))
 - The future of rate increases: California candidates' forecasts ([3 days ago](https://www.dig-in.com/news/future-rate-increases-california-candidates-forecasts))
 - Federal aid for the next natural disaster could be worse than the L.A. wildfire experience ([3 days ago](https://www.dig-in.com/news/l-a-s-wildfire-recovery-hampered-by-slow-fema-aid-reforms-could-worsen-things))
 - Columbia Lloyds Deploys ZestyAI Platform to Strengthen Underwriting in Severe Weather Markets ([3 days ago](https://www.insurtechinsights.com/columbia-lloyds-deploys-zestyai-platform-to-strengthen-underwriting-in-severe-weather-markets/))
