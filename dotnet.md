@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Unit Tests: Keep Your CRAP Score from Wrecking the Show ([9 hours ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
+- Unit Tests: Keep Your CRAP Score from Wrecking the Show ([10 hours ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([2 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([2 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([2 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
-- Improving C# Memory Safety ([2 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
+- Improving C# Memory Safety ([3 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
 - .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([5 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([5 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([7 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
