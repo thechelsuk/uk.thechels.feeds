@@ -8,12 +8,12 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- 1 Killed, 36 Injured Including Firefighters After Blast at New York City Shipyard ([14 minutes ago](https://www.insurancejournal.com/news/east/2026/05/25/871233.htm))
-- Latest Results From Westfield Specialty ([8 hours ago](https://insurance-edge.net/2026/05/25/latest-results-from-westfield-specialty/))
-- Strong Performance For Arag Group in 2025 ([9 hours ago](https://insurance-edge.net/2026/05/25/strong-performance-for-arag-group-in-2025/))
-- How AI is cutting costs for insurance providers ([11 hours ago](https://www.dig-in.com/news/how-ai-is-cutting-costs-for-insurance-providers))
-- Probitas 1492 Integrates Volante Canada Underwriting Team ([11 hours ago](https://insurance-edge.net/2026/05/25/probitas-1492-integrates-volante-canada-underwriting-team/))
-- Claim or Pay Yourself? How to Decide after Minor Car Damage ([12 hours ago](https://insurance-edge.net/2026/05/25/claim-or-pay-yourself-how-to-decide-after-minor-car-damage/))
+- 1 Killed, 36 Injured Including Firefighters After Blast at New York City Shipyard ([1 hours ago](https://www.insurancejournal.com/news/east/2026/05/25/871233.htm))
+- Latest Results From Westfield Specialty ([9 hours ago](https://insurance-edge.net/2026/05/25/latest-results-from-westfield-specialty/))
+- Strong Performance For Arag Group in 2025 ([10 hours ago](https://insurance-edge.net/2026/05/25/strong-performance-for-arag-group-in-2025/))
+- How AI is cutting costs for insurance providers ([12 hours ago](https://www.dig-in.com/news/how-ai-is-cutting-costs-for-insurance-providers))
+- Probitas 1492 Integrates Volante Canada Underwriting Team ([12 hours ago](https://insurance-edge.net/2026/05/25/probitas-1492-integrates-volante-canada-underwriting-team/))
+- Claim or Pay Yourself? How to Decide after Minor Car Damage ([13 hours ago](https://insurance-edge.net/2026/05/25/claim-or-pay-yourself-how-to-decide-after-minor-car-damage/))
 - Quick Update on Latest Results From Vienna Insurance Group ([1 days ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
 - Understanding Health Insurance Coverage in California: Decoding the Differences ([2 days ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
