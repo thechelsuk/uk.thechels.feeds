@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Update on Latest Results From Vienna Insurance Group ([17 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
+- Quick Update on Latest Results From Vienna Insurance Group ([18 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
 - Understanding Health Insurance Coverage in California: Decoding the Differences ([1 days ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([1 days ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
@@ -67,10 +67,10 @@ description: Insurance Updates
 - People Moves: Commissioner Kuderer to Chair NAIC’s Child Care Insurance Group ([2 days ago](https://www.insurancejournal.com/news/west/2026/05/22/869897.htm))
 - Why insurers need to talk about garden design ([2 days ago](https://www.postonline.co.uk/reinsurance/7960401/why-insurers-need-to-talk-about-garden-design))
 - Penny Black’s Social Diary: Insurtech Run Club; Qover’s divorce ([2 days ago](https://www.postonline.co.uk/people/7960078/penny-blacks-social-diary-insurtech-run-club-qovers-divorce))
-- Allianz UK deepens Asda tie-up with home and motor insurance push ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-uk-deepens-asda-tieup-with-home-and-motor-insurance-push-576213.aspx))
-- ARAG grows premiums by 13% as legal and health lines power 2025 result ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-grows-premiums-by-13-as-legal-and-health-lines-power-2025-result-576212.aspx))
-- Westfield Specialty eyes scale in specialty push with strong Q1 result ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/westfield-specialty-eyes-scale-in-specialty-push-with-strong-q1-result-576210.aspx))
-- European recall volumes fall, but regulators ‘increasingly active’ — Sedgwick ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/european-recall-volumes-fall-but-regulators-increasingly-active--sedgwick-576209.aspx))
+- Allianz UK deepens Asda tie-up with home and motor insurance push ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-uk-deepens-asda-tieup-with-home-and-motor-insurance-push-576213.aspx))
+- ARAG grows premiums by 13% as legal and health lines power 2025 result ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arag-grows-premiums-by-13-as-legal-and-health-lines-power-2025-result-576212.aspx))
+- Westfield Specialty eyes scale in specialty push with strong Q1 result ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/westfield-specialty-eyes-scale-in-specialty-push-with-strong-q1-result-576210.aspx))
+- European recall volumes fall, but regulators ‘increasingly active’ — Sedgwick ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/european-recall-volumes-fall-but-regulators-increasingly-active--sedgwick-576209.aspx))
 - Cyber insurers warn AI-driven threats outpacing market pricing ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cyber-insurers-warn-aidriven-threats-outpacing-market-pricing-576146.aspx))
 - Tokio Marine targets next growth phase through Berkshire Hathaway partnership ([3 days ago](https://www.insurtechinsights.com/tokio-marine-targets-next-growth-phase-through-berkshire-hathaway-partnership/))
 - The future of rate increases: California candidates' forecasts ([3 days ago](https://www.dig-in.com/news/future-rate-increases-california-candidates-forecasts))
