@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Google has seriously leaned into AI enshittification lately ([1 hours ago](https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365))
-- Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign ([10 hours ago](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/))
-- 7-Eleven - 185,256 breached accounts ([19 hours ago](https://haveibeenpwned.com/Breach/7-Eleven))
-- Weekly Update 505 ([22 hours ago](https://www.troyhunt.com/weekly-update-505/))
+- Google has seriously leaned into AI enshittification lately ([2 hours ago](https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365))
+- Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign ([11 hours ago](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/))
+- 7-Eleven - 185,256 breached accounts ([20 hours ago](https://haveibeenpwned.com/Breach/7-Eleven))
+- Weekly Update 505 ([1 days ago](https://www.troyhunt.com/weekly-update-505/))
 - Laravel Lang packages hijacked to deploy credential-stealing malware ([1 days ago](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/))
 - Intermittent errors with app installation token authentication ([1 days ago](https://www.githubstatus.com/incidents/k5z4d1v1tqmt))
 - npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks ([1 days ago](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html))
@@ -101,7 +101,7 @@ description: SecOps News
 - Clear your calendar, Drupal user: You have a critically urgent patch to install ([5 days ago](https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728))
 - Clear your calendar, Drupal user: You have a critically urgent patch to install ([5 days ago](https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728))
 - XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None ([5 days ago](https://scotthelme.ghost.io/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/))
-- CTT - 468,124 breached accounts ([5 days ago](https://haveibeenpwned.com/Breach/CTT))
+- CTT - 468,124 breached accounts ([6 days ago](https://haveibeenpwned.com/Breach/CTT))
 - Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them ([6 days ago](https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258))
 - Shai-Hulud copycat worm infects yet another npm package ([6 days ago](https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180))
 - Addi - 34,532,941 breached accounts ([6 days ago](https://haveibeenpwned.com/Breach/ADDI))
@@ -160,7 +160,7 @@ description: SecOps News
 - ISO 27001 FAQ ([13 days ago](https://grcsolutions.io/iso-27001-faq/))
 - Under Attack: Responding to the Rise of Info-Stealer Threats ([13 days ago](https://scotthelme.ghost.io/under-attack-responding-to-the-rise-of-info-stealer-threats/))
 - Classic Outlook's Quick Steps trip over Microsoft bug ([13 days ago](https://www.theregister.com/personal-tech/2026/05/11/classic-outlooks-quick-steps-trip-over-microsoft-bug/5237702))
-- Welcoming the Costa Rican Government to Have I Been Pwned ([13 days ago](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/))
+- Welcoming the Costa Rican Government to Have I Been Pwned ([14 days ago](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/))
 - Weekly Update 503 ([14 days ago](https://www.troyhunt.com/weekly-update-503/))
 - macOS 27 threatens to bury Time Capsule, FOSS brings a shovel ([15 days ago](https://www.theregister.com/software/2026/05/09/macos-27-threatens-to-bury-time-capsule-foss-brings-a-shovel/5234824))
 - One in eight UK workers has sold their company passwords, and bosses think it’s fine ([16 days ago](https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine))
@@ -208,6 +208,5 @@ description: SecOps News
 - Disruption with some GitHub services ([27 days ago](https://www.githubstatus.com/incidents/vq183jvj6vrw))
 - ADT - 5,488,888 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/ADT))
 - Udemy - 1,401,259 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/Udemy))
-- Delays with Actions Jobs for Larger Runners using VNet Injection in the East US region ([29 days ago](https://www.githubstatus.com/incidents/3dqg0nhwnxs2))
 
 <!-- news_marker ends -->
