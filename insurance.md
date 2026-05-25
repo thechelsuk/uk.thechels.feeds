@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Quick Update on Latest Results From Vienna Insurance Group ([18 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
+- Quick Update on Latest Results From Vienna Insurance Group ([20 hours ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
 - Understanding Health Insurance Coverage in California: Decoding the Differences ([1 days ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Average Car Insurance Premiums Rise Slightly, Says Consumer Intelligence ([1 days ago](https://insurance-edge.net/2026/05/23/average-car-insurance-premiums-rise-slightly-says-consumer-intelligence/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
@@ -97,10 +97,10 @@ description: Insurance Updates
 - Q&A: Fiona Marry, Bridgehaven ([3 days ago](https://www.postonline.co.uk/news/7960246/qa-fiona-marry-bridgehaven))
 - Throwback Thursday: London Institute’s growth plan ([3 days ago](https://www.postonline.co.uk/people/7959598/throwback-thursday-london-institutes-growth-plan))
 - Why insurance should be winning the war for talent ([3 days ago](https://www.postonline.co.uk/commercial/7960374/why-insurance-should-be-winning-the-war-for-talent))
-- UK insurers face mounting climate exposure, CCC report says ([3 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/uk-insurers-face-mounting-climate-exposure-ccc-report-says-576054.aspx))
-- Orvia continues European buildout with Netherlands launch ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/orvia-continues-european-buildout-with-netherlands-launch-576053.aspx))
-- AXA Insurance UK adds climate adaptation support for SMEs ([3 days ago](https://www.insurancebusinessmag.com/uk/news/sme/axa-insurance-uk-adds-climate-adaptation-support-for-smes-576050.aspx))
-- CFC gains NCSC assurance for insurer-led cyber exercise programme ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-gains-ncsc-assurance-for-insurerled-cyber-exercise-programme-576049.aspx))
+- UK insurers face mounting climate exposure, CCC report says ([4 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/uk-insurers-face-mounting-climate-exposure-ccc-report-says-576054.aspx))
+- Orvia continues European buildout with Netherlands launch ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/orvia-continues-european-buildout-with-netherlands-launch-576053.aspx))
+- AXA Insurance UK adds climate adaptation support for SMEs ([4 days ago](https://www.insurancebusinessmag.com/uk/news/sme/axa-insurance-uk-adds-climate-adaptation-support-for-smes-576050.aspx))
+- CFC gains NCSC assurance for insurer-led cyber exercise programme ([4 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/cfc-gains-ncsc-assurance-for-insurerled-cyber-exercise-programme-576049.aspx))
 - Growing number of Canadian business leaders developing climate plan: report ([4 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/growing-number-of-canadian-business-leaders-developing-climate-plan-report-576006.aspx))
 - Managing data is critical for cyber incidents ([4 days ago](https://www.dig-in.com/opinion/managing-data-is-critical-for-cyber-incidents))
 - AI's value and risk to California's future: candidate predictions ([4 days ago](https://www.dig-in.com/news/candidates-on-ais-value-and-risk-to-californias-future_))
