@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Latest Results From Westfield Specialty ([6 hours ago](https://insurance-edge.net/2026/05/25/latest-results-from-westfield-specialty/))
-- Strong Performance For Arag Group in 2025 ([7 hours ago](https://insurance-edge.net/2026/05/25/strong-performance-for-arag-group-in-2025/))
-- How AI is cutting costs for insurance providers ([9 hours ago](https://www.dig-in.com/news/how-ai-is-cutting-costs-for-insurance-providers))
-- Probitas 1492 Integrates Volante Canada Underwriting Team ([9 hours ago](https://insurance-edge.net/2026/05/25/probitas-1492-integrates-volante-canada-underwriting-team/))
-- Claim or Pay Yourself? How to Decide after Minor Car Damage ([10 hours ago](https://insurance-edge.net/2026/05/25/claim-or-pay-yourself-how-to-decide-after-minor-car-damage/))
+- Latest Results From Westfield Specialty ([7 hours ago](https://insurance-edge.net/2026/05/25/latest-results-from-westfield-specialty/))
+- Strong Performance For Arag Group in 2025 ([8 hours ago](https://insurance-edge.net/2026/05/25/strong-performance-for-arag-group-in-2025/))
+- How AI is cutting costs for insurance providers ([10 hours ago](https://www.dig-in.com/news/how-ai-is-cutting-costs-for-insurance-providers))
+- Probitas 1492 Integrates Volante Canada Underwriting Team ([10 hours ago](https://insurance-edge.net/2026/05/25/probitas-1492-integrates-volante-canada-underwriting-team/))
+- Claim or Pay Yourself? How to Decide after Minor Car Damage ([11 hours ago](https://insurance-edge.net/2026/05/25/claim-or-pay-yourself-how-to-decide-after-minor-car-damage/))
 - Quick Update on Latest Results From Vienna Insurance Group ([1 days ago](https://insurance-edge.net/2026/05/24/quick-update-on-latest-results-from-vienna-insurance-group/))
 - Understanding Health Insurance Coverage in California: Decoding the Differences ([2 days ago](https://insurance-edge.net/2026/05/23/understanding-health-insurance-coverage-in-california-decoding-the-differences/))
 - Liberty Mutual loses core Covid BI coverage fight in High Court ruling ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/liberty-mutual-loses-core-covid-bi-coverage-fight-in-high-court-ruling-576314.aspx))
