@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Doing More with GitHub Copilot as a .NET Developer ([2 hours ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
-- Give Your .NET MAUI Android Apps a Material 3 Makeover ([2 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
+- Doing More with GitHub Copilot as a .NET Developer ([3 hours ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
+- Give Your .NET MAUI Android Apps a Material 3 Makeover ([3 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([2 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
