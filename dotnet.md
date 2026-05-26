@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Doing More with GitHub Copilot as a .NET Developer ([3 hours ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
-- Give Your .NET MAUI Android Apps a Material 3 Makeover ([3 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
+- Doing More with GitHub Copilot as a .NET Developer ([4 hours ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
+- Give Your .NET MAUI Android Apps a Material 3 Makeover ([4 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([2 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
@@ -19,7 +19,7 @@ description: DotNet Updates
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([8 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([9 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([11 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
-- Process API Improvements in .NET 11 ([12 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
+- Process API Improvements in .NET 11 ([13 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - .NET MAUI Moves to CoreCLR in .NET 11 ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
 - .NET 11 Preview 4 is now available! ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
