@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Doing More with GitHub Copilot as a .NET Developer ([20 hours ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
-- Give Your .NET MAUI Android Apps a Material 3 Makeover ([21 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
+- Doing More with GitHub Copilot as a .NET Developer ([23 hours ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
+- Give Your .NET MAUI Android Apps a Material 3 Makeover ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([3 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([5 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([5 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([5 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
-- Improving C# Memory Safety ([5 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
+- Improving C# Memory Safety ([6 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
 - .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([8 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([8 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([10 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
