@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Deprecating dotMemory Unit ([12 hours ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
+- Deprecating dotMemory Unit ([13 hours ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([2 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([4 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
