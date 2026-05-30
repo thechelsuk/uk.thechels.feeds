@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cytora Teams Up With Treefera on Nature Based Risks ([7 hours ago](https://insurance-edge.net/2026/05/30/cytora-teams-up-with-treefera-on-nature-based-risks/))
+- Cytora Teams Up With Treefera on Nature Based Risks ([8 hours ago](https://insurance-edge.net/2026/05/30/cytora-teams-up-with-treefera-on-nature-based-risks/))
 - What insurers are doing about AI threats ([1 days ago](https://www.dig-in.com/news/what-insurers-are-doing-about-ai-threats))
 - Illinois Passes Legislation to Give Insurance Department Oversight of Rate Changes ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/29/871854.htm))
 - Florida property cat reinsurance market ‘as strong as ever’, says Aon’s Chris Dittman ([1 days ago](https://www.reinsurancene.ws/florida-property-cat-reinsurance-market-as-strong-as-ever-says-aons-chris-dittman/))
@@ -92,7 +92,7 @@ description: Insurance Updates
 - Amiga Specialty secures Lloyd's capacity for global yachts push ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/amiga-specialty-secures-lloyds-capacity-for-global-yachts-push-576841.aspx))
 - Brokers are still hiring but the real battle is keeping staff: report ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brokers-are-still-hiring-but-the-real-battle-is-keeping-staff-report-576840.aspx))
 - Why high-net-worth clients face a growing cyber threat ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/why-highnetworth-clients-face-a-growing-cyber-threat-576839.aspx))
-- What large companies are learning from AI-based cyber breaches ([2 days ago](https://www.dig-in.com/news/what-large-companies-are-learning-from-ai-based-cyber-breaches))
+- What large companies are learning from AI-based cyber breaches ([3 days ago](https://www.dig-in.com/news/what-large-companies-are-learning-from-ai-based-cyber-breaches))
 - Why AI makes cyber resilience a necessity ([3 days ago](https://www.dig-in.com/opinion/why-ai-makes-cyber-resilience-a-necessity))
 - AI not causing ‘jobs apocalypse’, says OpenAI CEO ([3 days ago](https://www.insurancebusinessmag.com/uk/business-strategy/ai-not-causing-jobs-apocalypse-says-openai-ceo-576803.aspx))
 - Hybrid warfare drives rethink of terror and war coverage ([3 days ago](https://www.postonline.co.uk/commercial/7960378/hybrid-warfare-drives-rethink-of-terror-and-war-coverage))
