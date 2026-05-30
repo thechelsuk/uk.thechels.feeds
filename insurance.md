@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cytora Teams Up With Treefera on Nature Based Risks ([8 hours ago](https://insurance-edge.net/2026/05/30/cytora-teams-up-with-treefera-on-nature-based-risks/))
+- Cytora Teams Up With Treefera on Nature Based Risks ([9 hours ago](https://insurance-edge.net/2026/05/30/cytora-teams-up-with-treefera-on-nature-based-risks/))
 - What insurers are doing about AI threats ([1 days ago](https://www.dig-in.com/news/what-insurers-are-doing-about-ai-threats))
 - Illinois Passes Legislation to Give Insurance Department Oversight of Rate Changes ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/29/871854.htm))
 - Florida property cat reinsurance market ‘as strong as ever’, says Aon’s Chris Dittman ([1 days ago](https://www.reinsurancene.ws/florida-property-cat-reinsurance-market-as-strong-as-ever-says-aons-chris-dittman/))
