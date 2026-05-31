@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([16 hours ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
+- GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([17 hours ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([3 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([5 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
@@ -23,7 +23,7 @@ description: DotNet Updates
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([16 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([18 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - .NET MAUI Moves to CoreCLR in .NET 11 ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
-- .NET 11 Preview 4 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
+- .NET 11 Preview 4 is now available! ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([19 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([19 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
