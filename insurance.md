@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cytora Teams Up With Treefera on Nature Based Risks ([11 hours ago](https://insurance-edge.net/2026/05/30/cytora-teams-up-with-treefera-on-nature-based-risks/))
+- Cytora Teams Up With Treefera on Nature Based Risks ([12 hours ago](https://insurance-edge.net/2026/05/30/cytora-teams-up-with-treefera-on-nature-based-risks/))
 - What insurers are doing about AI threats ([1 days ago](https://www.dig-in.com/news/what-insurers-are-doing-about-ai-threats))
 - Illinois Passes Legislation to Give Insurance Department Oversight of Rate Changes ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/05/29/871854.htm))
 - Florida property cat reinsurance market ‘as strong as ever’, says Aon’s Chris Dittman ([1 days ago](https://www.reinsurancene.ws/florida-property-cat-reinsurance-market-as-strong-as-ever-says-aons-chris-dittman/))
@@ -99,8 +99,8 @@ description: Insurance Updates
 - Pace raises $46m Series B to expand AI operations platform for insurers ([3 days ago](https://www.insurtechinsights.com/pace-raises-46m-series-b-to-expand-ai-operations-platform-for-insurers/))
 - Healix Health enhances skin cancer screening service with Circle Health Group ([3 days ago](https://ifamagazine.com/healix-health-enhances-skin-cancer-screening-service-with-circle-health-group/))
 - ‘Inappropriate behaviour’ against LGBTQ+ peers in insurance doubles ([3 days ago](https://www.postonline.co.uk/news/7960434/inappropriate-behaviour-against-lgbtq-peers-in-insurance-doubles))
-- Nationwide files trademark suit against mortgage lender ([3 days ago](https://www.dig-in.com/news/nationwide-files-trademark-suit-against-mortgage-lender))
 - Auto insurance shopping growth slows to 3%: LexisNexis ([3 days ago](https://www.dig-in.com/news/auto-insurance-shopping-growth-slows-to-3-lexisnexis))
+- Nationwide files trademark suit against mortgage lender ([3 days ago](https://www.dig-in.com/news/nationwide-files-trademark-suit-against-mortgage-lender))
 - Slight dip reported in number of brokers actively recruiting ([3 days ago](https://www.postonline.co.uk/broker/7960435/slight-dip-reported-in-number-of-brokers-actively-recruiting))
 - Omni Protect appoints Dave Butler to Head of Protection Development role ([3 days ago](https://ifamagazine.com/omni-protect-appoints-dave-butler-to-head-of-protection-development-role/))
 - Insuring the Birkin boom: risks in plain sight ([3 days ago](https://www.postonline.co.uk/personal/7960239/insuring-the-birkin-boom-risks-in-plain-sight))
