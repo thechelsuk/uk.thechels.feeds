@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([3 hours ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
+- GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([4 hours ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([2 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([4 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
@@ -17,7 +17,7 @@ description: DotNet Updates
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([8 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([9 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
 - Improving C# Memory Safety ([9 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
-- .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([11 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
+- .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([12 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([12 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([14 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([15 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
@@ -25,8 +25,8 @@ description: DotNet Updates
 - .NET MAUI Moves to CoreCLR in .NET 11 ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
 - .NET 11 Preview 4 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
-- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([18 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
-- dotInsights  -  May 2026 ([18 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
+- Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([19 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
+- dotInsights  -  May 2026 ([19 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
 - The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([19 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
 - Rider 2026.2 Early Access Program Begins With Performance Improvements ([19 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([21 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
