@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Rocks SQL Saturday – Austin 2026 ([2 hours ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
-- Rock Your Career: Surviving The Technical Interview – 7th Edition ([7 hours ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
+- dotNetDave Rocks SQL Saturday – Austin 2026 ([3 hours ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
+- Rock Your Career: Surviving The Technical Interview – 7th Edition ([8 hours ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([1 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([6 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
@@ -25,7 +25,7 @@ description: DotNet Updates
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([17 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([19 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - .NET MAUI Moves to CoreCLR in .NET 11 ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
-- .NET 11 Preview 4 is now available! ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
+- .NET 11 Preview 4 is now available! ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
 - .NET and .NET Framework May 2026 servicing releases updates ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([20 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([20 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
