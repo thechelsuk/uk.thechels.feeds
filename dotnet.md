@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rock Your Career: Surviving The Technical Interview – 6th Edition ([59 minutes ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-6th-edition-2/))
+- Rock Your Career: Surviving The Technical Interview – 7th Edition ([2 hours ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([1 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([5 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
@@ -17,11 +17,11 @@ description: DotNet Updates
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([10 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([10 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([10 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
-- Improving C# Memory Safety ([10 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
+- Improving C# Memory Safety ([11 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
 - .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([13 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([13 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([15 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
-- On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([16 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
+- On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([17 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
 - Process API Improvements in .NET 11 ([18 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - .NET MAUI Moves to CoreCLR in .NET 11 ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/))
 - .NET 11 Preview 4 is now available! ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/))
