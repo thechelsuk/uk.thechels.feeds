@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([18 hours ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
+- GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([19 hours ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([3 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([5 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
