@@ -9,12 +9,12 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([1 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
-- Deprecating dotMemory Unit ([3 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
+- Deprecating dotMemory Unit ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([5 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([8 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([9 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
-- Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([9 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
+- Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([10 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([10 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
 - Improving C# Memory Safety ([10 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
 - .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([13 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
