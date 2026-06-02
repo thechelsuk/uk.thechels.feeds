@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotNetDave Rocks SQL Saturday – Austin 2026 ([11 hours ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
-- Rock Your Career: Surviving The Technical Interview – 7th Edition ([16 hours ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
+- dotNetDave Rocks SQL Saturday – Austin 2026 ([13 hours ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
+- Rock Your Career: Surviving The Technical Interview – 7th Edition ([18 hours ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([2 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([4 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([6 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
@@ -33,6 +33,5 @@ description: DotNet Updates
 - Rider 2026.2 Early Access Program Begins With Performance Improvements ([21 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([23 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([25 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
-- Rock Your Code: I Let AI Build a Visual Studio Extension—Here’s What REALLY Happened ([29 days ago](https://dotnettips.com/2026/05/03/rock-your-code-i-let-ai-build-a-visual-studio-extension-heres-what-really-happened/))
 
 <!-- news_marker ends -->
