@@ -10,7 +10,7 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([1 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([2 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
-- Rock Your Career: Surviving The Technical Interview – 7th Edition ([2 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
+- Rock Your Career: Surviving The Technical Interview – 7th Edition ([3 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([4 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 - Deprecating dotMemory Unit ([7 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([8 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
@@ -30,7 +30,7 @@ description: DotNet Updates
 - .NET and .NET Framework May 2026 servicing releases updates ([22 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([23 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([23 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
-- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([23 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
+- The ReSharper 2026.2 Early Access Program Begins: Bringing More AI Agents into Visual Studio ([24 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/the-resharper-2026-2-eap-any-ai-agent-in-visual-studio/))
 - Rider 2026.2 Early Access Program Begins With Performance Improvements ([24 days ago](https://blog.jetbrains.com/dotnet/2026/05/11/rider-2026-2-early-access-program/))
 - Collection Performance: AddRange() vs. InsertRange() When Populating Lists ([25 days ago](https://dotnettips.com/2026/05/10/collection-performance-addrange-vs-insertrange-when-populating-lists/))
 - Copilot Studio gets faster with .NET 10 on WebAssembly ([27 days ago](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/))
