@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([11 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
+- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([12 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
 - Korean capital is coming for Western specialty insurance, and London is already in its sights ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/korean-capital-is-coming-for-western-specialty-insurance-and-london-is-already-in-its-sights-577988.aspx))
 - Letter from the new editor-in-chief ([1 days ago](https://www.dig-in.com/news/letter-from-the-new-editor-in-chief))
 - Texas Children’s Hospital to Pay $10M as Part of Detransition Settlement ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/05/872699.htm))
@@ -91,7 +91,7 @@ description: Insurance Updates
 - Convex launches Kinetic MGA as specialty insurer builds out its London platform ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/convex-launches-kinetic-mga-as-specialty-insurer-builds-out-its-london-platform-577705.aspx))
 - Markerstudy restructures broking arm with launch of dedicated retail division ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markerstudy-restructures-broking-arm-with-launch-of-dedicated-retail-division-577704.aspx))
 - Acrisure inks partnership with Turkish firm ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-inks-partnership-with-turkish-firm-577703.aspx))
-- RSA wins costs from London council in tree-root subsidence compensation fight ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/rsa-wins-costs-from-london-council-in-treeroot-subsidence-compensation-fight-577615.aspx))
+- RSA wins costs from London council in tree-root subsidence compensation fight ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/rsa-wins-costs-from-london-council-in-treeroot-subsidence-compensation-fight-577615.aspx))
 - How data and early contact create better claims outcomes ([3 days ago](https://www.dig-in.com/opinion/how-data-and-early-contact-create-better-claims-outcomes))
 - Extreme weather to drive $20T in spending, BI says ([3 days ago](https://www.dig-in.com/articles/extreme-weather-to-drive-20t-in-spending-bi-says))
 - Natural-disaster insurance gap now exceeds $420B globally ([3 days ago](https://www.dig-in.com/articles/natural-disaster-insurance-gap-now-exceeds-420b-globally))
