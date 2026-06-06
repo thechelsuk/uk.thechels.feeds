@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([8 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
+- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([9 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
 - Korean capital is coming for Western specialty insurance, and London is already in its sights ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/korean-capital-is-coming-for-western-specialty-insurance-and-london-is-already-in-its-sights-577988.aspx))
 - Letter from the new editor-in-chief ([1 days ago](https://www.dig-in.com/news/letter-from-the-new-editor-in-chief))
 - Texas Children’s Hospital to Pay $10M as Part of Detransition Settlement ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/05/872699.htm))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Aon signs referral partnership with Wren Sterling to bridge insurance planning ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aon-signs-referral-partnership-with-wren-sterling-to-bridge-insurance-planning-577865.aspx))
 - Revealed - drivers can't spot a ghost broker ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/revealed--drivers-cant-spot-a-ghost-broker-577863.aspx))
 - HF secures High Court summary judgment to shield retired director from £3M personal guarantee claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hf-secures-high-court-summary-judgment-to-shield-retired-director-from-3m-personal-guarantee-claim-577862.aspx))
-- Where does AI see itself in the next five years? ([1 days ago](https://www.dig-in.com/news/where-does-ai-see-itself-in-the-next-five-years))
+- Where does AI see itself in the next five years? ([2 days ago](https://www.dig-in.com/news/where-does-ai-see-itself-in-the-next-five-years))
 - How human expertise is central to the future of insurtech ([2 days ago](https://www.dig-in.com/opinion/how-human-expertise-is-central-to-the-future-of-insurtech))
 - Claims mount worldwide as M&A insurance enters a new phase ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/claims-mount-worldwide-as-manda-insurance-enters-a-new-phase-577770.aspx))
 - NI motorists struggle to identify fake car insurance policies ([2 days ago](https://www.postonline.co.uk/news/7960477/ni-motorists-struggle-to-identify-fake-car-insurance-policies))
@@ -104,7 +104,7 @@ description: Insurance Updates
 - What the government’s fraud strategy means for insurers ([3 days ago](https://www.postonline.co.uk/claims/7960410/what-the-governments-fraud-strategy-means-for-insurers))
 - Climate change puts brokers centre stage ([3 days ago](https://www.postonline.co.uk/broker/7960267/climate-change-puts-brokers-centre-stage))
 - Tweakments tamed: how reform reshapes insurance risk ([3 days ago](https://www.postonline.co.uk/personal/7960261/tweakments-tamed-how-reform-reshapes-insurance-risk))
-- How data influences the future of catastrophe response ([3 days ago](https://www.dig-in.com/opinion/why-data-is-shaping-the-future-of-catastrophe-response))
+- How data influences the future of catastrophe response ([4 days ago](https://www.dig-in.com/opinion/why-data-is-shaping-the-future-of-catastrophe-response))
 - Highlighting intelligent and affordable protection solutions | New Insurance and Protection Magazine | Issue 2 ([4 days ago](https://ifamagazine.com/highlighting-intelligent-and-affordable-protection-solutions-new-insurance-and-protection-magazine-issue-2/))
 - More consumers rely on credit to cover insurance costs ([4 days ago](https://www.postonline.co.uk/news/7960466/more-consumers-rely-on-credit-to-cover-insurance-costs))
 - Biker’s £4m claim crashes after posts tell another story ([4 days ago](https://www.postonline.co.uk/news/7960467/bikers-ps4m-claim-crashes-after-posts-tell-another-story))
