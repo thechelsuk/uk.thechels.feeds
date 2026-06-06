@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([6 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
+- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([7 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
 - Korean capital is coming for Western specialty insurance, and London is already in its sights ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/korean-capital-is-coming-for-western-specialty-insurance-and-london-is-already-in-its-sights-577988.aspx))
 - Texas Children’s Hospital to Pay $10M as Part of Detransition Settlement ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/05/872699.htm))
 - Tech Update: WTW Launches Transformation Solution to Focus AI Implementation ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/05/872697.htm))
