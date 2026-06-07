@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([14 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
+- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([16 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
 - Korean capital is coming for Western specialty insurance, and London is already in its sights ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/korean-capital-is-coming-for-western-specialty-insurance-and-london-is-already-in-its-sights-577988.aspx))
 - Letter from the new editor-in-chief ([1 days ago](https://www.dig-in.com/news/letter-from-the-new-editor-in-chief))
 - Texas Children’s Hospital to Pay $10M as Part of Detransition Settlement ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/05/872699.htm))
@@ -68,8 +68,8 @@ description: Insurance Updates
 - Penny Black’s Social Diary: CII’s Paddington pitstop; Arch’s bunnies ([1 days ago](https://www.postonline.co.uk/people/7960158/penny-blacks-social-diary-ciis-paddington-pitstop-archs-bunnies))
 - Insurance moves: Generali, Fortegra, Aon and IFB ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-generali-fortegra-aon-and-ifb-577866.aspx))
 - Aon signs referral partnership with Wren Sterling to bridge insurance planning ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aon-signs-referral-partnership-with-wren-sterling-to-bridge-insurance-planning-577865.aspx))
-- Revealed - drivers can't spot a ghost broker ([1 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/revealed--drivers-cant-spot-a-ghost-broker-577863.aspx))
-- HF secures High Court summary judgment to shield retired director from £3M personal guarantee claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hf-secures-high-court-summary-judgment-to-shield-retired-director-from-3m-personal-guarantee-claim-577862.aspx))
+- Revealed - drivers can't spot a ghost broker ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/revealed--drivers-cant-spot-a-ghost-broker-577863.aspx))
+- HF secures High Court summary judgment to shield retired director from £3M personal guarantee claim ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hf-secures-high-court-summary-judgment-to-shield-retired-director-from-3m-personal-guarantee-claim-577862.aspx))
 - Where does AI see itself in the next five years? ([2 days ago](https://www.dig-in.com/news/where-does-ai-see-itself-in-the-next-five-years))
 - How human expertise is central to the future of insurtech ([2 days ago](https://www.dig-in.com/opinion/how-human-expertise-is-central-to-the-future-of-insurtech))
 - Claims mount worldwide as M&A insurance enters a new phase ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/claims-mount-worldwide-as-manda-insurance-enters-a-new-phase-577770.aspx))
