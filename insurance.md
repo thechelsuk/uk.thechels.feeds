@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([16 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
+- UK businesses and individuals spent a record £9.5bn on private healthcare in 2025, an all-time high ([17 hours ago](https://ifamagazine.com/uk-businesses-and-individuals-spent-a-record-9-5bn-on-private-healthcare-in-2025-an-all-time-high/))
 - Korean capital is coming for Western specialty insurance, and London is already in its sights ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/korean-capital-is-coming-for-western-specialty-insurance-and-london-is-already-in-its-sights-577988.aspx))
 - Letter from the new editor-in-chief ([1 days ago](https://www.dig-in.com/news/letter-from-the-new-editor-in-chief))
 - Texas Children’s Hospital to Pay $10M as Part of Detransition Settlement ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/05/872699.htm))
@@ -66,8 +66,8 @@ description: Insurance Updates
 - Fatal Virginia Bus Crash Raises Questions About Bus Safety, Driver and Company ([1 days ago](https://www.insurancejournal.com/news/east/2026/06/05/872619.htm))
 - Pride exposes prejudice LGBTQ+ individuals face in insurance ([1 days ago](https://www.postonline.co.uk/people/7960460/pride-exposes-prejudice-lgbtq-individuals-face-in-insurance))
 - Penny Black’s Social Diary: CII’s Paddington pitstop; Arch’s bunnies ([1 days ago](https://www.postonline.co.uk/people/7960158/penny-blacks-social-diary-ciis-paddington-pitstop-archs-bunnies))
-- Insurance moves: Generali, Fortegra, Aon and IFB ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-generali-fortegra-aon-and-ifb-577866.aspx))
-- Aon signs referral partnership with Wren Sterling to bridge insurance planning ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aon-signs-referral-partnership-with-wren-sterling-to-bridge-insurance-planning-577865.aspx))
+- Insurance moves: Generali, Fortegra, Aon and IFB ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-generali-fortegra-aon-and-ifb-577866.aspx))
+- Aon signs referral partnership with Wren Sterling to bridge insurance planning ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aon-signs-referral-partnership-with-wren-sterling-to-bridge-insurance-planning-577865.aspx))
 - Revealed - drivers can't spot a ghost broker ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/revealed--drivers-cant-spot-a-ghost-broker-577863.aspx))
 - HF secures High Court summary judgment to shield retired director from £3M personal guarantee claim ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/hf-secures-high-court-summary-judgment-to-shield-retired-director-from-3m-personal-guarantee-claim-577862.aspx))
 - Where does AI see itself in the next five years? ([2 days ago](https://www.dig-in.com/news/where-does-ai-see-itself-in-the-next-five-years))
@@ -86,7 +86,7 @@ description: Insurance Updates
 - Q&A: Preferred’s Lee Sadowski ([2 days ago](https://www.postonline.co.uk/claims/7960382/qa-preferreds-lee-sadowski))
 - Guardian to offer new lower cost CI cover after adviser feedback ([2 days ago](https://ifamagazine.com/guardian-to-offer-new-lower-cost-ci-cover-after-adviser-feedback/))
 - Throwback Thursday: CII CEO praised ([2 days ago](https://www.postonline.co.uk/people/7959600/throwback-thursday-cii-ceo-praised))
-- Travel insurance reckoning: Why the old product won’t cut it anymore ([2 days ago](https://www.insurancebusinessmag.com/uk/news/travel/travel-insurance-reckoning-why-the-old-product-wont-cut-it-anymore-577731.aspx))
+- Travel insurance reckoning: Why the old product won’t cut it anymore ([3 days ago](https://www.insurancebusinessmag.com/uk/news/travel/travel-insurance-reckoning-why-the-old-product-wont-cut-it-anymore-577731.aspx))
 - Van insurance premiums stabilise but remain nearly 10% below last year - Defaqto ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/van-insurance-premiums-stabilise-but-remain-nearly-10-below-last-year--defaqto-577707.aspx))
 - Convex launches Kinetic MGA as specialty insurer builds out its London platform ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/convex-launches-kinetic-mga-as-specialty-insurer-builds-out-its-london-platform-577705.aspx))
 - Markerstudy restructures broking arm with launch of dedicated retail division ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/markerstudy-restructures-broking-arm-with-launch-of-dedicated-retail-division-577704.aspx))
