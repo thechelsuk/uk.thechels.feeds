@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([19 hours ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
+- Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([21 hours ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([4 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([6 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
 - Rock Your Career: Surviving The Technical Interview – 7th Edition ([6 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
