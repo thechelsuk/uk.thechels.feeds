@@ -8,14 +8,14 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET at Microsoft Build 2026: Must watch sessions ([16 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
-- Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([19 hours ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
+- .NET at Microsoft Build 2026: Must watch sessions ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
+- Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
 - Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([2 days ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([6 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([7 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
 - Rock Your Career: Surviving The Technical Interview – 7th Edition ([7 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([9 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
-- Deprecating dotMemory Unit ([11 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
+- Deprecating dotMemory Unit ([12 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([13 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([16 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
