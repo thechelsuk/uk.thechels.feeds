@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET at Microsoft Build 2026: Must watch sessions ([7 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
-- Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
+- .NET at Microsoft Build 2026: Must watch sessions ([8 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
+- Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
 - Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([1 days ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([5 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([7 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
