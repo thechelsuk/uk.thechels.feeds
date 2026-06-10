@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Join us for .NET Day on Agentic Modernization Livestream ([3 hours ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
+- Join us for .NET Day on Agentic Modernization Livestream ([4 hours ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
 - .NET 11 Preview 5 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
 - .NET and .NET Framework June 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
 - .NET at Microsoft Build 2026: Must watch sessions ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
@@ -30,7 +30,7 @@ description: DotNet Updates
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([23 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([24 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([26 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
-- Process API Improvements in .NET 11 ([27 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
+- Process API Improvements in .NET 11 ([28 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 - Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1 ([29 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/))
 - dotInsights  -  May 2026 ([29 days ago](https://blog.jetbrains.com/dotnet/2026/05/12/dotinsights-may-2026/))
 
