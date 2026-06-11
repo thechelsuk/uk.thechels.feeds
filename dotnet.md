@@ -30,6 +30,6 @@ description: DotNet Updates
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([24 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([25 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 - On .NET Live: How Coding Standards Supercharge .NET Quality & Performance ([27 days ago](https://dotnettips.com/2026/05/15/on-net-live-how-coding-standards-supercharge-net-quality-performance/))
-- Process API Improvements in .NET 11 ([28 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
+- Process API Improvements in .NET 11 ([29 days ago](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/))
 
 <!-- news_marker ends -->
