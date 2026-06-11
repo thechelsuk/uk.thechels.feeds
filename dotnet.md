@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Join us for .NET Day on Agentic Modernization Livestream ([8 hours ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
+- Join us for .NET Day on Agentic Modernization Livestream ([9 hours ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
 - .NET 11 Preview 5 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
 - .NET and .NET Framework June 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
 - .NET at Microsoft Build 2026: Must watch sessions ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
