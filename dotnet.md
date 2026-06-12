@@ -10,8 +10,8 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - dotInsights  -  June 2026 ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
 - Join us for .NET Day on Agentic Modernization Livestream ([2 days ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
-- .NET 11 Preview 5 is now available! ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
-- .NET and .NET Framework June 2026 servicing releases updates ([2 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
+- .NET 11 Preview 5 is now available! ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
+- .NET and .NET Framework June 2026 servicing releases updates ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
 - .NET at Microsoft Build 2026: Must watch sessions ([4 days ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
 - Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([4 days ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
 - Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([5 days ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
