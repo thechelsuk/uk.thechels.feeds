@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Feedback From Swedish Club AGM ([8 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
+- Feedback From Swedish Club AGM ([9 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
 - Why Tokio Marine prefers microservices for AI ([1 days ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
 - Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
 - US Ships Escort Oil Tankers Through Hormuz at Night, Burgum Says ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/12/873625.htm))
@@ -71,7 +71,7 @@ description: Insurance Updates
 - CII honours seven insurance volunteers at annual Network Conference ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cii-honours-seven-insurance-volunteers-at-annual-network-conference-578651.aspx))
 - A man faked his own death. A woman filed 37 claims. Now IFED is coming for travel fraudsters ([1 days ago](https://www.insurancebusinessmag.com/uk/news/travel/a-man-faked-his-own-death--a-woman-filed-37-claims--now-ifed-is-coming-for-travel-fraudsters-578650.aspx))
 - EDII and Markel bring flagship innovation programme to the North of England ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/edii-and-markel-bring-flagship-innovation-programme-to-the-north-of-england-578649.aspx))
-- Why technology isn't a real barrier to AI ([1 days ago](https://www.dig-in.com/opinion/why-technology-isnt-a-real-barrier-to-ai))
+- Why technology isn't a real barrier to AI ([2 days ago](https://www.dig-in.com/opinion/why-technology-isnt-a-real-barrier-to-ai))
 - Public power alarmed by FEMA reform ([2 days ago](https://www.dig-in.com/news/public-power-alarmed-by-fema-reform))
 - $7.7bn Amwins and Dragoneer bid for Steadfast signals major shake-up in insurance broking ([2 days ago](https://www.insurtechinsights.com/7-7bn-amwins-and-dragoneer-bid-for-steadfast-signals-major-shake-up-in-insurance-broking/))
 - AXA XL partners with Deloitte to expand cyber prevention and operational technology services ([2 days ago](https://www.insurtechinsights.com/axa-xl-partners-with-deloitte-to-expand-cyber-prevention-and-operational-technology-services/))
