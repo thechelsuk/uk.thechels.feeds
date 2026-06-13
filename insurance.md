@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Feedback From Swedish Club AGM ([9 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
+- Feedback From Swedish Club AGM ([10 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
 - Why Tokio Marine prefers microservices for AI ([1 days ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
 - Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
 - US Ships Escort Oil Tankers Through Hormuz at Night, Burgum Says ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/12/873625.htm))
@@ -100,7 +100,7 @@ description: Insurance Updates
 - Jensten Underwriting secures £300 million-plus Zurich capacity in five-year deal ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/jensten-underwriting-secures-300-millionplus-zurich-capacity-in-fiveyear-deal-578510.aspx))
 - Kennedys posts record £457 million revenue as insurance law ambitions grow ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/kennedys-posts-record-457-million-revenue-as-insurance-law-ambitions-grow-578509.aspx))
 - AXA XL and Deloitte forge global cybersecurity partnership ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-xl-and-deloitte-forge-global-cybersecurity-partnership-578508.aspx))
-- What AI deepfakes mean for the future of commercial insurance ([2 days ago](https://www.dig-in.com/news/what-ai-deepfakes-mean-for-the-future-of-commercial-insurance))
+- What AI deepfakes mean for the future of commercial insurance ([3 days ago](https://www.dig-in.com/news/what-ai-deepfakes-mean-for-the-future-of-commercial-insurance))
 - OpenAI backs AI startup fielding compliance, underwriting tasks ([3 days ago](https://www.dig-in.com/articles/openai-backs-ai-startup-fielding-compliance-underwriting-tasks))
 - How fairness must be central in underwriting ([3 days ago](https://www.dig-in.com/opinion/how-fairness-must-be-central-in-underwriting))
 - Intact’s Scaife unpicks software liability in motor claims ([3 days ago](https://www.postonline.co.uk/news/7960509/intacts-scaife-unpicks-software-liability-in-motor-claims))
