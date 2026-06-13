@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Feedback From Swedish Club AGM ([10 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
+- Feedback From Swedish Club AGM ([11 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
 - Why Tokio Marine prefers microservices for AI ([1 days ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
 - Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
 - US Ships Escort Oil Tankers Through Hormuz at Night, Burgum Says ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/12/873625.htm))
