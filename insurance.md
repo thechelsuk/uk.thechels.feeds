@@ -8,9 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Feedback From Swedish Club AGM ([6 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
-- Why Tokio Marine prefers microservices for AI ([22 hours ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
-- Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([23 hours ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
+- Feedback From Swedish Club AGM ([7 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
+- Why Tokio Marine prefers microservices for AI ([23 hours ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
+- Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
 - US Ships Escort Oil Tankers Through Hormuz at Night, Burgum Says ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/12/873625.htm))
 - Augment Risk outlines parametric opportunity as 2026 World Cup kicks off ([1 days ago](https://www.reinsurancene.ws/augment-risk-outlines-parametric-opportunity-as-2026-world-cup-kicks-off/))
 - Guy Carpenter appoints Phil Xue as MD and COO for Mainland China and Hong Kong ([1 days ago](https://www.reinsurancene.ws/guy-carpenter-appoints-phil-xue-as-md-and-coo-for-mainland-china-and-hong-kong/))
@@ -73,7 +73,7 @@ description: Insurance Updates
 - EDII and Markel bring flagship innovation programme to the North of England ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/edii-and-markel-bring-flagship-innovation-programme-to-the-north-of-england-578649.aspx))
 - Why technology isn't a real barrier to AI ([1 days ago](https://www.dig-in.com/opinion/why-technology-isnt-a-real-barrier-to-ai))
 - Public power alarmed by FEMA reform ([1 days ago](https://www.dig-in.com/news/public-power-alarmed-by-fema-reform))
-- $7.7bn Amwins and Dragoneer bid for Steadfast signals major shake-up in insurance broking ([1 days ago](https://www.insurtechinsights.com/7-7bn-amwins-and-dragoneer-bid-for-steadfast-signals-major-shake-up-in-insurance-broking/))
+- $7.7bn Amwins and Dragoneer bid for Steadfast signals major shake-up in insurance broking ([2 days ago](https://www.insurtechinsights.com/7-7bn-amwins-and-dragoneer-bid-for-steadfast-signals-major-shake-up-in-insurance-broking/))
 - AXA XL partners with Deloitte to expand cyber prevention and operational technology services ([2 days ago](https://www.insurtechinsights.com/axa-xl-partners-with-deloitte-to-expand-cyber-prevention-and-operational-technology-services/))
 - Lockton hits US$4.5 billion in revenue in sixth straight year of double-digit growth ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lockton-hits-us4-5-billion-in-revenue-in-sixth-straight-year-of-doubledigit-growth-578595.aspx))
 - $50m OpenAI-backed Poetic emerges from stealth to automate insurance underwriting and compliance ([2 days ago](https://www.insurtechinsights.com/50m-openai-backed-poetic-emerges-from-stealth-to-automate-insurance-underwriting-and-compliance/))
