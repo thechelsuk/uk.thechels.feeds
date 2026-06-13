@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Feedback From Swedish Club AGM ([12 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
+- Feedback From Swedish Club AGM ([13 hours ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
 - Why Tokio Marine prefers microservices for AI ([1 days ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
 - Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
 - US Ships Escort Oil Tankers Through Hormuz at Night, Burgum Says ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/12/873625.htm))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Insurance moves: Consilium, South Wales Insurance, Mercer Marsh and Aon ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-consilium-south-wales-insurance-mercer-marsh-and-aon-578652.aspx))
 - CII honours seven insurance volunteers at annual Network Conference ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cii-honours-seven-insurance-volunteers-at-annual-network-conference-578651.aspx))
 - A man faked his own death. A woman filed 37 claims. Now IFED is coming for travel fraudsters ([1 days ago](https://www.insurancebusinessmag.com/uk/news/travel/a-man-faked-his-own-death--a-woman-filed-37-claims--now-ifed-is-coming-for-travel-fraudsters-578650.aspx))
-- EDII and Markel bring flagship innovation programme to the North of England ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/edii-and-markel-bring-flagship-innovation-programme-to-the-north-of-england-578649.aspx))
+- EDII and Markel bring flagship innovation programme to the North of England ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/edii-and-markel-bring-flagship-innovation-programme-to-the-north-of-england-578649.aspx))
 - Why technology isn't a real barrier to AI ([2 days ago](https://www.dig-in.com/opinion/why-technology-isnt-a-real-barrier-to-ai))
 - Public power alarmed by FEMA reform ([2 days ago](https://www.dig-in.com/news/public-power-alarmed-by-fema-reform))
 - $7.7bn Amwins and Dragoneer bid for Steadfast signals major shake-up in insurance broking ([2 days ago](https://www.insurtechinsights.com/7-7bn-amwins-and-dragoneer-bid-for-steadfast-signals-major-shake-up-in-insurance-broking/))
@@ -124,7 +124,7 @@ description: Insurance Updates
 - Fair value rules still fail brokers and consumers alike ([4 days ago](https://www.postonline.co.uk/regulation/7960424/fair-value-rules-still-fail-brokers-and-consumers-alike))
 - 60 Seconds With... Hyperexponential’s Tom Chamberlain ([4 days ago](https://www.postonline.co.uk/technology/7960235/60-seconds-with-hyperexponentials-tom-chamberlain))
 - Big Interview: Jon Walker, Axa Insurance UK ([4 days ago](https://www.postonline.co.uk/commercial/7960416/big-interview-jon-walker-axa-insurance-uk))
-- Lloyd’s targeted with eco-protest mural ([4 days ago](https://www.postonline.co.uk/lloydslondon/7960499/lloyds-targeted-with-eco-protest-mural))
+- Lloyd’s targeted with eco-protest mural ([5 days ago](https://www.postonline.co.uk/lloydslondon/7960499/lloyds-targeted-with-eco-protest-mural))
 - Creating value beyond the insurance claim ([5 days ago](https://ifamagazine.com/creating-value-beyond-the-insurance-claim/))
 - Vitality: overconfidence in sick pay is widening the income protection gap ([5 days ago](https://ifamagazine.com/vitality-overconfidence-in-sick-pay/))
 - Reassured: Industry leaders must focus on closing the protection gap ([5 days ago](https://ifamagazine.com/reassured-industry-leaders-must-focus/))
