@@ -8,13 +8,13 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ex-school district employee jailed for hacks on former employer ([4 hours ago](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/))
-- NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks ([9 hours ago](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/))
-- Chinese hackers hijack auth flow, spy on isolated network for a decade ([11 hours ago](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/))
-- Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication ([12 hours ago](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html))
-- US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos ([15 hours ago](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/))
-- Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls ([19 hours ago](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/))
-- U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals ([20 hours ago](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html))
+- Ex-school district employee jailed for hacks on former employer ([6 hours ago](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/))
+- NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks ([11 hours ago](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/))
+- Chinese hackers hijack auth flow, spy on isolated network for a decade ([12 hours ago](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/))
+- Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication ([13 hours ago](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html))
+- US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos ([16 hours ago](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/))
+- Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls ([20 hours ago](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/))
+- U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals ([21 hours ago](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html))
 - NanoClaw now armed with JFrog for safer packages ([1 days ago](https://www.theregister.com/ai-and-ml/2026/06/13/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-downloads/5255189))
 - Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure ([1 days ago](https://www.theregister.com/software/2026/06/12/github-outages-persist-as-ai-coding-drives-traffic-surge/5255125))
 - Maine disables data breach notification portal after fake disclosures ([1 days ago](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/))
@@ -154,8 +154,8 @@ description: SecOps News
 - Disruption with some GitHub services ([18 days ago](https://www.githubstatus.com/incidents/xflkh26pm7vv))
 - FBI warns of Kali365 phishing kit that breaks into Microsoft 365 accounts – no password required ([18 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required))
 - Incident with Actions and Pages ([18 days ago](https://www.githubstatus.com/incidents/gnftqj9htp0g))
-- Re: Dovecot Security Advisory OXDC-2026-0002 ([18 days ago](https://seclists.org/fulldisclosure/2026/May/23))
-- SSRF in Anthropic mcp-server-fetch and Microsoft playwright-mcp — publicly disclosed via GitHub issues ([18 days ago](https://seclists.org/fulldisclosure/2026/May/22))
+- Re: Dovecot Security Advisory OXDC-2026-0002 ([19 days ago](https://seclists.org/fulldisclosure/2026/May/23))
+- SSRF in Anthropic mcp-server-fetch and Microsoft playwright-mcp — publicly disclosed via GitHub issues ([19 days ago](https://seclists.org/fulldisclosure/2026/May/22))
 - [SECURITY ADVISORY] CVE-2021-21735 - ZTE ZXHN H168N V3.5 Unauthenticated Admin Credential Leak ([19 days ago](https://seclists.org/fulldisclosure/2026/May/21))
 - [SECURITY ADVISORY] CVE-2026-34474 - ZTE H298A/H108N Unauthenticated Admin Credential Exposure ([19 days ago](https://seclists.org/fulldisclosure/2026/May/20))
 - [SECURITY ADVISORY] CVE-2026-34472 - ZTE ZXHN H188A V6 Authentication Bypass via Pre-Login Wizard ([19 days ago](https://seclists.org/fulldisclosure/2026/May/19))
@@ -201,6 +201,5 @@ description: SecOps News
 - APPLE-SA-05-11-2026-10 watchOS 26.5 ([27 days ago](https://seclists.org/fulldisclosure/2026/May/14))
 - Anatomy of a WooCommerce Skimmer: A Technical Deep-Dive ([29 days ago](https://scotthelme.ghost.io/anatomy-of-a-woocommerce-skimmer-a-technical-deep-dive/))
 - Actions is experiencing degraded availability ([29 days ago](https://www.githubstatus.com/incidents/ctf7nxpq5jzn))
-- [Retroactive] Incident with GitHub.com ([29 days ago](https://www.githubstatus.com/incidents/t5mch8tlq6vl))
 
 <!-- news_marker ends -->
