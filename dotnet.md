@@ -20,7 +20,7 @@ description: DotNet Updates
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([13 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
 - Rock Your Career: Surviving The Technical Interview – 7th Edition ([13 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([15 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
-- Deprecating dotMemory Unit ([17 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
+- Deprecating dotMemory Unit ([18 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([19 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([19 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([22 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
@@ -28,7 +28,7 @@ description: DotNet Updates
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([23 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
 - Improving C# Memory Safety ([24 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
-- .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([26 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
+- .NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2 ([27 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/))
 - NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports ([27 days ago](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/))
 - Make Your .NET Assemblies Trimmable: Smaller Apps, Faster Starts, and AOT-Ready Code ([29 days ago](https://dotnettips.com/2026/05/17/make-your-net-assemblies-trimmable-smaller-apps-faster-starts-and-aot-ready-code/))
 
