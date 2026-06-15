@@ -8,10 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Zurich files for EU approval on £8.1B Beazley takeover ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/zurich-files-for-eu-approval-on-8-1b-beazley-takeover-578799.aspx))
-- Brown & Brown joins NI Chamber patron network ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brown-and-brown-joins-ni-chamber-patron-network-578798.aspx))
-- Majority of UK insurers now running AI in core functions but execution gap widens — report ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/majority-of-uk-insurers-now-running-ai-in-core-functions-but-execution-gap-widens--report-578797.aspx))
-- Lease small print could leave commercial landlords dangerously exposed, report warns ([11 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/lease-small-print-could-leave-commercial-landlords-dangerously-exposed-report-warns-578796.aspx))
+- Allianz frontrunner to snap up HSBC’s Singapore insurance unit in $2 billion deal ([42 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-frontrunner-to-snap-up-hsbcs-singapore-insurance-unit-in-2-billion-deal-578821.aspx))
+- Zurich files for EU approval on £8.1B Beazley takeover ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/zurich-files-for-eu-approval-on-8-1b-beazley-takeover-578799.aspx))
+- Brown & Brown joins NI Chamber patron network ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brown-and-brown-joins-ni-chamber-patron-network-578798.aspx))
+- Majority of UK insurers now running AI in core functions but execution gap widens — report ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/majority-of-uk-insurers-now-running-ai-in-core-functions-but-execution-gap-widens--report-578797.aspx))
+- Lease small print could leave commercial landlords dangerously exposed, report warns ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/lease-small-print-could-leave-commercial-landlords-dangerously-exposed-report-warns-578796.aspx))
 - Feedback From Swedish Club AGM ([1 days ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
 - Why Tokio Marine prefers microservices for AI ([2 days ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
 - Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
@@ -99,7 +100,6 @@ description: Insurance Updates
 - Q&A: Massimo Cavadini and Pardeep Bassi, WTW ([3 days ago](https://www.postonline.co.uk/broker/7960391/qa-massimo-cavadini-pardeep-bassi-wtw))
 - Case for a more connected future for insurance ([3 days ago](https://www.postonline.co.uk/commercial/7960491/case-for-a-more-connected-future-for-insurance))
 - Throwback Thursday: Major insurer’s EU fears ([3 days ago](https://www.postonline.co.uk/regulation/7959601/throwback-thursday-major-insurers-eu-fears))
-- Insurance industry hits structural inflection point as risk outpaces resilience - NTT DATA ([3 days ago](https://www.insurancebusinessmag.com/uk/news/technology/insurance-industry-hits-structural-inflection-point-as-risk-outpaces-resilience--ntt-data-578542.aspx))
 - What AI deepfakes mean for the future of commercial insurance ([4 days ago](https://www.dig-in.com/news/what-ai-deepfakes-mean-for-the-future-of-commercial-insurance))
 - OpenAI backs AI startup fielding compliance, underwriting tasks ([4 days ago](https://www.dig-in.com/articles/openai-backs-ai-startup-fielding-compliance-underwriting-tasks))
 - How fairness must be central in underwriting ([4 days ago](https://www.dig-in.com/opinion/how-fairness-must-be-central-in-underwriting))
