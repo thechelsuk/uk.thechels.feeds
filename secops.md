@@ -8,8 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- FBI disrupts massive AI-powered phishing service using a million URLs ([11 hours ago](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/))
-- AI is code – and can't be prompted into being smarter ([13 hours ago](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141))
+- Infinite Campus - 137,123 breached accounts ([1 hours ago](https://haveibeenpwned.com/Breach/InfiniteCampus))
+- FBI disrupts massive AI-powered phishing service using a million URLs ([12 hours ago](https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/))
+- AI is code – and can't be prompted into being smarter ([14 hours ago](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141))
 - Ex-school district employee jailed for hacks on former employer ([1 days ago](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/))
 - NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks ([1 days ago](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/))
 - Chinese hackers hijack auth flow, spy on isolated network for a decade ([1 days ago](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/))
@@ -157,7 +158,7 @@ description: SecOps News
 - Disruption with some GitHub services ([19 days ago](https://www.githubstatus.com/incidents/xflkh26pm7vv))
 - FBI warns of Kali365 phishing kit that breaks into Microsoft 365 accounts – no password required ([19 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required))
 - Incident with Actions and Pages ([19 days ago](https://www.githubstatus.com/incidents/gnftqj9htp0g))
-- Re: Dovecot Security Advisory OXDC-2026-0002 ([19 days ago](https://seclists.org/fulldisclosure/2026/May/23))
+- Re: Dovecot Security Advisory OXDC-2026-0002 ([20 days ago](https://seclists.org/fulldisclosure/2026/May/23))
 - SSRF in Anthropic mcp-server-fetch and Microsoft playwright-mcp — publicly disclosed via GitHub issues ([20 days ago](https://seclists.org/fulldisclosure/2026/May/22))
 - [SECURITY ADVISORY] CVE-2021-21735 - ZTE ZXHN H168N V3.5 Unauthenticated Admin Credential Leak ([20 days ago](https://seclists.org/fulldisclosure/2026/May/21))
 - [SECURITY ADVISORY] CVE-2026-34474 - ZTE H298A/H108N Unauthenticated Admin Credential Exposure ([20 days ago](https://seclists.org/fulldisclosure/2026/May/20))
