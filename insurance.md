@@ -8,11 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Allianz frontrunner to snap up HSBC’s Singapore insurance unit in $2 billion deal ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-frontrunner-to-snap-up-hsbcs-singapore-insurance-unit-in-2-billion-deal-578821.aspx))
-- Zurich files for EU approval on £8.1B Beazley takeover ([13 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/zurich-files-for-eu-approval-on-8-1b-beazley-takeover-578799.aspx))
-- Brown & Brown joins NI Chamber patron network ([13 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brown-and-brown-joins-ni-chamber-patron-network-578798.aspx))
-- Majority of UK insurers now running AI in core functions but execution gap widens — report ([13 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/majority-of-uk-insurers-now-running-ai-in-core-functions-but-execution-gap-widens--report-578797.aspx))
-- Lease small print could leave commercial landlords dangerously exposed, report warns ([13 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/lease-small-print-could-leave-commercial-landlords-dangerously-exposed-report-warns-578796.aspx))
+- Allianz frontrunner to snap up HSBC’s Singapore insurance unit in $2 billion deal ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-frontrunner-to-snap-up-hsbcs-singapore-insurance-unit-in-2-billion-deal-578821.aspx))
+- Zurich files for EU approval on £8.1B Beazley takeover ([15 hours ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/zurich-files-for-eu-approval-on-8-1b-beazley-takeover-578799.aspx))
+- Brown & Brown joins NI Chamber patron network ([15 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/brown-and-brown-joins-ni-chamber-patron-network-578798.aspx))
+- Majority of UK insurers now running AI in core functions but execution gap widens — report ([15 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/majority-of-uk-insurers-now-running-ai-in-core-functions-but-execution-gap-widens--report-578797.aspx))
+- Lease small print could leave commercial landlords dangerously exposed, report warns ([15 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/lease-small-print-could-leave-commercial-landlords-dangerously-exposed-report-warns-578796.aspx))
 - Feedback From Swedish Club AGM ([1 days ago](https://insurance-edge.net/2026/06/13/feedback-from-swedish-club-agm/))
 - Why Tokio Marine prefers microservices for AI ([2 days ago](https://www.dig-in.com/news/why-tokio-marine-prefers-microservices-for-ai))
 - Appeals Court Affirms Conviction of Ex-Police Chief in Insurance Fraud Case ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/06/12/873632.htm))
