@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([2 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
-- dotInsights  -  June 2026 ([3 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
+- dotInsights  -  June 2026 ([4 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
 - Join us for .NET Day on Agentic Modernization Livestream ([5 days ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
 - .NET 11 Preview 5 is now available! ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
 - .NET and .NET Framework June 2026 servicing releases updates ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([14 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
 - Rock Your Career: Surviving The Technical Interview – 7th Edition ([14 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([16 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
-- Deprecating dotMemory Unit ([18 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
+- Deprecating dotMemory Unit ([19 days ago](https://blog.jetbrains.com/dotnet/2026/05/28/deprecating-dotmemory-unit/))
 - Doing More with GitHub Copilot as a .NET Developer ([20 days ago](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/))
 - Give Your .NET MAUI Android Apps a Material 3 Makeover ([20 days ago](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/))
 - Unit Tests: Keep Your CRAP Score from Wrecking the Show ([23 days ago](https://dotnettips.com/2026/05/24/unit-tests-keep-your-crap-score-from-wrecking-the-show/))
