@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([22 hours ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
+- AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([23 hours ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
 - Your JetBrains IDE Expertise, Now on LinkedIn ([1 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([4 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
 - dotInsights  -  June 2026 ([6 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
@@ -29,6 +29,6 @@ description: DotNet Updates
 - What Happens When You Give AI Agents the Map of Your Code’s Coverage? ([27 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/))
 - Rider 2026.2 EAP 3: Cost-effective Agentic Test Coverage, Code Change Previews, GameDev Templates, and NuGet Improvements ([27 days ago](https://blog.jetbrains.com/dotnet/2026/05/22/rider-2026-2-eap-3-cost-effective-agentic-test-coverage-code-change-previews-gamedev-templates-and-nuget-improvements/))
 - Announcing Agent Governance Toolkit MCP Extensions for .NET ([27 days ago](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/))
-- Improving C# Memory Safety ([27 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
+- Improving C# Memory Safety ([28 days ago](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/))
 
 <!-- news_marker ends -->
