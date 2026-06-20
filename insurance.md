@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- “It’s Madness” – Shock Iranian announcement upends marine insurance ([21 hours ago](https://www.insurancebusinessmag.com/uk/news/marine/its-madness--shock-iranian-announcement-upends-marine-insurance-579619.aspx))
-- What is the most pressing challenge facing insurance buyers? ([22 hours ago](https://www.insurancebusinessmag.com/uk/tv/what-is-the-most-pressing-challenge-facing-insurance-buyers-579613.aspx))
+- “It’s Madness” – Shock Iranian announcement upends marine insurance ([22 hours ago](https://www.insurancebusinessmag.com/uk/news/marine/its-madness--shock-iranian-announcement-upends-marine-insurance-579619.aspx))
+- What is the most pressing challenge facing insurance buyers? ([23 hours ago](https://www.insurancebusinessmag.com/uk/tv/what-is-the-most-pressing-challenge-facing-insurance-buyers-579613.aspx))
 - Lincoln Financial promotes three to Senior Management Committee ([1 days ago](https://www.reinsurancene.ws/lincoln-financial-promotes-three-to-senior-management-committee/))
 - California and US West Threatened by Wildfires Over Coming Days ([1 days ago](https://www.insurancejournal.com/news/west/2026/06/19/874567.htm))
 - People Moves: Arch Promotes Halgan as CEO of Global Reinsurance, Schmeiser as CEO, Global Mortgage; Sompo International Markets Names MacHale as CUO, Head of Strategy ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/19/874352.htm))
@@ -97,7 +97,7 @@ description: Insurance Updates
 - Aviva gets FCA green light for targeted support - and brokers should read the small print ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-gets-fca-green-light-for-targeted-support--and-brokers-should-read-the-small-print-579358.aspx))
 - Geo Underwriting launches charity campaign at the Great Yorkshire Show ([2 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/geo-underwriting-launches-charity-campaign-at-the-great-yorkshire-show-579357.aspx))
 - What have insurers learned about careful use of AI? ([2 days ago](https://www.dig-in.com/news/what-have-insurers-learned-about-careful-use-of-ai))
-- Aon launches AI platform to analyse reinsurance contracts and identify coverage gaps ([2 days ago](https://www.insurtechinsights.com/aon-launches-ai-platform-to-analyse-reinsurance-contracts-and-identify-coverage-gaps/))
+- Aon launches AI platform to analyse reinsurance contracts and identify coverage gaps ([3 days ago](https://www.insurtechinsights.com/aon-launches-ai-platform-to-analyse-reinsurance-contracts-and-identify-coverage-gaps/))
 - Emirates offers war travel insurance as Gulf carriers reboot ([3 days ago](https://www.dig-in.com/articles/emirates-offers-war-travel-insurance-as-gulf-carriers-reboot))
 - Allianz Partners’ nib deal signals major shift in Australian and New Zealand travel insurance distribution ([3 days ago](https://www.insurtechinsights.com/allianz-partners-nib-deal-signals-major-shift-in-australian-and-new-zealand-travel-insurance-distribution/))
 - Why life insurance modernization isn't enough ([3 days ago](https://www.dig-in.com/opinion/why-life-insurance-modernization-isnt-enough))
@@ -112,7 +112,7 @@ description: Insurance Updates
 - Travel insurers chart a course through Hormuz disruption ([3 days ago](https://www.postonline.co.uk/personal/7960469/travel-insurers-chart-a-course-through-hormuz-disruption))
 - AI ends human-scale cybersecurity as threat windows collapse ([3 days ago](https://www.postonline.co.uk/commercial/7960272/ai-ends-human-scale-cybersecurity-as-threat-windows-collapse))
 - Insurance challenge of travelling for treatment ([3 days ago](https://www.postonline.co.uk/personal/7960413/insurance-challenge-of-travelling-for-treatment))
-- Why staffing models aren't keeping up with insurers' needs ([3 days ago](https://www.dig-in.com/opinion/why-staffing-models-arent-keeping-up-with-insurers-needs))
+- Why staffing models aren't keeping up with insurers' needs ([4 days ago](https://www.dig-in.com/opinion/why-staffing-models-arent-keeping-up-with-insurers-needs))
 - Why insurance customers' trust in AI fell to 40% in 2026 ([4 days ago](https://www.dig-in.com/news/why-insurance-customers-trust-in-ai-fell-to-40-in-2026))
 - Swiss Re chief stresses resilience and strong foundations ([4 days ago](https://www.postonline.co.uk/news/7960567/swiss-re-chief-stresses-resilience-and-strong-foundations))
 - Health insurer Centene offers most staff buyouts after membership losses ([4 days ago](https://www.dig-in.com/articles/health-insurer-centene-offers-most-staff-buyouts-after-membership-losses))
