@@ -8,11 +8,11 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- New Prinz Eugen ransomware prioritizes recent files for encryption ([10 hours ago](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/))
-- Microsoft links Mastra AI supply chain attack to North Korean hackers ([11 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/))
-- Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys ([15 hours ago](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html))
-- French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation ([15 hours ago](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/))
-- JCPenney - 368,418 breached accounts ([22 hours ago](https://haveibeenpwned.com/Breach/JCPenney))
+- New Prinz Eugen ransomware prioritizes recent files for encryption ([11 hours ago](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/))
+- Microsoft links Mastra AI supply chain attack to North Korean hackers ([12 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/))
+- Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys ([17 hours ago](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html))
+- French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation ([17 hours ago](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/))
+- JCPenney - 368,418 breached accounts ([23 hours ago](https://haveibeenpwned.com/Breach/JCPenney))
 - Klue OAuth breach victim list grows as Icarus hackers claim attack ([1 days ago](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/))
 - Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/))
 - Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain ([1 days ago](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html))
