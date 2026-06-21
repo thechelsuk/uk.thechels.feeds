@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Database Performance: Making Entity Framework Queries Faster ([14 hours ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
+- Database Performance: Making Entity Framework Queries Faster ([15 hours ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([4 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
 - Your JetBrains IDE Expertise, Now on LinkedIn ([4 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([7 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
