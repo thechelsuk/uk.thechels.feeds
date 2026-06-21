@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - “It’s Madness” – Shock Iranian announcement upends marine insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/its-madness--shock-iranian-announcement-upends-marine-insurance-579619.aspx))
-- What is the most pressing challenge facing insurance buyers? ([1 days ago](https://www.insurancebusinessmag.com/uk/tv/what-is-the-most-pressing-challenge-facing-insurance-buyers-579613.aspx))
+- What is the most pressing challenge facing insurance buyers? ([2 days ago](https://www.insurancebusinessmag.com/uk/tv/what-is-the-most-pressing-challenge-facing-insurance-buyers-579613.aspx))
 - Lincoln Financial promotes three to Senior Management Committee ([2 days ago](https://www.reinsurancene.ws/lincoln-financial-promotes-three-to-senior-management-committee/))
 - California and US West Threatened by Wildfires Over Coming Days ([2 days ago](https://www.insurancejournal.com/news/west/2026/06/19/874567.htm))
 - People Moves: Arch Promotes Halgan as CEO of Global Reinsurance, Schmeiser as CEO, Global Mortgage; Sompo International Markets Names MacHale as CUO, Head of Strategy ([2 days ago](https://www.insurancejournal.com/news/international/2026/06/19/874352.htm))
@@ -70,7 +70,7 @@ description: Insurance Updates
 - Meta Lobbies Congress for Protection From Child-Harm Lawsuits: Reuters ([2 days ago](https://www.insurancejournal.com/news/national/2026/06/19/874479.htm))
 - AI could kill the insurance renewal habit ([2 days ago](https://www.postonline.co.uk/technology/7960568/ai-could-kill-the-insurance-renewal-habit))
 - Penny Black’s Social Diary: CII lounge with a legacy ([2 days ago](https://www.postonline.co.uk/people/7960237/penny-blacks-social-diary-cii-lounge-with-a-legacy))
-- Court rejects AXA's bid to call injured driver fundamentally dishonest ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-rejects-axas-bid-to-call-injured-driver-fundamentally-dishonest-579484.aspx))
+- Court rejects AXA's bid to call injured driver fundamentally dishonest ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/court-rejects-axas-bid-to-call-injured-driver-fundamentally-dishonest-579484.aspx))
 - Healthcare uncertainty highlights value of private medical support ([3 days ago](https://ifamagazine.com/healthcare-uncertainty-highlights-value-of-private-medical-support/))
 - Corgi Insurance partners with Silicon Valley Bank to streamline insurance access for startups ([3 days ago](https://www.insurtechinsights.com/corgi-insurance-partners-with-silicon-valley-bank-to-streamline-insurance-access-for-startups/))
 - Earnix launches AIOS to bring insurance-native AI orchestration to enterprise decision-making ([3 days ago](https://www.insurtechinsights.com/earnix-launches-aios-to-bring-insurance-native-ai-orchestration-to-enterprise-decision-making/))
@@ -96,7 +96,7 @@ description: Insurance Updates
 - CII publishes data privacy guidance for vulnerable customers ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cii-publishes-data-privacy-guidance-for-vulnerable-customers-579359.aspx))
 - Aviva gets FCA green light for targeted support - and brokers should read the small print ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/aviva-gets-fca-green-light-for-targeted-support--and-brokers-should-read-the-small-print-579358.aspx))
 - Geo Underwriting launches charity campaign at the Great Yorkshire Show ([3 days ago](https://www.insurancebusinessmag.com/uk/news/non-profits/geo-underwriting-launches-charity-campaign-at-the-great-yorkshire-show-579357.aspx))
-- What have insurers learned about careful use of AI? ([3 days ago](https://www.dig-in.com/news/what-have-insurers-learned-about-careful-use-of-ai))
+- What have insurers learned about careful use of AI? ([4 days ago](https://www.dig-in.com/news/what-have-insurers-learned-about-careful-use-of-ai))
 - Aon launches AI platform to analyse reinsurance contracts and identify coverage gaps ([4 days ago](https://www.insurtechinsights.com/aon-launches-ai-platform-to-analyse-reinsurance-contracts-and-identify-coverage-gaps/))
 - Emirates offers war travel insurance as Gulf carriers reboot ([4 days ago](https://www.dig-in.com/articles/emirates-offers-war-travel-insurance-as-gulf-carriers-reboot))
 - Allianz Partners’ nib deal signals major shift in Australian and New Zealand travel insurance distribution ([4 days ago](https://www.insurtechinsights.com/allianz-partners-nib-deal-signals-major-shift-in-australian-and-new-zealand-travel-insurance-distribution/))
