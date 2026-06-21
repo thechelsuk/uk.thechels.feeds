@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- “It’s Madness” – Shock Iranian announcement upends marine insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/marine/its-madness--shock-iranian-announcement-upends-marine-insurance-579619.aspx))
+- “It’s Madness” – Shock Iranian announcement upends marine insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/its-madness--shock-iranian-announcement-upends-marine-insurance-579619.aspx))
 - What is the most pressing challenge facing insurance buyers? ([2 days ago](https://www.insurancebusinessmag.com/uk/tv/what-is-the-most-pressing-challenge-facing-insurance-buyers-579613.aspx))
 - Lincoln Financial promotes three to Senior Management Committee ([2 days ago](https://www.reinsurancene.ws/lincoln-financial-promotes-three-to-senior-management-committee/))
 - California and US West Threatened by Wildfires Over Coming Days ([2 days ago](https://www.insurancejournal.com/news/west/2026/06/19/874567.htm))
