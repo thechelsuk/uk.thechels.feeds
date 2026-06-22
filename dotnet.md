@@ -17,7 +17,7 @@ description: DotNet Updates
 - .NET 11 Preview 5 is now available! ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
 - .NET and .NET Framework June 2026 servicing releases updates ([12 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
 - .NET at Microsoft Build 2026: Must watch sessions ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/))
-- Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([13 days ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
+- Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([14 days ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
 - Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([15 days ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([19 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
 - dotNetDave Rocks SQL Saturday – Austin 2026 ([20 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
