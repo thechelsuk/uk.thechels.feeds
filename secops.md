@@ -8,14 +8,14 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Disruption with some GitHub services ([just now](https://www.githubstatus.com/incidents/v0b3bpsyvqtk))
-- Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials ([2 hours ago](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html))
-- Clean GitHub repo tricks AI coding agents into running malware ([5 hours ago](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/))
-- OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards ([8 hours ago](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html))
-- Chinese Framework Powers 200,000 Scam Sites ([8 hours ago](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/))
-- It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns ([13 hours ago](https://www.theregister.com/security/2026/06/27/its-looking-like-a-hot-messy-summer-for-security-teams-as-ai-finds-countless-previously-hidden-vulns/5260478))
-- FBI: Russian hackers now target Signal backup recovery keys ([22 hours ago](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/))
-- Even the Secret Service won't use company-issued phones ([22 hours ago](https://www.theregister.com/security/2026/06/26/even-the-secret-service-wont-use-company-issued-phones/5263356))
+- Disruption with some GitHub services ([47 minutes ago](https://www.githubstatus.com/incidents/v0b3bpsyvqtk))
+- Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials ([3 hours ago](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html))
+- Clean GitHub repo tricks AI coding agents into running malware ([6 hours ago](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/))
+- OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards ([9 hours ago](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html))
+- Chinese Framework Powers 200,000 Scam Sites ([9 hours ago](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/))
+- It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns ([14 hours ago](https://www.theregister.com/security/2026/06/27/its-looking-like-a-hot-messy-summer-for-security-teams-as-ai-finds-countless-previously-hidden-vulns/5260478))
+- FBI: Russian hackers now target Signal backup recovery keys ([23 hours ago](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/))
+- Even the Secret Service won't use company-issued phones ([23 hours ago](https://www.theregister.com/security/2026/06/26/even-the-secret-service-wont-use-company-issued-phones/5263356))
 - CISA sets urgent deadline to fix Cisco flaw exploited in attacks ([1 days ago](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/))
 - FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys ([1 days ago](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html))
 - New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks ([1 days ago](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html))
@@ -49,7 +49,7 @@ description: SecOps News
 - Anthropic is testing desktop-like Claude Cowork for mobile ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/))
 - Poland busts SIM-swapping gang tied to millions in crypto theft ([1 days ago](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/))
 - Self-destructing Mistic backdoor linked to access broker selling corporate footholds to ransomware gangs ([1 days ago](https://www.theregister.com/security/2026/06/25/self-destructing-mistic-backdoor-linked-to-access-broker-selling-corporate-footholds-to-ransomware-gangs/5262579))
-- Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues ([1 days ago](https://www.theregister.com/cyber-crime/2026/06/25/ex-huntress-analyst-claims-company-insider-fed-info-to-a-ransomware-crim-social-media-drama-ensues/5262538))
+- Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues ([2 days ago](https://www.theregister.com/cyber-crime/2026/06/25/ex-huntress-analyst-claims-company-insider-fed-info-to-a-ransomware-crim-social-media-drama-ensues/5262538))
 - Order-tracking app Shop abused to push callback phishing attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/))
 - Microsoft quietly extends free Windows 10 ESU support to October 2027 ([2 days ago](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/))
 - Degradation with Webhooks, Pull Requests and Actions ([2 days ago](https://www.githubstatus.com/incidents/9ndxtnrwjf37))
@@ -174,6 +174,5 @@ description: SecOps News
 - Weekly Update 506 ([26 days ago](https://www.troyhunt.com/weekly-update-506/))
 - Atlas Menu - 63,926 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/AtlasMenu))
 - Police arrest man following hack of Ajax football club ([29 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/police-arrest-hack-ajax-football))
-- Disruption with OpenAI Models ([29 days ago](https://www.githubstatus.com/incidents/rhqcgg8lg6mm))
 
 <!-- news_marker ends -->
