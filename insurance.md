@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Oman Tells Allies Ships Going Through Hormuz May Have to Pay ([5 hours ago](https://www.insurancejournal.com/news/international/2026/06/27/875550.htm))
-- Bahrain Targeted, Ship Struck as Iran War Ceasefire Tested ([5 hours ago](https://www.insurancejournal.com/news/international/2026/06/27/875553.htm))
+- Oman Tells Allies Ships Going Through Hormuz May Have to Pay ([6 hours ago](https://www.insurancejournal.com/news/international/2026/06/27/875550.htm))
+- Bahrain Targeted, Ship Struck as Iran War Ceasefire Tested ([6 hours ago](https://www.insurancejournal.com/news/international/2026/06/27/875553.htm))
 - New report says Venezuela's twin earthquakes put $6.7 billion in damage on the map ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/new-report-says-venezuelas-twin-earthquakes-put-6-7-billion-in-damage-on-the-map-580502.aspx))
 - Appellate Court Rejects EPA Bid to Ease Regulations for Coal-Fired Power Plants ([1 days ago](https://www.insurancejournal.com/news/national/2026/06/26/875473.htm))
 - Lemonade enters into $250m business financing agreement with Hannover Re ([1 days ago](https://www.reinsurancene.ws/lemonade-enters-into-250m-business-financing-agreement-with-hannover-re/))
