@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- IO Performance: Reuse HttpClient to Avoid Connection Overhead ([13 hours ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
+- IO Performance: Reuse HttpClient to Avoid Connection Overhead ([14 hours ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([2 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
 - Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([3 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([5 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
