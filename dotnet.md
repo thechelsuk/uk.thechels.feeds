@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- IO Performance: Reuse HttpClient to Avoid Connection Overhead ([3 hours ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
+- IO Performance: Reuse HttpClient to Avoid Connection Overhead ([4 hours ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([1 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
 - Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([2 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
-- Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([4 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
+- Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([5 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([7 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([10 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
 - Your JetBrains IDE Expertise, Now on LinkedIn ([10 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
