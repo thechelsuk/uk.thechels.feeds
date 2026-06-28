@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Terabytes of data dumped on the dark web after US insurance regulator hacked ([8 minutes ago](https://www.insurancebusinessmag.com/uk/news/cyber/terabytes-of-data-dumped-on-the-dark-web-after-us-insurance-regulator-hacked-580538.aspx))
 - Oman Tells Allies Ships Going Through Hormuz May Have to Pay ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/27/875550.htm))
 - Bahrain Targeted, Ship Struck as Iran War Ceasefire Tested ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/27/875553.htm))
 - New report says Venezuela's twin earthquakes put $6.7 billion in damage on the map ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/new-report-says-venezuelas-twin-earthquakes-put-6-7-billion-in-damage-on-the-map-580502.aspx))
@@ -105,7 +106,6 @@ description: Insurance Updates
 - Throwback Thursday: Motor insurer lambasts shopping around ([3 days ago](https://www.postonline.co.uk/personal/7959603/throwback-thursday-motor-insurer-lambasts-shopping-around))
 - Why partnerships matter now more than ever ([3 days ago](https://www.postonline.co.uk/commercial/7960524/why-partnerships-matter-now-more-than-ever))
 - UK car insurance premiums record first quarterly rise in over two years ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/uk-car-insurance-premiums-record-first-quarterly-rise-in-over-two-years-580241.aspx))
-- Inside the AI modeling race reshaping catastrophe risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/inside-the-ai-modeling-race-reshaping-catastrophe-risk-580209.aspx))
 - Post editor wins Headlinemoney Journalist of the Year award ([4 days ago](https://www.postonline.co.uk/news/7960622/post-editor-wins-headlinemoney-journalist-of-the-year-award))
 - AI is scaling in insurance faster than the disclosure behind it ([4 days ago](https://www.insurtechinsights.com/ai-is-scaling-in-insurance-faster-than-the-disclosure-behind-it/))
 - More Americans are moving away from flood risk than toward it ([4 days ago](https://www.dig-in.com/articles/americans-are-moving-away-from-flood-risk-than-toward-it))
