@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Terabytes of data dumped on the dark web after US insurance regulator hacked ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/terabytes-of-data-dumped-on-the-dark-web-after-us-insurance-regulator-hacked-580538.aspx))
+- Terabytes of data dumped on the dark web after US insurance regulator hacked ([2 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/terabytes-of-data-dumped-on-the-dark-web-after-us-insurance-regulator-hacked-580538.aspx))
 - Oman Tells Allies Ships Going Through Hormuz May Have to Pay ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/27/875550.htm))
 - Bahrain Targeted, Ship Struck as Iran War Ceasefire Tested ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/27/875553.htm))
 - New report says Venezuela's twin earthquakes put $6.7 billion in damage on the map ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/new-report-says-venezuelas-twin-earthquakes-put-6-7-billion-in-damage-on-the-map-580502.aspx))
