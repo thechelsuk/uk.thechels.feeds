@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Terabytes of data dumped on the dark web after US insurance regulator hacked ([3 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/terabytes-of-data-dumped-on-the-dark-web-after-us-insurance-regulator-hacked-580538.aspx))
+- Terabytes of data dumped on the dark web after US insurance regulator hacked ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/cyber/terabytes-of-data-dumped-on-the-dark-web-after-us-insurance-regulator-hacked-580538.aspx))
 - Oman Tells Allies Ships Going Through Hormuz May Have to Pay ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/27/875550.htm))
 - Bahrain Targeted, Ship Struck as Iran War Ceasefire Tested ([1 days ago](https://www.insurancejournal.com/news/international/2026/06/27/875553.htm))
 - New report says Venezuela's twin earthquakes put $6.7 billion in damage on the map ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/new-report-says-venezuelas-twin-earthquakes-put-6-7-billion-in-damage-on-the-map-580502.aspx))
@@ -69,9 +69,9 @@ description: Insurance Updates
 - What could Burnham mean for insurance M&A? ([2 days ago](https://www.postonline.co.uk/news/7960615/what-could-burnham-mean-for-insurance-ma))
 - Penny Black’s Social Diary: Aviva’s gala; sweet Peach treat ([2 days ago](https://www.postonline.co.uk/personal/7960334/penny-blacks-social-diary-avivas-gala-sweet-peach-treat))
 - Ardonagh launches Axiiem as tech-enabled trading exchange for specialty insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/ardonagh-launches-axiiem-as-techenabled-trading-exchange-for-specialty-insurance-580383.aspx))
-- OneAdvent launches specialist MGA for photographers and musicians ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/oneadvent-launches-specialist-mga-for-photographers-and-musicians-580382.aspx))
-- LMA marks 25 years as Lloyd's market voice amid accelerating global risk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lma-marks-25-years-as-lloyds-market-voice-amid-accelerating-global-risk-580381.aspx))
-- Businesses operating in 'permanent high-risk environment' as AI, geopolitics and regulation converge ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/businesses-operating-in-permanent-highrisk-environment-as-ai-geopolitics-and-regulation-converge-580380.aspx))
+- OneAdvent launches specialist MGA for photographers and musicians ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/oneadvent-launches-specialist-mga-for-photographers-and-musicians-580382.aspx))
+- LMA marks 25 years as Lloyd's market voice amid accelerating global risk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/lma-marks-25-years-as-lloyds-market-voice-amid-accelerating-global-risk-580381.aspx))
+- Businesses operating in 'permanent high-risk environment' as AI, geopolitics and regulation converge ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/businesses-operating-in-permanent-highrisk-environment-as-ai-geopolitics-and-regulation-converge-580380.aspx))
 - Repayment benefits are increasing employees' access to care ([3 days ago](https://www.dig-in.com/news/repayment-benefits-can-help-employees-with-healthcare-bills))
 - Alan Raises €480 Million at €5.5 Billion Valuation to Accelerate AI and International Expansion ([3 days ago](https://www.insurtechinsights.com/alan-raises-e480-million-at-e5-5-billion-valuation-to-accelerate-ai-and-international-expansion/))
 - AI's black box problem: What insurers can't see is costing them ([3 days ago](https://www.dig-in.com/news/ais-black-box-problem-what-insurers-cant-see-costs-them))

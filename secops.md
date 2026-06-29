@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Disruption with some GitHub services ([4 hours ago](https://www.githubstatus.com/incidents/0rkjjs2ssp7z))
-- Sysco - 2,691,852 breached accounts ([9 hours ago](https://haveibeenpwned.com/Breach/Sysco))
-- Data breach exposes up to 14.2 million email logins at six ISPs ([11 hours ago](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/))
+- Disruption with some GitHub services ([6 hours ago](https://www.githubstatus.com/incidents/0rkjjs2ssp7z))
+- Sysco - 2,691,852 breached accounts ([11 hours ago](https://haveibeenpwned.com/Breach/Sysco))
+- Data breach exposes up to 14.2 million email logins at six ISPs ([12 hours ago](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/))
 - Disruption with some GitHub services ([1 days ago](https://www.githubstatus.com/incidents/v0b3bpsyvqtk))
 - Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials ([1 days ago](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html))
 - Clean GitHub repo tricks AI coding agents into running malware ([1 days ago](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/))
@@ -50,7 +50,7 @@ description: SecOps News
 - American Tower - 216,601 breached accounts ([2 days ago](https://haveibeenpwned.com/Breach/AmericanTower))
 - Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks ([2 days ago](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html))
 - Security boss thought MFA would be too much security ([2 days ago](https://www.theregister.com/security/2026/06/26/security-boss-thought-mfa-would-be-too-much-security/5261934))
-- Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder ([2 days ago](https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642))
+- Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder ([3 days ago](https://www.theregister.com/security/2026/06/26/chinese-cybersecurity-company-claims-its-built-a-better-than-mythos-bug-finder/5262642))
 - Anthropic is testing desktop-like Claude Cowork for mobile ([3 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/))
 - Poland busts SIM-swapping gang tied to millions in crypto theft ([3 days ago](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/))
 - Self-destructing Mistic backdoor linked to access broker selling corporate footholds to ransomware gangs ([3 days ago](https://www.theregister.com/security/2026/06/25/self-destructing-mistic-backdoor-linked-to-access-broker-selling-corporate-footholds-to-ransomware-gangs/5262579))
