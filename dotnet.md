@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([1 hours ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
+- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([2 hours ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([1 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([3 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
 - Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([4 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
@@ -25,7 +25,7 @@ description: DotNet Updates
 - Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([21 days ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
 - Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([22 days ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([26 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
-- dotNetDave Rocks SQL Saturday – Austin 2026 ([27 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
+- dotNetDave Rocks SQL Saturday – Austin 2026 ([28 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
 - Rock Your Career: Surviving The Technical Interview – 7th Edition ([28 days ago](https://dotnettips.com/2026/06/01/rock-your-career-surviving-the-technical-interview-7th-edition/))
 - GitHub Copilot Agent for Unit Tests: My Real-World Spargine Experiment ([29 days ago](https://dotnettips.com/2026/05/31/github-copilot-agent-for-unit-tests-my-real-world-spargine-experiment/))
 
