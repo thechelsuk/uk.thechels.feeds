@@ -8,12 +8,12 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([5 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
-- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
-- SkiaSharp 4.0 is here: announcing the first stable release ([18 hours ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
-- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([22 hours ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
+- Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([6 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
+- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([19 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
+- SkiaSharp 4.0 is here: announcing the first stable release ([19 hours ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
+- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([23 hours ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([2 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
-- dotNetDave Rocks .NET Day Switzerland 2026 ([3 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
+- dotNetDave Rocks .NET Day Switzerland 2026 ([4 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
 - Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([5 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([7 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([9 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
