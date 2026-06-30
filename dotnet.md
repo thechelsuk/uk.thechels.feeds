@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([1 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
+- Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([2 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([14 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
-- SkiaSharp 4.0 is here: announcing the first stable release ([14 hours ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
-- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([18 hours ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
+- SkiaSharp 4.0 is here: announcing the first stable release ([15 hours ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
+- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([19 hours ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([2 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([3 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
 - Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([4 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
