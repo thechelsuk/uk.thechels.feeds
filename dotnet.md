@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- MCP Beyond the Chat Window: Build Diagnostics in CI ([4 hours ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
-- Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([11 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
-- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
+- MCP Beyond the Chat Window: Build Diagnostics in CI ([5 hours ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
+- Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([12 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
+- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
 - SkiaSharp 4.0 is here: announcing the first stable release ([1 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([1 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([2 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
