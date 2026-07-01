@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([8 hours ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
-- MCP Beyond the Chat Window: Build Diagnostics in CI ([21 hours ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
+- Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([9 hours ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
+- MCP Beyond the Chat Window: Build Diagnostics in CI ([22 hours ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([1 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
 - SkiaSharp 4.0 is here: announcing the first stable release ([1 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
