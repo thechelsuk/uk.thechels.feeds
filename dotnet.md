@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([12 hours ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
+- Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([13 hours ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([1 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([1 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
@@ -30,6 +30,5 @@ description: DotNet Updates
 - Rider 2026.2 EAP 5: Code Quality Checks for Your AI Agents, and More. ([23 days ago](https://blog.jetbrains.com/dotnet/2026/06/08/rider-2026-2-code-quality-check-hooks-for-ai-agents/))
 - Boost Your .NET Projects: Future-Proofing Performance with Spargine’s Fast Methods ([24 days ago](https://dotnettips.com/2026/06/07/boost-your-net-projects-future-proofing-performance-with-spargines-fast-methods/))
 - WPF Hot Reload Is Here: Edit Your XAML and Watch It Update Live in Rider ([28 days ago](https://blog.jetbrains.com/dotnet/2026/06/03/wpf-hot-reload-in-jetbrains-rider/))
-- dotNetDave Rocks SQL Saturday – Austin 2026 ([29 days ago](https://dotnettips.com/2026/06/01/dotnetdave-rocks-sql-saturday-austin-2026/))
 
 <!-- news_marker ends -->
