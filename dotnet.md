@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([4 hours ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
-- MCP Beyond the Chat Window: Build Diagnostics in CI ([17 hours ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
+- Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([5 hours ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
+- MCP Beyond the Chat Window: Build Diagnostics in CI ([18 hours ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([1 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
 - SkiaSharp 4.0 is here: announcing the first stable release ([1 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
@@ -22,7 +22,7 @@ description: DotNet Updates
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([13 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
 - Your JetBrains IDE Expertise, Now on LinkedIn ([13 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([17 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
-- dotInsights  -  June 2026 ([18 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
+- dotInsights  -  June 2026 ([19 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
 - Join us for .NET Day on Agentic Modernization Livestream ([20 days ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
 - .NET 11 Preview 5 is now available! ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
 - .NET and .NET Framework June 2026 servicing releases updates ([21 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
