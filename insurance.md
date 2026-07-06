@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- FIFA World Cup referee also runs insurance advisory business ([7 minutes ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fifa-world-cup-referee-also-runs-insurance-advisory-business-581297.aspx))
-- Wentworth Alexander Insurance extends Northamptonshire County Cricket Club partnership ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/wentworth-alexander-insurance-extends-northamptonshire-county-cricket-club-partnership-581283.aspx))
-- Report: Rare Declaration of Independence copy found in UK National Archives ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/report-rare-declaration-of-independence-copy-found-in-uk-national-archives-581282.aspx))
-- New Star Underwriting appoints executive director ([12 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-star-underwriting-appoints-executive-director-581281.aspx))
+- FIFA World Cup referee also runs insurance advisory business ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fifa-world-cup-referee-also-runs-insurance-advisory-business-581297.aspx))
+- Wentworth Alexander Insurance extends Northamptonshire County Cricket Club partnership ([14 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/wentworth-alexander-insurance-extends-northamptonshire-county-cricket-club-partnership-581283.aspx))
+- Retired insurance executive uncovers rare Declaration of Independence in UK National Archives ([14 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/retired-insurance-executive-uncovers-rare-declaration-of-independence-in-uk-national-archives-581282.aspx))
+- New Star Underwriting appoints executive director ([14 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-star-underwriting-appoints-executive-director-581281.aspx))
 - FCA Warns Firms on Legacy Pension Products ([2 days ago](https://insurance-edge.net/2026/07/03/fca-warns-firms-on-legacy-pension-products/))
 - Competitive pressures and AI driving insurers to step up automation in underwriting: Sollers ([2 days ago](https://www.reinsurancene.ws/competitive-pressures-and-ai-driving-insurers-to-step-up-automation-in-underwriting-sollers/))
 - FCDO commits additional £3m to Natural Disaster Fund Technical Assistance Facility ([2 days ago](https://www.reinsurancene.ws/fcdo-commits-additional-3m-to-natural-disaster-fund-technical-assistance-facility/))
@@ -38,7 +38,7 @@ description: Insurance Updates
 - Acrisure UK's CEO and CFO/COO both resign ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-uks-ceo-and-cfocoo-both-resign-581229.aspx))
 - Verisk Estimates Losses From Venezuela Earthquakes to Be Over $10bn ([2 days ago](https://insurance-edge.net/2026/07/03/verisk-estimates-losses-from-venezuela-earthquakes-to-be-over-10bn/))
 - AbbeyAutoline manager wins CII's Rutter Medal for Fellowship ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/abbeyautoline-manager-wins-ciis-rutter-medal-for-fellowship-581224.aspx))
-- Economic losses from Venezuelan earthquakes projected to exceed US$10 billion – Verisk ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/economic-losses-from-venezuelan-earthquakes-projected-to-exceed-us10-billion--verisk-581193.aspx))
+- Economic losses from Venezuelan earthquakes projected to exceed US$10 billion – Verisk ([3 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/economic-losses-from-venezuelan-earthquakes-projected-to-exceed-us10-billion--verisk-581193.aspx))
 - Insurance moves: HSB, DUAL Europe and Sidley ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-hsb-dual-europe-and-sidley-581161.aspx))
 - Young driver premiums in Northern Ireland fall to near three-year low ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/young-driver-premiums-in-northern-ireland-fall-to-near-threeyear-low-581159.aspx))
 - Brokers rank claims handling above price when placing fleet business – DCL ([3 days ago](https://www.insurancebusinessmag.com/uk/news/claims/brokers-rank-claims-handling-above-price-when-placing-fleet-business--dcl-581156.aspx))
