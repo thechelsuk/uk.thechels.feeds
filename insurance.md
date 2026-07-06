@@ -42,7 +42,7 @@ description: Insurance Updates
 - Insurance moves: HSB, DUAL Europe and Sidley ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurance-moves-hsb-dual-europe-and-sidley-581161.aspx))
 - Young driver premiums in Northern Ireland fall to near three-year low ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/young-driver-premiums-in-northern-ireland-fall-to-near-threeyear-low-581159.aspx))
 - Brokers rank claims handling above price when placing fleet business – DCL ([2 days ago](https://www.insurancebusinessmag.com/uk/news/claims/brokers-rank-claims-handling-above-price-when-placing-fleet-business--dcl-581156.aspx))
-- Revealed – One in five UK employees have shared work passwords externally ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/revealed--one-in-five-uk-employees-have-shared-work-passwords-externally-581154.aspx))
+- Revealed – One in five UK employees have shared work passwords externally ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/revealed--one-in-five-uk-employees-have-shared-work-passwords-externally-581154.aspx))
 - America Turns 250, and the Risk Meter Is Still Working ([3 days ago](https://www.insurancejournal.com/blogs/academy-journal/2026/07/02/876192.htm))
 - Ex-Michigan Police Lieutenant Pleads Guilty to Falsifying Salvage Vehicle Inspections ([3 days ago](https://www.insurancejournal.com/news/midwest/2026/07/02/876172.htm))
 - AM Best Revises Outlook to Positive for Louisiana Workers’ Compensation Corporation ([3 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/02/876166.htm))
