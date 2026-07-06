@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
 - The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs ([1 days ago](https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/))
 - Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([5 days ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([5 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
@@ -21,7 +22,7 @@ description: DotNet Updates
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([13 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([15 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([18 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
-- Your JetBrains IDE Expertise, Now on LinkedIn ([18 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
+- Your JetBrains IDE Expertise, Now on LinkedIn ([19 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([22 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
 - dotInsights  -  June 2026 ([24 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
 - Join us for .NET Day on Agentic Modernization Livestream ([25 days ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
