@@ -8,13 +8,13 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
+- Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
 - The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs ([1 days ago](https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/))
 - Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([5 days ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([6 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([6 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([6 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
-- SkiaSharp 4.0 is here: announcing the first stable release ([6 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
+- SkiaSharp 4.0 is here: announcing the first stable release ([7 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([7 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([8 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([10 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
