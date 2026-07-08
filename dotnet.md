@@ -27,7 +27,7 @@ description: DotNet Updates
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([24 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
 - dotInsights  -  June 2026 ([26 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
 - Join us for .NET Day on Agentic Modernization Livestream ([28 days ago](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/))
-- .NET 11 Preview 5 is now available! ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
+- .NET 11 Preview 5 is now available! ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/))
 - .NET and .NET Framework June 2026 servicing releases updates ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/))
 
 <!-- news_marker ends -->
