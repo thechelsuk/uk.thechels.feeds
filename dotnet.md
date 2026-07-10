@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  July 2026 ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
-- Modernize .NET applications in the GitHub Copilot app ([20 hours ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
+- dotInsights  -  July 2026 ([3 hours ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
+- Modernize .NET applications in the GitHub Copilot app ([21 hours ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
 - Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([3 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
 - Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([4 days ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
 - The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs ([5 days ago](https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/))
@@ -21,7 +21,7 @@ description: DotNet Updates
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([10 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([12 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([13 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
-- Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([14 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
+- Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([15 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([17 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([19 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([22 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
