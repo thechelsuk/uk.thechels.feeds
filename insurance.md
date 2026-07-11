@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([4 hours ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
+- FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([5 hours ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
 - Climate models become more precise ([1 days ago](https://www.dig-in.com/articles/climate-models-become-more-precise))
 - Company Ordered to Remove Thousands of Wind Turbine Blades in Texas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/10/877079.htm))
 - 2023 attachment point shift helps reinsurers outperform industry cat trends: JP Morgan ([1 days ago](https://www.reinsurancene.ws/2023-attachment-point-shift-helps-reinsurers-outperform-industry-cat-trends-jp-morgan/))
