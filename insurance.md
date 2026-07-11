@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([7 hours ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
+- FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([8 hours ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
 - Climate models become more precise ([1 days ago](https://www.dig-in.com/articles/climate-models-become-more-precise))
 - Company Ordered to Remove Thousands of Wind Turbine Blades in Texas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/10/877079.htm))
 - 2023 attachment point shift helps reinsurers outperform industry cat trends: JP Morgan ([1 days ago](https://www.reinsurancene.ws/2023-attachment-point-shift-helps-reinsurers-outperform-industry-cat-trends-jp-morgan/))
@@ -102,7 +102,7 @@ description: Insurance Updates
 - Acrisure launches private client service for UK high-net-worth market ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-launches-private-client-service-for-uk-highnetworth-market-581794.aspx))
 - Nirvana acquires Ryan Specialty's Swedish public entity business ([2 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/nirvana-acquires-ryan-specialtys-swedish-public-entity-business-581792.aspx))
 - MGAA honours five MGAs as FCA oversight review puts delegated authority under the microscope ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-honours-five-mgas-as-fca-oversight-review-puts-delegated-authority-under-the-microscope-581791.aspx))
-- British Insurance Awards 2026 winners revealed ([2 days ago](https://www.postonline.co.uk/personal/7960677/british-insurance-awards-2026-winners-revealed))
+- British Insurance Awards 2026 winners revealed ([3 days ago](https://www.postonline.co.uk/personal/7960677/british-insurance-awards-2026-winners-revealed))
 - NN Group Uses In-House AI to Settle Claims in Around Six Minutes ([3 days ago](https://www.insurtechinsights.com/nn-group-uses-in-house-ai-to-settle-claims-in-around-six-minutes/))
 - Aviva and AXIS Launch First Lloyd’s Consortium Focused on UK Onshore Renewable Energy ([3 days ago](https://www.insurtechinsights.com/aviva-and-axis-launch-first-lloyds-consortium-focused-on-uk-onshore-renewable-energy/))
 - FCA insists delegated authority review isn’t challenge to MGAs ([3 days ago](https://www.postonline.co.uk/news/7960736/fca-insists-delegated-authority-review-isnt-challenge-to-mgas))
