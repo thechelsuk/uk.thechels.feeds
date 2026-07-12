@@ -102,7 +102,7 @@ description: Insurance Updates
 - Acrisure launches private client service for UK high-net-worth market ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-launches-private-client-service-for-uk-highnetworth-market-581794.aspx))
 - Nirvana acquires Ryan Specialty's Swedish public entity business ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/nirvana-acquires-ryan-specialtys-swedish-public-entity-business-581792.aspx))
 - MGAA honours five MGAs as FCA oversight review puts delegated authority under the microscope ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mgaa-honours-five-mgas-as-fca-oversight-review-puts-delegated-authority-under-the-microscope-581791.aspx))
-- British Insurance Awards 2026 winners revealed ([3 days ago](https://www.postonline.co.uk/personal/7960677/british-insurance-awards-2026-winners-revealed))
+- British Insurance Awards 2026 winners revealed ([4 days ago](https://www.postonline.co.uk/personal/7960677/british-insurance-awards-2026-winners-revealed))
 - NN Group Uses In-House AI to Settle Claims in Around Six Minutes ([4 days ago](https://www.insurtechinsights.com/nn-group-uses-in-house-ai-to-settle-claims-in-around-six-minutes/))
 - Aviva and AXIS Launch First Lloyd’s Consortium Focused on UK Onshore Renewable Energy ([4 days ago](https://www.insurtechinsights.com/aviva-and-axis-launch-first-lloyds-consortium-focused-on-uk-onshore-renewable-energy/))
 - FCA insists delegated authority review isn’t challenge to MGAs ([4 days ago](https://www.postonline.co.uk/news/7960736/fca-insists-delegated-authority-review-isnt-challenge-to-mgas))
