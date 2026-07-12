@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([18 hours ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
+- FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([19 hours ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
 - Climate models become more precise ([1 days ago](https://www.dig-in.com/articles/climate-models-become-more-precise))
 - Company Ordered to Remove Thousands of Wind Turbine Blades in Texas ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/10/877079.htm))
 - 2023 attachment point shift helps reinsurers outperform industry cat trends: JP Morgan ([1 days ago](https://www.reinsurancene.ws/2023-attachment-point-shift-helps-reinsurers-outperform-industry-cat-trends-jp-morgan/))
@@ -45,7 +45,7 @@ description: Insurance Updates
 - Commercial insurance market continues to ease: Alera Group ([1 days ago](https://www.reinsurancene.ws/commercial-insurance-market-continues-to-ease-alera-group/))
 - Open GI x Covéa; Aviva’s cyber cover; PIB’s CFO ([1 days ago](https://www.postonline.co.uk/news/7960750/open-gi-x-covea-avivas-cyber-cover-pibs-cfo))
 - In Focus: How can insurance better engage younger generations? ([1 days ago](https://ifamagazine.com/in-focus-how-can-insurance-better-engage/))
-- Sompo appoints Martyn Benson as UK Chief Operating Officer ([1 days ago](https://www.reinsurancene.ws/sompo-appoints-martyn-benson-as-uk-chief-operating-officer/))
+- Sompo appoints Martyn Benson as UK Chief Operating Officer ([2 days ago](https://www.reinsurancene.ws/sompo-appoints-martyn-benson-as-uk-chief-operating-officer/))
 - Hormuz war-risk rates surge again as ceasefire collapses ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/hormuz-warrisk-rates-surge-again-as-ceasefire-collapses-581985.aspx))
 - Sarah Ruble named SVP, Commercial Strategies at DUAL North America ([2 days ago](https://www.reinsurancene.ws/sarah-ruble-named-svp-commercial-strategies-at-dual-north-america/))
 - Could Prince Harry lose insurance coverage after court loss? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/could-prince-harry-lose-insurance-coverage-after-court-loss-581983.aspx))
@@ -83,7 +83,7 @@ description: Insurance Updates
 - Optalitix Adds Agentic AI to Optalitix Quote, Enabling Natural-Language Access to Underwriting Systems ([2 days ago](https://www.insurtechinsights.com/optalitix-adds-agentic-ai-to-optalitix-quote-enabling-natural-language-access-to-underwriting-systems/))
 - Prudential to Retain 22% Stake in ICICI Prudential Life After Shift from Promoter to Investor ([2 days ago](https://www.insurtechinsights.com/prudential-to-retain-22-stake-in-icici-prudential-life-after-shift-from-promoter-to-investor/))
 - Defra sets out vet reforms to ‘radically modernise the industry’ ([2 days ago](https://www.postonline.co.uk/news/7960741/defra-sets-out-vet-reforms-to-radically-modernise-the-industry))
-- Copart promotes UK CEO Pocock to president ([2 days ago](https://www.postonline.co.uk/news/7960739/copart-promotes-uk-ceo-pocock-to-president))
+- Copart promotes UK CEO Pocock to president ([3 days ago](https://www.postonline.co.uk/news/7960739/copart-promotes-uk-ceo-pocock-to-president))
 - Minster Law reports 230% uptick in alternative dispute resolution ([3 days ago](https://www.postonline.co.uk/news/7960700/minster-law-reports-230-uptick-in-alternative-dispute-resolution))
 - Andy Burnham, Downing Street, and the case for an Insurance Prime Minister ([3 days ago](https://www.insurancebusinessmag.com/uk/news/columns/andy-burnham-downing-street-and-the-case-for-an-insurance-prime-minister-581846.aspx))
 - Specialty insurance's real differentiator ([3 days ago](https://www.insurancebusinessmag.com/uk/news/sme/specialty-insurances-real-differentiator-581845.aspx))
