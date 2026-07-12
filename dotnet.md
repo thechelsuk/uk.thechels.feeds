@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([5 hours ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
-- dotInsights  -  July 2026 ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
+- HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([6 hours ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
+- dotInsights  -  July 2026 ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([2 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
 - Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([5 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
 - Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([6 days ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
@@ -28,6 +28,5 @@ description: DotNet Updates
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([24 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
 - Your JetBrains IDE Expertise, Now on LinkedIn ([24 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([28 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
-- dotInsights  -  June 2026 ([29 days ago](https://blog.jetbrains.com/dotnet/2026/06/12/dotinsights-june-2026/))
 
 <!-- news_marker ends -->
