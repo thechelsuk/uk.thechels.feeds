@@ -8,7 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([6 hours ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
+- Optimizing I/O Performance in .NET ([1 hours ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
+- HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([7 hours ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([2 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
 - Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([5 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
@@ -26,7 +27,7 @@ description: DotNet Updates
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([19 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([21 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([24 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
-- Your JetBrains IDE Expertise, Now on LinkedIn ([24 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
+- Your JetBrains IDE Expertise, Now on LinkedIn ([25 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 - Boost Your .NET Projects: Copilot, Benchmarks, and the Truth About Faster Code ([28 days ago](https://dotnettips.com/2026/06/14/boost-your-net-projects-copilot-benchmarks-and-the-truth-about-faster-code/))
 
 <!-- news_marker ends -->
