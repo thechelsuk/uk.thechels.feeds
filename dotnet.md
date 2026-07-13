@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- What’s New in ReSharper 2026.2 for VS Code-compatible editors ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
-- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
+- What’s New in ReSharper 2026.2 for VS Code-compatible editors ([11 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
+- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([11 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Optimizing I/O Performance in .NET ([1 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([1 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([12 days ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([13 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([13 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
-- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
+- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
 - SkiaSharp 4.0 is here: announcing the first stable release ([14 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([14 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([15 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
