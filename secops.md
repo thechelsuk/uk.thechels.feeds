@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- OpenAI temporarily relaxes GPT-5.6 Sol usage limits ([2 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/))
-- Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time ([7 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/))
-- RedHook Android malware now uses Wireless ADB for shell access ([12 hours ago](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/))
+- OpenAI temporarily relaxes GPT-5.6 Sol usage limits ([3 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/))
+- Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time ([8 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/))
+- RedHook Android malware now uses Wireless ADB for shell access ([13 hours ago](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/))
 - Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install ([1 days ago](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html))
 - Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns ([1 days ago](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html))
 - Ghost Accounts Abuse GitHub API in Mass Recon Campaign ([1 days ago](https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/))
@@ -164,13 +164,13 @@ description: SecOps News
 - OH SH!T, I’ve Got Bowel Cancer — Part Two: In the Fog of Chemotherapy ([19 days ago](https://grcsolutions.io/oh-sht-ive-got-bowel-cancer-part-two-in-the-fog-of-chemotherapy/))
 - What Makes a Pen Test Fail? Common Penetration Testing Mistakes to Avoid ([20 days ago](https://grcsolutions.io/what-makes-a-pen-test-fail/))
 - Why No Passkeys? Naming the Top Sites That Still Don't Support Them ([20 days ago](https://scotthelme.ghost.io/why-no-passkeys-naming-the-top-sites-that-still-dont-support-them/))
-- JCPenney - 368,418 breached accounts ([22 days ago](https://haveibeenpwned.com/Breach/JCPenney))
+- JCPenney - 368,418 breached accounts ([23 days ago](https://haveibeenpwned.com/Breach/JCPenney))
 - Apple’s Hide My Email tweak leaves privacy fans fuming ([23 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming))
 - Imposter scams cost Americans $3.5 billion in 2025 – and it’s getting worse ([23 days ago](https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse))
 - Ralph Lauren - 139,903 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/RalphLauren))
 - Operation Endgame 4.0 - 4,160,519 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/OperationEndgame4))
 - ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm ([24 days ago](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/))
-- CFGI - 248,235 breached accounts ([24 days ago](https://haveibeenpwned.com/Breach/CFGI))
+- CFGI - 248,235 breached accounts ([25 days ago](https://haveibeenpwned.com/Breach/CFGI))
 - Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed ([25 days ago](https://grahamcluley.com/smashing-security-podcast-472/))
 - Disruption with Copilot next edit suggestions ([25 days ago](https://www.githubstatus.com/incidents/5t81zk0vrk3z))
 - Incident With Webhooks ([25 days ago](https://www.githubstatus.com/incidents/kn7gv3tlfc54))
@@ -183,7 +183,7 @@ description: SecOps News
 - Maine forced to take down data breach portal after fake notices filed with authorities ([27 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/maine-take-down-data-breach-portal))
 - The Instructure Canvas Breach (2026): How XSS in a Support Ticket Compromised 275 Million Students ([27 days ago](https://scotthelme.ghost.io/the-instructure-canvas-breach-2026-how-xss-in-a-support-ticket-compromised-275-million-students/))
 - Weekly Update 508 ([27 days ago](https://www.troyhunt.com/weekly-update-508/))
-- Berkadia - 305,216 breached accounts ([27 days ago](https://haveibeenpwned.com/Breach/Berkadia))
+- Berkadia - 305,216 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/Berkadia))
 - Infinite Campus - 137,123 breached accounts ([28 days ago](https://haveibeenpwned.com/Breach/InfiniteCampus))
 
 <!-- news_marker ends -->
