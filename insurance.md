@@ -8,6 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- California Homeowners Insurance Costs Still 41% Below National Average, Report Shows ([16 minutes ago](https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877085.htm))
 - FCA Looks Back on a Busy Year Regulating `Finfluencer’ Sector ([1 days ago](https://insurance-edge.net/2026/07/11/fca-looks-back-on-a-busy-year-regulating-finfluencer-sector/))
 - Climate models become more precise ([2 days ago](https://www.dig-in.com/articles/climate-models-become-more-precise))
 - Company Ordered to Remove Thousands of Wind Turbine Blades in Texas ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/10/877079.htm))
@@ -67,7 +68,6 @@ description: Insurance Updates
 - Viewpoint: Second-Hand Risk – The Growing Threat of Used Equipment in Data Centers ([2 days ago](https://www.insurancejournal.com/news/national/2026/07/10/876959.htm))
 - Conspiracies, Lies and US Influencers Drive UK Street Violence ([2 days ago](https://www.insurancejournal.com/news/international/2026/07/10/876831.htm))
 - Fla. Supreme Court Reverses Lower Court on Compensability of a Workplace Shooting ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/07/10/876981.htm))
-- Two Florida Industry Veterans Launch Growth Platform for Agencies ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/07/10/876750.htm))
 - Has the Adam Winslow hire fired the starting gun for CFC IPO? ([2 days ago](https://www.postonline.co.uk/people/7960738/has-the-adam-winslow-hire-fired-the-starting-gun-for-cfc-ipo))
 - Penny Black’s Social Diary: British Insurance Awards special ([2 days ago](https://www.postonline.co.uk/broker/7960489/penny-blacks-social-diary-british-insurance-awards-special))
 - BIBA renews Lockton professional indemnity partnership for three years ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/biba-renews-lockton-professional-indemnity-partnership-for-three-years-581925.aspx))
