@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- What’s New in ReSharper 2026.2 for VS Code-compatible editors ([3 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
-- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([3 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
+- What’s New in ReSharper 2026.2 for VS Code-compatible editors ([4 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
+- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([4 hours ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Optimizing I/O Performance in .NET ([1 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([1 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
@@ -25,7 +25,7 @@ description: DotNet Updates
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([13 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([15 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([16 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
-- Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([17 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
+- Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([18 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([20 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([22 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([25 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
