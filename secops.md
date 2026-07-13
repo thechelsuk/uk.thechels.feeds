@@ -8,9 +8,9 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- OpenAI temporarily relaxes GPT-5.6 Sol usage limits ([46 minutes ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/))
-- Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/))
-- RedHook Android malware now uses Wireless ADB for shell access ([11 hours ago](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/))
+- OpenAI temporarily relaxes GPT-5.6 Sol usage limits ([2 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/))
+- Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time ([7 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/))
+- RedHook Android malware now uses Wireless ADB for shell access ([12 hours ago](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/))
 - Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install ([1 days ago](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html))
 - Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns ([1 days ago](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html))
 - Ghost Accounts Abuse GitHub API in Mass Recon Campaign ([1 days ago](https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/))
@@ -52,7 +52,7 @@ description: SecOps News
 - Former ransomware negotiator gets 4 years for BlackCat attacks ([2 days ago](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/))
 - Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks ([2 days ago](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html))
 - Network of 200 GitHub Repositories Used for Malware Infection ([2 days ago](https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/))
-- Microsoft warns customers AI will mean busier Patch Tuesdays ([2 days ago](https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618))
+- Microsoft warns customers AI will mean busier Patch Tuesdays ([3 days ago](https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618))
 - An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals ([3 days ago](https://www.theregister.com/cyber-crime/2026/07/09/an-unnamed-us-county-perhaps-in-ohio-paid-1m-extortion-demand-to-cybercriminals/5269575))
 - OpenMandriva Linux says contributor tried to sabotage the project ([3 days ago](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/))
 - Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs ([3 days ago](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html))
