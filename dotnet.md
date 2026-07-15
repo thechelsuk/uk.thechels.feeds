@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider 2026.2 Release Candidate Is Out! ([8 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([8 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
-- JetBrains GameDev Days 2026 – Call for Speakers ([10 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
+- Rider 2026.2 Release Candidate Is Out! ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([9 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- JetBrains GameDev Days 2026 – Call for Speakers ([11 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
 - .NET 11 Preview 6 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
@@ -26,7 +26,7 @@ description: DotNet Updates
 - Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([14 days ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([15 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([15 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
-- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
+- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
 - SkiaSharp 4.0 is here: announcing the first stable release ([16 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([16 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([17 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
