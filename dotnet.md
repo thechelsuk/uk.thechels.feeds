@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET and .NET Framework July 2026 servicing releases updates ([11 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
-- CoreCLR Progress and the Mono Timeline for .NET MAUI ([12 hours ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
-- .NET 11 Preview 6 is now available! ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
+- .NET and .NET Framework July 2026 servicing releases updates ([12 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
+- CoreCLR Progress and the Mono Timeline for .NET MAUI ([13 hours ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
+- .NET 11 Preview 6 is now available! ([13 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Optimizing I/O Performance in .NET ([2 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
