@@ -8,11 +8,11 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider 2026.2 Release Candidate Is Out! ([5 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([5 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
-- JetBrains GameDev Days 2026 – Call for Speakers ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
-- .NET and .NET Framework July 2026 servicing releases updates ([23 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
-- CoreCLR Progress and the Mono Timeline for .NET MAUI ([23 hours ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
+- Rider 2026.2 Release Candidate Is Out! ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- JetBrains GameDev Days 2026 – Call for Speakers ([8 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
+- .NET and .NET Framework July 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
+- CoreCLR Progress and the Mono Timeline for .NET MAUI ([1 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
 - .NET 11 Preview 6 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
