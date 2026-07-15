@@ -8,10 +8,10 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- JetBrains GameDev Days 2026 – Call for Speakers ([1 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
-- .NET and .NET Framework July 2026 servicing releases updates ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
-- CoreCLR Progress and the Mono Timeline for .NET MAUI ([17 hours ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
-- .NET 11 Preview 6 is now available! ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
+- JetBrains GameDev Days 2026 – Call for Speakers ([2 hours ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
+- .NET and .NET Framework July 2026 servicing releases updates ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
+- CoreCLR Progress and the Mono Timeline for .NET MAUI ([18 hours ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
+- .NET 11 Preview 6 is now available! ([19 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Optimizing I/O Performance in .NET ([3 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
@@ -33,6 +33,6 @@ description: DotNet Updates
 - Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3 ([22 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/))
 - Database Performance: Making Entity Framework Queries Faster ([24 days ago](https://dotnettips.com/2026/06/21/database-performance-making-entity-framework-queries-faster/))
 - AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server ([27 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/))
-- Your JetBrains IDE Expertise, Now on LinkedIn ([27 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
+- Your JetBrains IDE Expertise, Now on LinkedIn ([28 days ago](https://blog.jetbrains.com/blog/2026/06/17/your-jetbrains-ide-expertise-now-on-linkedin/))
 
 <!-- news_marker ends -->
