@@ -9,15 +9,15 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - Announcing .NET Modernization for Beginners ([1 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
-- Rider 2026.2 Release Candidate Is Out! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- Rider 2026.2 Release Candidate Is Out! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
 - JetBrains GameDev Days 2026 – Call for Speakers ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([3 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
 - .NET 11 Preview 6 is now available! ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([5 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([5 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
-- Optimizing I/O Performance in .NET ([5 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
+- Optimizing I/O Performance in .NET ([6 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([6 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([8 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([8 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
