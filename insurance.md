@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Iran Renews Attacks on Gulf States After Another Night of US strikes ([20 hours ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
+- Iran Renews Attacks on Gulf States After Another Night of US strikes ([21 hours ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
 - Scientists say this year's El Niño could break records, and the models may not be keeping up ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/scientists-say-this-years-el-nino-could-break-records-and-the-models-may-not-be-keeping-up-582842.aspx))
 - Travelers: AI improves claims, underwriting efficiency in Q2 ([1 days ago](https://www.dig-in.com/news/travelers-ai-improves-claims-underwriting-efficiency-in-q2))
 - Forged cover note fails to sink US$3.6m marine insurance claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/forged-cover-note-fails-to-sink-us3-6m-marine-insurance-claim-582821.aspx))
@@ -82,7 +82,7 @@ description: Insurance Updates
 - How the rise of AI is forcing a build-or-buy rethink ([2 days ago](https://www.dig-in.com/opinion/how-the-rise-of-ai-is-forcing-a-build-or-buy-rethink))
 - Marsh UK warns firms against ‘normalisation of risk’ ([2 days ago](https://www.postonline.co.uk/commercial/7960782/marsh-uk-warns-firms-against-normalisation-of-risk))
 - California rivals have different plans to remake home insurance ([2 days ago](https://www.dig-in.com/articles/california-rivals-have-different-plans-to-remake-home-insurance))
-- Why AI changes the rules of corporate liability ([2 days ago](https://www.dig-in.com/opinion/why-ai-changes-the-rules-of-corporate-liability))
+- How insurance data is evolving from raw reports to embeddings ([2 days ago](https://www.dig-in.com/opinion/how-insurance-data-is-evolving-from-raw-reports-to-embeddings))
 - The Hanover names Richard Lavey CEO-elect as Jack Roche announces retirement ([2 days ago](https://www.insurtechinsights.com/the-hanover-names-richard-lavey-ceo-elect-as-jack-roche-announces-retirement/))
 - Experience within London Market claims teams drops ([2 days ago](https://www.postonline.co.uk/news/7960780/experience-within-london-market-claims-teams-drops))
 - Aviation claims costs up across every category as MRO labour rates double pre-pandemic pace ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aviation-claims-costs-up-across-every-category-as-mro-labour-rates-double-prepandemic-pace-582608.aspx))
@@ -91,8 +91,8 @@ description: Insurance Updates
 - Price comparison bosses urge regulator to mandate claims data ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/price-comparison-bosses-urge-regulator-to-mandate-claims-data-582604.aspx))
 - Liberty Company appoints first Chief AI Officer in executive leadership reshuffle ([2 days ago](https://www.insurtechinsights.com/liberty-company-appoints-first-chief-ai-officer-in-executive-leadership-reshuffle/))
 - HSB hires Munich Re tech risk veteran as engineering insurer eyes AI exposures ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/hsb-hires-munich-re-tech-risk-veteran-as-engineering-insurer-eyes-ai-exposures-582601.aspx))
-- Gallagher hires PwC tax specialist to lead French M&A insurance practice ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-hires-pwc-tax-specialist-to-lead-french-manda-insurance-practice-582599.aspx))
-- UK cyber breach rate holds at 43% as AI widens attack threat ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/uk-cyber-breach-rate-holds-at-43-as-ai-widens-attack-threat-582597.aspx))
+- Gallagher hires PwC tax specialist to lead French M&A insurance practice ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/gallagher-hires-pwc-tax-specialist-to-lead-french-manda-insurance-practice-582599.aspx))
+- UK cyber breach rate holds at 43% as AI widens attack threat ([3 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/uk-cyber-breach-rate-holds-at-43-as-ai-widens-attack-threat-582597.aspx))
 - Video Q&A: Smartnumbers’ Tim Burton on ghost broking, synthetic IDs and the growing threat of AI in fraud ([3 days ago](https://www.postonline.co.uk/market-access/claims-fraud/7960767/video-qa-smartnumbers-tim-burton-on-ghost-broking-synthetic-ids-and-the-growing-threat-of-ai-in-fraud))
 - Q&A: Steven Darrah, Really Honest ([3 days ago](https://www.postonline.co.uk/commercial/7960440/qa-steven-darrah-really-honest))
 - Captives consultation ‘a strong start’ by regulators ([3 days ago](https://www.postonline.co.uk/regulation/7960776/captives-consultation-a-strong-start-by-regulators))
@@ -129,6 +129,6 @@ description: Insurance Updates
 - In Focus: How younger generations are reshaping the protection conversation ([5 days ago](https://ifamagazine.com/in-focus-how-younger-generations-are-reshapin/))
 - Prevention has waited long enough | The NHS is right to reward it ([5 days ago](https://ifamagazine.com/prevention-has-waited/))
 - Is your business fit for the future? It takes more than the driver to win the race ([5 days ago](https://ifamagazine.com/is-your-business-fit-for-the-future/))
-- Why protection is becoming central to inheritance tax planning ([5 days ago](https://ifamagazine.com/why-protection-is-becoming-central/))
+- Why protection is becoming central to inheritance tax planning ([6 days ago](https://ifamagazine.com/why-protection-is-becoming-central/))
 
 <!-- news_marker ends -->
