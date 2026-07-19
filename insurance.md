@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Iran Renews Attacks on Gulf States After Another Night of US strikes ([15 hours ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
+- Iran Renews Attacks on Gulf States After Another Night of US strikes ([16 hours ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
 - Scientists say this year's El Niño could break records, and the models may not be keeping up ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/scientists-say-this-years-el-nino-could-break-records-and-the-models-may-not-be-keeping-up-582842.aspx))
 - Travelers: AI improves claims, underwriting efficiency in Q2 ([1 days ago](https://www.dig-in.com/news/travelers-ai-improves-claims-underwriting-efficiency-in-q2))
 - Forged cover note fails to sink US$3.6m marine insurance claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/forged-cover-note-fails-to-sink-us3-6m-marine-insurance-claim-582821.aspx))
@@ -67,6 +67,7 @@ description: Insurance Updates
 - US Aims to Set Guardrails for Autonomous Vehicle Behavior ([1 days ago](https://www.insurancejournal.com/news/national/2026/07/17/877969.htm))
 - White House Unveils AI Clearinghouse for Cybersecurity Risks ([1 days ago](https://www.insurancejournal.com/news/national/2026/07/17/877965.htm))
 - Americans Are Angry About Data Centers and Politicians Are Feeling the Pressure ([1 days ago](https://www.insurancejournal.com/news/national/2026/07/17/877959.htm))
+- SlashData and DNI tie up to Digitise UAE Motor Insurance via Wtheeq ([1 days ago](https://thefintechtimes.com/slashdata-and-dni-tie-up-to-digitise-uae-motor-insurance-via-wtheeq/))
 - New York Approves 22% Workers’ Compensation Cost Reduction ([1 days ago](https://www.insurancejournal.com/news/east/2026/07/17/877978.htm))
 - Penny Black’s Social Diary: Thomas Carroll’s cricketing; Hardy’s Hammers ([1 days ago](https://www.postonline.co.uk/broker/7960487/penny-blacks-social-diary-thomas-carrolls-cricketing-hardys-hammers))
 - Three Lions on a shirt and insurance kept Jules Rimet gleaming ([1 days ago](https://www.postonline.co.uk/commercial/7960778/three-lions-on-a-shirt-and-insurance-kept-jules-rimet-gleaming))
