@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([5 hours ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
+- TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([6 hours ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([2 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
 - Rider 2026.2 Release Candidate Is Out! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
 - ReSharper 2026.2 Release Candidate Released! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([6 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Optimizing I/O Performance in .NET ([6 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([7 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
-- dotInsights  -  July 2026 ([8 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
+- dotInsights  -  July 2026 ([9 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([9 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
 - Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([12 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
 - Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([13 days ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
