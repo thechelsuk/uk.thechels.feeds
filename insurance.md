@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Iran Renews Attacks on Gulf States After Another Night of US strikes ([18 hours ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
+- Iran Renews Attacks on Gulf States After Another Night of US strikes ([19 hours ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
 - Scientists say this year's El Niño could break records, and the models may not be keeping up ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/scientists-say-this-years-el-nino-could-break-records-and-the-models-may-not-be-keeping-up-582842.aspx))
 - Travelers: AI improves claims, underwriting efficiency in Q2 ([1 days ago](https://www.dig-in.com/news/travelers-ai-improves-claims-underwriting-efficiency-in-q2))
 - Forged cover note fails to sink US$3.6m marine insurance claim ([1 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/forged-cover-note-fails-to-sink-us3-6m-marine-insurance-claim-582821.aspx))
@@ -67,7 +67,6 @@ description: Insurance Updates
 - US Aims to Set Guardrails for Autonomous Vehicle Behavior ([2 days ago](https://www.insurancejournal.com/news/national/2026/07/17/877969.htm))
 - White House Unveils AI Clearinghouse for Cybersecurity Risks ([2 days ago](https://www.insurancejournal.com/news/national/2026/07/17/877965.htm))
 - Americans Are Angry About Data Centers and Politicians Are Feeling the Pressure ([2 days ago](https://www.insurancejournal.com/news/national/2026/07/17/877959.htm))
-- SlashData and DNI tie up to Digitise UAE Motor Insurance via Wtheeq ([2 days ago](https://thefintechtimes.com/slashdata-and-dni-tie-up-to-digitise-uae-motor-insurance-via-wtheeq/))
 - New York Approves 22% Workers’ Compensation Cost Reduction ([2 days ago](https://www.insurancejournal.com/news/east/2026/07/17/877978.htm))
 - Penny Black’s Social Diary: Thomas Carroll’s cricketing; Hardy’s Hammers ([2 days ago](https://www.postonline.co.uk/broker/7960487/penny-blacks-social-diary-thomas-carrolls-cricketing-hardys-hammers))
 - Three Lions on a shirt and insurance kept Jules Rimet gleaming ([2 days ago](https://www.postonline.co.uk/commercial/7960778/three-lions-on-a-shirt-and-insurance-kept-jules-rimet-gleaming))
@@ -82,7 +81,7 @@ description: Insurance Updates
 - How the rise of AI is forcing a build-or-buy rethink ([2 days ago](https://www.dig-in.com/opinion/how-the-rise-of-ai-is-forcing-a-build-or-buy-rethink))
 - Marsh UK warns firms against ‘normalisation of risk’ ([2 days ago](https://www.postonline.co.uk/commercial/7960782/marsh-uk-warns-firms-against-normalisation-of-risk))
 - California rivals have different plans to remake home insurance ([2 days ago](https://www.dig-in.com/articles/california-rivals-have-different-plans-to-remake-home-insurance))
-- Why AI changes the rules of corporate liability ([2 days ago](https://www.dig-in.com/opinion/why-ai-changes-the-rules-of-corporate-liability))
+- How insurance data is evolving from raw reports to embeddings ([2 days ago](https://www.dig-in.com/opinion/how-insurance-data-is-evolving-from-raw-reports-to-embeddings))
 - The Hanover names Richard Lavey CEO-elect as Jack Roche announces retirement ([2 days ago](https://www.insurtechinsights.com/the-hanover-names-richard-lavey-ceo-elect-as-jack-roche-announces-retirement/))
 - Experience within London Market claims teams drops ([2 days ago](https://www.postonline.co.uk/news/7960780/experience-within-london-market-claims-teams-drops))
 - Aviation claims costs up across every category as MRO labour rates double pre-pandemic pace ([2 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aviation-claims-costs-up-across-every-category-as-mro-labour-rates-double-prepandemic-pace-582608.aspx))
