@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Update now: 7-Zip fixes RCE flaw exploitable with malicious archives ([4 hours ago](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/))
-- WordPress Core "wp2shell" RCE flaws get public exploits, patch now ([6 hours ago](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/))
-- Microsoft warns of surge in ACR Stealer attacks on customers ([9 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/))
-- The Future of Age Verification: Your Face Never Leaves Your Device ([11 hours ago](https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/))
+- Update now: 7-Zip fixes RCE flaw exploitable with malicious archives ([5 hours ago](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/))
+- WordPress Core "wp2shell" RCE flaws get public exploits, patch now ([8 hours ago](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/))
+- Microsoft warns of surge in ACR Stealer attacks on customers ([11 hours ago](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/))
+- The Future of Age Verification: Your Face Never Leaves Your Device ([12 hours ago](https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/))
 - Google’s Gemini lets strangers send messages from your locked Android phone ([1 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone))
 - New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code ([1 days ago](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html))
 - Abbott probes two cyber incidents amid extortion claims ([1 days ago](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/))
@@ -85,7 +85,7 @@ description: SecOps News
 - LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised ([3 days ago](https://www.theregister.com/security/2026/07/15/microsofts-serial-tormentor-drops-legacyhive-0-day/5271723))
 - Fluke - 821,100 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/Fluke))
 - Goose Creek - 6,574,121 breached accounts ([3 days ago](https://haveibeenpwned.com/Breach/GooseCreek))
-- Weekly Update 512: IoT Lockout Fail ([3 days ago](https://www.troyhunt.com/weekly-update-512/))
+- Weekly Update 512: IoT Lockout Fail ([4 days ago](https://www.troyhunt.com/weekly-update-512/))
 - Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs ([4 days ago](https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434))
 - Microsoft Patches a Record 570 Security Flaws ([4 days ago](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/))
 - Incident with Webhooks ([4 days ago](https://www.githubstatus.com/incidents/ydpk76bj34z8))
