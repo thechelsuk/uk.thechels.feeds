@@ -8,9 +8,11 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Federal Appeals Court Rules New Jersey’s Assault Weapons Ban Is Unconstitutional ([6 hours ago](https://www.insurancejournal.com/news/east/2026/07/19/878163.htm))
-- Travel insurance premiums to Turkey jump 46% – Quotezone ([8 hours ago](https://www.insurancebusinessmag.com/uk/news/travel/travel-insurance-premiums-to-turkey-jump-46--quotezone-582852.aspx))
-- FCA orders Anthony Jones broker to halt all regulated activity ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-orders-anthony-jones-broker-to-halt-all-regulated-activity-582851.aspx))
+- Federal Appeals Court Rules New Jersey’s Assault Weapons Ban Is Unconstitutional ([8 hours ago](https://www.insurancejournal.com/news/east/2026/07/19/878163.htm))
+- Legal expenses cover in the spotlight as UK neighbour tree disputes hit 56% ([9 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/legal-expenses-cover-in-the-spotlight-as-uk-neighbour-tree-disputes-hit-56-582854.aspx))
+- Third heatwave of 2026 renews subsidence and wildfire risk warnings for insurers ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/environmental/third-heatwave-of-2026-renews-subsidence-and-wildfire-risk-warnings-for-insurers-582853.aspx))
+- Travel insurance premiums to Turkey jump 46% – Quotezone ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/travel/travel-insurance-premiums-to-turkey-jump-46--quotezone-582852.aspx))
+- FCA orders Anthony Jones broker to halt all regulated activity ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-orders-anthony-jones-broker-to-halt-all-regulated-activity-582851.aspx))
 - Iran Renews Attacks on Gulf States After Another Night of US strikes ([1 days ago](https://www.insurancejournal.com/news/international/2026/07/18/878126.htm))
 - Scientists say this year's El Niño could break records, and the models may not be keeping up ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/scientists-say-this-years-el-nino-could-break-records-and-the-models-may-not-be-keeping-up-582842.aspx))
 - Travelers: AI improves claims, underwriting efficiency in Q2 ([2 days ago](https://www.dig-in.com/news/travelers-ai-improves-claims-underwriting-efficiency-in-q2))
@@ -100,8 +102,6 @@ description: Insurance Updates
 - Captives consultation ‘a strong start’ by regulators ([3 days ago](https://www.postonline.co.uk/regulation/7960776/captives-consultation-a-strong-start-by-regulators))
 - Throwback Thursday: Rate rise hope for motor insurers ([3 days ago](https://www.postonline.co.uk/personal/7959606/throwback-thursday-rate-rise-hope-for-motor-insurers))
 - FCA scrutiny of claims market comes as insurers push back on cost of CMC referrals ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/fca-scrutiny-of-claims-market-comes-as-insurers-push-back-on-cost-of-cmc-referrals-582564.aspx))
-- CFC appoints former Hiscox exec as chief information officer ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/cfc-appoints-former-hiscox-exec-as-chief-information-officer-582563.aspx))
-- ACORD Solutions Group refreshes board ([4 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acord-solutions-group-refreshes-board-582562.aspx))
 - MSIG Europe selects Clearwater Analytics to modernize investment operations ([4 days ago](https://www.insurtechinsights.com/msig-europe-selects-clearwater-analytics-to-modernize-investment-operations/))
 - Aggregator bosses plead for access to standardised claims data ([4 days ago](https://www.postonline.co.uk/news/7960773/aggregator-bosses-plead-for-access-to-standardised-claims-data))
 - Coalition expands into enterprise cyber insurance with Allianz partnership ([4 days ago](https://www.insurtechinsights.com/coalition-expands-into-enterprise-cyber-insurance-with-allianz-partnership/))
