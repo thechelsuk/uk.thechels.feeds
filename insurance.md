@@ -82,7 +82,7 @@ description: Insurance Updates
 - How the rise of AI is forcing a build-or-buy rethink ([3 days ago](https://www.dig-in.com/opinion/how-the-rise-of-ai-is-forcing-a-build-or-buy-rethink))
 - Marsh UK warns firms against ‘normalisation of risk’ ([3 days ago](https://www.postonline.co.uk/commercial/7960782/marsh-uk-warns-firms-against-normalisation-of-risk))
 - California rivals have different plans to remake home insurance ([3 days ago](https://www.dig-in.com/articles/california-rivals-have-different-plans-to-remake-home-insurance))
-- Why AI changes the rules of corporate liability ([3 days ago](https://www.dig-in.com/opinion/why-ai-changes-the-rules-of-corporate-liability))
+- Why insurers' AI ambitions keep outpacing execution ([3 days ago](https://www.dig-in.com/news/why-insurers-ai-ambitions-keep-outpacing-execution))
 - The Hanover names Richard Lavey CEO-elect as Jack Roche announces retirement ([3 days ago](https://www.insurtechinsights.com/the-hanover-names-richard-lavey-ceo-elect-as-jack-roche-announces-retirement/))
 - Experience within London Market claims teams drops ([3 days ago](https://www.postonline.co.uk/news/7960780/experience-within-london-market-claims-teams-drops))
 - Aviation claims costs up across every category as MRO labour rates double pre-pandemic pace ([3 days ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/aviation-claims-costs-up-across-every-category-as-mro-labour-rates-double-prepandemic-pace-582608.aspx))
