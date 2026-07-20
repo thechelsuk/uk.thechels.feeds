@@ -10,8 +10,8 @@ description: DotNet Updates
 <!-- news_marker starts -->
 - TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([1 days ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([3 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
-- Rider 2026.2 Release Candidate Is Out! ([4 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([4 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- Rider 2026.2 Release Candidate Is Out! ([5 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([5 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
 - JetBrains GameDev Days 2026 – Call for Speakers ([5 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([5 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([5 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
