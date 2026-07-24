@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([1 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
-- Rider 2026.2: IDE Intelligence for AI Agents, Faster Performance, and Spectacular Game Dev Updates ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/rider-2026-2-release/))
-- ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
+- ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([2 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
+- Rider 2026.2: IDE Intelligence for AI Agents, Faster Performance, and Spectacular Game Dev Updates ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/rider-2026-2-release/))
+- ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
 - TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([5 days ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([7 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
 - Rider 2026.2 Release Candidate Is Out! ([9 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
@@ -36,6 +36,6 @@ description: DotNet Updates
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([24 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([26 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 - dotNetDave Rocks .NET Day Switzerland 2026 ([27 days ago](https://dotnettips.com/2026/06/26/dotnetdave-rocks-net-day-switzerland-2026/))
-- Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([28 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
+- Your AI Agent Keeps Missing The Real Bottleneck.  JetBrains Rider Can Fix It Now. ([29 days ago](https://blog.jetbrains.com/dotnet/2026/06/25/performance-profiling-agent-skill-in-rider/))
 
 <!-- news_marker ends -->
