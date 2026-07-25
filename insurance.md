@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([12 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
-- How AI is slashing underwriting time for The Hartford ([23 hours ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
+- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([13 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
+- How AI is slashing underwriting time for The Hartford ([1 days ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
 - New Exhibition Planned For Insurance Museum London ([1 days ago](https://insurance-edge.net/2026/07/24/new-exhibition-planned-for-insurance-museum-london/))
 - Texas Division of Workers’ Compensation Announces Staff Changes ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/24/878993.htm))
 - People Moves: Shepherd Insurance Names Kleymeyer as President of Employee Benefits ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/24/878990.htm))
@@ -74,7 +74,7 @@ description: Insurance Updates
 - Allianz UK expands battery storage underwriting as brokers face growing demand ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/allianz-uk-expands-battery-storage-underwriting-as-brokers-face-growing-demand-583564.aspx))
 - Acrisure UK appoints Lou Brown to head new risk management division ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/acrisure-uk-appoints-lou-brown-to-head-new-risk-management-division-583563.aspx))
 - AXA warns AI is no substitute for care as UK mental health hits crisis point ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/axa-warns-ai-is-no-substitute-for-care-as-uk-mental-health-hits-crisis-point-583562.aspx))
-- New Lloyd's clause could invalidate tankers' insurance ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-lloyds-clause-could-invalidate-tankers-insurance-583539.aspx))
+- New Lloyd's clause could invalidate tankers' insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/new-lloyds-clause-could-invalidate-tankers-insurance-583539.aspx))
 - Why insurers can't separate disaster prep from business continuity ([2 days ago](https://www.dig-in.com/opinion/why-disaster-preparedness-should-relate-to-operational-disruption))
 - Why AI spend is increasing but full integration lags: Federato ([2 days ago](https://www.dig-in.com/news/why-ai-spend-is-increasing-but-full-integration-lags-federato))
 - Marsh's numbers show what a soft market looks like from the broker's side ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/marshs-numbers-show-what-a-soft-market-looks-like-from-the-brokers-side-583468.aspx))
