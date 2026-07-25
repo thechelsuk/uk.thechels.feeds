@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([11 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
-- How AI is slashing underwriting time for The Hartford ([22 hours ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
+- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([12 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
+- How AI is slashing underwriting time for The Hartford ([23 hours ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
 - New Exhibition Planned For Insurance Museum London ([1 days ago](https://insurance-edge.net/2026/07/24/new-exhibition-planned-for-insurance-museum-london/))
 - Texas Division of Workers’ Compensation Announces Staff Changes ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/24/878993.htm))
 - People Moves: Shepherd Insurance Names Kleymeyer as President of Employee Benefits ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/24/878990.htm))
