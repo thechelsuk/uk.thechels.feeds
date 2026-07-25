@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([9 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
-- How AI is slashing underwriting time for The Hartford ([20 hours ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
+- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([10 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
+- How AI is slashing underwriting time for The Hartford ([21 hours ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
 - New Exhibition Planned For Insurance Museum London ([1 days ago](https://insurance-edge.net/2026/07/24/new-exhibition-planned-for-insurance-museum-london/))
 - Texas Division of Workers’ Compensation Announces Staff Changes ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/24/878993.htm))
 - People Moves: Shepherd Insurance Names Kleymeyer as President of Employee Benefits ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/24/878990.htm))
@@ -110,7 +110,7 @@ description: Insurance Updates
 - Specialist repair shortages reshape complex claims ([3 days ago](https://www.postonline.co.uk/claims/7960735/specialist-repair-shortages-reshape-complex-claims))
 - Why competing on price is a dead end for insurers ([3 days ago](https://www.postonline.co.uk/personal/7960364/why-competing-on-price-is-a-dead-end-for-insurers))
 - Time:To – Covéa’s Hector on making data your competitive advantage ([3 days ago](https://www.postonline.co.uk/commercial/7960530/timeto-coveas-hector-on-making-data-your-competitive-advantage))
-- Blue Marble and MAPFRE partner to expand parametric climate insurance ([3 days ago](https://www.insurtechinsights.com/blue-marble-and-mapfre-partner-to-expand-parametric-climate-insurance/))
+- Blue Marble and MAPFRE partner to expand parametric climate insurance ([4 days ago](https://www.insurtechinsights.com/blue-marble-and-mapfre-partner-to-expand-parametric-climate-insurance/))
 - American Growth Insurance launches AI-enabled brokerage platform with private equity backing ([4 days ago](https://www.insurtechinsights.com/american-growth-insurance-launches-ai-enabled-brokerage-platform-with-private-equity-backing/))
 - Liberty Mutual Re appoints Tom Spurgeon as Global Head of Cyber Reinsurance ([4 days ago](https://www.insurtechinsights.com/liberty-mutual-re-appoints-tom-spurgeon-as-global-head-of-cyber-reinsurance/))
 - Simply Business partners with Elevate Specialty to expand cyber insurance offering ([4 days ago](https://www.insurtechinsights.com/simply-business-partners-with-elevate-specialty-to-expand-cyber-insurance-offering/))
@@ -121,7 +121,7 @@ description: Insurance Updates
 - The growing role of workplace health support in strengthening protection outcomes ([4 days ago](https://ifamagazine.com/the-growing-role-of-workplace-health-support/))
 - PRA hits HDI Global SE with £4m inaccurate reporting fine ([4 days ago](https://www.postonline.co.uk/commercial/7960805/pra-hits-hdi-global-se-with-ps4m-inaccurate-reporting-fine))
 - Utica National appoints Abel Travis as Chief Operating Officer ([4 days ago](https://www.insurtechinsights.com/utica-national-appoints-abel-travis-as-chief-operating-officer/))
-- Generali launches €300 million investment programme to support European SMEs ([4 days ago](https://www.insurtechinsights.com/generali-launches-e300-million-investment-programme-to-support-european-smes/))
+- Generali launches €300 million investment programme to support European SMEs ([5 days ago](https://www.insurtechinsights.com/generali-launches-e300-million-investment-programme-to-support-european-smes/))
 - Prudential Singapore launches indexed universal life plan for legacy planning ([5 days ago](https://www.insurtechinsights.com/prudential-singapore-launches-indexed-universal-life-plan-for-legacy-planning/))
 - Corgi’s $2.6 Billion Valuation Draws Attention After Rapid Funding Step-Up ([5 days ago](https://www.insurtechinsights.com/corgis-2-6-billion-valuation-draws-attention-after-rapid-funding-step-up/))
 - Aon expands Data Center Lifecycle Insurance Program to $5 billion ([5 days ago](https://www.insurtechinsights.com/aon-expands-data-center-lifecycle-insurance-program-to-5-billion/))
