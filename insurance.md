@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([21 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
+- Timely Advice on Roof Racks, Tentboxes & Bikes: They Can Void Your Insurance ([22 hours ago](https://insurance-edge.net/2026/07/25/timely-advice-on-roof-racks-tentboxes-bikes-they-can-void-your-insurance/))
 - How AI is slashing underwriting time for The Hartford ([1 days ago](https://www.dig-in.com/news/how-ai-is-slashing-underwriting-time-for-the-hartford))
 - New Exhibition Planned For Insurance Museum London ([1 days ago](https://insurance-edge.net/2026/07/24/new-exhibition-planned-for-insurance-museum-london/))
 - Texas Division of Workers’ Compensation Announces Staff Changes ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/07/24/878993.htm))
@@ -59,7 +59,7 @@ description: Insurance Updates
 - OpenAI incident spurs fresh AI insurance warnings ([1 days ago](https://www.insurancebusinessmag.com/uk/news/technology/openai-incident-spurs-fresh-ai-insurance-warnings-583603.aspx))
 - Crawford warns super El Niño threatens UK crop yields ([1 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/crawford-warns-super-el-nino-threatens-uk-crop-yields-583602.aspx))
 - Insurtech providers recognized in 2026 Insurance Business global report ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/insurtech-providers-recognized-in-2026-insurance-business-global-report-583491.aspx))
-- Top Insurtech Companies | Global 5-Star Technology and Software Providers ([1 days ago](https://www.insurancebusinessmag.com/uk/best-insurance/top-insurtech-companies--global-5star-technology-and-software-providers-583186.aspx))
+- Top Insurtech Companies | Global 5-Star Technology and Software Providers ([2 days ago](https://www.insurancebusinessmag.com/uk/best-insurance/top-insurtech-companies--global-5star-technology-and-software-providers-583186.aspx))
 - Liberty Mutual Introduces Its Newest Brand Character: Liberty Biberty ([2 days ago](https://www.insurancejournal.com/news/national/2026/07/24/878751.htm))
 - Can Captive’s Hands-On Vetting of Bars Provide Answer to SC Liquor Liability Crisis? ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/07/24/878876.htm))
 - Florida Teen Suing Meta Over Mental Health Harm Drops Claims Days Before Trial ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/07/24/878843.htm))
