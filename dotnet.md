@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Analyze MSBuild Binary Logs with Copilot in VS Code ([3 hours ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
+- Analyze MSBuild Binary Logs with Copilot in VS Code ([4 hours ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([1 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
 - ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([5 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
 - Rider 2026.2: IDE Intelligence for AI Agents, Faster Performance, and Spectacular Game Dev Updates ([5 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/rider-2026-2-release/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([27 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([27 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
-- SkiaSharp 4.0 is here: announcing the first stable release ([27 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
+- SkiaSharp 4.0 is here: announcing the first stable release ([28 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([28 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 - IO Performance: Reuse HttpClient to Avoid Connection Overhead ([29 days ago](https://dotnettips.com/2026/06/28/io-performance-reuse-httpclient-to-avoid-connection-overhead/))
 
