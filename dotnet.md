@@ -35,7 +35,7 @@ description: DotNet Updates
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([28 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([28 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
-- SkiaSharp 4.0 is here: announcing the first stable release ([28 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
+- SkiaSharp 4.0 is here: announcing the first stable release ([29 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 - Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([29 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 
 <!-- news_marker ends -->
