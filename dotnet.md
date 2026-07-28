@@ -8,6 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Announcing v2.0 of the official MCP C# SDK ([18 minutes ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([1 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([2 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
 - ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([6 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
@@ -34,8 +35,7 @@ description: DotNet Updates
 - Coding Faster with dotNetTips.com Spargine 10: July 2026 Release ([27 days ago](https://dotnettips.com/2026/07/01/coding-faster-with-dotnettips-com-spargine-10-july-2026-release/))
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([28 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([28 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
-- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([28 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
+- .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
 - SkiaSharp 4.0 is here: announcing the first stable release ([29 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
-- Packaging and Package Identity for .NET apps with WinApp CLI on Windows ([29 days ago](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/))
 
 <!-- news_marker ends -->
