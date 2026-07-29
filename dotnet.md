@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([10 hours ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
-- UX Chronicles: Buffering the User Experience ([14 hours ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
-- Announcing v2.0 of the official MCP C# SDK ([22 hours ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([11 hours ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- UX Chronicles: Buffering the User Experience ([15 hours ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
+- Announcing v2.0 of the official MCP C# SDK ([23 hours ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([2 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([3 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
 - ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([7 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
@@ -38,6 +38,5 @@ description: DotNet Updates
 - MCP Beyond the Chat Window: Build Diagnostics in CI ([29 days ago](https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/))
 - Closed class hierarchies: Exploring the .NET 11 preview - Part 4 ([29 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/))
 - .NET 8 and .NET 9 will reach End of Support on November 10, 2026 ([29 days ago](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/))
-- SkiaSharp 4.0 is here: announcing the first stable release ([29 days ago](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/))
 
 <!-- news_marker ends -->
