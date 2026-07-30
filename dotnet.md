@@ -23,7 +23,7 @@ description: DotNet Updates
 - JetBrains GameDev Days 2026 – Call for Speakers ([15 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([15 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
-- .NET 11 Preview 6 is now available! ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
+- .NET 11 Preview 6 is now available! ([16 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging-2/))
