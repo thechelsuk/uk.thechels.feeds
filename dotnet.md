@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- From generated code to trusted code with a unit-test agent ([21 hours ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
+- From generated code to trusted code with a unit-test agent ([22 hours ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([3 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([3 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
@@ -20,8 +20,8 @@ description: DotNet Updates
 - ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([9 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
 - TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([13 days ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([15 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
-- Rider 2026.2 Release Candidate Is Out! ([16 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([16 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- Rider 2026.2 Release Candidate Is Out! ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
 - JetBrains GameDev Days 2026 – Call for Speakers ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([17 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([17 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
@@ -29,7 +29,7 @@ description: DotNet Updates
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([19 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([19 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([19 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging-2/))
-- Optimizing I/O Performance in .NET ([19 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
+- Optimizing I/O Performance in .NET ([20 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([20 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([22 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([22 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
