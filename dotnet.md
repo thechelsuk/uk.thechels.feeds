@@ -8,9 +8,9 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- From generated code to trusted code with a unit-test agent ([18 hours ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
+- From generated code to trusted code with a unit-test agent ([19 hours ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([1 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([2 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([3 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([3 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 - Announcing v2.0 of the official MCP C# SDK ([3 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([4 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
@@ -33,7 +33,7 @@ description: DotNet Updates
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([20 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([21 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([22 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
-- Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([24 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
+- Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([25 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
 - Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([25 days ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
 - The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs ([27 days ago](https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/))
 
