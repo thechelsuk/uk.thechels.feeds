@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Previsico Expands Into Africa ([9 hours ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
-- London property values fall as global capital flows spread to other high-growth markets ([9 hours ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
+- Previsico Expands Into Africa ([10 hours ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
+- London property values fall as global capital flows spread to other high-growth markets ([10 hours ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
 - Trump Blames Minnesota Cyberattack on Governor, Not Iran ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
 - Brit Re drives group premium growth in H1’26 as third-party reinsurance platform expands ([1 days ago](https://www.reinsurancene.ws/brit-re-drives-group-premium-growth-in-h126-as-third-party-reinsurance-platform-expands/))
 - Edison says equipment likely associated with 2025 LA fire ([1 days ago](https://www.dig-in.com/articles/edison-says-equipment-likely-associated-with-2025-la-fire))
@@ -107,7 +107,7 @@ description: Insurance Updates
 - Insurance opportunity in local government transformation ([2 days ago](https://www.postonline.co.uk/commercial/7960836/insurance-opportunity-in-local-government-transformation))
 - Throwback Thursday: Adjusters told to stop gossiping ([2 days ago](https://www.postonline.co.uk/claims/7959608/throwback-thursday-adjusters-told-to-stop-gossiping))
 - Q&A: Theo Duchen, Acturis ([2 days ago](https://www.postonline.co.uk/technology/7960562/qa-theo-duchen-acturis))
-- Florida's fix for insurance crisis puts more risk on homeowners ([2 days ago](https://www.dig-in.com/articles/floridas-fix-for-insurance-crisis-puts-more-risk-on-homeowners))
+- Florida's fix for insurance crisis puts more risk on homeowners ([3 days ago](https://www.dig-in.com/articles/floridas-fix-for-insurance-crisis-puts-more-risk-on-homeowners))
 - Verisk acquires McKenzie Intelligence Services to strengthen catastrophe analytics ([3 days ago](https://www.insurtechinsights.com/verisk-acquires-mckenzie-intelligence-services-to-strengthen-catastrophe-analytics/))
 - Soter Insure secures Series B funding to expand digital asset insurance platform ([3 days ago](https://www.insurtechinsights.com/soter-insure-secures-series-b-funding-to-expand-digital-asset-insurance-platform/))
 - Unstable economy biggest risk facing SMEs ([3 days ago](https://www.postonline.co.uk/news/7960863/unstable-economy-biggest-risk-facing-smes))
