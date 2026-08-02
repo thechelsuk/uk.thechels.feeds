@@ -8,10 +8,10 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Bupa Teams Up With YuLife on Urban Regen Projects ([7 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
+- Bupa Teams Up With YuLife on Urban Regen Projects ([9 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
 - Previsico Expands Into Africa ([1 days ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
 - London property values fall as global capital flows spread to other high-growth markets ([1 days ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
-- Trump Blames Minnesota Cyberattack on Governor, Not Iran ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
+- Trump Blames Minnesota Cyberattack on Governor, Not Iran ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
 - Brit Re drives group premium growth in H1’26 as third-party reinsurance platform expands ([2 days ago](https://www.reinsurancene.ws/brit-re-drives-group-premium-growth-in-h126-as-third-party-reinsurance-platform-expands/))
 - Edison says equipment likely associated with 2025 LA fire ([2 days ago](https://www.dig-in.com/articles/edison-says-equipment-likely-associated-with-2025-la-fire))
 - Florida Woman Sentenced in $6 Million Force-Placed Insurance Scheme ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/07/31/879857.htm))
@@ -77,7 +77,7 @@ description: Insurance Updates
 - MISSION expands into Ireland with new property MGA ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mission-expands-into-ireland-with-new-property-mga-584421.aspx))
 - IUA launches Cyber Claims Committee as UK cyber threat escalates ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/iua-launches-cyber-claims-committee-as-uk-cyber-threat-escalates-584420.aspx))
 - Michigan Restaurant Chain Owes More Than $500K in Back Wages ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/07/30/879768.htm))
-- Give insurance leaders results, not pilots: Mea CEO Martin Henley ([2 days ago](https://www.dig-in.com/news/give-insurance-leaders-results-not-pilots-mea-ceo-martin-henley))
+- Give insurance leaders results, not pilots: Mea CEO Martin Henley ([3 days ago](https://www.dig-in.com/news/give-insurance-leaders-results-not-pilots-mea-ceo-martin-henley))
 - Analog Devices Assessing Latest Cyber Breach Claim From Hackers ([3 days ago](https://www.insurancejournal.com/news/east/2026/07/30/879649.htm))
 - Insurers are 'actively evaluating' new catastrophe risks as Europe burns ([3 days ago](https://www.dig-in.com/articles/insurers-are-actively-evaluating-new-catastrophe-risks-as-europe-burns))
 - VitalityLife adopts Swiss Re’s PromiseXP technology to enhance life insurance claims process ([3 days ago](https://www.insurtechinsights.com/vitalitylife-adopts-swiss-res-promisexp-technology-to-enhance-life-insurance-claims-process/))
