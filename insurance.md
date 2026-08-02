@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Previsico Expands Into Africa ([13 hours ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
-- London property values fall as global capital flows spread to other high-growth markets ([13 hours ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
+- Previsico Expands Into Africa ([14 hours ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
+- London property values fall as global capital flows spread to other high-growth markets ([14 hours ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
 - Trump Blames Minnesota Cyberattack on Governor, Not Iran ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
 - Brit Re drives group premium growth in H1’26 as third-party reinsurance platform expands ([1 days ago](https://www.reinsurancene.ws/brit-re-drives-group-premium-growth-in-h126-as-third-party-reinsurance-platform-expands/))
 - Edison says equipment likely associated with 2025 LA fire ([1 days ago](https://www.dig-in.com/articles/edison-says-equipment-likely-associated-with-2025-la-fire))
