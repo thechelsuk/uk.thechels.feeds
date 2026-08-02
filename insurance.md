@@ -107,7 +107,7 @@ description: Insurance Updates
 - Insurance opportunity in local government transformation ([3 days ago](https://www.postonline.co.uk/commercial/7960836/insurance-opportunity-in-local-government-transformation))
 - Throwback Thursday: Adjusters told to stop gossiping ([3 days ago](https://www.postonline.co.uk/claims/7959608/throwback-thursday-adjusters-told-to-stop-gossiping))
 - Q&A: Theo Duchen, Acturis ([3 days ago](https://www.postonline.co.uk/technology/7960562/qa-theo-duchen-acturis))
-- Florida's fix for insurance crisis puts more risk on homeowners ([3 days ago](https://www.dig-in.com/articles/floridas-fix-for-insurance-crisis-puts-more-risk-on-homeowners))
+- Florida's fix for insurance crisis puts more risk on homeowners ([4 days ago](https://www.dig-in.com/articles/floridas-fix-for-insurance-crisis-puts-more-risk-on-homeowners))
 - Verisk acquires McKenzie Intelligence Services to strengthen catastrophe analytics ([4 days ago](https://www.insurtechinsights.com/verisk-acquires-mckenzie-intelligence-services-to-strengthen-catastrophe-analytics/))
 - Soter Insure secures Series B funding to expand digital asset insurance platform ([4 days ago](https://www.insurtechinsights.com/soter-insure-secures-series-b-funding-to-expand-digital-asset-insurance-platform/))
 - Unstable economy biggest risk facing SMEs ([4 days ago](https://www.postonline.co.uk/news/7960863/unstable-economy-biggest-risk-facing-smes))
