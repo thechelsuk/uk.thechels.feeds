@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New York’s Heavy Rains Lead to Water Rescues, Grist Mill Destruction ([1 hours ago](https://www.insurancejournal.com/news/east/2026/08/02/879894.htm))
-- Bupa Teams Up With YuLife on Urban Regen Projects ([11 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
+- New York’s Heavy Rains Lead to Water Rescues, Grist Mill Destruction ([2 hours ago](https://www.insurancejournal.com/news/east/2026/08/02/879894.htm))
+- Bupa Teams Up With YuLife on Urban Regen Projects ([12 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
 - Previsico Expands Into Africa ([1 days ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
 - London property values fall as global capital flows spread to other high-growth markets ([1 days ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
 - Trump Blames Minnesota Cyberattack on Governor, Not Iran ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
@@ -77,7 +77,7 @@ description: Insurance Updates
 - Acies MGU launches ports and terminals MGA TEDmar International ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/acies-mgu-launches-ports-and-terminals-mga-tedmar-international-584422.aspx))
 - MISSION expands into Ireland with new property MGA ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/mission-expands-into-ireland-with-new-property-mga-584421.aspx))
 - IUA launches Cyber Claims Committee as UK cyber threat escalates ([2 days ago](https://www.insurancebusinessmag.com/uk/news/cyber/iua-launches-cyber-claims-committee-as-uk-cyber-threat-escalates-584420.aspx))
-- Michigan Restaurant Chain Owes More Than $500K in Back Wages ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/07/30/879768.htm))
+- Michigan Restaurant Chain Owes More Than $500K in Back Wages ([3 days ago](https://www.insurancejournal.com/news/midwest/2026/07/30/879768.htm))
 - Give insurance leaders results, not pilots: Mea CEO Martin Henley ([3 days ago](https://www.dig-in.com/news/give-insurance-leaders-results-not-pilots-mea-ceo-martin-henley))
 - Insurers are 'actively evaluating' new catastrophe risks as Europe burns ([3 days ago](https://www.dig-in.com/articles/insurers-are-actively-evaluating-new-catastrophe-risks-as-europe-burns))
 - VitalityLife adopts Swiss Re’s PromiseXP technology to enhance life insurance claims process ([3 days ago](https://www.insurtechinsights.com/vitalitylife-adopts-swiss-res-promisexp-technology-to-enhance-life-insurance-claims-process/))
