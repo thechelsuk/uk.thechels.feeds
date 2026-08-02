@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([4 hours ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
+- P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([5 hours ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([1 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([2 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([4 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
@@ -23,19 +23,19 @@ description: DotNet Updates
 - Announcing .NET Modernization for Beginners ([16 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
 - Rider 2026.2 Release Candidate Is Out! ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
 - ReSharper 2026.2 Release Candidate Released! ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
-- JetBrains GameDev Days 2026 – Call for Speakers ([17 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
+- JetBrains GameDev Days 2026 – Call for Speakers ([18 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([18 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
 - .NET 11 Preview 6 is now available! ([18 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
-- What’s New in ReSharper 2026.2 for VS Code-compatible editors ([19 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
-- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([19 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
+- What’s New in ReSharper 2026.2 for VS Code-compatible editors ([20 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
+- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([20 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([20 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging-2/))
 - Optimizing I/O Performance in .NET ([20 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([21 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 - dotInsights  -  July 2026 ([22 days ago](https://blog.jetbrains.com/dotnet/2026/07/10/dotinsights-july-2026/))
 - Modernize .NET applications in the GitHub Copilot app ([23 days ago](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/))
 - Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5 ([26 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/))
-- Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
+- Natvis Comes to Linux and macOS: Visualize Your C++ Types Without Writing a Single Data Formatter ([27 days ago](https://blog.jetbrains.com/dotnet/2026/07/06/natvis-comes-to-linux-and-macos-in-rider-2026-2-debugger/))
 - The .NET Host Process: What Runs Before Main() and Why It Sometimes Hangs ([28 days ago](https://dotnettips.com/2026/07/05/the-net-host-process-what-runs-before-main-and-why-it-sometimes-hangs/))
 
 <!-- news_marker ends -->

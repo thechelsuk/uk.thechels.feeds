@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Bupa Teams Up With YuLife on Urban Regen Projects ([8 minutes ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
+- Bupa Teams Up With YuLife on Urban Regen Projects ([1 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
 - Previsico Expands Into Africa ([1 days ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
 - London property values fall as global capital flows spread to other high-growth markets ([1 days ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
 - Trump Blames Minnesota Cyberattack on Governor, Not Iran ([1 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
@@ -37,8 +37,8 @@ description: Insurance Updates
 - Ryan Specialty reports 7.2% revenue growth in Q2’26 ([1 days ago](https://www.reinsurancene.ws/ryan-specialty-reports-7-2-revenue-growth-in-q226/))
 - Former Insurance Agent Sentenced to Jail for Fraud, Again ([1 days ago](https://www.insurancejournal.com/news/east/2026/07/31/879797.htm))
 - Britannia Group Posts Latest Results ([1 days ago](https://insurance-edge.net/2026/07/31/britannia-group-posts-latest-results/))
-- Selective capacity deployment enables Everest to ‘defy the gravity’ of where the market is heading: CEO ([1 days ago](https://www.reinsurancene.ws/selective-capacity-deployment-enables-everest-to-defy-the-gravity-of-where-the-market-is-heading-ceo/))
-- Natwest x Uinsure;  CFC’s AI cover; Sapiens’s CEO ([1 days ago](https://www.postonline.co.uk/news/7960866/natwest-x-uinsure-cfcs-ai-cover-sapienss-ceo))
+- Selective capacity deployment enables Everest to ‘defy the gravity’ of where the market is heading: CEO ([2 days ago](https://www.reinsurancene.ws/selective-capacity-deployment-enables-everest-to-defy-the-gravity-of-where-the-market-is-heading-ceo/))
+- Natwest x Uinsure;  CFC’s AI cover; Sapiens’s CEO ([2 days ago](https://www.postonline.co.uk/news/7960866/natwest-x-uinsure-cfcs-ai-cover-sapienss-ceo))
 - The ‘whole narrative has to change’ on broker value in a soft market ([2 days ago](https://www.postonline.co.uk/technology/7960867/the-whole-narrative-has-to-change-on-broker-value-in-a-soft-market))
 - Gymnastics and boxing top insurers' Commonwealth Games risk list ([2 days ago](https://www.insurancebusinessmag.com/uk/news/professional-liability/gymnastics-and-boxing-top-insurers-commonwealth-games-risk-list-584514.aspx))
 - Construction's most overlooked risks aren't on site - they're in the cloud and the supply chain ([2 days ago](https://www.insurancebusinessmag.com/uk/news/construction-engineering/constructions-most-overlooked-risks-arent-on-site--theyre-in-the-cloud-and-the-supply-chain-584513.aspx))
