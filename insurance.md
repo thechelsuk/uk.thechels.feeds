@@ -8,8 +8,8 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- New York’s Heavy Rains Lead to Water Rescues, Grist Mill Destruction ([3 hours ago](https://www.insurancejournal.com/news/east/2026/08/02/879894.htm))
-- Bupa Teams Up With YuLife on Urban Regen Projects ([13 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
+- New York’s Heavy Rains Lead to Water Rescues, Grist Mill Destruction ([4 hours ago](https://www.insurancejournal.com/news/east/2026/08/02/879894.htm))
+- Bupa Teams Up With YuLife on Urban Regen Projects ([15 hours ago](https://insurance-edge.net/2026/08/02/bupa-teams-up-with-yulife-on-urban-regen-projects/))
 - Previsico Expands Into Africa ([1 days ago](https://insurance-edge.net/2026/08/01/previsico-expands-into-africa/))
 - London property values fall as global capital flows spread to other high-growth markets ([1 days ago](https://ifamagazine.com/london-property-values-fall-as-global-capital/))
 - Trump Blames Minnesota Cyberattack on Governor, Not Iran ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm))
