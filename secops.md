@@ -8,10 +8,10 @@ description: SecOps News
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Weekly Update 515 ([2 hours ago](https://www.troyhunt.com/weekly-update-515/))
-- OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems ([4 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/))
-- COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft ([5 hours ago](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/))
-- Google Chrome may soon block New Tab hijacker extensions by default ([12 hours ago](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/))
+- Weekly Update 515 ([4 hours ago](https://www.troyhunt.com/weekly-update-515/))
+- OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems ([5 hours ago](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/))
+- COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft ([7 hours ago](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/))
+- Google Chrome may soon block New Tab hijacker extensions by default ([13 hours ago](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/))
 - Incident with Copilot AI Model Providers ([1 days ago](https://www.githubstatus.com/incidents/sj1tzyrx599x))
 - Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes ([1 days ago](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html))
 - Rails patches critical Active Storage flaw with RCE potential ([1 days ago](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/))
@@ -95,7 +95,7 @@ description: SecOps News
 - PureLogs, PureRAT and misleading zgRAT ([6 days ago](https://www.netresec.com/?page=Blog&month=2026-07&post=PureLogs-PureRAT-and-misleading-zgRAT))
 - Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update ([6 days ago](https://www.theregister.com/patches/2026/07/27/microsoft-defender-for-endpoint-leaves-some-linux-boxes-defenseless-after-update/5278914))
 - Google goes it alone with a new cybercrime crew taxonomy ([6 days ago](https://www.theregister.com/security/2026/07/27/google-goes-it-alone-with-a-new-cybercrime-crew-taxonomy/5278749))
-- Incident with GraphQL API Requests ([6 days ago](https://www.githubstatus.com/incidents/fmmsrcg5x638))
+- Incident with GraphQL API Requests ([7 days ago](https://www.githubstatus.com/incidents/fmmsrcg5x638))
 - Weekly Update 514: This Week in Data Breaches ([7 days ago](https://www.troyhunt.com/weekly-update-514/))
 - Actions run failures and delays ([8 days ago](https://www.githubstatus.com/incidents/pz7g535gbs6p))
 - Several GPT models degraded ([8 days ago](https://www.githubstatus.com/incidents/vv9vvksmj4s9))
