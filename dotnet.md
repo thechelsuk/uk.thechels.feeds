@@ -9,7 +9,7 @@ description: DotNet Updates
 
 <!-- news_marker starts -->
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([1 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
-- From generated code to trusted code with a unit-test agent ([2 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
+- From generated code to trusted code with a unit-test agent ([3 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([3 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([5 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([5 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
