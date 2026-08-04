@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- dotInsights  -  August 2026 ([3 hours ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
-- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([10 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
+- dotInsights  -  August 2026 ([4 hours ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
+- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([11 hours ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([1 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([2 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([4 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
