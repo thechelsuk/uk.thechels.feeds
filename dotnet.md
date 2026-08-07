@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Test reporting in Microsoft.Testing.Platform: from red build to root cause ([5 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
+- Test reporting in Microsoft.Testing.Platform: from red build to root cause ([8 hours ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([1 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([2 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([2 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
@@ -35,7 +35,7 @@ description: DotNet Updates
 - .NET 11 Preview 6 is now available! ([23 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([24 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([24 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
-- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([24 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging-2/))
+- Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([25 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging-2/))
 - Optimizing I/O Performance in .NET ([25 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([25 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 
