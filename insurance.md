@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([9 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
+- Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([10 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
 - Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund ([1 days ago](https://www.insurancejournal.com/news/west/2026/08/07/880769.htm))
 - Trump Calls Texas’ Data Center Opposition a “Mistake” ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880761.htm))
 - Texas Bakery Fined $25K for Child Labor and Back Wages Violations ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880758.htm))
@@ -73,7 +73,7 @@ description: Insurance Updates
 - Virginia Moves Toward Regulating Self-Driving Vehicles Amid Safety, Liability Concerns ([1 days ago](https://www.insurancejournal.com/news/east/2026/08/07/880419.htm))
 - Penny Black’s Social Diary: Insurtech UK’s specs-appeal ([1 days ago](https://www.postonline.co.uk/personal/7960709/penny-blacks-social-diary-insurtech-uks-specs-appeal))
 - Has broker Bennetts set a record with seven owners since 2000? ([1 days ago](https://www.postonline.co.uk/broker/7960820/has-broker-bennetts-set-a-record-with-seven-owners-since-2000))
-- The Future of Insurance is About Access ([1 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
+- The Future of Insurance is About Access ([2 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
 - Why Liberty Mutual says AI can't be a side project ([2 days ago](https://www.dig-in.com/news/why-liberty-mutual-says-ai-cant-be-a-side-project))
 - Tenant did not cause owner's £5.26m fire cover gap, court finds ([2 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/tenant-did-not-cause-owners-5-26m-fire-cover-gap-court-finds-585266.aspx))
 - Europe's wildfires were modelled a decade ago - this summer shows the models may have been cautious ([2 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/europes-wildfires-were-modelled-a-decade-ago--this-summer-shows-the-models-may-have-been-cautious-585231.aspx))
