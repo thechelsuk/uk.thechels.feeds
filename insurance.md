@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([12 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
+- Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([13 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
 - Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund ([1 days ago](https://www.insurancejournal.com/news/west/2026/08/07/880769.htm))
 - Trump Calls Texas’ Data Center Opposition a “Mistake” ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880761.htm))
 - Texas Bakery Fined $25K for Child Labor and Back Wages Violations ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880758.htm))
@@ -61,8 +61,8 @@ description: Insurance Updates
 - Canopius grows profit while cutting Bermuda contracts on price ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/canopius-grows-profit-while-cutting-bermuda-contracts-on-price-585304.aspx))
 - 95% of landlords say they understand the rules. 96% are worried they'll still get it wrong ([1 days ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/95-of-landlords-say-they-understand-the-rules--96-are-worried-theyll-still-get-it-wrong-585303.aspx))
 - Arch hands cyber and casualty leadership to one underwriter ([1 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/arch-hands-cyber-and-casualty-leadership-to-one-underwriter-585302.aspx))
-- NOAA Maintains Forecast for Below-Normal Atlantic Hurricane Season ([1 days ago](https://www.insurancejournal.com/news/national/2026/08/07/880635.htm))
-- People Moves: Aon Names Fletcher Head of M&A, Transaction Advisory, North America ([1 days ago](https://www.insurancejournal.com/news/national/2026/08/07/880606.htm))
+- NOAA Maintains Forecast for Below-Normal Atlantic Hurricane Season ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/07/880635.htm))
+- People Moves: Aon Names Fletcher Head of M&A, Transaction Advisory, North America ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/07/880606.htm))
 - Pressured by Tesla, European Regulators Keep ‘Full Self-Driving’ Safety Data Secret ([2 days ago](https://www.insurancejournal.com/news/international/2026/08/07/880541.htm))
 - AI Risks Require Tougher Cyber Defenses, Top US Officials Warn ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/07/880550.htm))
 - Medical Marijuana Card Does Not Bar Firefighter’s Suspension, Florida Court Says ([2 days ago](https://www.insurancejournal.com/news/southeast/2026/08/07/880658.htm))
@@ -95,7 +95,7 @@ description: Insurance Updates
 - It’s meerkats v meatballs as IKEA dabbles in insurance – will it all end in tears? ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-meerkats-v-meatballs-as-ikea-dabbles-in-insurance--will-it-all-end-in-tears-585169.aspx))
 - Commission impossible: The AI and technology making Meshed’s 10% flat fee possible ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/commission-impossible-the-ai-and-technology-making-mesheds-10-flat-fee-possible-585168.aspx))
 - Swiss Re's profits soar - but its pricing tells a different story ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/swiss-res-profits-soar--but-its-pricing-tells-a-different-story-585160.aspx))
-- A Third of UK Drivers Fear Making Motor Insurance Claims ([2 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
+- A Third of UK Drivers Fear Making Motor Insurance Claims ([3 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
 - Markel’s Browning on people data as a business imperative ([3 days ago](https://www.postonline.co.uk/people/7960845/markels-browning-on-people-data-as-a-business-imperative))
 - Throwback Thursday: Entering Europe; Fire damage ([3 days ago](https://www.postonline.co.uk/regulation/7959609/throwback-thursday-entering-europe-fire-damage))
 - Q&A: Richard Pauly, Guidewire ([3 days ago](https://www.postonline.co.uk/technology/7960571/qa-richard-pauly-guidewire))
