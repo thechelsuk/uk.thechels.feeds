@@ -8,7 +8,7 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([7 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
+- Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([9 hours ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
 - Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund ([1 days ago](https://www.insurancejournal.com/news/west/2026/08/07/880769.htm))
 - Trump Calls Texas’ Data Center Opposition a “Mistake” ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880761.htm))
 - Texas Bakery Fined $25K for Child Labor and Back Wages Violations ([1 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880758.htm))
