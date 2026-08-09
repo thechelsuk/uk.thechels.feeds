@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Threads: The Performance Trap Hiding in Your Code ([15 hours ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
+- .NET Threads: The Performance Trap Hiding in Your Code ([16 hours ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([3 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([4 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([5 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
@@ -20,7 +20,7 @@ description: DotNet Updates
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([10 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([11 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([11 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
-- Announcing v2.0 of the official MCP C# SDK ([11 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
+- Announcing v2.0 of the official MCP C# SDK ([12 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([13 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([14 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
 - ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([18 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
