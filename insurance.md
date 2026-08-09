@@ -9,7 +9,7 @@ description: Insurance Updates
 
 <!-- news_marker starts -->
 - Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
-- Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund ([1 days ago](https://www.insurancejournal.com/news/west/2026/08/07/880769.htm))
+- Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund ([2 days ago](https://www.insurancejournal.com/news/west/2026/08/07/880769.htm))
 - Trump Calls Texas’ Data Center Opposition a “Mistake” ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880761.htm))
 - Texas Bakery Fined $25K for Child Labor and Back Wages Violations ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880758.htm))
 - Pritzker Signs Bills Giving Insurance Department Power to Overturn Rate Changes ([2 days ago](https://www.insurancejournal.com/news/midwest/2026/08/07/880751.htm))
@@ -104,9 +104,9 @@ description: Insurance Updates
 - Nearly a quarter of SMEs at risk of folding within a month if they lost a key person | Scottish Widows ([4 days ago](https://ifamagazine.com/nearly-a-quarter-of-smes-at-risk-of-folding-within/))
 - IKEA launches home insurance in the UK through Urban Jungle partnership ([4 days ago](https://www.insurtechinsights.com/ikea-launches-home-insurance-in-the-uk-through-urban-jungle-partnership/))
 - What impact does the state of the NHS have on IP insurers? ([4 days ago](https://ifamagazine.com/what-impact-does-the-state-of-the-nhs/))
+- Why insurers struggle to measure AI's ROI: PwC ([4 days ago](https://www.dig-in.com/news/why-insurers-struggle-to-measure-ais-roi-pwc))
 - Why brokers and insureds need a new pollution liability strategy ([4 days ago](https://www.dig-in.com/opinion/why-brokers-and-insureds-need-a-new-pollution-liability-strategy))
 - As AI threats spread, insurers use the same tech to fight back ([4 days ago](https://www.dig-in.com/news/as-ai-threats-spread-insurers-use-the-same-tech-to-fight-back))
-- Why insurers struggle to measure AI's ROI: PwC ([4 days ago](https://www.dig-in.com/news/why-insurers-struggle-to-measure-ais-roi-pwc))
 - Insurers under fire for using credit scores to set rates ([4 days ago](https://www.dig-in.com/news/insurers-under-fire-for-using-credit-scores-to-set-rates))
 - Diesta integrates Kinexys payee verification into insurance payment platform ([4 days ago](https://www.insurtechinsights.com/diesta-integrates-kinexys-payee-verification-into-insurance-payment-platform/))
 - Ifed warns crash-for-cash fraud is becoming more targeted ([4 days ago](https://www.postonline.co.uk/news/7960886/ifed-warns-crash-for-cash-fraud-is-becoming-more-targeted))
