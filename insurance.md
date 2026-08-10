@@ -73,7 +73,7 @@ description: Insurance Updates
 - Virginia Moves Toward Regulating Self-Driving Vehicles Amid Safety, Liability Concerns ([2 days ago](https://www.insurancejournal.com/news/east/2026/08/07/880419.htm))
 - Penny Black’s Social Diary: Insurtech UK’s specs-appeal ([2 days ago](https://www.postonline.co.uk/personal/7960709/penny-blacks-social-diary-insurtech-uks-specs-appeal))
 - Has broker Bennetts set a record with seven owners since 2000? ([2 days ago](https://www.postonline.co.uk/broker/7960820/has-broker-bennetts-set-a-record-with-seven-owners-since-2000))
-- The Future of Insurance is About Access ([2 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
+- The Future of Insurance is About Access ([3 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
 - Why Liberty Mutual says AI can't be a side project ([3 days ago](https://www.dig-in.com/news/why-liberty-mutual-says-ai-cant-be-a-side-project))
 - Tenant did not cause owner's £5.26m fire cover gap, court finds ([3 days ago](https://www.insurancebusinessmag.com/uk/news/legal-insights/tenant-did-not-cause-owners-5-26m-fire-cover-gap-court-finds-585266.aspx))
 - Europe's wildfires were modelled a decade ago - this summer shows the models may have been cautious ([3 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/europes-wildfires-were-modelled-a-decade-ago--this-summer-shows-the-models-may-have-been-cautious-585231.aspx))
