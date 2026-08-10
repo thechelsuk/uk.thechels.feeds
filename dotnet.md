@@ -28,8 +28,8 @@ description: DotNet Updates
 - ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([18 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
 - TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([22 days ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
-- Rider 2026.2 Release Candidate Is Out! ([25 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([25 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- Rider 2026.2 Release Candidate Is Out! ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
 - JetBrains GameDev Days 2026 – Call for Speakers ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([26 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([26 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
@@ -37,7 +37,7 @@ description: DotNet Updates
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([28 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([28 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([28 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging-2/))
-- Optimizing I/O Performance in .NET ([28 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
+- Optimizing I/O Performance in .NET ([29 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 - HTTP/3 in .NET: Faster, Newer, and Not Always the Best Choice ([29 days ago](https://dotnettips.com/2026/07/12/http-3-in-net-faster-newer-and-not-always-the-best-choice/))
 
 <!-- news_marker ends -->
