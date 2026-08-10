@@ -12,7 +12,7 @@ description: DotNet Updates
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([3 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([4 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([5 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
-- dotInsights  -  August 2026 ([5 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
+- dotInsights  -  August 2026 ([6 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([6 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([6 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([8 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
