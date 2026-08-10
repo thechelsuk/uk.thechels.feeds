@@ -8,8 +8,9 @@ description: Insurance Updates
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Christian sticker row exposes gap in insurer modification handling, brokers warned ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/christian-sticker-row-exposes-gap-in-insurer-modification-handling-brokers-warned-585441.aspx))
-- Allianz Trade slashes cover for Vistry suppliers by up to 70% ([10 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/allianz-trade-slashes-cover-for-vistry-suppliers-by-up-to-70-585440.aspx))
+- Many Group profit jumps 59% as AI cuts acquisition costs ([4 hours ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/many-group-profit-jumps-59-as-ai-cuts-acquisition-costs-585443.aspx))
+- Christian sticker row exposes gap in insurer modification handling, brokers warned ([11 hours ago](https://www.insurancebusinessmag.com/uk/news/auto-motor/christian-sticker-row-exposes-gap-in-insurer-modification-handling-brokers-warned-585441.aspx))
+- Allianz Trade slashes cover for Vistry suppliers by up to 70% ([11 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/allianz-trade-slashes-cover-for-vistry-suppliers-by-up-to-70-585440.aspx))
 - Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall ([1 days ago](https://www.reinsurancene.ws/berkshire-hathaway-pc-reinsurance-boosted-by-tokio-marine-deal-as-property-volumes-fall/))
 - Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund ([2 days ago](https://www.insurancejournal.com/news/west/2026/08/07/880769.htm))
 - Trump Calls Texas’ Data Center Opposition a “Mistake” ([2 days ago](https://www.insurancejournal.com/news/southcentral/2026/08/07/880761.htm))
@@ -94,7 +95,6 @@ description: Insurance Updates
 - Admiral cites soft market as it posts 18% profit drop ([3 days ago](https://www.postonline.co.uk/personal/7960890/admiral-cites-soft-market-as-it-posts-18-profit-drop))
 - Half of employees say health and wellbeing is just a ‘tick-box exercise’ | Vitality ([3 days ago](https://ifamagazine.com/half-of-employees-say-health-and-wellbeing-is/))
 - Underwriting discipline breaks down as markets soften ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/underwriting-discipline-breaks-down-as-markets-soften-585170.aspx))
-- It’s meerkats v meatballs as IKEA dabbles in insurance – will it all end in tears? ([3 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/its-meerkats-v-meatballs-as-ikea-dabbles-in-insurance--will-it-all-end-in-tears-585169.aspx))
 - A Third of UK Drivers Fear Making Motor Insurance Claims ([3 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
 - Markel’s Browning on people data as a business imperative ([3 days ago](https://www.postonline.co.uk/people/7960845/markels-browning-on-people-data-as-a-business-imperative))
 - Throwback Thursday: Entering Europe; Fire damage ([3 days ago](https://www.postonline.co.uk/regulation/7959609/throwback-thursday-entering-europe-fire-damage))
