@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([19 hours ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
+- JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([20 hours ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([2 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([4 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([5 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
@@ -29,14 +29,13 @@ description: DotNet Updates
 - ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([19 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
 - TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([23 days ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([25 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
-- Rider 2026.2 Release Candidate Is Out! ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
-- ReSharper 2026.2 Release Candidate Released! ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
+- Rider 2026.2 Release Candidate Is Out! ([27 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
+- ReSharper 2026.2 Release Candidate Released! ([27 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/resharper-2026-2-release-candidate-released/))
 - JetBrains GameDev Days 2026 – Call for Speakers ([27 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/jetbrains-gamedev-days-2026-call-for-speakers/))
 - .NET and .NET Framework July 2026 servicing releases updates ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/))
 - CoreCLR Progress and the Mono Timeline for .NET MAUI ([27 days ago](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/))
 - .NET 11 Preview 6 is now available! ([27 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/))
 - What’s New in ReSharper 2026.2 for VS Code-compatible editors ([29 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-2026-2/))
 - Debugging for .NET in VS Code and Cursor: The #1 Requested Feature Is Here ([29 days ago](https://blog.jetbrains.com/dotnet/2026/07/13/rs-vsc-debugging/))
-- Optimizing I/O Performance in .NET ([29 days ago](https://dotnettips.com/2026/07/12/optimizing-i-o-performance-in-net/))
 
 <!-- news_marker ends -->
