@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
+- JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([1 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([4 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([5 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
