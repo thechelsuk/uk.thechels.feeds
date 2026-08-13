@@ -19,7 +19,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([8 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([9 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([9 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
-- Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([9 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
+- Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([10 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([11 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([13 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([13 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
