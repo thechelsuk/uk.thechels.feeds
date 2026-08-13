@@ -8,8 +8,8 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Instructions Hygiene – What Frontier Models Still Need You to Say ([6 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
-- Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([17 hours ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
+- Instructions Hygiene – What Frontier Models Still Need You to Say ([7 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
+- Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([18 hours ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
 - .NET 11 Preview 7 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
 - .NET and .NET Framework August 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([2 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
