@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Instructions Hygiene – What Frontier Models Still Need You to Say ([20 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
+- Instructions Hygiene – What Frontier Models Still Need You to Say ([21 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([1 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
 - .NET 11 Preview 7 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
 - .NET and .NET Framework August 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
@@ -28,9 +28,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Announcing v2.0 of the official MCP C# SDK ([15 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([16 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([18 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
-- ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([21 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
-- Rider 2026.2: IDE Intelligence for AI Agents, Faster Performance, and Spectacular Game Dev Updates ([21 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/rider-2026-2-release/))
-- ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([21 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
+- ReSharper C++ 2026.2: C++26 Reflection, ISPC Language Support, And More ([22 days ago](https://blog.jetbrains.com/rscpp/2026/07/22/resharper-cpp-2026-2-cpp-26-reflection-ispc-language-support-and-more/))
+- Rider 2026.2: IDE Intelligence for AI Agents, Faster Performance, and Spectacular Game Dev Updates ([22 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/rider-2026-2-release/))
+- ReSharper 2026.2: AI Agent Freedom in Visual Studio, .NET Debugging for VS Code, and More ([22 days ago](https://blog.jetbrains.com/dotnet/2026/07/22/resharper-2026-2-release/))
 - TCP vs. UDP in .NET: Speed, Reliability, and the Hidden Cost of Performance ([25 days ago](https://dotnettips.com/2026/07/19/tcp-vs-udp-in-net-speed-reliability-and-the-hidden-cost-of-performance/))
 - Announcing .NET Modernization for Beginners ([27 days ago](https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/))
 - Rider 2026.2 Release Candidate Is Out! ([29 days ago](https://blog.jetbrains.com/dotnet/2026/07/15/rider-2026-2-release-candidate-is-out/))
