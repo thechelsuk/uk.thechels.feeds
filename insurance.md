@@ -1,7 +1,7 @@
 ---
 layout: index
-title: Insurance News
-description: Insurance Updates
+title: Latest Insurance News
+description: Latest news from the Insurance industry in one helpful feed
 
 ---
 

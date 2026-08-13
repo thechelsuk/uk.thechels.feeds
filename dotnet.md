@@ -1,7 +1,7 @@
 ---
 layout: index
-title: DotNet News
-description: DotNet Updates
+title: Latest DotNet News
+description: "Latest DotNet news and updates in one handy fed .NET"
 
 ---
 

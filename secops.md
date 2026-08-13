@@ -1,7 +1,7 @@
 ---
 layout: index
-title: SecOps News
-description: SecOps News
+title: Latest SecOps News
+description: "Latest SecOps News in a handy single page"
 
 ---
 

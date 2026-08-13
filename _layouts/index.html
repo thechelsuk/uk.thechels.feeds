@@ -2,11 +2,13 @@
 <html lang="en">
 
     <head>
-        <title>Feeds</title>
+        <title>{{page.title}} - Feeds by thechelsuk</title>
         <meta charset="UTF-8">
+        <meta name="title" content="{{page.title}} -  Feeds by thechelsuk">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Aggregator for useful news.">
+        <meta name="description" content="{{page.description}} - feeds by thechelsuk">
         <meta name="keywords" content="News Feeds for the discerning insurance tech professional">
+        <link rel="canonical" href="{{ canonical_url }}">
         <meta name="robots" content="index, follow">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="format-detection" content="telephone=no">
@@ -26,6 +28,27 @@
         <link href="/assets/favicon.ico" rel="shortcut icon" type="image/x-icon" />
         <link href="/assets/favicon.ico" rel="apple-touch-icon" type="image/x-icon" />
         <link href="/assets/favicon.ico" rel="apple-touch-icon-precomposed" type="image/x-icon" />
+
+        <!-- Google / Search Engine Tags -->
+        <meta itemprop="name" content="{{ page.title }}" />
+        <meta itemprop="description" content="{{ page_description | escape }}" />
+        <meta itemprop="image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}" />
+
+        <!-- OG-->
+        <meta property="og:site_name" content="{{ site.title | escape }}">
+        <meta property="og:title" content="{{ page_title | escape }}">
+        <meta property="og:description" content="{{ page_description | escape }}">
+        <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+        <meta property="og:url" content="{{ self_url }}">
+        <meta property="og:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}">
+
+        <!-- twitter -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="{{page.title}}" />
+        <meta name="twitter:description" content="{{ page_description | escape }}" />
+        <meta name="twitter:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}" />
+
+
     </head>
 
     <body>
@@ -42,7 +65,7 @@
                     </div>
                     <div class="blog-image"></div>
                     <p class="blog-slogan">
-                        // For the discerning insurance tech professional
+                        // Latest news and trends for the discerning insurance tech professional
                     </p>
                     <nav class="blog-menu">
                         {% if page.id %}
