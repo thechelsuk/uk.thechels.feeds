@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Instructions Hygiene – What Frontier Models Still Need You to Say ([15 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
+- Instructions Hygiene – What Frontier Models Still Need You to Say ([16 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([1 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
 - .NET 11 Preview 7 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
 - .NET and .NET Framework August 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
@@ -18,7 +18,7 @@ description: DotNet Updates
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([7 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([8 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([8 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
-- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([8 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
+- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([9 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([9 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([11 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([12 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
