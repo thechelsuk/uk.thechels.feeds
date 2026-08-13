@@ -8,7 +8,7 @@ description: DotNet Updates
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Instructions Hygiene – What Frontier Models Still Need You to Say ([13 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
+- Instructions Hygiene – What Frontier Models Still Need You to Say ([14 hours ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([1 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
 - .NET 11 Preview 7 is now available! ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
 - .NET and .NET Framework August 2026 servicing releases updates ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
