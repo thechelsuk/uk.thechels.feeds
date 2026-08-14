@@ -17,7 +17,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - .NET Threads: The Performance Trap Hiding in Your Code ([5 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([8 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([9 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
-- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([9 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
+- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([10 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([10 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([10 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([11 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
