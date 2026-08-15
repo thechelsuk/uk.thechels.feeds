@@ -9,14 +9,14 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 
 <!-- news_marker starts -->
 - Routing and Failover for Microsoft.Extensions.AI ([1 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
-- Instructions Hygiene – What Frontier Models Still Need You to Say ([2 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
+- Instructions Hygiene – What Frontier Models Still Need You to Say ([3 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([3 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
 - .NET 11 Preview 7 is now available! ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
 - .NET and .NET Framework August 2026 servicing releases updates ([3 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([5 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([6 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
-- Test reporting in Microsoft.Testing.Platform: from red build to root cause ([8 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
-- The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([9 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
+- Test reporting in Microsoft.Testing.Platform: from red build to root cause ([9 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
+- The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([10 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([10 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([11 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([11 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
