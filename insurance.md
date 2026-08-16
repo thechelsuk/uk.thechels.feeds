@@ -131,7 +131,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - Nearly a quarter of SMEs at risk of folding within a month if they lost a key person | Scottish Widows ([11 days ago](https://ifamagazine.com/nearly-a-quarter-of-smes-at-risk-of-folding-within/))
 - What impact does the state of the NHS have on IP insurers? ([11 days ago](https://ifamagazine.com/what-impact-does-the-state-of-the-nhs/))
 - Mental health support remains a year-round priority for employers ([11 days ago](https://ifamagazine.com/mental-health-support-remains/))
-- Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([12 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
+- Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([13 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
 - L&G Launches Annuity Checklist as UK Market Hits £7.4bn ([19 days ago](https://thefintechtimes.com/lg-launches-annuity-checklist-as-uk-market-hits-7-4bn/))
 - Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance ([20 days ago](https://thefintechtimes.com/flock-launches-agentic-ai-assistant-jay-for-uk-fleet-insurance/))
 - SAMP Risk Warns Power Generators Face Under-Insured Heat Risk ([23 days ago](https://thefintechtimes.com/samp-risk-warns-power-generators-face-under-insured-heat-risk/))
