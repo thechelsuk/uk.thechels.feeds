@@ -97,7 +97,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - Throwback Thursday: Broker pay threat & motor premiums hike ([3 days ago](https://www.postonline.co.uk/broker/7959610/throwback-thursday-broker-pay-threat-motor-premiums-hike))
 - Q&A: Helen Broadbent, Konsileo ([3 days ago](https://www.postonline.co.uk/broker/7960603/qa-helen-broadbent-konsileo))
 - Why specialist expertise matters in a commoditised insurance market ([3 days ago](https://www.postonline.co.uk/commercial/7960869/why-specialist-expertise-matters-in-a-commoditised-insurance-market))
-- AI data center boom is 'maxing out' P&C insurers, AIG CEO says ([3 days ago](https://www.dig-in.com/articles/ai-data-center-boom-is-maxing-out-p-c-insurers-aig-ceo-says))
+- AI data center boom is 'maxing out' P&C insurers, AIG CEO says ([4 days ago](https://www.dig-in.com/articles/ai-data-center-boom-is-maxing-out-p-c-insurers-aig-ceo-says))
 - Cytix raises $7M to manage security risks from AI-driven software development ([4 days ago](https://www.insurtechinsights.com/cytix-raises-7m-to-manage-security-risks-from-ai-driven-software-development/))
 - DogPack partners with Healthy Paws to embed pet insurance in platform ([4 days ago](https://www.insurtechinsights.com/dogpack-partners-with-healthy-paws-to-embed-pet-insurance-in-platform/))
 - ACORD appoints John Kellington as CEO ([4 days ago](https://www.insurtechinsights.com/acord-appoints-john-kellington-as-ceo/))
