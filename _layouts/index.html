@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
     <head>
+        <!-- verify -->
+        <meta name="msvalidate.01" content="0792E4237BC516A9033CB784F6F629E1" />
+
         <title>{{page.title}} - Feeds by thechelsuk</title>
         <meta charset="UTF-8">
         <meta name="title" content="{{page.title}} -  Feeds by thechelsuk">
@@ -39,7 +41,7 @@
         <meta property="og:title" content="{{ page.title | escape }}">
         <meta property="og:description" content="{{ page.description | escape }}">
         <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-        <meta property="og:url" content="{{ self_url }}">
+        <meta property="og:url" content="{{ canonical_url }}">
         <meta property="og:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}">
 
         <!-- twitter -->
@@ -48,9 +50,8 @@
         <meta name="twitter:description" content="{{ page_description | escape }}" />
         <meta name="twitter:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}" />
 
-        <!-- verify -->
-        <meta name="msvalidate.01" content="0792E4237BC516A9033CB784F6F629E1" />
     </head>
+
     <body>
         <div id="outer-wrapper">
             <div id="wrapper">
