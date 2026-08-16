@@ -8,7 +8,7 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Octo Insurance Sponsors Celtic FC Women ([13 hours ago](https://insurance-edge.net/2026/08/15/octo-insurance-sponsors-celtic-fc-women/))
+- Octo Insurance Sponsors Celtic FC Women ([14 hours ago](https://insurance-edge.net/2026/08/15/octo-insurance-sponsors-celtic-fc-women/))
 - Amica Donates Over $2m to Charitable Causes ([1 days ago](https://insurance-edge.net/2026/08/14/amica-donates-over-2m-to-charitable-causes/))
 - Mortgage insurers report another strong quarter of profits ([1 days ago](https://www.dig-in.com/news/mortgage-insurers-report-another-strong-quarter-of-profits))
 - Talanx Group Results: New Records Set in H1 2026 ([1 days ago](https://insurance-edge.net/2026/08/14/talanx-group-results-new-records-set-in-h1-2026/))
@@ -85,8 +85,8 @@ description: Latest news from the Insurance industry in one helpful feed
 - NHS waiting lists fall, but headline figures mask wider healthcare pressures ([2 days ago](https://ifamagazine.com/nhs-waiting-lists-fall-but-headline/))
 - Sollers suggests AI-agnosticism is up as firms strive for savings ([2 days ago](https://www.postonline.co.uk/news/7960908/sollers-suggests-ai-agnosticism-is-up-as-firms-strive-for-savings))
 - Sixfold and Sollers partner to accelerate AI underwriting ([2 days ago](https://www.insurtechinsights.com/sixfold-and-sollers-partner-to-accelerate-ai-underwriting/))
-- Where insurers are actually cashing in on AI ([2 days ago](https://www.dig-in.com/news/where-insurers-are-actually-cashing-in-on-ai))
 - 80% of new data centers face heightened catastrophe risk: Allianz ([2 days ago](https://www.dig-in.com/news/80-of-data-centers-face-heightened-catastrophe-risk))
+- Where insurers are actually cashing in on AI ([2 days ago](https://www.dig-in.com/news/where-insurers-are-actually-cashing-in-on-ai))
 - What makes underwriters say 'yes' to a complex risk today ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/what-makes-underwriters-say-yes-to-a-complex-risk-today-585996.aspx))
 - Cause and effect: Luca Piccolo on AI, trust and the long game in insurance ([2 days ago](https://www.insurancebusinessmag.com/uk/news/technology/cause-and-effect-luca-piccolo-on-ai-trust-and-the-long-game-in-insurance-585995.aspx))
 - Insurance Business reveals UK’s 5-Star Construction insurers for 2026 ([2 days ago](https://www.insurancebusinessmag.com/uk/news/construction-engineering/insurance-business-reveals-uks-5star-construction-insurers-for-2026-585993.aspx))
