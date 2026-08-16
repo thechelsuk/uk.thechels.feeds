@@ -8,8 +8,8 @@ description: "Latest SecOps News in a handy single page"
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- New Evooo1Bot Linux botnet turns routers into traffic relay nodes ([13 hours ago](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/))
-- ChainDrop worm crawls into npm supply chain, evades standard defenses ([17 hours ago](https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958))
+- New Evooo1Bot Linux botnet turns routers into traffic relay nodes ([14 hours ago](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/))
+- ChainDrop worm crawls into npm supply chain, evades standard defenses ([18 hours ago](https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958))
 - How Anthropic plans to watermark Claude's AI-generated text ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/))
 - Hackers arrested over €30M bank fraud exploiting service provider flaw ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/))
 - 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack ([1 days ago](https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003))
