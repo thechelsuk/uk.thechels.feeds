@@ -1,6 +1,7 @@
 highlighter: rouge
 encoding: UTF-8
 future: false
+name: "Feeds for the discerning Insurance and Security Engineer"
 sass:
   style: compressed
 permalink: ./:title
