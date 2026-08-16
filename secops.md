@@ -9,7 +9,7 @@ description: "Latest SecOps News in a handy single page"
 
 <!-- news_marker starts -->
 - New Evooo1Bot Linux botnet turns routers into traffic relay nodes ([13 hours ago](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/))
-- ChainDrop worm crawls into npm supply chain, evades standard defenses ([16 hours ago](https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958))
+- ChainDrop worm crawls into npm supply chain, evades standard defenses ([17 hours ago](https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958))
 - How Anthropic plans to watermark Claude's AI-generated text ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/))
 - Hackers arrested over €30M bank fraud exploiting service provider flaw ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/))
 - 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack ([1 days ago](https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003))
@@ -33,7 +33,7 @@ description: "Latest SecOps News in a handy single page"
 - Hackers Exploiting Unpatched GeoServer Zero-Day ([1 days ago](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/))
 - AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions ([1 days ago](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/))
 - Five years after quitting a job, developer’s former boss asked for rapid tech support ([1 days ago](https://www.theregister.com/software/2026/08/14/five-years-after-quitting-a-job-developers-former-boss-asked-for-rapid-tech-support/5287229))
-- New Zealand says China tried using space investments to spy on local affairs ([1 days ago](https://www.theregister.com/security/2026/08/14/new-zealand-says-china-tried-using-space-investments-to-spy-on-local-affairs/5287657))
+- New Zealand says China tried using space investments to spy on local affairs ([2 days ago](https://www.theregister.com/security/2026/08/14/new-zealand-says-china-tried-using-space-investments-to-spy-on-local-affairs/5287657))
 - Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks ([2 days ago](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/))
 - OpenAI ditches Recall-style screenshot surveillance for friendly keylogging ([2 days ago](https://www.theregister.com/ai-and-ml/2026/08/14/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging/5287618))
 - APPLE-SA-08-06-2026-2 macOS Sequoia 15.7.9 ([2 days ago](https://seclists.org/fulldisclosure/2026/Aug/37))
@@ -173,7 +173,7 @@ description: "Latest SecOps News in a handy single page"
 - PureLogs, PureRAT and misleading zgRAT ([19 days ago](https://www.netresec.com/?page=Blog&month=2026-07&post=PureLogs-PureRAT-and-misleading-zgRAT))
 - Microsoft seeks Supreme Court lifeline in pre-owned license battle ([19 days ago](https://www.theregister.com/software/2026/07/27/microsoft-seeks-supreme-court-lifeline-in-pre-owned-license-battle/5278823))
 - Manager showed off his DOS prowess – with a command that wiped data ([19 days ago](https://www.theregister.com/software/2026/07/27/manager-showed-off-his-dos-prowess-with-a-command-that-wiped-data/5278057))
-- Incident with GraphQL API Requests ([19 days ago](https://www.githubstatus.com/incidents/fmmsrcg5x638))
+- Incident with GraphQL API Requests ([20 days ago](https://www.githubstatus.com/incidents/fmmsrcg5x638))
 - Weekly Update 514: This Week in Data Breaches ([20 days ago](https://www.troyhunt.com/weekly-update-514/))
 - Actions run failures and delays ([21 days ago](https://www.githubstatus.com/incidents/pz7g535gbs6p))
 - Several GPT models degraded ([21 days ago](https://www.githubstatus.com/incidents/vv9vvksmj4s9))
