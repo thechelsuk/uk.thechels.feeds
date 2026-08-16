@@ -8,8 +8,8 @@ description: "Latest SecOps News in a handy single page"
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- New Evooo1Bot Linux botnet turns routers into traffic relay nodes ([14 hours ago](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/))
-- ChainDrop worm crawls into npm supply chain, evades standard defenses ([18 hours ago](https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958))
+- New Evooo1Bot Linux botnet turns routers into traffic relay nodes ([15 hours ago](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/))
+- ChainDrop worm crawls into npm supply chain, evades standard defenses ([19 hours ago](https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958))
 - How Anthropic plans to watermark Claude's AI-generated text ([1 days ago](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/))
 - Hackers arrested over €30M bank fraud exploiting service provider flaw ([1 days ago](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/))
 - 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack ([1 days ago](https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003))
@@ -153,7 +153,7 @@ description: "Latest SecOps News in a handy single page"
 - Weekly Update 515: Seeking Caffeine Utopia ([13 days ago](https://www.troyhunt.com/weekly-update-515/))
 - Incident with Copilot AI Model Providers ([14 days ago](https://www.githubstatus.com/incidents/sj1tzyrx599x))
 - Degraded availability GPT 5.6 Luna ([14 days ago](https://www.githubstatus.com/incidents/kk183dslzdzd))
-- SplitVPN - 865,336 breached accounts ([14 days ago](https://haveibeenpwned.com/Breach/SplitVPN))
+- SplitVPN - 865,336 breached accounts ([15 days ago](https://haveibeenpwned.com/Breach/SplitVPN))
 - Update Teams mobile app by October or lose your calendar ([15 days ago](https://www.theregister.com/software/2026/07/31/update-teams-mobile-app-by-october-or-lose-your-calendar/5281773))
 - The $5 million threat: AI Is supercharging phishing attacks ([15 days ago](https://www.fortra.com/blog/5-million-threat-ai-supercharging-phishing-attacks))
 - Techie lured out of retirement to support software only he remembered ([15 days ago](https://www.theregister.com/software/2026/07/31/techie-lured-out-of-retirement-to-support-software-only-he-remembered/5280245))
