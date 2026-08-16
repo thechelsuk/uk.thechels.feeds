@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- General Performance: Object Initializers – Readability Versus Performance ([3 hours ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
+- General Performance: Object Initializers – Readability Versus Performance ([4 hours ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Routing and Failover for Microsoft.Extensions.AI ([2 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([3 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([4 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
@@ -25,7 +25,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([14 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([15 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([16 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([17 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([18 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([18 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 - Announcing v2.0 of the official MCP C# SDK ([18 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([19 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
