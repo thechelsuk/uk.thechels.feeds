@@ -8,7 +8,7 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Octo Insurance Sponsors Celtic FC Women ([16 hours ago](https://insurance-edge.net/2026/08/15/octo-insurance-sponsors-celtic-fc-women/))
+- Octo Insurance Sponsors Celtic FC Women ([17 hours ago](https://insurance-edge.net/2026/08/15/octo-insurance-sponsors-celtic-fc-women/))
 - Amica Donates Over $2m to Charitable Causes ([1 days ago](https://insurance-edge.net/2026/08/14/amica-donates-over-2m-to-charitable-causes/))
 - Mortgage insurers report another strong quarter of profits ([1 days ago](https://www.dig-in.com/news/mortgage-insurers-report-another-strong-quarter-of-profits))
 - Talanx Group Results: New Records Set in H1 2026 ([1 days ago](https://insurance-edge.net/2026/08/14/talanx-group-results-new-records-set-in-h1-2026/))
@@ -103,8 +103,8 @@ description: Latest news from the Insurance industry in one helpful feed
 - ACORD appoints John Kellington as CEO ([3 days ago](https://www.insurtechinsights.com/acord-appoints-john-kellington-as-ceo/))
 - Swiss Re | latest Group Watch report update reveals 170,000+ employees gain new group risk benefits ([3 days ago](https://ifamagazine.com/swiss-re-latest-group-watch-report-update/))
 - BIA 2026 winner Q&A: QBE’s UK executive director Chris Wallace ([3 days ago](https://www.postonline.co.uk/commercial/7960897/bia-2026-winner-qa-qbes-uk-executive-director-chris-wallace))
-- Why losing accountability is the real AI risk ([3 days ago](https://www.dig-in.com/opinion/why-losing-accountability-is-the-real-ai-risk))
 - What happens when your client's vendor gets hacked? ([3 days ago](https://www.dig-in.com/opinion/what-happens-when-your-clients-vendor-gets-hacked))
+- Why losing accountability is the real AI risk ([3 days ago](https://www.dig-in.com/opinion/why-losing-accountability-is-the-real-ai-risk))
 - Proactive AI can assist vulnerable customers, says IPI’s Farley ([3 days ago](https://www.postonline.co.uk/technology/7960870/proactive-ai-can-assist-vulnerable-customers-says-ipis-farley))
 - Till death (or divorce) do us part? ([3 days ago](https://ifamagazine.com/till-death-or-divorce-do-us-part/))
 - Benefits platforms improve employee access but employers still miss opportunities ([3 days ago](https://ifamagazine.com/benefits-platforms-improve-employee-access/))
@@ -125,7 +125,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - Diary of an Insurance PR: Lysander’s Joe Malone ([5 days ago](https://www.postonline.co.uk/people/7960559/diary-of-an-insurance-pr-lysanders-joe-malone))
 - Monitoring telephony channels: Are insurers missing the signals? ([5 days ago](https://www.postonline.co.uk/market-access/claims-fraud/7960825/monitoring-telephony-channels-are-insurers-missing-the-signals))
 - Markel’s Broker hub; Chubb and Acturis; MGAA’s milestone ([8 days ago](https://www.postonline.co.uk/news/7960888/markels-broker-hub-chubb-and-acturis-mgaas-milestone))
-- The Future of Insurance is About Access ([8 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
+- The Future of Insurance is About Access ([9 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
 - Half of employees say health and wellbeing is just a ‘tick-box exercise’ | Vitality ([9 days ago](https://ifamagazine.com/half-of-employees-say-health-and-wellbeing-is/))
 - A Third of UK Drivers Fear Making Motor Insurance Claims ([9 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
 - Nearly a quarter of SMEs at risk of folding within a month if they lost a key person | Scottish Widows ([10 days ago](https://ifamagazine.com/nearly-a-quarter-of-smes-at-risk-of-folding-within/))
