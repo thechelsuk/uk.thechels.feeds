@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- General Performance: Object Initializers – Readability Versus Performance ([17 hours ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
+- General Performance: Object Initializers – Readability Versus Performance ([18 hours ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Routing and Failover for Microsoft.Extensions.AI ([3 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([4 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([4 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
