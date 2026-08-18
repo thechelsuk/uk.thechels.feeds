@@ -25,7 +25,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([16 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([17 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([18 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([19 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([20 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([20 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 - Announcing v2.0 of the official MCP C# SDK ([20 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([21 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
