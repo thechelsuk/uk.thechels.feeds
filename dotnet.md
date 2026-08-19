@@ -8,11 +8,11 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([3 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
-- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([3 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
-- Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([13 hours ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
+- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([4 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
+- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([4 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
+- Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([14 hours ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - General Performance: Object Initializers – Readability Versus Performance ([3 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
-- Routing and Failover for Microsoft.Extensions.AI ([5 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
+- Routing and Failover for Microsoft.Extensions.AI ([6 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([7 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([7 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
 - .NET 11 Preview 7 is now available! ([8 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
