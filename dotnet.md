@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([5 hours ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
+- Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([6 hours ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - General Performance: Object Initializers – Readability Versus Performance ([3 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Routing and Failover for Microsoft.Extensions.AI ([5 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([6 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
