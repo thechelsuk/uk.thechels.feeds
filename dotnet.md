@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
-- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([6 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
-- Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([16 hours ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
+- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
+- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([7 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
+- Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([17 hours ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - General Performance: Object Initializers – Readability Versus Performance ([3 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Routing and Failover for Microsoft.Extensions.AI ([6 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([7 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
