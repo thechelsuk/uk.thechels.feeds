@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
-- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([17 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
+- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([18 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
+- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([18 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
 - Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([1 days ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - General Performance: Object Initializers – Readability Versus Performance ([4 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Routing and Failover for Microsoft.Extensions.AI ([6 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
@@ -28,7 +28,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([18 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - From generated code to trusted code with a unit-test agent ([19 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([20 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([21 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([22 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([22 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 - Announcing v2.0 of the official MCP C# SDK ([22 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([23 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
