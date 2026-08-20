@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
-- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([21 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
+- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([22 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
+- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([22 hours ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
 - Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([1 days ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - General Performance: Object Initializers – Readability Versus Performance ([4 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Routing and Failover for Microsoft.Extensions.AI ([6 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
