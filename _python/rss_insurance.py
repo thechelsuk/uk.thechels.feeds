@@ -14,6 +14,7 @@ URL_7 ="https://insurance-edge.net/feed/"
 URL_8 ="https://thefintechtimes.com/category/fintech/insurtech/feed/"
 URL_9 ="https://insurtechinsights.com/feed/"
 URL_10 ="https://www.fca.org.uk/news/rss.xml"
+URL_11 ="https://feeds.feedblitz.com/insuranceday-all&x=1"
 
 
 
@@ -22,7 +23,7 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7, URL_8, URL_9, URL_10]
+        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7, URL_8, URL_9, URL_10, URL_11]
         all_items = []
 
         for URL in urls:
