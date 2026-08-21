@@ -12,6 +12,7 @@ URL_5 ="https://dotnettips.wordpress.com/feed/"
 URL_6 ="https://blog.cwa.me.uk/feed"
 URL_7 ="http://feeds.hanselman.com/ScottHanselman"
 URL_8 ="https://azurestatusfeed.azurewebsites.net/"
+URL_9 ="https://www.alvinashcraft.com/feed.xml"
 
 
 
@@ -20,7 +21,7 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7, URL_8]
+        urls = [URL_1, URL_2, URL_3, URL_4, URL_5, URL_6, URL_7, URL_8, URL_9]
         all_items = []
 
         for URL in urls:
