@@ -34,7 +34,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 6, 2026 (#4727) ([16 days ago](https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([17 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Dew Drop - August 5, 2026 (#4726) ([17 days ago](https://alvinashcraft.com/2026/08/05/dew-drop-august-5-2026-4726/))
-- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([17 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
+- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([18 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([18 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([18 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([18 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))

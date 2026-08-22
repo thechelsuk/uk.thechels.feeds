@@ -8,8 +8,8 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Piracy Observer Says Somali Incidents Rising as Navies Stretched ([7 hours ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
-- Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([10 hours ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
+- Piracy Observer Says Somali Incidents Rising as Navies Stretched ([8 hours ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
+- Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([11 hours ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([1 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
 - Building Company Fined After Unsafe Gas Boiler Job ([1 days ago](https://insurance-edge.net/2026/08/21/building-company-fined-after-unsafe-gas-boiler-job/))
 - FCA Bans Former Director of SVS Securities Plc ([1 days ago](https://insurance-edge.net/2026/08/21/fca-bans-former-director-of-svs-securities-plc/))
