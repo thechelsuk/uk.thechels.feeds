@@ -8,8 +8,8 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Piracy Observer Says Somali Incidents Rising as Navies Stretched ([8 hours ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
-- Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([11 hours ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
+- Piracy Observer Says Somali Incidents Rising as Navies Stretched ([9 hours ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
+- Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([12 hours ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([1 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
 - Building Company Fined After Unsafe Gas Boiler Job ([1 days ago](https://insurance-edge.net/2026/08/21/building-company-fined-after-unsafe-gas-boiler-job/))
 - FCA Bans Former Director of SVS Securities Plc ([1 days ago](https://insurance-edge.net/2026/08/21/fca-bans-former-director-of-svs-securities-plc/))
@@ -151,7 +151,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - Reinsurance market at ‘inflection point’ ([11 days ago](https://www.insuranceday.com/ID1158082/Reinsurance%20market%20at%20inflection%20point?utm_source=search&utm_medium=RSS&utm_term=&utm_campaign=search_rss))
 - The Future of Insurance is About Access ([15 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
 - A Third of UK Drivers Fear Making Motor Insurance Claims ([16 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
-- Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([18 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
+- Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([19 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
 - L&G Launches Annuity Checklist as UK Market Hits £7.4bn ([25 days ago](https://thefintechtimes.com/lg-launches-annuity-checklist-as-uk-market-hits-7-4bn/))
 - Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance ([26 days ago](https://thefintechtimes.com/flock-launches-agentic-ai-assistant-jay-for-uk-fleet-insurance/))
 - SAMP Risk Warns Power Generators Face Under-Insured Heat Risk ([29 days ago](https://thefintechtimes.com/samp-risk-warns-power-generators-face-under-insured-heat-risk/))

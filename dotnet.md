@@ -48,7 +48,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - July 29, 2026 (#4721) ([24 days ago](https://alvinashcraft.com/2026/07/29/dew-drop-july-29-2026-4721/))
 - Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([24 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([24 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
-- Announcing v2.0 of the official MCP C# SDK ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
+- Announcing v2.0 of the official MCP C# SDK ([25 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Dew Drop - July 28, 2026 (#4720) ([25 days ago](https://alvinashcraft.com/2026/07/28/dew-drop-july-28-2026-4720/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([26 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([27 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
