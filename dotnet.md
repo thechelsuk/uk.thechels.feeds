@@ -26,7 +26,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - .NET 11 Preview 7 is now available! ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
 - .NET and .NET Framework August 2026 servicing releases updates ([10 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - Dew Drop - August 11, 2026 (#4730) ([11 days ago](https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/))
-- JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([11 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
+- JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([12 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
 - Dew Drop - August 10, 2026 (#4729) ([12 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([13 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Dew Drop - August 7, 2026 (#4728) ([15 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
@@ -50,7 +50,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - UX Chronicles: Buffering the User Experience ([24 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 - Announcing v2.0 of the official MCP C# SDK ([24 days ago](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/))
 - Dew Drop - July 28, 2026 (#4720) ([25 days ago](https://alvinashcraft.com/2026/07/28/dew-drop-july-28-2026-4720/))
-- Analyze MSBuild Binary Logs with Copilot in VS Code ([25 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
+- Analyze MSBuild Binary Logs with Copilot in VS Code ([26 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([27 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
 - Dew Drop - July 24, 2026 (#4719) ([29 days ago](https://alvinashcraft.com/2026/07/24/dew-drop-july-24-2026-4719/))
 
