@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Dew Drop - August 21, 2026 (#4738) ([19 hours ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
+- Dew Drop - August 21, 2026 (#4738) ([20 hours ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([1 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
 - Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([2 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
 - Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
