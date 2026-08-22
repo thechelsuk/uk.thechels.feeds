@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Dew Drop - August 21, 2026 (#4738) ([21 hours ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
+- Dew Drop - August 21, 2026 (#4738) ([22 hours ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([1 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
 - Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([2 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
 - Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([2 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
@@ -37,7 +37,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([17 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([17 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([17 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
-- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([17 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
+- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([18 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([18 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - Dew Drop - August 3, 2026 (#4724) ([18 days ago](https://alvinashcraft.com/2026/08/03/dew-drop-august-3-2026-4724/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([20 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
