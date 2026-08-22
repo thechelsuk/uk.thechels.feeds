@@ -8,8 +8,8 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Piracy Observer Says Somali Incidents Rising as Navies Stretched ([9 hours ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
-- Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([12 hours ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
+- Piracy Observer Says Somali Incidents Rising as Navies Stretched ([10 hours ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
+- Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([13 hours ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([1 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
 - Building Company Fined After Unsafe Gas Boiler Job ([1 days ago](https://insurance-edge.net/2026/08/21/building-company-fined-after-unsafe-gas-boiler-job/))
 - FCA Bans Former Director of SVS Securities Plc ([1 days ago](https://insurance-edge.net/2026/08/21/fca-bans-former-director-of-svs-securities-plc/))
@@ -119,7 +119,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - 60 Seconds With... CyberCube’s Nate Brink ([4 days ago](https://www.postonline.co.uk/technology/7960636/60-seconds-with-cybercubes-nate-brink))
 - Why the MGA sector is built for what’s next ([4 days ago](https://www.postonline.co.uk/risk-management/7960921/why-the-mga-sector-is-built-for-whats-next))
 - Big Interview: Perry Thomas, Flood Re ([4 days ago](https://www.postonline.co.uk/news/7960765/big-interview-perry-thomas-flood-re))
-- Plans for Insurance Day for Dementia 2026 revealed ([4 days ago](https://www.postonline.co.uk/people/7960931/plans-for-insurance-day-for-dementia-2026-revealed))
+- Plans for Insurance Day for Dementia 2026 revealed ([5 days ago](https://www.postonline.co.uk/people/7960931/plans-for-insurance-day-for-dementia-2026-revealed))
 - Britain’s financial resilience crisis leaves millions vulnerable to income shocks | Royal London ([5 days ago](https://ifamagazine.com/britains-financial-resilience-crisis/))
 - Aviva outlines plan for double-digit market share growth ([5 days ago](https://www.postonline.co.uk/personal/7960927/aviva-outlines-plan-for-double-digit-market-share-growth))
 - Gallagher and HSBC partner on business insurance ([5 days ago](https://www.postonline.co.uk/commercial/7960934/gallagher-and-hsbc-partner-on-business-insurance))
