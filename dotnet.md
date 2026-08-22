@@ -18,7 +18,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 17, 2026 (#4734) ([5 days ago](https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/))
 - General Performance: Object Initializers – Readability Versus Performance ([6 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Dew Drop - August 14, 2026 (#4733) ([8 days ago](https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/))
-- Routing and Failover for Microsoft.Extensions.AI ([8 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
+- Routing and Failover for Microsoft.Extensions.AI ([9 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Dew Drop - August 13, 2026 (#4732) ([9 days ago](https://alvinashcraft.com/2026/08/13/dew-drop-august-13-2026-4732/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([10 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Dew Drop - August 12, 2026 (#4731) ([10 days ago](https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/))
