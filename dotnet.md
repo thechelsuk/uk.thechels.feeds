@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([5 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
+- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([6 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([2 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([3 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
 - Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([3 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
@@ -28,7 +28,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - .NET and .NET Framework August 2026 servicing releases updates ([11 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - Dew Drop - August 11, 2026 (#4730) ([12 days ago](https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([12 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
-- Dew Drop - August 10, 2026 (#4729) ([12 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
+- Dew Drop - August 10, 2026 (#4729) ([13 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([14 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Dew Drop - August 7, 2026 (#4728) ([16 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([16 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
