@@ -151,7 +151,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - Reinsurance market at ‘inflection point’ ([12 days ago](https://www.insuranceday.com/ID1158082/Reinsurance%20market%20at%20inflection%20point?utm_source=search&utm_medium=RSS&utm_term=&utm_campaign=search_rss))
 - The Future of Insurance is About Access ([16 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
 - A Third of UK Drivers Fear Making Motor Insurance Claims ([17 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
-- Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([19 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
+- Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([20 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
 - L&G Launches Annuity Checklist as UK Market Hits £7.4bn ([26 days ago](https://thefintechtimes.com/lg-launches-annuity-checklist-as-uk-market-hits-7-4bn/))
 - Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance ([27 days ago](https://thefintechtimes.com/flock-launches-agentic-ai-assistant-jay-for-uk-fleet-insurance/))
 
