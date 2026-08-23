@@ -8,8 +8,8 @@ description: "Latest SecOps News in a handy single page"
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ToxicPanda Android malware uses VPN permissions to block Google Play ([7 hours ago](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/))
-- Welcoming the Sri Lankan Government to Have I Been Pwned ([15 hours ago](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/))
+- ToxicPanda Android malware uses VPN permissions to block Google Play ([8 hours ago](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/))
+- Welcoming the Sri Lankan Government to Have I Been Pwned ([16 hours ago](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/))
 - If you're not using AI to attack your own systems, your adversaries will ([1 days ago](https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346))
 - Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year ([1 days ago](https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/))
 - TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit ([1 days ago](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html))
@@ -94,7 +94,7 @@ description: "Latest SecOps News in a handy single page"
 - Cudy WR3000: Hard-coded JWT Secret to Root Command Injection ([3 days ago](https://seclists.org/fulldisclosure/2026/Aug/68))
 - Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code ([3 days ago](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html))
 - Smashing Security podcast #481: Never say this to a robot dog ([3 days ago](https://grahamcluley.com/smashing-security-podcast-481/))
-- 'Not a theoretical risk,' feds warn as attackers use AI-made code to hack critical infrastructure controllers ([3 days ago](https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960))
+- 'Not a theoretical risk,' feds warn as attackers use AI-made code to hack critical infrastructure controllers ([4 days ago](https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960))
 - Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second ([4 days ago](https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html))
 - ICE boss to agents: Leave the Meta spy glasses at home ([4 days ago](https://www.theregister.com/security/2026/08/19/ice-boss-to-agents-leave-the-meta-spy-glasses-at-home/5289826))
 - Flock surveillance backlash mounts as fiendish Halloween plans circulate ([4 days ago](https://www.theregister.com/security/2026/08/19/flock-surveillance-backlash-mounts-as-fiendish-halloween-plans-circulate/5289701))
@@ -144,7 +144,7 @@ description: "Latest SecOps News in a handy single page"
 - Incident with Webhooks ([10 days ago](https://www.githubstatus.com/incidents/k8vbzwqjkxzn))
 - RingCentral - 1,596,490 breached accounts ([10 days ago](https://haveibeenpwned.com/Breach/RingCentral))
 - Smashing Security podcast #480: This is the AI service you should never sign up to ([10 days ago](https://grahamcluley.com/smashing-security-podcast-480/))
-- Disruption with Login and Release Asset downloads ([10 days ago](https://www.githubstatus.com/incidents/lsvy8xsf0gxv))
+- Disruption with Login and Release Asset downloads ([11 days ago](https://www.githubstatus.com/incidents/lsvy8xsf0gxv))
 - Deeply buried 16-year-old SQLite bug caused last year's Tailscale outages ([11 days ago](https://www.theregister.com/databases/2026/08/12/deeply-buried-16-year-old-sqlite-bug-caused-last-years-tailscale-outages/5287004))
 - OpenWALDO aims to blow the doors off proprietary AI training models ([11 days ago](https://www.theregister.com/ai-and-ml/2026/08/12/openwaldo-aims-to-blow-the-doors-off-proprietary-ai-training-models/5286864))
 - Incident with Pull Requests and Issues ([11 days ago](https://www.githubstatus.com/incidents/76t89hbfb09h))

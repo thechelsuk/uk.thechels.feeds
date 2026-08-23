@@ -8,6 +8,7 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
+- Judge Narrows Ben & Jerry’s Lawsuit Accusing Unilever of Silencing Social Activi ([just now](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
 - Piracy Observer Says Somali Incidents Rising as Navies Stretched ([1 days ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
 - Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([1 days ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([2 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
@@ -71,7 +72,6 @@ description: Latest news from the Insurance industry in one helpful feed
 - QBE hands financial lines top job to internal veteran ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-hands-financial-lines-top-job-to-internal-veteran-586954.aspx))
 - Rates, Digital Support Boost Small Business Insurance Customer Satisfaction: JD Power ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/21/882379.htm))
 - Abbott Agrees to $670 Million Settlement of Infant Formula Cases ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/21/882383.htm))
-- Viewpoint: If AI Compute Is an Investable Asset, AI Agency Must Become Insurable ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/21/882374.htm))
 - Stop being hypocritical and give PCWs what they want ([2 days ago](https://www.postonline.co.uk/regulation/7960801/stop-being-hypocritical-and-give-pcws-what-they-want))
 - Penny Black’s Social Diary: Hiscox's stock market fanfare ([2 days ago](https://www.postonline.co.uk/personal/7960785/penny-blacks-social-diary-hiscoxs-stock-market-fanfare))
 - Inszone buys D.B. Insurance as agency M&A slows ([3 days ago](https://www.insurtechinsights.com/inszone-buys-d-b-insurance-as-agency-ma-slows/))
@@ -119,7 +119,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - 60 Seconds With... CyberCube’s Nate Brink ([5 days ago](https://www.postonline.co.uk/technology/7960636/60-seconds-with-cybercubes-nate-brink))
 - Why the MGA sector is built for what’s next ([5 days ago](https://www.postonline.co.uk/risk-management/7960921/why-the-mga-sector-is-built-for-whats-next))
 - Big Interview: Perry Thomas, Flood Re ([5 days ago](https://www.postonline.co.uk/news/7960765/big-interview-perry-thomas-flood-re))
-- Plans for Insurance Day for Dementia 2026 revealed ([5 days ago](https://www.postonline.co.uk/people/7960931/plans-for-insurance-day-for-dementia-2026-revealed))
+- Plans for Insurance Day for Dementia 2026 revealed ([6 days ago](https://www.postonline.co.uk/people/7960931/plans-for-insurance-day-for-dementia-2026-revealed))
 - Britain’s financial resilience crisis leaves millions vulnerable to income shocks | Royal London ([6 days ago](https://ifamagazine.com/britains-financial-resilience-crisis/))
 - Aviva outlines plan for double-digit market share growth ([6 days ago](https://www.postonline.co.uk/personal/7960927/aviva-outlines-plan-for-double-digit-market-share-growth))
 - Gallagher and HSBC partner on business insurance ([6 days ago](https://www.postonline.co.uk/commercial/7960934/gallagher-and-hsbc-partner-on-business-insurance))
