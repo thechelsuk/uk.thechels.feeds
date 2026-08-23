@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([7 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
+- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([8 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([2 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([3 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
 - Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([3 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
