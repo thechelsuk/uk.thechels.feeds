@@ -8,11 +8,11 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([9 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
+- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([10 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([2 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([3 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
-- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([3 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
-- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([3 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
+- Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([4 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
+- Rider 2026.2.1 and ReSharper 2026.2.1 Are Here! ([4 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-resharper-2026-2-1/))
 - Dew Drop - August 19, 2026 (#4736) ([4 days ago](https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/))
 - Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([4 days ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - Dew Drop - August 18, 2026 (#4735) ([5 days ago](https://alvinashcraft.com/2026/08/18/dew-drop-august-18-2026-4735/))
@@ -36,7 +36,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([17 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Dew Drop - August 5, 2026 (#4726) ([18 days ago](https://alvinashcraft.com/2026/08/05/dew-drop-august-5-2026-4726/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([18 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
-- dotInsights  -  August 2026 ([18 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
+- dotInsights  -  August 2026 ([19 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([19 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([19 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([19 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
