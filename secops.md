@@ -8,8 +8,8 @@ description: "Latest SecOps News in a handy single page"
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- ToxicPanda Android malware uses VPN permissions to block Google Play ([4 hours ago](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/))
-- Welcoming the Sri Lankan Government to Have I Been Pwned ([12 hours ago](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/))
+- ToxicPanda Android malware uses VPN permissions to block Google Play ([5 hours ago](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/))
+- Welcoming the Sri Lankan Government to Have I Been Pwned ([13 hours ago](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/))
 - If you're not using AI to attack your own systems, your adversaries will ([1 days ago](https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346))
 - Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year ([1 days ago](https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/))
 - TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit ([1 days ago](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html))
@@ -57,7 +57,7 @@ description: "Latest SecOps News in a handy single page"
 - Intermittent failures creating agent tasks ([2 days ago](https://www.githubstatus.com/incidents/bhbcjn4n3jzp))
 - Russian snoops add OAuth abuse to targeted phishing campaigns ([2 days ago](https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706))
 - Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads ([2 days ago](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html))
-- Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts ([2 days ago](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html))
+- Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts ([3 days ago](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html))
 - Hackers poison arrayref Rust crate to push infostealer malware ([3 days ago](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/))
 - US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline ([3 days ago](https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560))
 - ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More ([3 days ago](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html))
@@ -155,7 +155,7 @@ description: "Latest SecOps News in a handy single page"
 - GRC Solutions Partners with Defense.com™ to Help Businesses Take Control of Cyber Risk ([12 days ago](https://grcsolutions.io/grc-solutions-partners-with-defense-com-to-help-businesses-take-control-of-cyber-risk/))
 - Disruption with Copilot for access to some models ([12 days ago](https://www.githubstatus.com/incidents/1t7x65n7kvt1))
 - Hey, big spender – OpenAI has a new SKU just for you ([12 days ago](https://www.theregister.com/ai-and-ml/2026/08/10/hey-big-spender-openai-has-a-new-sku-just-for-you/5285727))
-- Meta’s Ray-Bans are being banned from pubs, restaurants, and theatres ([12 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/meta-ray-ban-banned-pubs-restaurants-theatres))
+- Meta’s Ray-Bans are being banned from pubs, restaurants, and theatres ([13 days ago](https://www.bitdefender.com/en-us/blog/hotforsecurity/meta-ray-ban-banned-pubs-restaurants-theatres))
 - Disruption with creation of fine grained personal access tokens ([13 days ago](https://www.githubstatus.com/incidents/s19bth7wzkf7))
 - Everything I Learned Shipping Device Bound Session Credentials ([13 days ago](https://scotthelme.co.uk/everything-i-learned-shipping-device-bound-session-credentials/))
 - Demoralized developer's desperate hack came back to haunt him on LinkedIn ([13 days ago](https://www.theregister.com/software/2026/08/10/demoralized-developers-desperate-hack-came-back-to-haunt-him-on-linkedin/5284476))
