@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([6 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
+- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([7 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([2 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([3 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
 - Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([3 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))
@@ -53,6 +53,5 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - July 28, 2026 (#4720) ([26 days ago](https://alvinashcraft.com/2026/07/28/dew-drop-july-28-2026-4720/))
 - Analyze MSBuild Binary Logs with Copilot in VS Code ([26 days ago](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/))
 - Boost Your .NET Projects with Spargine: Faster, Safer HTTP Calls with HttpClientExtensions ([28 days ago](https://dotnettips.com/2026/07/26/boost-your-net-projects-with-spargine-faster-safer-http-calls-with-httpclientextensions/))
-- Dew Drop - July 24, 2026 (#4719) ([29 days ago](https://alvinashcraft.com/2026/07/24/dew-drop-july-24-2026-4719/))
 
 <!-- news_marker ends -->
