@@ -8,8 +8,8 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([1 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
-- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([2 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
+- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([2 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
+- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([3 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
 - Piracy Observer Says Somali Incidents Rising as Navies Stretched ([1 days ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
 - Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([1 days ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([2 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
@@ -149,7 +149,7 @@ description: Latest news from the Insurance industry in one helpful feed
 - Benefits platforms improve employee access but employers still miss opportunities ([11 days ago](https://ifamagazine.com/benefits-platforms-improve-employee-access/))
 - Specialty MGA hires Woodage for North American property treaty drive ([12 days ago](https://www.insuranceday.com/ID1158084/Specialty%20MGA%20hires%20Woodage%20for%20North%20American%20property%20treaty%20drive?utm_source=search&utm_medium=RSS&utm_term=&utm_campaign=search_rss))
 - Reinsurance market at ‘inflection point’ ([12 days ago](https://www.insuranceday.com/ID1158082/Reinsurance%20market%20at%20inflection%20point?utm_source=search&utm_medium=RSS&utm_term=&utm_campaign=search_rss))
-- The Future of Insurance is About Access ([16 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
+- The Future of Insurance is About Access ([17 days ago](https://thefintechtimes.com/the-future-of-insurance-is-about-access/))
 - A Third of UK Drivers Fear Making Motor Insurance Claims ([17 days ago](https://thefintechtimes.com/a-third-of-uk-drivers-fear-making-motor-insurance-claims/))
 - Which? and MoneySuperMarket Launch Co-Branded Insurance Comparison ([20 days ago](https://thefintechtimes.com/which-and-moneysupermarket-launch-co-branded-insurance-comparison/))
 - L&G Launches Annuity Checklist as UK Market Hits £7.4bn ([26 days ago](https://thefintechtimes.com/lg-launches-annuity-checklist-as-uk-market-hits-7-4bn/))
