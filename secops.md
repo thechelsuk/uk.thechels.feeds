@@ -8,10 +8,10 @@ description: "Latest SecOps News in a handy single page"
 [Get this as an RSS feed](/secops.rss)
 
 <!-- news_marker starts -->
-- Ancient ‘Who owns Linux?’ case now has one foot very deep in the grave ([4 hours ago](https://www.theregister.com/software/2026/08/24/ancient-who-owns-linux-case-now-has-one-foot-very-deep-in-the-grave/5291513))
-- NIUS - 6,090 breached accounts ([5 hours ago](https://haveibeenpwned.com/Breach/NIUS))
-- ToxicPanda Android malware uses VPN permissions to block Google Play ([13 hours ago](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/))
-- Welcoming the Sri Lankan Government to Have I Been Pwned ([21 hours ago](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/))
+- Ancient ‘Who owns Linux?’ case now has one foot very deep in the grave ([5 hours ago](https://www.theregister.com/software/2026/08/24/ancient-who-owns-linux-case-now-has-one-foot-very-deep-in-the-grave/5291513))
+- NIUS - 6,090 breached accounts ([6 hours ago](https://haveibeenpwned.com/Breach/NIUS))
+- ToxicPanda Android malware uses VPN permissions to block Google Play ([14 hours ago](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/))
+- Welcoming the Sri Lankan Government to Have I Been Pwned ([22 hours ago](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/))
 - If you're not using AI to attack your own systems, your adversaries will ([1 days ago](https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346))
 - Connecticut says data from 41,000 Medicaid members exposed in portal breach; the second portal incident this year ([1 days ago](https://databreaches.net/2026/08/22/connecticut-says-data-from-41000-medicaid-members-exposed-in-portal-breach-the-second-portal-incident-this-year/))
 - TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit ([1 days ago](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html))
