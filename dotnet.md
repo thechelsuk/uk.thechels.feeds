@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([1 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
-- Explore new features available in C# 15 preview ([3 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
-- Dew Drop - August 24, 2026 (#4739) ([11 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
+- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([2 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
+- Explore new features available in C# 15 preview ([4 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
+- Dew Drop - August 24, 2026 (#4739) ([12 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
 - Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([1 days ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([1 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([3 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
@@ -39,7 +39,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 6, 2026 (#4727) ([18 days ago](https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([19 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Dew Drop - August 5, 2026 (#4726) ([19 days ago](https://alvinashcraft.com/2026/08/05/dew-drop-august-5-2026-4726/))
-- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([19 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
+- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([20 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([20 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([20 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([20 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
