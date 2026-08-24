@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Dew Drop - August 24, 2026 (#4739) ([5 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
-- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([18 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
+- Dew Drop - August 24, 2026 (#4739) ([6 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
+- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([19 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([1 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([3 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([4 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
@@ -18,7 +18,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 19, 2026 (#4736) ([5 days ago](https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/))
 - Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([5 days ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - Dew Drop - August 18, 2026 (#4735) ([6 days ago](https://alvinashcraft.com/2026/08/18/dew-drop-august-18-2026-4735/))
-- Dew Drop - August 17, 2026 (#4734) ([6 days ago](https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/))
+- Dew Drop - August 17, 2026 (#4734) ([7 days ago](https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/))
 - General Performance: Object Initializers – Readability Versus Performance ([8 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Dew Drop - August 14, 2026 (#4733) ([10 days ago](https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/))
 - Routing and Failover for Microsoft.Extensions.AI ([10 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
@@ -44,7 +44,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([20 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - Dew Drop - August 3, 2026 (#4724) ([21 days ago](https://alvinashcraft.com/2026/08/03/dew-drop-august-3-2026-4724/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([22 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
-- From generated code to trusted code with a unit-test agent ([23 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
+- From generated code to trusted code with a unit-test agent ([24 days ago](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/))
 - Dew Drop - July 31, 2026 (#4723) ([24 days ago](https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([24 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Dew Drop - July 30, 2026 (#4722) ([25 days ago](https://alvinashcraft.com/2026/07/30/dew-drop-july-30-2026-4722/))
