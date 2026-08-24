@@ -8,8 +8,10 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([2 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
-- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([3 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
+- Insurance questions remain as New Forest wildfire contained after two weeks ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/insurance-questions-remain-as-new-forest-wildfire-contained-after-two-weeks-587088.aspx))
+- New mayoral planning powers could speed up housebuilding, but insurers remain cautious ([1 hours ago](https://www.insurancebusinessmag.com/uk/news/property-insurance/new-mayoral-planning-powers-could-speed-up-housebuilding-but-insurers-remain-cautious-587087.aspx))
+- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([3 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
+- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([4 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
 - Piracy Observer Says Somali Incidents Rising as Navies Stretched ([1 days ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
 - Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([1 days ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([2 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
@@ -99,8 +101,6 @@ description: Latest news from the Insurance industry in one helpful feed
 - Throwback Thursday: Female first; Co-op’s woe ([3 days ago](https://www.postonline.co.uk/risk-management/7959611/throwback-thursday-female-first-co-ops-woe))
 - Q&A, Chris Hill and Paul Muir, One Answer Insurance ([3 days ago](https://www.postonline.co.uk/broker/7960705/qa-chris-hill-and-paul-muir-one-answer-insurance))
 - Why the real AI advantage in insurance lies beyond the model ([3 days ago](https://www.postonline.co.uk/reinsurance/7960922/why-the-real-ai-advantage-in-insurance-lies-beyond-the-model))
-- Marco Capital merges PoloWorks and Pro Global into a 1,400-person London Market services group ([3 days ago](https://www.insurancebusinessmag.com/uk/news/mergers-acquisitions/marco-capital-merges-poloworks-and-pro-global-into-a-1400person-london-market-services-group-586786.aspx))
-- Seven in 10 UK flood claims are flash floods - and treating all the same is how insurers misprice it ([3 days ago](https://www.insurancebusinessmag.com/uk/news/catastrophe/seven-in-10-uk-flood-claims-are-flash-floods--and-treating-all-the-same-is-how-insurers-misprice-it-586783.aspx))
 - Rating agencies differ on credit impact of Pacific Northwest wildfires ([4 days ago](https://www.dig-in.com/news/rating-agencies-differ-on-impact-of-pacific-northwest-fires))
 - Fire-zone insurance broker RockRose Risk raises $12.5M ([4 days ago](https://www.dig-in.com/articles/fire-zone-insurance-broker-rockrose-risk-raises-12-5m))
 - Gallagher Re launches Digital Risk Practice as AI and technology exposures spread across insurance lines ([4 days ago](https://www.insurtechinsights.com/gallagher-re-launches-digital-risk-practice-as-ai-and-technology-exposures-spread-across-insurance-lines/))
