@@ -8,7 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([12 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
+- Dew Drop - August 24, 2026 (#4739) ([57 minutes ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
+- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([13 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([1 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([2 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([3 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
@@ -39,7 +40,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([19 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([19 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([19 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
-- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([19 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
+- Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([20 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
 - Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([20 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - Dew Drop - August 3, 2026 (#4724) ([20 days ago](https://alvinashcraft.com/2026/08/03/dew-drop-august-3-2026-4724/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([22 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
