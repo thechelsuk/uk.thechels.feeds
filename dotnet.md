@@ -8,10 +8,10 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([10 minutes ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
-- Explore new features available in C# 15 preview ([2 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
-- Dew Drop - August 24, 2026 (#4739) ([10 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
-- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([23 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
+- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([1 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
+- Explore new features available in C# 15 preview ([3 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
+- Dew Drop - August 24, 2026 (#4739) ([11 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
+- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([1 days ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([1 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([3 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([4 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
@@ -23,7 +23,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 17, 2026 (#4734) ([7 days ago](https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/))
 - General Performance: Object Initializers – Readability Versus Performance ([8 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Dew Drop - August 14, 2026 (#4733) ([10 days ago](https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/))
-- Routing and Failover for Microsoft.Extensions.AI ([10 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
+- Routing and Failover for Microsoft.Extensions.AI ([11 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
 - Dew Drop - August 13, 2026 (#4732) ([11 days ago](https://alvinashcraft.com/2026/08/13/dew-drop-august-13-2026-4732/))
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([12 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Dew Drop - August 12, 2026 (#4731) ([12 days ago](https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/))
