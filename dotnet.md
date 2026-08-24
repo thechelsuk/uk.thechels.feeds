@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Explore new features available in C# 15 preview ([8 minutes ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
-- Dew Drop - August 24, 2026 (#4739) ([8 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
-- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([21 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
+- Explore new features available in C# 15 preview ([1 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
+- Dew Drop - August 24, 2026 (#4739) ([9 hours ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
+- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([22 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([1 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([3 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([4 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
@@ -36,7 +36,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 7, 2026 (#4728) ([17 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([18 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - Dew Drop - August 6, 2026 (#4727) ([18 days ago](https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/))
-- The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([18 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
+- The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([19 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Dew Drop - August 5, 2026 (#4726) ([19 days ago](https://alvinashcraft.com/2026/08/05/dew-drop-august-5-2026-4726/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([19 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([20 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
