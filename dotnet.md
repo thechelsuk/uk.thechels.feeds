@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([3 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
-- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([17 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
+- Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([4 hours ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
+- Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([18 hours ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
 - Dew Drop - August 21, 2026 (#4738) ([2 days ago](https://alvinashcraft.com/2026/08/21/dew-drop-august-21-2026-4738/))
 - Dew Drop - August 20, 2026 (#4737) ([3 days ago](https://alvinashcraft.com/2026/08/20/dew-drop-august-20-2026-4737/))
 - Rider Hands AI Agents The Keys To Its Refactoring Engine For Safer, Faster, And Cheaper Results ([4 days ago](https://blog.jetbrains.com/dotnet/2026/08/19/rider-refactoring-code-skill/))

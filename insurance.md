@@ -8,7 +8,8 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Judge Narrows Ben & Jerry’s Lawsuit Accusing Unilever of Silencing Social Activi ([just now](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
+- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([12 minutes ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
+- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([1 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
 - Piracy Observer Says Somali Incidents Rising as Navies Stretched ([1 days ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
 - Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([1 days ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([2 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
@@ -71,7 +72,6 @@ description: Latest news from the Insurance industry in one helpful feed
 - NorthStandard joins seafarer welfare platform as happiness index hits a 2026 low ([2 days ago](https://www.insurancebusinessmag.com/uk/news/marine/northstandard-joins-seafarer-welfare-platform-as-happiness-index-hits-a-2026-low-586955.aspx))
 - QBE hands financial lines top job to internal veteran ([2 days ago](https://www.insurancebusinessmag.com/uk/news/breaking-news/qbe-hands-financial-lines-top-job-to-internal-veteran-586954.aspx))
 - Rates, Digital Support Boost Small Business Insurance Customer Satisfaction: JD Power ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/21/882379.htm))
-- Abbott Agrees to $670 Million Settlement of Infant Formula Cases ([2 days ago](https://www.insurancejournal.com/news/national/2026/08/21/882383.htm))
 - Stop being hypocritical and give PCWs what they want ([2 days ago](https://www.postonline.co.uk/regulation/7960801/stop-being-hypocritical-and-give-pcws-what-they-want))
 - Penny Black’s Social Diary: Hiscox's stock market fanfare ([2 days ago](https://www.postonline.co.uk/personal/7960785/penny-blacks-social-diary-hiscoxs-stock-market-fanfare))
 - Inszone buys D.B. Insurance as agency M&A slows ([3 days ago](https://www.insurtechinsights.com/inszone-buys-d-b-insurance-as-agency-ma-slows/))
