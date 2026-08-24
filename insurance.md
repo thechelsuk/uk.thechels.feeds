@@ -8,8 +8,8 @@ description: Latest news from the Insurance industry in one helpful feed
 [Get this as an RSS feed](/insurance.rss)
 
 <!-- news_marker starts -->
-- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([12 minutes ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
-- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([1 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
+- Cleanup Underway After Tornadoes Touch Down in Delaware and New York’s Long Island ([1 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882537.htm))
+- Judge Narrows Ben & Jerry’s Suit Accusing Unilever of Silencing Social Activism ([2 hours ago](https://www.insurancejournal.com/news/east/2026/08/23/882525.htm))
 - Piracy Observer Says Somali Incidents Rising as Navies Stretched ([1 days ago](https://www.insurancejournal.com/news/international/2026/08/22/882495.htm))
 - Do you need life insurance for a mortgage? L&G breaks down the rules, requirements and benefits for homeowners ([1 days ago](https://ifamagazine.com/do-you-need-life-insurance-for/))
 - IFED Investigation Uncovers Fake Pet Insurance Claims ([2 days ago](https://insurance-edge.net/2026/08/21/ifed-investigation-uncovers-fake-pet-insurance-claims/))
