@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Conf 2026 ([40 minutes ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
-- Finding the total number of processors on a machine with .NET ([7 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
-- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([22 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
+- .NET Conf 2026 ([1 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
+- Finding the total number of processors on a machine with .NET ([8 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
+- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([23 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
 - Explore new features available in C# 15 preview ([1 days ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
 - Dew Drop - August 24, 2026 (#4739) ([1 days ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
 - Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([1 days ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
@@ -39,7 +39,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 7, 2026 (#4728) ([18 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([19 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
 - Dew Drop - August 6, 2026 (#4727) ([19 days ago](https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/))
-- The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([19 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
+- The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([20 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Dew Drop - August 5, 2026 (#4726) ([20 days ago](https://alvinashcraft.com/2026/08/05/dew-drop-august-5-2026-4726/))
 - Beyond Chat: live Speech-to-Text with Foundry Local and C# ([20 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([21 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
