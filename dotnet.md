@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Finding the total number of processors on a machine with .NET ([3 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
-- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([18 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
-- Explore new features available in C# 15 preview ([20 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
+- Finding the total number of processors on a machine with .NET ([4 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
+- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([19 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
+- Explore new features available in C# 15 preview ([21 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
 - Dew Drop - August 24, 2026 (#4739) ([1 days ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
 - Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([1 days ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([2 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
