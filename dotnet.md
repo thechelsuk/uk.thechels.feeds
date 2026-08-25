@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([14 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
-- Explore new features available in C# 15 preview ([16 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
+- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([15 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
+- Explore new features available in C# 15 preview ([17 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
 - Dew Drop - August 24, 2026 (#4739) ([1 days ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
 - Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([1 days ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([2 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
@@ -51,7 +51,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([25 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Dew Drop - July 30, 2026 (#4722) ([25 days ago](https://alvinashcraft.com/2026/07/30/dew-drop-july-30-2026-4722/))
 - Dew Drop - July 29, 2026 (#4721) ([26 days ago](https://alvinashcraft.com/2026/07/29/dew-drop-july-29-2026-4721/))
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([26 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([27 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([27 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 - Dew Drop - July 28, 2026 (#4720) ([27 days ago](https://alvinashcraft.com/2026/07/28/dew-drop-july-28-2026-4720/))
 
