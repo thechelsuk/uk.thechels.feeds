@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Finding the total number of processors on a machine with .NET ([1 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
-- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([16 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
-- Explore new features available in C# 15 preview ([18 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
+- Finding the total number of processors on a machine with .NET ([2 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
+- From dotnet run to Foundry Hosted Agent in 3 lines of C# ([17 hours ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
+- Explore new features available in C# 15 preview ([19 hours ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
 - Dew Drop - August 24, 2026 (#4739) ([1 days ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
 - Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps ([1 days ago](http://feeds.hanselman.com/~/968151545/0/scotthanselman~Migrating-a-Synology-NAS-to-a-UniFi-UNAS-Pro-with-Robocopy-SMB-Multichannel-and-Surprising-Performance-Traps))
 - Collection Performance: Sort List Faster with CollectionsMarshal.AsSpan() ([2 days ago](https://dotnettips.com/2026/08/23/collection-performance-sort-list-faster-with-collectionsmarshal-asspan/))
@@ -33,7 +33,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - .NET and .NET Framework August 2026 servicing releases updates ([13 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - Dew Drop - August 11, 2026 (#4730) ([14 days ago](https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([14 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
-- Dew Drop - August 10, 2026 (#4729) ([14 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
+- Dew Drop - August 10, 2026 (#4729) ([15 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([16 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Dew Drop - August 7, 2026 (#4728) ([18 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([18 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
