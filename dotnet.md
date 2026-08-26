@@ -8,7 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([11 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
+- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([12 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
 - Dew Drop - August 26, 2026 (#4740) ([13 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
 - .NET Conf 2026 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
 - Finding the total number of processors on a machine with .NET ([1 days ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
@@ -32,8 +32,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Instructions Hygiene – What Frontier Models Still Need You to Say ([14 days ago](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/))
 - Dew Drop - August 12, 2026 (#4731) ([14 days ago](https://alvinashcraft.com/2026/08/12/dew-drop-august-12-2026-4731/))
 - Boost Your .NET Projects with Spargine: Human-Friendly Encoding with Crockford Base32 ([14 days ago](https://dotnettips.com/2026/08/12/boost-your-net-projects-with-spargine-human-friendly-encoding-with-crockford-base32/))
-- .NET 11 Preview 7 is now available! ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
-- .NET and .NET Framework August 2026 servicing releases updates ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
+- .NET 11 Preview 7 is now available! ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/))
+- .NET and .NET Framework August 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - Dew Drop - August 11, 2026 (#4730) ([15 days ago](https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([16 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
 - Dew Drop - August 10, 2026 (#4729) ([16 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
@@ -47,7 +47,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - dotInsights  -  August 2026 ([22 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([22 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([22 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
-- Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([22 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
+- Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime ([23 days ago](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/))
 - Dew Drop - August 3, 2026 (#4724) ([23 days ago](https://alvinashcraft.com/2026/08/03/dew-drop-august-3-2026-4724/))
 - P/Invoke Showdown: [DllImport] vs. [LibraryImport] in Modern .NET ([24 days ago](https://dotnettips.com/2026/08/02/p-invoke-showdown-dllimport-vs-libraryimport-in-modern-net/))
 - Dew Drop - July 31, 2026 (#4723) ([26 days ago](https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/))
