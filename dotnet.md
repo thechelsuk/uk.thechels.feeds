@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- .NET Conf 2026 ([8 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
-- Finding the total number of processors on a machine with .NET ([15 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
+- .NET Conf 2026 ([9 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
+- Finding the total number of processors on a machine with .NET ([16 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
 - From dotnet run to Foundry Hosted Agent in 3 lines of C# ([1 days ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
 - Explore new features available in C# 15 preview ([1 days ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
 - Dew Drop - August 24, 2026 (#4739) ([1 days ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
