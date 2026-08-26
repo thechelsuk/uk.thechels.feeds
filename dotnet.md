@@ -8,10 +8,10 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([3 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
-- Dew Drop - August 26, 2026 (#4740) ([4 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
-- .NET Conf 2026 ([16 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
-- Finding the total number of processors on a machine with .NET ([23 hours ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
+- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([4 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
+- Dew Drop - August 26, 2026 (#4740) ([5 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
+- .NET Conf 2026 ([17 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
+- Finding the total number of processors on a machine with .NET ([1 days ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
 - From dotnet run to Foundry Hosted Agent in 3 lines of C# ([1 days ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
 - Explore new features available in C# 15 preview ([1 days ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
 - Dew Drop - August 24, 2026 (#4739) ([2 days ago](https://alvinashcraft.com/2026/08/24/dew-drop-august-24-2026-4739/))
@@ -54,7 +54,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([26 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Dew Drop - July 30, 2026 (#4722) ([26 days ago](https://alvinashcraft.com/2026/07/30/dew-drop-july-30-2026-4722/))
 - Dew Drop - July 29, 2026 (#4721) ([27 days ago](https://alvinashcraft.com/2026/07/29/dew-drop-july-29-2026-4721/))
-- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([27 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
+- Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([28 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([28 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 
 <!-- news_marker ends -->
