@@ -8,8 +8,8 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([14 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
-- Dew Drop - August 26, 2026 (#4740) ([15 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
+- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([15 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
+- Dew Drop - August 26, 2026 (#4740) ([17 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
 - .NET Conf 2026 – Save the Date ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
 - Finding the total number of processors on a machine with .NET ([1 days ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
 - From dotnet run to Foundry Hosted Agent in 3 lines of C# ([2 days ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
@@ -43,7 +43,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 6, 2026 (#4727) ([20 days ago](https://alvinashcraft.com/2026/08/06/dew-drop-august-6-2026-4727/))
 - The Ultimate .NET Workflow for Cursor, Antigravity, and AI-First Editors ([21 days ago](https://blog.jetbrains.com/dotnet/2026/08/05/the-ultimate-dotnet-workflow-for-cursor/))
 - Dew Drop - August 5, 2026 (#4726) ([21 days ago](https://alvinashcraft.com/2026/08/05/dew-drop-august-5-2026-4726/))
-- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([21 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
+- Beyond Chat: live Speech-to-Text with Foundry Local and C# ([22 days ago](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/))
 - dotInsights  -  August 2026 ([22 days ago](https://blog.jetbrains.com/dotnet/2026/08/04/dotinsights-august-2026/))
 - Dew Drop - August 4, 2026 (#4725) ([22 days ago](https://alvinashcraft.com/2026/08/04/dew-drop-august-4-2026-4725/))
 - Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6 ([22 days ago](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/))
