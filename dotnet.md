@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([5 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
-- Dew Drop - August 26, 2026 (#4740) ([6 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
-- .NET Conf 2026 ([18 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
+- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([6 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
+- Dew Drop - August 26, 2026 (#4740) ([7 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
+- .NET Conf 2026 ([19 hours ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
 - Finding the total number of processors on a machine with .NET ([1 days ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
 - From dotnet run to Foundry Hosted Agent in 3 lines of C# ([1 days ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
 - Explore new features available in C# 15 preview ([1 days ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
@@ -36,7 +36,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - .NET and .NET Framework August 2026 servicing releases updates ([14 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - Dew Drop - August 11, 2026 (#4730) ([15 days ago](https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([15 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
-- Dew Drop - August 10, 2026 (#4729) ([15 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
+- Dew Drop - August 10, 2026 (#4729) ([16 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([17 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Dew Drop - August 7, 2026 (#4728) ([19 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([19 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
