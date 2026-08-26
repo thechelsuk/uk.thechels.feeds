@@ -8,9 +8,9 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
-- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([13 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
-- Dew Drop - August 26, 2026 (#4740) ([14 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
-- .NET Conf 2026 ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
+- Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([14 hours ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
+- Dew Drop - August 26, 2026 (#4740) ([15 hours ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
+- .NET Conf 2026 – Save the Date ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
 - Finding the total number of processors on a machine with .NET ([1 days ago](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/))
 - From dotnet run to Foundry Hosted Agent in 3 lines of C# ([2 days ago](https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/))
 - Explore new features available in C# 15 preview ([2 days ago](https://devblogs.microsoft.com/dotnet/explore-csharp-15/))
