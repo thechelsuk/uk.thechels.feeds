@@ -8,6 +8,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 [Get this as an RSS feed](/dotnet.rss)
 
 <!-- news_marker starts -->
+- Dew Drop - August 27, 2026 (#4741) ([4 hours ago](https://alvinashcraft.com/2026/08/27/dew-drop-august-27-2026-4741/))
 - Boost Your .NET Projects with Spargine: Simplify Entity Framework Core with DbContextExtensions ([1 days ago](https://dotnettips.com/2026/08/26/boost-your-net-projects-with-spargine-simplify-entity-framework-core-with-dbcontextextensions/))
 - Dew Drop - August 26, 2026 (#4740) ([1 days ago](https://alvinashcraft.com/2026/08/26/dew-drop-august-26-2026-4740/))
 - .NET Conf 2026 – Save the Date ([1 days ago](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/))
@@ -24,7 +25,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - August 19, 2026 (#4736) ([8 days ago](https://alvinashcraft.com/2026/08/19/dew-drop-august-19-2026-4736/))
 - Boost Your .NET Networking with Spargine: SocketExtensions That Röck ([8 days ago](https://dotnettips.com/2026/08/19/boost-your-net-networking-with-spargine-socketextensions-that-rock/))
 - Dew Drop - August 18, 2026 (#4735) ([9 days ago](https://alvinashcraft.com/2026/08/18/dew-drop-august-18-2026-4735/))
-- Dew Drop - August 17, 2026 (#4734) ([9 days ago](https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/))
+- Dew Drop - August 17, 2026 (#4734) ([10 days ago](https://alvinashcraft.com/2026/08/17/dew-drop-august-17-2026-4734/))
 - General Performance: Object Initializers – Readability Versus Performance ([11 days ago](https://dotnettips.com/2026/08/16/general-performance-object-initializers-readability-versus-performance/))
 - Dew Drop - August 14, 2026 (#4733) ([13 days ago](https://alvinashcraft.com/2026/08/14/dew-drop-august-14-2026-4733/))
 - Routing and Failover for Microsoft.Extensions.AI ([13 days ago](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/))
@@ -36,7 +37,7 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - .NET and .NET Framework August 2026 servicing releases updates ([15 days ago](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/))
 - Dew Drop - August 11, 2026 (#4730) ([16 days ago](https://alvinashcraft.com/2026/08/11/dew-drop-august-11-2026-4730/))
 - JetBrains .NET Day Online 2026: Save the Date and Submit a Talk ([16 days ago](https://blog.jetbrains.com/dotnet/2026/08/10/jetbrains-dotnet-day-online-2026-save-the-date-and-submit-a-talk/))
-- Dew Drop - August 10, 2026 (#4729) ([16 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
+- Dew Drop - August 10, 2026 (#4729) ([17 days ago](https://alvinashcraft.com/2026/08/10/dew-drop-august-10-2026-4729/))
 - .NET Threads: The Performance Trap Hiding in Your Code ([18 days ago](https://dotnettips.com/2026/08/09/net-threads-the-performance-trap-hiding-in-your-code/))
 - Dew Drop - August 7, 2026 (#4728) ([20 days ago](https://alvinashcraft.com/2026/08/07/dew-drop-august-7-2026-4728/))
 - Test reporting in Microsoft.Testing.Platform: from red build to root cause ([20 days ago](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/))
@@ -53,7 +54,6 @@ description: "Latest DotNet news and updates in one handy fed .NET"
 - Dew Drop - July 31, 2026 (#4723) ([27 days ago](https://alvinashcraft.com/2026/07/31/dew-drop-july-31-2026-4723/))
 - The Complete Package: Why Debugging Is Only Half the C# Productivity Story ([27 days ago](https://blog.jetbrains.com/dotnet/2026/07/30/the-complete-package-why-debugging-is-only-half-the-csharp-productivity-story/))
 - Dew Drop - July 30, 2026 (#4722) ([28 days ago](https://alvinashcraft.com/2026/07/30/dew-drop-july-30-2026-4722/))
-- Dew Drop - July 29, 2026 (#4721) ([29 days ago](https://alvinashcraft.com/2026/07/29/dew-drop-july-29-2026-4721/))
 - Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends ([29 days ago](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/))
 - UX Chronicles: Buffering the User Experience ([29 days ago](https://dotnettips.com/2026/07/29/ux-chronicles-buffering-the-user-experience/))
 
